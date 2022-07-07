@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fb1b2b8f-fcca-4a7e-9da4-3c6d8b2d8626",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Pennsylvania Land Company in London survey, Sept. 12-15, 1760",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "fb1b2b8f-fcca-4a7e-9da4-3c6d8b2d8626",
+  "solr_geom": "ENVELOPE(-76.3439,-76.3342,40.06,40.0558)",
+  "solr_year_i": "1760",
+  "dc_creator_sm": [
+    "Lukens, John, 1720-1789."
+  ],
+  "dc_description_s": "Scale not given; 1 map: color; 23 x 32 cm Real property--Pennsylvania--Lancaster County--Maps--Early works to 1800--Facsimiles",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30082\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30082/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Lancaster County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1760"
+  ]
+}

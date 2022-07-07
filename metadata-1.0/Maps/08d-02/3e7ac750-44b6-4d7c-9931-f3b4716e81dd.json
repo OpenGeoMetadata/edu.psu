@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3e7ac750-44b6-4d7c-9931-f3b4716e81dd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Tamaqua, Pennsylvania, 1902",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "3e7ac750-44b6-4d7c-9931-f3b4716e81dd",
+  "solr_geom": "ENVELOPE(-75.9808,-75.8712,40.8356,40.7763)",
+  "solr_year_i": "1902",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Tamaqua, Schuylkill Co., Pennsylvania, Feby. 1902. 1 map on 10 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/17215\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/17215/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Tamaqua, Pennsylvania",
+    "Schuylkill County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1902"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Brookville, Pennsylvania, 1921",
+  "dct_description_sm": [
+    "Brookville, Jefferson County, Pennsylvania, Dec. 1921. 1 map on 18 sheets : col. ; sheets each 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1921"
+  ],
+  "gbl_indexYear_im": [
+    "1921"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1921 TO 1921]"
+  ],
+  "dct_spatial_sm": [
+    "Brookville, Pennsylvania",
+    "Jefferson County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.1048,-79.0634,41.1778,41.1426)",
+  "dcat_bbox": "ENVELOPE(-79.1048,-79.0634,41.1778,41.1426)",
+  "dcat_centroid": "41.1602,-79.0841",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3730\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3730/manifest.json\"}",
+  "id": "7031aefc-ff65-49a8-a33c-b0e81247d3dc",
+  "dct_identifier_sm": [
+    "7031aefc-ff65-49a8-a33c-b0e81247d3dc"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:53Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

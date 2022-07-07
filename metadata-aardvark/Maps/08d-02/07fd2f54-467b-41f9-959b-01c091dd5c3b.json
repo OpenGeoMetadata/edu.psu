@@ -1,0 +1,62 @@
+{
+  "dct_title_s": "Turtle Creek Valley, Pennsylvania, 1900",
+  "dct_description_sm": [
+    "Insurance maps of Turtle Creek Valley, including Pitcairn, Wilmerding, Turtle Creek, and East Pittsburgh, Pennsylvania, April 1900. 1 map on 11 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "gbl_indexYear_im": [
+    "1900"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "dct_spatial_sm": [
+    "Turtle Creek Valley, Pennsylvania",
+    "Pitcairn, Pennsylvania",
+    "Wilmerding, Pennsylvania",
+    "Turtle Creek, Pennsylvania",
+    "East Pittsburgh, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.8449,-79.7691,40.4226,40.3858)",
+  "dcat_bbox": "ENVELOPE(-79.8449,-79.7691,40.4226,40.3858)",
+  "dcat_centroid": "40.4042,-79.80699999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19419\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/19419/manifest.json\"}",
+  "id": "07fd2f54-467b-41f9-959b-01c091dd5c3b",
+  "dct_identifier_sm": [
+    "07fd2f54-467b-41f9-959b-01c091dd5c3b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:25Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

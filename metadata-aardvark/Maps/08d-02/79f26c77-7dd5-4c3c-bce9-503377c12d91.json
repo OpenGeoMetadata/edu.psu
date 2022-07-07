@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Trafford, Pennsylvania, 1909",
+  "dct_description_sm": [
+    "Trafford, Westmoreland Co., Pennsylvania, September 1909. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Trafford, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.775,-79.7337,40.3971,40.3688)",
+  "dcat_bbox": "ENVELOPE(-79.775,-79.7337,40.3971,40.3688)",
+  "dcat_centroid": "40.38295,-79.75435",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/18957\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/18957/manifest.json\"}",
+  "id": "79f26c77-7dd5-4c3c-bce9-503377c12d91",
+  "dct_identifier_sm": [
+    "79f26c77-7dd5-4c3c-bce9-503377c12d91"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:48Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

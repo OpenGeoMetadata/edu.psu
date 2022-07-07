@@ -1,0 +1,62 @@
+{
+  "dct_title_s": "Palmerton, Pennsylvania, 1912",
+  "dct_description_sm": [
+    "Palmerton, Carbon County, Pennsylvania, November 1912 : including Hazard, Lehigh Gap & Bowmanstown. 1 map on 12 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "gbl_indexYear_im": [
+    "1912"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "dct_spatial_sm": [
+    "Palmerton, Pennsylvania",
+    "Lehigh Gap, Pennsylvania",
+    "Bowmanstown, Pennsylvania",
+    "Hazard, Pennsylvania",
+    "Carbon County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.6722,-75.5771,40.8137,40.7866)",
+  "dcat_bbox": "ENVELOPE(-75.6722,-75.5771,40.8137,40.7866)",
+  "dcat_centroid": "40.80015,-75.62465",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24820\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24820/manifest.json\"}",
+  "id": "73da52ea-3e16-472c-a555-9fe18681f177",
+  "dct_identifier_sm": [
+    "73da52ea-3e16-472c-a555-9fe18681f177"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:26Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

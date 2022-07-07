@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1d867f0b-742b-445e-bb85-4b1906218bde",
+  "dc_rights_s": "Public",
+  "dc_title_s": "State College, Pennsylvania, 1929",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "1d867f0b-742b-445e-bb85-4b1906218bde",
+  "solr_geom": "ENVELOPE(-77.886,-77.8192,40.8075,40.7685)",
+  "solr_year_i": "1929",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "State College, Centre County, Pennsylvania, Oct. 1929. 1 map on 20 sheets : color ; 65 x 55 cm .  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26152\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26152/manifest.json\"}",
+  "dct_spatial_sm": [
+    "State College, Pennsylvania",
+    "Centre County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1929"
+  ]
+}

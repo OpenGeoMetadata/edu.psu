@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5b80815f-e692-4b7f-9e83-65b8acd9d08d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Philipsburg, Pennsylvania, 1904",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "5b80815f-e692-4b7f-9e83-65b8acd9d08d",
+  "solr_geom": "ENVELOPE(-78.2275,-78.2047,40.9064,40.8792)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Philipsburg, Centre County, Pennsylvania, September 1904. 1 map on 8 sheets : col. ; sheets 64 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9881\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9881/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Philipsburg, Pennsylvania",
+    "Centre County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}

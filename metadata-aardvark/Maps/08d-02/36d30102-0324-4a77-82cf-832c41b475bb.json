@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Avoca, Pennsylvania, 1908",
+  "dct_description_sm": [
+    "Avoca, Luzerne County, Pennsylvania, December 1908. 1 map on 5 sheets : col. ; on sheets 64 x 54 cm.; Title from sheet 1.  Oriented with the north to the upper left.  December 1908.\"\"  Includes key, sheet index map, streets and specials index, and text.\"\". Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1908"
+  ],
+  "gbl_indexYear_im": [
+    "1908"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1908 TO 1908]"
+  ],
+  "dct_spatial_sm": [
+    "Avoca, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.7594,-75.7248,41.3472,41.3282)",
+  "dcat_bbox": "ENVELOPE(-75.7594,-75.7248,41.3472,41.3282)",
+  "dcat_centroid": "41.3377,-75.7421",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2421\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2421/manifest.json\"}",
+  "id": "36d30102-0324-4a77-82cf-832c41b475bb",
+  "dct_identifier_sm": [
+    "36d30102-0324-4a77-82cf-832c41b475bb"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:26Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

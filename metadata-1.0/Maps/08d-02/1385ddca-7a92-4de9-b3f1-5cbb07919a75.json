@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1385ddca-7a92-4de9-b3f1-5cbb07919a75",
+  "dc_rights_s": "Public",
+  "dc_title_s": "York, Pennsylvania, 1908",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "1385ddca-7a92-4de9-b3f1-5cbb07919a75",
+  "solr_geom": "ENVELOPE(-76.7626,-76.6992,39.9911,39.9428)",
+  "solr_year_i": "1908",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of York, Pennsylvania, 1908. 1 map on 99 sheets : col. ; sheets 65 x 54 cm. + title sheet + index sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/16961\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/16961/manifest.json\"}",
+  "dct_spatial_sm": [
+    "York, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:11Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

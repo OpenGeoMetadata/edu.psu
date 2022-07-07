@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ae7dcce0-aa33-4c0d-8d3c-44b14f6967af",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Jamestown, Pennsylvania, 1906",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ae7dcce0-aa33-4c0d-8d3c-44b14f6967af",
+  "solr_geom": "ENVELOPE(-80.447,-80.4285,41.4923,41.4772)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Jamestown, Mercer Co., Pennsylvania, May 1906. 1 map on 4 sheets : col. ; on sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11717\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/11717/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Jamestown, Pennsylvania",
+    "Mercer County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

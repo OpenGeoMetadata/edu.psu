@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7cdfb527-f0ce-4fe3-ab34-695a35ae28ac",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Chambersburg, Pennsylvania, 1916",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7cdfb527-f0ce-4fe3-ab34-695a35ae28ac",
+  "solr_geom": "ENVELOPE(-77.6858,-77.6224,39.9677,39.9046)",
+  "solr_year_i": "1916",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Chambersburg, Franklin County, Pennsylvania, Sept. 1916. 1 map on 21 sheets : col. ; sheets 65 x 54 cm. + title & index sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6180\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6180/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Chambersburg, Pennsylvania",
+    "Franklin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:12Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1916"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f6970239-a7db-41d8-8736-bbfdaecbbf7c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Slippery Rock, Pennsylvania, 1906",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f6970239-a7db-41d8-8736-bbfdaecbbf7c",
+  "solr_geom": "ENVELOPE(-80.0687,-80.0461,41.0847,41.0522)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Slippery Rock, Butler County, Pennsylvania, January 1906. 1 map : col. ; on sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/21485\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/21485/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Slippery Rock, Pennsylvania",
+    "Butler County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f541e423-8ddd-4327-92bc-32bee699f003",
+  "dc_rights_s": "Public",
+  "dc_title_s": "London, 1843",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f541e423-8ddd-4327-92bc-32bee699f003",
+  "solr_geom": "ENVELOPE(0.3514,0.1481,51.6722,51.3847)",
+  "solr_year_i": "1843",
+  "dc_creator_sm": [
+    "Davies, Benjamin Rees."
+  ],
+  "dc_description_s": "London (England)--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30359\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30359/manifest.json\"}",
+  "dct_spatial_sm": [
+    "London, England",
+    "England"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Chapman & Hall",
+  "dct_temporal_sm": [
+    "1843"
+  ]
+}

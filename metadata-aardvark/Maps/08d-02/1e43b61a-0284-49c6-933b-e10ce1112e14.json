@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "New Hope, Pennsylvania, 1909",
+  "dct_description_sm": [
+    "New Hope, Bucks County, Pennsylvania, October 1909. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "New Hope, Pennsylvania",
+    "Bucks County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-74.9688,-74.9453,40.3735,40.3499)",
+  "dcat_bbox": "ENVELOPE(-74.9688,-74.9453,40.3735,40.3499)",
+  "dcat_centroid": "40.3617,-74.95705000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/16311\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/16311/manifest.json\"}",
+  "id": "1e43b61a-0284-49c6-933b-e10ce1112e14",
+  "dct_identifier_sm": [
+    "1e43b61a-0284-49c6-933b-e10ce1112e14"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:08Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

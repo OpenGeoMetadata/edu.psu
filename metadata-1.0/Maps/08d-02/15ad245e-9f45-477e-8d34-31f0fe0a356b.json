@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "15ad245e-9f45-477e-8d34-31f0fe0a356b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Gettysburg, Pennsylvania, 1912",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "15ad245e-9f45-477e-8d34-31f0fe0a356b",
+  "solr_geom": "ENVELOPE(-77.2466,-77.2176,39.8437,39.8159)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Gettysburg, Adams County Pennsylvania, June 1912. 1 map on 16 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9614\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9614/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Gettysburg, Pennsylvania",
+    "Adams County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

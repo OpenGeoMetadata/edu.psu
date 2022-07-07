@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "41121093-eab0-4316-9400-920b290913ae",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the western railroads tributary to the principal Atlantic cities.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "41121093-eab0-4316-9400-920b290913ae",
+  "solr_geom": "ENVELOPE(-91.05,-69.4333,43.6667,36.1167)",
+  "solr_year_i": "1854",
+  "dc_description_s": "Scale approximately 1:2,217,600; 1 map: color; 42 x 93 cm, folded in cover 15 x 10 cm Railroads--East (U.S.)--Maps",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29957\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29957/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Lippincott, Grambo & Co.",
+  "dct_temporal_sm": [
+    "1854"
+  ]
+}

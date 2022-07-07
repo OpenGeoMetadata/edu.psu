@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Washington, Pennsylvania, 1914",
+  "dct_description_sm": [
+    "Insurance maps of Washington, Washington County, Pennsylvania, Dec. 1914. 1 map on 37 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "gbl_indexYear_im": [
+    "1914"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "dct_spatial_sm": [
+    "Washington, Pennsylvania",
+    "Washington County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.27,-80.2148,40.1967,40.156)",
+  "dcat_bbox": "ENVELOPE(-80.27,-80.2148,40.1967,40.156)",
+  "dcat_centroid": "40.17635,-80.2424",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/21111\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/21111/manifest.json\"}",
+  "id": "96d96ecb-4222-48fa-8fc3-d90d11b8d4c8",
+  "dct_identifier_sm": [
+    "96d96ecb-4222-48fa-8fc3-d90d11b8d4c8"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:20Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

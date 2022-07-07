@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "af0d8e29-5a59-46dc-8656-ec236b10a9da",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hummelstown, Pennsylvania, 1895",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "af0d8e29-5a59-46dc-8656-ec236b10a9da",
+  "solr_geom": "ENVELOPE(-76.7309,-76.6946,40.2739,40.258)",
+  "solr_year_i": "1895",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Hummelstown, Dauphin Co., Penn., Jan. 1895a. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10882\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10882/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Hummelstown, Pennsylvania",
+    "Dauphin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1895"
+  ]
+}

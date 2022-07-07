@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8f343e05-7ecd-48e7-83ce-f1d5bb11e7b0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Alburtis, Pennsylvania, 1885",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "8f343e05-7ecd-48e7-83ce-f1d5bb11e7b0",
+  "solr_geom": "ENVELOPE(-75.6123,-75.5885,40.5147,40.502)",
+  "solr_year_i": "1885",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Alburtis, Penna. : Mar. 1885. 1 map : col. ; sheet 64 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/25530\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25530/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Alburtis, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1885"
+  ]
+}

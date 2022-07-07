@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "North Wales, Pennsylvania, 1909",
+  "dct_description_sm": [
+    "North Wales, Montgomery County, Pennsylvania, May 1909. 1 map on 7 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "North Wales, Pennsylvania",
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.2845,-75.2641,40.2192,40.2035)",
+  "dcat_bbox": "ENVELOPE(-75.2845,-75.2641,40.2192,40.2035)",
+  "dcat_centroid": "40.211349999999996,-75.2743",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19938\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/19938/manifest.json\"}",
+  "id": "f57e906b-0d20-4542-ac17-93074938dbfd",
+  "dct_identifier_sm": [
+    "f57e906b-0d20-4542-ac17-93074938dbfd"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:40Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

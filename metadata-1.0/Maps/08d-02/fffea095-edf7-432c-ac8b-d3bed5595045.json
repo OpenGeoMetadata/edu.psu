@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fffea095-edf7-432c-ac8b-d3bed5595045",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mount Joy, Pennsylvania, 1928",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "fffea095-edf7-432c-ac8b-d3bed5595045",
+  "solr_geom": "ENVELOPE(-76.549,-76.4587,40.1221,40.099)",
+  "solr_year_i": "1928",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Mount Joy, Lancaster County, Pennsylvania, April 1928 : including Florin. 1 map on 13 sheets : color ; sheets 65 x 54 cm + 1 title sheet with indexes.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27852\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27852/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mount Joy, Pennsylvania",
+    "Florin, Pennsylvania",
+    "Lancaster County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1928"
+  ]
+}

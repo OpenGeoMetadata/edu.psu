@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7f328dd8-662b-4ff0-9855-40eb9a5811a9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Linesville, Pennsylvania, 1904",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7f328dd8-662b-4ff0-9855-40eb9a5811a9",
+  "solr_geom": "ENVELOPE(-80.4328,-80.4092,41.6614,41.6508)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Linesville, Crawford Co., Pennsylvania, May 1904. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/12761\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/12761/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Linesville, Pennsylvania",
+    "Crawford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}

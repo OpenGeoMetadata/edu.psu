@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Reynoldsville, Pennsylvania, 1906",
+  "dct_description_sm": [
+    "Reynoldsville, Jefferson Co., Pennsylvania, March 1906. 1 map on 13 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "gbl_indexYear_im": [
+    "1906"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "dct_spatial_sm": [
+    "Reynoldsville, Pennsylvania",
+    "Jefferson County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.9027,-78.8713,41.108,41.0824)",
+  "dcat_bbox": "ENVELOPE(-78.9027,-78.8713,41.108,41.0824)",
+  "dcat_centroid": "41.0952,-78.887",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/21001\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/21001/manifest.json\"}",
+  "id": "92c63c23-c337-4a7d-831a-fc392a20feae",
+  "dct_identifier_sm": [
+    "92c63c23-c337-4a7d-831a-fc392a20feae"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:59Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

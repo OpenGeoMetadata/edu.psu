@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4d0240a3-2714-4e1c-bdb6-28a754145262",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Wampum, Pennsylvania, 1925",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "4d0240a3-2714-4e1c-bdb6-28a754145262",
+  "solr_geom": "ENVELOPE(-80.3493,-80.3212,40.8983,40.8775)",
+  "solr_year_i": "1925",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Wampum, Lawrence County, Pennsylvania, September 1925. 1 map on 3 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/28763\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/28763/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Wampum, Pennsylvania",
+    "Lawrence County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:02Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1925"
+  ]
+}

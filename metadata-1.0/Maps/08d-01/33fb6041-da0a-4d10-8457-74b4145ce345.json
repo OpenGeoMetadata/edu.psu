@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "33fb6041-da0a-4d10-8457-74b4145ce345",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bicycle road map of the bluegrass region of Kentucky and vicinity of Louisville, Ky. : compiled from various maps, road-books, etc.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "33fb6041-da0a-4d10-8457-74b4145ce345",
+  "solr_geom": "ENVELOPE(-85.9667,-83.4167,38.8,37.3667)",
+  "solr_year_i": "1898",
+  "dc_creator_sm": [
+    "Gazlay, Webster"
+  ],
+  "dc_description_s": "Scale 1:316,800; 1 map; 50 x 72 cm Roads--Kentucky--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30166\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30166/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Kentucky"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Webster Gazlay",
+  "dct_temporal_sm": [
+    "1898"
+  ]
+}

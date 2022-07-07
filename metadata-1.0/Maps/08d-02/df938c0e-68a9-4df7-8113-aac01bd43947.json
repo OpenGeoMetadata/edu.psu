@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "df938c0e-68a9-4df7-8113-aac01bd43947",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Shamokin, Pennsylvania, 1929",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "df938c0e-68a9-4df7-8113-aac01bd43947",
+  "solr_geom": "ENVELOPE(-76.5649,-76.502,40.7966,40.7775)",
+  "solr_year_i": "1929",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Shamokin, Northumberland Co., Pennsylvania, July 1929 : including Coal Township, Brady or Ranshaw P.O., Boydtown, Uniontown or Tharpton, Weigh Scales and Upper Sharptown. 1 map on 44 sheets : color ; sheets 65 x 54 cm + Index sheet (1 leaves ; 65 x 54 cm).  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29816\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29816/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Shamokin, Pennsylvania",
+    "Brady, Pennsylvania",
+    "Ranshaw, Pennsylvania",
+    "Boydtown, Pennsylvania",
+    "Uniontown, Pennsylvania",
+    "Tharpton, Pennsylvania",
+    "Weigh Scales, Pennsylvania",
+    "Upper Sharptown, Pennsylvania",
+    "Coal Township, Pennsylvania",
+    "Northumberland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1929"
+  ]
+}

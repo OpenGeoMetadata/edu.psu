@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a180dc03-5217-458e-8377-fca08e9c46a3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Columbia, Pennsylvania, 1928",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "a180dc03-5217-458e-8377-fca08e9c46a3",
+  "solr_geom": "ENVELOPE(-76.5179,-76.4723,40.0498,40.0188)",
+  "solr_year_i": "1928",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Columbia, Lancaster County, Pennsylvania, March, 1928. 1 map on 24 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26630\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26630/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Columbia, Pennsylvania",
+    "Lancaster County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1928"
+  ]
+}

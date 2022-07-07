@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c383a0e0-dd8c-47a9-8cfb-9a464ffa025b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "World's Fair : official map, worlds fairgrounds.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "c383a0e0-dd8c-47a9-8cfb-9a464ffa025b",
+  "solr_geom": "ENVELOPE(-90.3044,-90.265,38.6481,38.6292)",
+  "solr_year_i": "1903",
+  "dc_creator_sm": [
+    "Higgins & Co."
+  ],
+  "dc_description_s": "Maps.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30213\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30213/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Saint Louis, Missouri",
+    "Missouri"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Higgins & Co.",
+  "dct_temporal_sm": [
+    "1903"
+  ]
+}

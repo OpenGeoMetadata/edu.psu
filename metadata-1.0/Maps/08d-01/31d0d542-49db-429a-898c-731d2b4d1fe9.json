@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "31d0d542-49db-429a-898c-731d2b4d1fe9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Peters Creek, Mount Pleasant, Washington County survey, May 7, 1785",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "31d0d542-49db-429a-898c-731d2b4d1fe9",
+  "solr_geom": "ENVELOPE(-80.075,-79.8681,40.305,40.24)",
+  "solr_year_i": "1785",
+  "dc_creator_sm": [
+    "Lukens, John, 1720-1789."
+  ],
+  "dc_description_s": "Scale not given; 1 map: color; 11 x 11 cm, on sheet 37 x 25 cm Real property--Pennsylvania--Washington County--Maps--Early works to 1800--Facsimiles",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30088\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30088/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Washington County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1785"
+  ]
+}

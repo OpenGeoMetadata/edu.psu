@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7af9c2b1-a149-4ecb-83f0-90d05b48c288",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Allentown, Pennsylvania, 1891",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7af9c2b1-a149-4ecb-83f0-90d05b48c288",
+  "solr_geom": "ENVELOPE(-75.548,-75.4196,40.636,40.5502)",
+  "solr_year_i": "1891",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Allentown, Pa. [1891]. 1 map on 31 sheets : col. ; sheets 64 x 54 cm. + Title sheet (64 x 54 cm.). Title from title sheet; Adjoining sheets key on sheet 1; Index on unnumbered title sheet; Includes text; \"\"Oct. 1891\"\"; \"\"4785\"\"; Maps Library set is encapsulated. Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/1290\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/1290/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Allentown, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1891"
+  ]
+}

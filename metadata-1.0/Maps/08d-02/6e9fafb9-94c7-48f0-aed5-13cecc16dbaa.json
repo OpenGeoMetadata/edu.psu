@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6e9fafb9-94c7-48f0-aed5-13cecc16dbaa",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Rimersburg, Pennsylvania, 1912",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "6e9fafb9-94c7-48f0-aed5-13cecc16dbaa",
+  "solr_geom": "ENVELOPE(-79.5091,-79.4967,41.0491,41.0341)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Rimersburg, Clarion County, Pennsylvania, October 1912. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20708\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/20708/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Rimersburg, Pennsylvania",
+    "Clarion County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

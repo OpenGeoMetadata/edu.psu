@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fb29cbb8-ed32-4247-808e-f5f1b44a9905",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Shippensburg, Pennsylvania, 1921",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "fb29cbb8-ed32-4247-808e-f5f1b44a9905",
+  "solr_geom": "ENVELOPE(-77.5605,-77.4259,40.1405,40.0363)",
+  "solr_year_i": "1921",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Shippensburg, including Newburg and Lees Cross Roads, Cumberland Co., Pennsylvania, Sept. 1921. 1 map on 19 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/21483\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/21483/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Shippensburg, Pennsylvania",
+    "Newburg, Pennsylvania",
+    "Lees Cross Roads, Pennsylvania",
+    "Cumberland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1921"
+  ]
+}

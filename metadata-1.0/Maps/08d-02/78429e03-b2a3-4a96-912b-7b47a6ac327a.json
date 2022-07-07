@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "78429e03-b2a3-4a96-912b-7b47a6ac327a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mount Pleasant, Pennsylvania, 1901",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "78429e03-b2a3-4a96-912b-7b47a6ac327a",
+  "solr_geom": "ENVELOPE(-79.5556,-79.5285,40.1672,40.1404)",
+  "solr_year_i": "1901",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Mount Pleasant, Westmoreland Co., PA, July 1901. 1 map on 7 sheets : col. ; sheets 65 x 54 cm. + 1 sheet of ancillary maps and indexes.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/14376\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14376/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mount Pleasant, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1901"
+  ]
+}

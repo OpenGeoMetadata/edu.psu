@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f551cc2f-9fdc-490d-b6fe-341c54ead9ea",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ashley, Pennsylvania, 1896",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f551cc2f-9fdc-490d-b6fe-341c54ead9ea",
+  "solr_geom": "ENVELOPE(-75.9109,-75.8831,41.3001,41.2045)",
+  "solr_year_i": "1896",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Ashley, Luzerne, Co., Pa, Nov. 1896. 1 map on 5 sheets : col. ; on sheets 64 x 54 cm.; Title from sheet 1.  Oriented with north to the right.  Nov. 1896.\"\"  Includes key, sheet index map, streets and specials index, and text.\"\". Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2330\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2330/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ashley, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:09Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1896"
+  ]
+}

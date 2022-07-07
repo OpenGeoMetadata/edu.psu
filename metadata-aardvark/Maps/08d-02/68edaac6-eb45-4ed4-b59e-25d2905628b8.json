@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Hawley, Pennsylvania, 1903",
+  "dct_description_sm": [
+    "Hawley, Wayne County, Pennsylvania, September 1903. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    "1903"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "dct_spatial_sm": [
+    "Hawley, Pennsylvania",
+    "Wayne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.1876,-75.1663,41.485,41.4684)",
+  "dcat_bbox": "ENVELOPE(-75.1876,-75.1663,41.485,41.4684)",
+  "dcat_centroid": "41.4767,-75.17695",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10978\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10978/manifest.json\"}",
+  "id": "68edaac6-eb45-4ed4-b59e-25d2905628b8",
+  "dct_identifier_sm": [
+    "68edaac6-eb45-4ed4-b59e-25d2905628b8"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:12Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "80d0f3fa-40af-41cf-96a1-910a96c50cbb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Belle Vernon, Pennsylvania, 1918",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "80d0f3fa-40af-41cf-96a1-910a96c50cbb",
+  "solr_geom": "ENVELOPE(-79.8774,-79.8586,40.1293,40.1204)",
+  "solr_year_i": "1918",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Belle Vernon, Fayette County, Pennsylvania, July 1918. 1 map on 9 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/4763\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4763/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Belle Vernon, Pennsylvania",
+    "Fayette County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:14Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1918"
+  ]
+}

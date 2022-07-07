@@ -1,0 +1,52 @@
+{
+  "dct_title_s": "Map of missions of the Methodist Episcopal Church : United States, Mexico and Hawaii : our home field.",
+  "dct_description_sm": [
+    "Scale not given; 1 map: color; 100 x 66 cm Mexico"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Methodist Episcopal Church. Missionary Society."
+  ],
+  "dct_publisher_sm": [
+    "Published by the Missionary Society"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1898"
+  ],
+  "gbl_indexYear_im": [
+    "1898"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1898 TO 1898]"
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "locn_geometry": "ENVELOPE(-169.9833,-49.3833,71.1833,18.3167)",
+  "dcat_bbox": "ENVELOPE(-169.9833,-49.3833,71.1833,18.3167)",
+  "dcat_centroid": "44.75,-109.6833",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29973\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29973/manifest.json\"}",
+  "id": "734aba0a-bdf7-4f99-8152-fd5a56ac3a66",
+  "dct_identifier_sm": [
+    "734aba0a-bdf7-4f99-8152-fd5a56ac3a66"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:33Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

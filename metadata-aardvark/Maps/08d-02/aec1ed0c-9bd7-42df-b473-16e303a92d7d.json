@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Oil City, Pennsylvania, 1901",
+  "dct_description_sm": [
+    "Insurance maps of Oil City, Venango Co., Pennsylvania, Feb. 1901. 1 map on 19 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    "1901"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "dct_spatial_sm": [
+    "Oil City, Pennsylvania",
+    "Venango County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.7335,-79.6731,41.4472,41.4052)",
+  "dcat_bbox": "ENVELOPE(-79.7335,-79.6731,41.4472,41.4052)",
+  "dcat_centroid": "41.4262,-79.70330000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/17612\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/17612/manifest.json\"}",
+  "id": "aec1ed0c-9bd7-42df-b473-16e303a92d7d",
+  "dct_identifier_sm": [
+    "aec1ed0c-9bd7-42df-b473-16e303a92d7d"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:12Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

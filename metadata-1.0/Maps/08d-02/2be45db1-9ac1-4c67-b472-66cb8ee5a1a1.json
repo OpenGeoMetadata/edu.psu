@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2be45db1-9ac1-4c67-b472-66cb8ee5a1a1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Meadville, Pennsylvania, 1912",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2be45db1-9ac1-4c67-b472-66cb8ee5a1a1",
+  "solr_geom": "ENVELOPE(-80.1735,-80.1233,41.674,41.6172)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Meadville, including Kerrtown, Crawford County, Pennsylvania, Jany. 1912. 1 map on 35 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13681\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13681/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Meadville, Pennsylvania",
+    "Kerrtown, Pennsylvania",
+    "Crawford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

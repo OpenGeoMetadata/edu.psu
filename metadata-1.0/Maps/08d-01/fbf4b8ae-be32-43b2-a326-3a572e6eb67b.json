@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fbf4b8ae-be32-43b2-a326-3a572e6eb67b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the province of Canada, and the lower colonies : shewing the connection by steam navigation with New York, Pennsylvania, Ohio, Indiana, Illinois, Michigan, Wisconsin & Minnesota, and with Europe by the route of the River St. Lawrence and the Great Lakes, shewing also the connections by railways & canals with New England, Mississippi & Missouri Rivers, Iowa & Nebraska",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "fbf4b8ae-be32-43b2-a326-3a572e6eb67b",
+  "solr_geom": "ENVELOPE(-99,-49.7,59.8667,39.1167)",
+  "solr_year_i": "1855",
+  "dc_creator_sm": [
+    "Keefer, Thomas C., 1821-1915, cartographer."
+  ],
+  "dc_description_s": "Scale not given; 1 map; 63 x 97 cm on linen sheet 67 x 102 cm Transportation--Canada, Eastern--Maps",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27185\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27185/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Matthews' Lith.",
+  "dct_temporal_sm": [
+    "1855"
+  ]
+}

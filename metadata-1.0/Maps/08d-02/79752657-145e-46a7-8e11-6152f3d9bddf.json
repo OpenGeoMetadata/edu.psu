@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "79752657-145e-46a7-8e11-6152f3d9bddf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Perkasie, Pennsylvania, 1908",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "79752657-145e-46a7-8e11-6152f3d9bddf",
+  "solr_geom": "ENVELOPE(-75.3117,-75.2745,40.3887,40.3428)",
+  "solr_year_i": "1908",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Perkasie, Bucks County, Pennsylvania, October 1908. 1 map on 7 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/23562\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/23562/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Perkasie, Pennsylvania",
+    "Bucks County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

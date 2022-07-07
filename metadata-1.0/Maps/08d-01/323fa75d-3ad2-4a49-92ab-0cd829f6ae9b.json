@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "323fa75d-3ad2-4a49-92ab-0cd829f6ae9b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Stanford's library map of London and its suburbs.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "323fa75d-3ad2-4a49-92ab-0cd829f6ae9b",
+  "solr_geom": "ENVELOPE(0.3514,0.1481,51.6722,51.3847)",
+  "solr_year_i": "1865",
+  "dc_creator_sm": [
+    "Stanford, Edward, 1856-1917."
+  ],
+  "dc_description_s": "London (England)--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30355\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30355/manifest.json\"}",
+  "dct_spatial_sm": [
+    "London, England",
+    "England"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Published by Edward Stanford",
+  "dct_temporal_sm": [
+    "1865"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2b4f82d0-21b5-4556-9585-3c57cf0ef349",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Leechburg, Pennsylvania, 1903",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2b4f82d0-21b5-4556-9585-3c57cf0ef349",
+  "solr_geom": "ENVELOPE(-79.6101,-79.5938,40.6375,40.6244)",
+  "solr_year_i": "1903",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Leechburg, Armstrong Co., Pennsylvania, July 1903. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13168\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13168/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Leechburg, Pennsylvania",
+    "Armstrong County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1903"
+  ]
+}

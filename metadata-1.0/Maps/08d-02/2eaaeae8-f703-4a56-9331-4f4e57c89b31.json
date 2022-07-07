@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2eaaeae8-f703-4a56-9331-4f4e57c89b31",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Port Allegany, Pennsylvania, 1897",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2eaaeae8-f703-4a56-9331-4f4e57c89b31",
+  "solr_geom": "ENVELOPE(-78.2948,-78.2582,41.8278,41.8019)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Port Allegany, McKean Co., Pa., Dec. 1897. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/25064\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25064/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Port Allegany, Pennsylvania",
+    "McKean County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1897"
+  ]
+}

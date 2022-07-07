@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Warren, Pennsylvania, 1904",
+  "dct_description_sm": [
+    "Insurance maps of Warren, Warren County, Pennsylvania, April 1904. 1 map on 31 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "dct_spatial_sm": [
+    "Warren, Pennsylvania",
+    "Warren County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.1766,-79.1116,41.8649,41.8251)",
+  "dcat_bbox": "ENVELOPE(-79.1766,-79.1116,41.8649,41.8251)",
+  "dcat_centroid": "41.845,-79.1441",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20227\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/20227/manifest.json\"}",
+  "id": "0567be71-9358-4363-9704-8b6744a368fc",
+  "dct_identifier_sm": [
+    "0567be71-9358-4363-9704-8b6744a368fc"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:10Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6ee8f0c5-d3b7-4b97-be2b-cabd440d24cb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Coxburg survey, Notingham Township, Washington County, Jan. 25, 1780",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "6ee8f0c5-d3b7-4b97-be2b-cabd440d24cb",
+  "solr_geom": "ENVELOPE(-80.0742,-79.9836,40.2497,40.2397)",
+  "solr_year_i": "1780",
+  "dc_creator_sm": [
+    "Lukens, John, 1720-1789."
+  ],
+  "dc_description_s": "Scale not given; 1 map: color; 11 x 11 cm, on sheet 41 x 25 cm Real property--Pennsylvania--Washington County--Maps--Early works to 1800--Facsimiles",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30080\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30080/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Washington County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "eaa21973-157e-4d66-b5bb-d206863b46d7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing the system of Confederate fortifications on the Mississippi River at Island no. 10 and New Madrid : also the operations of the United States forces under General John Pope against these positions",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "eaa21973-157e-4d66-b5bb-d206863b46d7",
+  "solr_geom": "ENVELOPE(-89.6,-89.35,36.6167,36.35)",
+  "solr_year_i": "1865",
+  "dc_creator_sm": [
+    "Hoelcke, William."
+  ],
+  "dc_description_s": "Missouri--History--Civil War, 1861-1865--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30203\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30203/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Missouri"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1862"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "811d7886-142e-4b21-ac5b-66ff069d9f0d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mahanoy City, Pennsylvania, 1896",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "811d7886-142e-4b21-ac5b-66ff069d9f0d",
+  "solr_geom": "ENVELOPE(-76.252,-76.1261,40.8179,40.788)",
+  "solr_year_i": "1896",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Mahanoy City, including Gilberton, Pennsylvania, May 1896. 1 map on 10 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13401\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13401/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mahanoy City, Pennsylvania",
+    "Gilberton, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1896"
+  ]
+}

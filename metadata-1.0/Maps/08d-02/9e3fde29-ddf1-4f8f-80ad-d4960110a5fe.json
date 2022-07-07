@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9e3fde29-ddf1-4f8f-80ad-d4960110a5fe",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hazleton, Pennsylvania, 1891",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "9e3fde29-ddf1-4f8f-80ad-d4960110a5fe",
+  "solr_geom": "ENVELOPE(-75.9963,-75.9459,40.9749,40.9277)",
+  "solr_year_i": "1891",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Hazleton, Luzerne County, Pennsylvania, April 1891. 1 map on 13 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10169\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10169/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Hazleton, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1891"
+  ]
+}

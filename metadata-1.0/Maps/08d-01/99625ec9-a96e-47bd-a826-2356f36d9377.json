@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "99625ec9-a96e-47bd-a826-2356f36d9377",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of part of Virginia, Maryland and Delaware from the best authorities",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "99625ec9-a96e-47bd-a826-2356f36d9377",
+  "solr_geom": "ENVELOPE(-78.3333,-75.1667,39.75,36.3333)",
+  "solr_year_i": "1861",
+  "dc_creator_sm": [
+    "Heyne, Chas. (Charles), cartographer, lithographer."
+  ],
+  "dc_description_s": "Scale approximately 1:400,000; 1 map: color; 97 x 66 cm Middle Atlantic States--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30019\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30019/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:09Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "E. & G.W. Blunt",
+  "dct_temporal_sm": [
+    "1861"
+  ]
+}

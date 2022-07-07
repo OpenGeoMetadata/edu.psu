@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e15e151b-139e-4cf7-a65a-f97effb60839",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Danville, Pennsylvania, 1907",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e15e151b-139e-4cf7-a65a-f97effb60839",
+  "solr_geom": "ENVELOPE(-76.6334,-76.5926,40.9807,40.9463)",
+  "solr_year_i": "1907",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Danville, Montour County, Pennsylvania : June 1907. 1 map on 11 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6633\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6633/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Danville, Pennsylvania",
+    "Montour County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1907"
+  ]
+}

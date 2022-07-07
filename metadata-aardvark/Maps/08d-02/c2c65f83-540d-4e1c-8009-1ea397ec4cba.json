@@ -1,0 +1,61 @@
+{
+  "dct_title_s": "Bridgeport, Pennsylvania, 1927",
+  "dct_description_sm": [
+    "Bridgeport, including Swedesburg & Swedeland, Montgomery County, Pennsylvania, Sept. 1927. 1 map on 17 sheets : color ; sheets each 65 x 54 cm + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1927"
+  ],
+  "gbl_indexYear_im": [
+    "1927"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1927 TO 1927]"
+  ],
+  "dct_spatial_sm": [
+    "Bridgeport, Pennsylvania",
+    "Swedesburg, Pennsylvania",
+    "Swedeland, Pennsylvania",
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.3564,-75.3128,40.1128,40.0793)",
+  "dcat_bbox": "ENVELOPE(-75.3564,-75.3128,40.1128,40.0793)",
+  "dcat_centroid": "40.096050000000005,-75.3346",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26171\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26171/manifest.json\"}",
+  "id": "c2c65f83-540d-4e1c-8009-1ea397ec4cba",
+  "dct_identifier_sm": [
+    "c2c65f83-540d-4e1c-8009-1ea397ec4cba"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:05Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

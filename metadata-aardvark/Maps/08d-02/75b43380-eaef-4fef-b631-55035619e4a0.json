@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Sharon, Pennsylvania, 1893",
+  "dct_description_sm": [
+    "Sharon, Mercer County, Pennsylvania, Nov. 1893. 1 map on 9 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    "1893"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "dct_spatial_sm": [
+    "Sharon, Pennsylvania",
+    "Mercer County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.5191,-80.4753,41.2558,41.2142)",
+  "dcat_bbox": "ENVELOPE(-80.5191,-80.4753,41.2558,41.2142)",
+  "dcat_centroid": "41.235,-80.49719999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/23140\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/23140/manifest.json\"}",
+  "id": "75b43380-eaef-4fef-b631-55035619e4a0",
+  "dct_identifier_sm": [
+    "75b43380-eaef-4fef-b631-55035619e4a0"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:44Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

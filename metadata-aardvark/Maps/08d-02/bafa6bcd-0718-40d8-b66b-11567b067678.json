@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Punxsutawney, Pennsylvania, 1901",
+  "dct_description_sm": [
+    "Punxsutawney, Jefferson Co. Penn., Sept. 1901. 1 map on 8 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    "1901"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "dct_spatial_sm": [
+    "Punxsutawney, Pennsylvania",
+    "Jefferson County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.0042,-78.9526,40.9566,40.9316)",
+  "dcat_bbox": "ENVELOPE(-79.0042,-78.9526,40.9566,40.9316)",
+  "dcat_centroid": "40.944100000000006,-78.9784",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22608\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22608/manifest.json\"}",
+  "id": "bafa6bcd-0718-40d8-b66b-11567b067678",
+  "dct_identifier_sm": [
+    "bafa6bcd-0718-40d8-b66b-11567b067678"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:47Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

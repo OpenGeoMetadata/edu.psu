@@ -1,0 +1,61 @@
+{
+  "dct_title_s": "New Kensington, Pennsylvania, 1915",
+  "dct_description_sm": [
+    "Insurance maps of New Kensington including Arnold and Parnassus Boro's, Westmoreland County, Pennsylvania, Sept. 1915. 1 map on 19 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1915"
+  ],
+  "gbl_indexYear_im": [
+    "1915"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1915 TO 1915]"
+  ],
+  "dct_spatial_sm": [
+    "New Kensington, Pennsylvania",
+    "Arnold, Pennsylvania",
+    "Parnassus, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.778,-79.7301,40.5986,40.5484)",
+  "dcat_bbox": "ENVELOPE(-79.778,-79.7301,40.5986,40.5484)",
+  "dcat_centroid": "40.573499999999996,-79.75405",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15769\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15769/manifest.json\"}",
+  "id": "33a2d893-a425-4734-973b-6f559178602b",
+  "dct_identifier_sm": [
+    "33a2d893-a425-4734-973b-6f559178602b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:40Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

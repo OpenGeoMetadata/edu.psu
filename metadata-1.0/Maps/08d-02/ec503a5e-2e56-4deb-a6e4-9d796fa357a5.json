@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ec503a5e-2e56-4deb-a6e4-9d796fa357a5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "East Brady, Pennsylvania, 1886",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ec503a5e-2e56-4deb-a6e4-9d796fa357a5",
+  "solr_geom": "ENVELOPE(-79.6245,-79.5998,40.9947,40.973)",
+  "solr_year_i": "1886",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "East Brady, Pa., Mar. 1886. 1 map : col. ; sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/8887\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8887/manifest.json\"}",
+  "dct_spatial_sm": [
+    "East Brady, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1886"
+  ]
+}

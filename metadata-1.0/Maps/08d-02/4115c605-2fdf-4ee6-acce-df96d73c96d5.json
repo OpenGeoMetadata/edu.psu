@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4115c605-2fdf-4ee6-acce-df96d73c96d5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Big Run, Pennsylvania, 1910",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "4115c605-2fdf-4ee6-acce-df96d73c96d5",
+  "solr_geom": "ENVELOPE(-78.8916,-78.8621,40.9752,40.9643)",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Big Run, Pa. [1910]. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3028\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3028/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Big Run, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

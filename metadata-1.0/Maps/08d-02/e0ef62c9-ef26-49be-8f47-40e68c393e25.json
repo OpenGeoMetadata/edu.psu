@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e0ef62c9-ef26-49be-8f47-40e68c393e25",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Glassmere-Creighton, Pennsylvania, 1924",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e0ef62c9-ef26-49be-8f47-40e68c393e25",
+  "solr_geom": "ENVELOPE(-79.7963,-79.7643,40.5849,40.568)",
+  "solr_year_i": "1924",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Glassmere-Creighton, Allegheny County, Pennsylvania, April 1924. 1 map on 8 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27084\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27084/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Glassmere-Creighton, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1924"
+  ]
+}

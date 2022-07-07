@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "faf3c1d8-1877-4fd3-a462-c2e8f5d5a354",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan de la Bataille de Waterloo, ou, de Mont-St-Jean. : réduction du grand plan de cette bataille dressé et publie en 1816",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "faf3c1d8-1877-4fd3-a462-c2e8f5d5a354",
+  "solr_geom": "ENVELOPE(4.3547,4.4411,50.7358,50.6708)",
+  "solr_year_i": "1816",
+  "dc_creator_sm": [
+    "Craan, W. B. (Guillaume Benjamin), 1776-1848."
+  ],
+  "dc_description_s": "Waterloo, Battle of, Waterloo, Belgium, 1815--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30188\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30188/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Belgium"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1816"
+  ]
+}

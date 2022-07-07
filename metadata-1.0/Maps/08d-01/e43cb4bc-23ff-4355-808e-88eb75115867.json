@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e43cb4bc-23ff-4355-808e-88eb75115867",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan du Lac Timsah. : levé et dressé en mai 1869",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e43cb4bc-23ff-4355-808e-88eb75115867",
+  "solr_geom": "ENVELOPE(32.1481,32.3256,30.6347,30.5253)",
+  "solr_year_i": "1869",
+  "dc_creator_sm": [
+    "Larousse, Mr."
+  ],
+  "dc_description_s": "Timsāh, Lake (Egypt)--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30244\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30244/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1869"
+  ]
+}

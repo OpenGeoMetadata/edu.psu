@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4cbd07da-f627-4a2b-adcd-9a6b3108c0f0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A plan of part of Marietta : with the remains of antient works found there.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "4cbd07da-f627-4a2b-adcd-9a6b3108c0f0",
+  "solr_geom": "ENVELOPE(-81.4972,-81.4017,39.4592,39.3981)",
+  "solr_year_i": "1790",
+  "dc_description_s": "Indians of North America--Ohio--Antiquities--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30201\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30201/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1790",
+  "dct_temporal_sm": [
+    "1790"
+  ]
+}

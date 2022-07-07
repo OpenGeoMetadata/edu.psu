@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Tyrone, Pennsylvania, 1901",
+  "dct_description_sm": [
+    "Tyrone, Blair Co., Pa., July 1901. 1 map on 8 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    "1901"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "dct_spatial_sm": [
+    "Tyrone, Pennsylvania",
+    "Blair County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.2647,-78.2274,40.6958,40.6594)",
+  "dcat_bbox": "ENVELOPE(-78.2647,-78.2274,40.6958,40.6594)",
+  "dcat_centroid": "40.6776,-78.24605",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/7562\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/7562/manifest.json\"}",
+  "id": "8292e9c8-b110-471e-8d4a-13dfe36756b5",
+  "dct_identifier_sm": [
+    "8292e9c8-b110-471e-8d4a-13dfe36756b5"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:49Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

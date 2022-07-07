@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e4d7a73e-a787-4bfa-8e16-5f327684047d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Virginia and Maryland as it is planted and inhabited this present year 1670.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e4d7a73e-a787-4bfa-8e16-5f327684047d",
+  "solr_geom": "ENVELOPE(-77.75,-74.3,39.9667,36.6)",
+  "solr_year_i": "1670",
+  "dc_creator_sm": [
+    "Heermans, Augustus, 1621?-1686."
+  ],
+  "dc_description_s": "Scale approximately 1:475,200. 1 in. = approximately 2.5 leagues; 1 map on 4 sheets; 79 x 95 cm, sheets 41 x 49 cm, in envelope 45 x 52 cm Maps--Facsimile",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30103\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30103/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Virginia",
+    "Maryland"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1670"
+  ]
+}

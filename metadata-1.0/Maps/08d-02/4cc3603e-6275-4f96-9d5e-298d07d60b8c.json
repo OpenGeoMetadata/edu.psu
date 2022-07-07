@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4cc3603e-6275-4f96-9d5e-298d07d60b8c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sheffield, Pennsylvania, 1922",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "4cc3603e-6275-4f96-9d5e-298d07d60b8c",
+  "solr_geom": "ENVELOPE(-79.052,-79.0111,41.725,41.6839)",
+  "solr_year_i": "1922",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sheffield, Warren County, Pennsylvania, March 1922. 1 map on 10 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22395\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22395/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Sheffield, Pennsylvania",
+    "Warren County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1922"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "482c742c-a341-4f7e-93a3-d99035f421c9",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New Kensington, Pennsylvania, 1928",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "482c742c-a341-4f7e-93a3-d99035f421c9",
+  "solr_geom": "ENVELOPE(-79.7744,-79.7301,40.5986,40.5501)",
+  "solr_year_i": "1928",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "New Kensington, including Arnold, East Kensington, Parnassus, Valley, Valley Heights, and part of Lower Burrell Township, Westmoreland County, Pennsylvania, August 1928. 1 map on 33 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to one in.unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27936\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27936/manifest.json\"}",
+  "dct_spatial_sm": [
+    "New Kensington, Pennsylvania",
+    "Arnold, Pennsylvania",
+    "East Kensington, Pennsylvania",
+    "Parnassus, Pennsylvania",
+    "Valley, Pennsylvania",
+    "Valley Heights, Pennsylvania",
+    "Lower Burrell Township, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1928"
+  ]
+}

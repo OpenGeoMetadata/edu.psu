@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "00d4cf3d-ad99-4651-9287-0eee3c5b45d3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New Salem, Pennsylvania, 1914",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "00d4cf3d-ad99-4651-9287-0eee3c5b45d3",
+  "solr_geom": "ENVELOPE(-76.8001,-76.7839,39.9098,39.8979)",
+  "solr_year_i": "1914",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "New Salem, Fayette County, Pennsylvania, November 1914. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20611\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/20611/manifest.json\"}",
+  "dct_spatial_sm": [
+    "New Salem, Pennsylvania",
+    "Fayette County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1914"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Madera, Pennsylvania, 1910",
+  "dct_description_sm": [
+    "Madera, Clearfield County, Pennsylvania, March 1910. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "gbl_indexYear_im": [
+    "1910"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1910]"
+  ],
+  "dct_spatial_sm": [
+    "Madera, Pennsylvania",
+    "Clearfield County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.451,-78.419,40.8368,40.8199)",
+  "dcat_bbox": "ENVELOPE(-78.451,-78.419,40.8368,40.8199)",
+  "dcat_centroid": "40.82835,-78.435",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13384\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13384/manifest.json\"}",
+  "id": "f97172fa-da2c-4e65-be3a-a1593e2af688",
+  "dct_identifier_sm": [
+    "f97172fa-da2c-4e65-be3a-a1593e2af688"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:32Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

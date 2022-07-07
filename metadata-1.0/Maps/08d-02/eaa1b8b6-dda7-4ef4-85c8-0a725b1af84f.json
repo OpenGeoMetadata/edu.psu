@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "eaa1b8b6-dda7-4ef4-85c8-0a725b1af84f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Kingston, Pennsylvania, 1925",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "eaa1b8b6-dda7-4ef4-85c8-0a725b1af84f",
+  "solr_geom": "ENVELOPE(-75.9204,-75.8681,41.2834,41.2481)",
+  "solr_year_i": "1925",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Kingston including Pringle and Edwardsville, Luzerne County, Pennsylvania, June 1925. 1 map on 38 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27424\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27424/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Kingston, Pennsylvania",
+    "Pringle, Pennsylvania",
+    "Edwardsville, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1925"
+  ]
+}

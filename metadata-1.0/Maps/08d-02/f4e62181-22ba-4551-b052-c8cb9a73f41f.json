@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f4e62181-22ba-4551-b052-c8cb9a73f41f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mifflintown, Pennsylvania, 1896",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f4e62181-22ba-4551-b052-c8cb9a73f41f",
+  "solr_geom": "ENVELOPE(-77.402,-77.3766,40.5795,40.5567)",
+  "solr_year_i": "1896",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Mifflintown and Patterson, Mifflin Co., Pa., July 1896. 2 maps on 3 sheets : col. ; on sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15007\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15007/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mifflintown, Pennsylvania",
+    "Patterson, Pennsylvania",
+    "Mifflin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:11Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1896"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "292471c5-9345-49f7-9af3-48cb35594372",
+  "dc_rights_s": "Public",
+  "dc_title_s": "City & harbour of Louisburg. : with that part of Gabarus Bay wherein the New England forces landed and their encampment during the siege of 1745.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "292471c5-9345-49f7-9af3-48cb35594372",
+  "solr_geom": "ENVELOPE(-60.0689,-59.9392,45.9417,45.8672)",
+  "solr_year_i": "1841",
+  "dc_creator_sm": [
+    "Morse and Tuttle."
+  ],
+  "dc_description_s": "Scale not given; 1 map; 13 x 19 cm Louisbourg (N.S.)--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27181\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27181/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Louisbourg, Nova Scotia, Canada",
+    "Nova Scotia, Canada",
+    "Canada"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Morse & Tuttle",
+  "dct_issued_s": "1841",
+  "dct_temporal_sm": [
+    "approximately 1841"
+  ]
+}

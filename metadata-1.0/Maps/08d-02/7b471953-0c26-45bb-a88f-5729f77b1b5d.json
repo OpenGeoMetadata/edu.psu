@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7b471953-0c26-45bb-a88f-5729f77b1b5d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Tyrone, Pennsylvania, 1906",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7b471953-0c26-45bb-a88f-5729f77b1b5d",
+  "solr_geom": "ENVELOPE(-78.2647,-78.2274,40.6958,40.6594)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Tyrone, Blair Co., Pennsylvania, Nov. 1906. 1 map on 14 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/7577\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/7577/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Tyrone, Pennsylvania",
+    "Blair County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

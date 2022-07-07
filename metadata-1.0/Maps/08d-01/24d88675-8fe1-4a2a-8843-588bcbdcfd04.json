@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "24d88675-8fe1-4a2a-8843-588bcbdcfd04",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The Galignani's Messenger plan of the Paris Universal Exhibition, 1878.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "24d88675-8fe1-4a2a-8843-588bcbdcfd04",
+  "solr_geom": "ENVELOPE(2.2858,2.2933,48.8633,48.8586)",
+  "solr_year_i": "1878",
+  "dc_creator_sm": [
+    "A. and W. Galignani and Co."
+  ],
+  "dc_description_s": "Maps.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30358\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30358/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Paris, France",
+    "France"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1878"
+  ]
+}

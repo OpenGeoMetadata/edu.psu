@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Lemoyne, Pennsylvania, 1923",
+  "dct_description_sm": [
+    "Lemoyne, Cumberland County, Pennsylvania, April 1923. 1 map on 8 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to one in.unless otherwise noted on individual sheets."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "gbl_indexYear_im": [
+    "1923"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1923 TO 1923]"
+  ],
+  "dct_spatial_sm": [
+    "Lemoyne, Pennsylvania",
+    "Cumberland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-76.9168,-76.879,40.2551,40.2346)",
+  "dcat_bbox": "ENVELOPE(-76.9168,-76.879,40.2551,40.2346)",
+  "dcat_centroid": "40.24485,-76.89789999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27433\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27433/manifest.json\"}",
+  "id": "ebbd8e56-9139-4423-ad09-6186691deb19",
+  "dct_identifier_sm": [
+    "ebbd8e56-9139-4423-ad09-6186691deb19"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:32Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "642889c0-b564-4915-9b8e-4050c92dbcd7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lewistown, Pennsylvania, 1910",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "642889c0-b564-4915-9b8e-4050c92dbcd7",
+  "solr_geom": "ENVELOPE(-77.6042,-77.5518,40.6133,40.5839)",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Lewistown, Mifflin County, Pennsylvania, Nov. 1910. 1 map on 20 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/12083\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/12083/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Lewistown, Pennsylvania",
+    "Mifflin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "bc8f47c6-b3ec-4241-84d7-af77d46f2dab",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Cresson P.O., Pennsylvania, 1906",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "bc8f47c6-b3ec-4241-84d7-af77d46f2dab",
+  "solr_geom": "ENVELOPE(-78.5977,-78.5758,40.4685,40.4576)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Cresson P.O., Cambria Co., Pennsylvania, June 1906. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6581\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6581/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Cresson PO, Pennsylvania",
+    "Cambria County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:12Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

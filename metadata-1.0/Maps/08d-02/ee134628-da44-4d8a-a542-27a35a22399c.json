@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ee134628-da44-4d8a-a542-27a35a22399c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Tremont, Pennsylvania, 1896",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ee134628-da44-4d8a-a542-27a35a22399c",
+  "solr_geom": "ENVELOPE(-76.4045,-76.3794,40.6381,40.6221)",
+  "solr_year_i": "1896",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Tremont, Schuylkill Co., Pa., Apr. 1896. 1 map on 2 sheets ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/18708\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/18708/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Tremont, Pennsylvania",
+    "Schuylkill County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:12Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1896"
+  ]
+}

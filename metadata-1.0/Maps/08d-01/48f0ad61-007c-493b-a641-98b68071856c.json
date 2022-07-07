@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "48f0ad61-007c-493b-a641-98b68071856c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A map of the state of Vermont",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "48f0ad61-007c-493b-a641-98b68071856c",
+  "solr_geom": "ENVELOPE(3.75,5.75,45,42.75)",
+  "solr_year_i": "1793",
+  "dc_creator_sm": [
+    "Whitelaw, James, 1748-1829"
+  ],
+  "dc_description_s": "Scale [ca. 1:792,000]; 1 map; 34 x 25 cm Vermont--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29978\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29978/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Vermont"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "[I. Thomas & D. Carlisle]",
+  "dct_temporal_sm": [
+    "1793"
+  ]
+}

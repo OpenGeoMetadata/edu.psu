@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d010c151-8e6a-4544-84f7-3dae8d808675",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The route of Mr. Mungo Park, from Pisania on the River Gambia, to Silla, on the River Joliba or Niger, with his return by the Southern Route, to Pisania",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "d010c151-8e6a-4544-84f7-3dae8d808675",
+  "solr_geom": "ENVELOPE(-17.6833,15.9833,19.1833,4.1667)",
+  "solr_year_i": "1771",
+  "dc_creator_sm": [
+    "Rennell, James, 1742-1830."
+  ],
+  "dc_description_s": "Park, Mungo, 1771-1806--Travel--Africa, West--Maps.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30223\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30223/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1771"
+  ]
+}

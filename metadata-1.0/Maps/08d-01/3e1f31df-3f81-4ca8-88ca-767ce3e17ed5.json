@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3e1f31df-3f81-4ca8-88ca-767ce3e17ed5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "An authentic plan of the River St. Laurence, from Sillery to the Fall of Montmorenci : with the operations of the Siege of Quebec, under the command of Vice-Adml. Saunders & Major Genl. Wolfe.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "3e1f31df-3f81-4ca8-88ca-767ce3e17ed5",
+  "solr_geom": "ENVELOPE(-71.2619,-71.0231,46.9022,46.7661)",
+  "solr_year_i": "1760",
+  "dc_description_s": "Scale [ca. 1:50,000]; 1 engraved map; 28 x 36 cm Québec Campaign, Québec, 1759--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27179\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27179/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Québec, Canada",
+    "Canada"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1760?"
+  ]
+}

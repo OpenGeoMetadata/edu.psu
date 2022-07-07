@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ae339c0b-5797-4fd6-ab8a-5800d716921b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hawley, Pennsylvania, 1897",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ae339c0b-5797-4fd6-ab8a-5800d716921b",
+  "solr_geom": "ENVELOPE(-75.1876,-75.1663,41.485,41.4684)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Hawley, Wayne Co., Pa., July 1897. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10998\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10998/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Hawley, Pennsylvania",
+    "Wayne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1897"
+  ]
+}

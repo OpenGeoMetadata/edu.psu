@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9df5db5f-381b-438a-9233-6bb019efe6d7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Apollo, Pennsylvania, 1886",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "9df5db5f-381b-438a-9233-6bb019efe6d7",
+  "solr_geom": "ENVELOPE(-79.5707,-79.557,40.59,40.5777)",
+  "solr_year_i": "1886",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Apollo, Pa, Feb. 1886. 4 maps on 2 sheets : col. ; on sheets 64 x 54 cm.; Statement of responsibility: Sanborn Map & Publishing Co. Limited.  Partial cadastral map.  Title from sheet 1.  Copyright 1886 by the Sanborn Map & Publishing Co. Limited.\"\"  Oriented with north to the upper right on sheet 2.  \"\"Feb. 1886.\"\"  Includes key, sheet index map, and notes.\"\". Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2283\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2283/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Apollo, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:41Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1886"
+  ]
+}

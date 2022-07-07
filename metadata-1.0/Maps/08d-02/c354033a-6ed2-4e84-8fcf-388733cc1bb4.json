@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c354033a-6ed2-4e84-8fcf-388733cc1bb4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Richland, Pennsylvania, 1939",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "c354033a-6ed2-4e84-8fcf-388733cc1bb4",
+  "solr_geom": "ENVELOPE(-76.2701,-76.2405,40.3706,40.3463)",
+  "solr_year_i": "1939",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Richland, Lebanon County, Pennsylvania, Apr. 1939. 1 map on 2 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:1,200. 100 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/28224\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/28224/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Richland, Pennsylvania",
+    "Lebanon County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1939"
+  ]
+}

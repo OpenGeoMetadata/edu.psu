@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "48edb3d3-bae0-41fb-987f-519971a6d479",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bloomsburg, Pennsylvania, 1901",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "48edb3d3-bae0-41fb-987f-519971a6d479",
+  "solr_geom": "ENVELOPE(-76.4778,-76.4276,41.0254,40.9763)",
+  "solr_year_i": "1901",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Bloomsburg, Pa. [1901]. 1 map on 11 sheets : col. ; sheets each 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/4319\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4319/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Bloomsburg, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1901"
+  ]
+}

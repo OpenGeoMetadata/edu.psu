@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f2c36c63-fc36-4d0f-8356-0d4a19c9b16c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new and accurate plan of the town of Boston in New England ; A new plan of Boston Harbor from an actual survey.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f2c36c63-fc36-4d0f-8356-0d4a19c9b16c",
+  "solr_geom": "ENVELOPE(-71.1047,-70.9783,42.3986,42.32)",
+  "solr_year_i": "1780",
+  "dc_description_s": "Scale not given; Scale [ca. 1:120,000]; 2 maps on 1 sheet; 28 x 15 cm and 28 x 20 cm, sheet 31 x 39 cm Boston (Mass.)--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29980\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29980/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1780-1789"
+  ]
+}

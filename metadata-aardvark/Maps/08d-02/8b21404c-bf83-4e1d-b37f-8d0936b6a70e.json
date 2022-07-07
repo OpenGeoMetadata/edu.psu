@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "St. Marys, Pennsylvania, 1887",
+  "dct_description_sm": [
+    "St. Marys, Pa., Sept. 1887. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "gbl_indexYear_im": [
+    "1887"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "dct_spatial_sm": [
+    "Saint Mary's, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.6485,-78.4196,41.523,41.3905)",
+  "dcat_bbox": "ENVELOPE(-78.6485,-78.4196,41.523,41.3905)",
+  "dcat_centroid": "41.45675,-78.53405000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20623\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/20623/manifest.json\"}",
+  "id": "8b21404c-bf83-4e1d-b37f-8d0936b6a70e",
+  "dct_identifier_sm": [
+    "8b21404c-bf83-4e1d-b37f-8d0936b6a70e"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:43Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

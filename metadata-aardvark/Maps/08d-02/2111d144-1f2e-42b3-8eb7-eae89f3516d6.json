@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Mifflinburg, Pennsylvania, 1907",
+  "dct_description_sm": [
+    "Mifflinburg, Union Co., Pennsylvania, December 1906. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "gbl_indexYear_im": [
+    "1906"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "dct_spatial_sm": [
+    "Mifflinburg, Pennsylvania",
+    "Union County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-77.0623,-77.0238,40.93,40.9093)",
+  "dcat_bbox": "ENVELOPE(-77.0623,-77.0238,40.93,40.9093)",
+  "dcat_centroid": "40.919650000000004,-77.04305",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15016\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15016/manifest.json\"}",
+  "id": "2111d144-1f2e-42b3-8eb7-eae89f3516d6",
+  "dct_identifier_sm": [
+    "2111d144-1f2e-42b3-8eb7-eae89f3516d6"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:04Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

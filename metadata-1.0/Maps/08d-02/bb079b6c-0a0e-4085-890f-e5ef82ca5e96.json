@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "bb079b6c-0a0e-4085-890f-e5ef82ca5e96",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Braddock, Pennsylvania, 1891",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "bb079b6c-0a0e-4085-890f-e5ef82ca5e96",
+  "solr_geom": "ENVELOPE(-79.8793,-79.859,40.412,40.3922)",
+  "solr_year_i": "1891",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Braddock, Pa. [1891]. 1 map on 8 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/4602\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4602/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Braddock, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1891"
+  ]
+}

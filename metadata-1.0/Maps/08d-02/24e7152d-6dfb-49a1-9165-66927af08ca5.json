@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "24e7152d-6dfb-49a1-9165-66927af08ca5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Koppel, Pennsylvania, 1923",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "24e7152d-6dfb-49a1-9165-66927af08ca5",
+  "solr_geom": "ENVELOPE(-80.3289,-80.3127,40.8427,40.8272)",
+  "solr_year_i": "1923",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Koppel, Beaver County, Pennsylvania, July 1923. 1 map on 3 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27354\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27354/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Koppel, Pennsylvania",
+    "Beaver County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:03Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1923"
+  ]
+}

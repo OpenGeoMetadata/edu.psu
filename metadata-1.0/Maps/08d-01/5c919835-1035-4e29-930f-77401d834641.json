@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5c919835-1035-4e29-930f-77401d834641",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Watson's American Republic and rail road map of the United States",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "5c919835-1035-4e29-930f-77401d834641",
+  "solr_geom": "ENVELOPE(-125.3667,-62.2667,49.3667,23.55)",
+  "solr_year_i": "1872",
+  "dc_creator_sm": [
+    "Watson, Gaylord."
+  ],
+  "dc_description_s": "Scale not determined; 1 map: color; 76 x 106 cm Railroads--United States--Maps.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29970\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29970/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:13Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Perry & Spaulding",
+  "dct_temporal_sm": [
+    "1872"
+  ]
+}

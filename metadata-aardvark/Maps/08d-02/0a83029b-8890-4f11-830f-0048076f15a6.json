@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Oxford, Pennsylvania, 1886",
+  "dct_description_sm": [
+    "Oxford, Pa., Mar. 1886. 1 map : col. ; sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "gbl_indexYear_im": [
+    "1886"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "dct_spatial_sm": [
+    "Oxford, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-76.0008,-75.9599,39.7966,39.7738)",
+  "dcat_bbox": "ENVELOPE(-76.0008,-75.9599,39.7966,39.7738)",
+  "dcat_centroid": "39.7852,-75.98035",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/21979\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/21979/manifest.json\"}",
+  "id": "0a83029b-8890-4f11-830f-0048076f15a6",
+  "dct_identifier_sm": [
+    "0a83029b-8890-4f11-830f-0048076f15a6"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:31Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

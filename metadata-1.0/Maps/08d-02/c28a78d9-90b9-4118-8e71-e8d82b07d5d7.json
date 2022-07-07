@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c28a78d9-90b9-4118-8e71-e8d82b07d5d7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Winton, Pennsylvania, 1912",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "c28a78d9-90b9-4118-8e71-e8d82b07d5d7",
+  "solr_geom": "ENVELOPE(-75.5648,-75.5328,41.4901,41.4734)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Winton, Lackawanna County, Pennsylvania, July 1912. 1 map on 13 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/23073\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/23073/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Winton, Pennsylvania",
+    "Lackawanna County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

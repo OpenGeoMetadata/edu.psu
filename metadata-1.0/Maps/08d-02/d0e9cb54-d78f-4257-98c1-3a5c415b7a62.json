@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d0e9cb54-d78f-4257-98c1-3a5c415b7a62",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Apollo, Pennsylvania, 1904",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "d0e9cb54-d78f-4257-98c1-3a5c415b7a62",
+  "solr_geom": "ENVELOPE(-79.5707,-79.557,40.59,40.5777)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Apollo, Armstrong County, Pennsylvania, Sept. 1904. 1 map on 6 sheets : col. ; on sheets 64 x 54 cm.; Statement of responsibility: Sanborn Map Company.  Partial cadastral map.  Title from sheet 1.  Copyright, 1904 by the Sanborn Map Company.\"\"  Oriented with north to the upper right on some sheets.  \"\"September 1904.\"\"  \"\"EMR 9-21-04\"\"--lower right corner of sheet 1.  Includes key, sheet index map, streets and \"\"Specials\"\" indexes, notes, and text.\"\". Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2305\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2305/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Apollo, Pennsylvania",
+    "Armstrong County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}

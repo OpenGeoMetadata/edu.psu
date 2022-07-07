@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f8ad0fc0-76ea-47da-b800-a8d710d80e9d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Malvern, Pennsylvania, 1919",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f8ad0fc0-76ea-47da-b800-a8d710d80e9d",
+  "solr_geom": "ENVELOPE(-75.5306,-75.4997,40.0428,40.0227)",
+  "solr_year_i": "1919",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Malvern, Chester County, Pennsylvania, September 1919. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13490\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13490/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Malvern, Pennsylvania",
+    "Chester County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1919"
+  ]
+}

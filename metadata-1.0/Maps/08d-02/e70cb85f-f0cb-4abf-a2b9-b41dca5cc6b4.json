@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e70cb85f-f0cb-4abf-a2b9-b41dca5cc6b4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New Bethlehem, Pennsylvania, 1910",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e70cb85f-f0cb-4abf-a2b9-b41dca5cc6b4",
+  "solr_geom": "ENVELOPE(-79.3441,-79.3152,41.0115,40.9959)",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "New Bethlehem, Clarion County, Pennsylvania, September 1910 : including the boroughs of South Bethlehem & Fairmount. 1 map on 8 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/16071\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/16071/manifest.json\"}",
+  "dct_spatial_sm": [
+    "New Bethlehem, Pennsylvania",
+    "Fairmount, Pennsylvania",
+    "South Bethlehem, Pennsylvania",
+    "Clarion County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

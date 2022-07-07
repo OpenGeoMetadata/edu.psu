@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "60994ccf-265f-4bf3-b1f6-3702940249d4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the roads, canals and steam boat routes of the United States : with the distances from place to place carefully noticed ...",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "60994ccf-265f-4bf3-b1f6-3702940249d4",
+  "solr_geom": "ENVELOPE(-96,-67,46,29)",
+  "solr_year_i": "1825",
+  "dc_creator_sm": [
+    "Tanner, Henry Schenck, 1786-1858."
+  ],
+  "dc_description_s": "Scale [ca. 1:4,300,000]; 1 map: color; 48 x 58 cm Roads--United States--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29940\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29940/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "H.S. Tanner",
+  "dct_temporal_sm": [
+    "1825"
+  ]
+}

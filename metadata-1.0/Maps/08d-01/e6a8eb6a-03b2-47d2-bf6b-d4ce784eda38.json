@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e6a8eb6a-03b2-47d2-bf6b-d4ce784eda38",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Pianta-guida di Roma indispensabile al visitatore",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e6a8eb6a-03b2-47d2-bf6b-d4ce784eda38",
+  "solr_geom": "ENVELOPE(12.3417,12.7303,42.0503,41.7694)",
+  "solr_year_i": "1800",
+  "dc_creator_sm": [
+    "Cromo Litografico."
+  ],
+  "dc_description_s": "Rome (Italy)--Maps.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30173\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30173/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Rome, Italy",
+    "Italy"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Roma : Stab Cromo Litografico",
+  "dct_temporal_sm": [
+    "1800-1899?"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "48e8375f-5a74-482a-bf9d-1a047fea4017",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Maxwell's directory map of the city of Los Angeles and Southern California",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "48e8375f-5a74-482a-bf9d-1a047fea4017",
+  "solr_geom": "ENVELOPE(-119.3833,-115.4833,34.3,32.5)",
+  "solr_year_i": "1894",
+  "dc_creator_sm": [
+    "Geo. W. Maxwell (Firm)"
+  ],
+  "dc_description_s": "California, Southern--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30379\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30379/manifest.json\"}",
+  "dct_spatial_sm": [
+    "California"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:13Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1894",
+  "dct_temporal_sm": [
+    "1894"
+  ]
+}

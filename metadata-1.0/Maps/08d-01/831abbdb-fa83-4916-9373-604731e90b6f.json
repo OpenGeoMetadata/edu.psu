@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "831abbdb-fa83-4916-9373-604731e90b6f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Americæ nova descriptio",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "831abbdb-fa83-4916-9373-604731e90b6f",
+  "solr_geom": "ENVELOPE(-135.8,-1.9833,66.85,-56.5333)",
+  "solr_year_i": "1652",
+  "dc_creator_sm": [
+    "Vaughan, Robert, active 17th century"
+  ],
+  "dc_description_s": "Scale approximately 1:4,900,000 at equator; 1 map: hand-colored; 34 x 42 cm America--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26373\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26373/manifest.json\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1652"
+  ]
+}

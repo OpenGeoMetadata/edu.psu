@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1e88e8e3-b8f8-4116-aed4-ca1a6a3e9272",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Souderton, Pennsylvania, 1908",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "1e88e8e3-b8f8-4116-aed4-ca1a6a3e9272",
+  "solr_geom": "ENVELOPE(-75.3349,-75.3077,40.3209,40.3014)",
+  "solr_year_i": "1908",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Souderton, Montgomery Co. Pennsylvania, October 1908. 1 map on 7 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19949\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/19949/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Souderton, Pennsylvania",
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

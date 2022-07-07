@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "00b66a4b-3514-4270-ba7c-b8b90b7582b4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Syria : Coelesyria, Phoenicia et Palaestina",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "00b66a4b-3514-4270-ba7c-b8b90b7582b4",
+  "solr_geom": "ENVELOPE(33.8333,39.1667,37.5333,31)",
+  "solr_year_i": "1850",
+  "dc_description_s": "Middle East--Maps.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30284\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30284/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Asia"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1850"
+  ]
+}

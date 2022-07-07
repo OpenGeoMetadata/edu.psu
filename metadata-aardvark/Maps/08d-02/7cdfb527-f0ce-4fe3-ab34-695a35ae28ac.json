@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Chambersburg, Pennsylvania, 1916",
+  "dct_description_sm": [
+    "Insurance maps of Chambersburg, Franklin County, Pennsylvania, Sept. 1916. 1 map on 21 sheets : col. ; sheets 65 x 54 cm. + title & index sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "gbl_indexYear_im": [
+    "1916"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
+  "dct_spatial_sm": [
+    "Chambersburg, Pennsylvania",
+    "Franklin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-77.6858,-77.6224,39.9677,39.9046)",
+  "dcat_bbox": "ENVELOPE(-77.6858,-77.6224,39.9677,39.9046)",
+  "dcat_centroid": "39.93615,-77.6541",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6180\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6180/manifest.json\"}",
+  "id": "7cdfb527-f0ce-4fe3-ab34-695a35ae28ac",
+  "dct_identifier_sm": [
+    "7cdfb527-f0ce-4fe3-ab34-695a35ae28ac"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:12Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

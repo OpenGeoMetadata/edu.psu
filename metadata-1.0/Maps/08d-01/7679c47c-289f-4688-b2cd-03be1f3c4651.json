@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7679c47c-289f-4688-b2cd-03be1f3c4651",
+  "dc_rights_s": "Public",
+  "dc_title_s": "South Mountain showing the positions of the forces of the United States and of the enemy during the battle fought by the Army of the Potomac under the command of Major General G.B. McClellan, Sept. 14th 1862",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7679c47c-289f-4688-b2cd-03be1f3c4651",
+  "solr_geom": "ENVELOPE(-77.6708,-77.5547,39.5078,39.38)",
+  "solr_year_i": "1862",
+  "dc_creator_sm": [
+    "United States. Army. Corps of Topographical Engineers."
+  ],
+  "dc_description_s": "Scale approximately 1:17,600; 1 map: color; 84 x 54 cm South Mountain, Battle of, Md., 1862--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30083\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30083/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:00Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ]
+}

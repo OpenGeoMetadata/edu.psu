@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Big Run, Pennsylvania, 1910",
+  "dct_description_sm": [
+    "Big Run, Pa. [1910]. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "gbl_indexYear_im": [
+    "1910"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1910]"
+  ],
+  "dct_spatial_sm": [
+    "Big Run, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.8916,-78.8621,40.9752,40.9643)",
+  "dcat_bbox": "ENVELOPE(-78.8916,-78.8621,40.9752,40.9643)",
+  "dcat_centroid": "40.969750000000005,-78.87684999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3028\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3028/manifest.json\"}",
+  "id": "4115c605-2fdf-4ee6-acce-df96d73c96d5",
+  "dct_identifier_sm": [
+    "4115c605-2fdf-4ee6-acce-df96d73c96d5"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:07Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

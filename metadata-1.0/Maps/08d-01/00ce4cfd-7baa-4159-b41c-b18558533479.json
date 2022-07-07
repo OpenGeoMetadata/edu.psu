@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "00ce4cfd-7baa-4159-b41c-b18558533479",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Canada west or upper Canada",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "00ce4cfd-7baa-4159-b41c-b18558533479",
+  "solr_geom": "ENVELOPE(-83.5333,-71.95,47.6167,40.7833)",
+  "solr_year_i": "1855",
+  "dc_creator_sm": [
+    "Maclear & Co."
+  ],
+  "dc_description_s": "Scale [ca. 1:1,520,640]; 1 map; 44 x 57 cm Canada--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27171\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27171/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Published by Maclear & Co.",
+  "dct_temporal_sm": [
+    "1855"
+  ]
+}

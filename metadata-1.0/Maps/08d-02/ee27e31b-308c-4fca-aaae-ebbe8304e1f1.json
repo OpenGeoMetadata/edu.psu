@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ee27e31b-308c-4fca-aaae-ebbe8304e1f1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Burgettstown, Pennsylvania, 1925",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ee27e31b-308c-4fca-aaae-ebbe8304e1f1",
+  "solr_geom": "ENVELOPE(-80.3992,-80.3854,40.3906,40.3716)",
+  "solr_year_i": "1925",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Burgettstown, Washington County, Pennsylvania, January 1925. 1 map on 12 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26131\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26131/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Burgettstown, Pennsylvania",
+    "Washington County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1925"
+  ]
+}

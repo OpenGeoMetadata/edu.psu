@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c2c16e3d-01bb-4676-b71b-cac9fc30a55f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Watsontown, Pennsylvania, 1906",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "c2c16e3d-01bb-4676-b71b-cac9fc30a55f",
+  "solr_geom": "ENVELOPE(-76.8796,-76.8531,41.0945,41.0734)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Watsontown, Northumberland Co., PA., December 1906. 1 map on 6 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/23020\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/23020/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Watsontown, Pennsylvania",
+    "Northumberland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

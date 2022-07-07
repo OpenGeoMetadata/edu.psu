@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Bridgeville, Pennsylvania, 1907",
+  "dct_description_sm": [
+    "Bridgeville, Allegheny Co., PA., May 1907. 1 map on 6 sheets : col. ; sheets each 65 x 54 cm. + title sheet.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "gbl_indexYear_im": [
+    "1907"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "dct_spatial_sm": [
+    "Bridgeville, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.1218,-80.088,40.3669,40.3488)",
+  "dcat_bbox": "ENVELOPE(-80.1218,-80.088,40.3669,40.3488)",
+  "dcat_centroid": "40.35785,-80.10489999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/4610\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4610/manifest.json\"}",
+  "id": "2d0a3e54-3b8e-445d-97f2-65355ff1ca2f",
+  "dct_identifier_sm": [
+    "2d0a3e54-3b8e-445d-97f2-65355ff1ca2f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:56Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

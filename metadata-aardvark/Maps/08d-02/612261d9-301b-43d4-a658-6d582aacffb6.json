@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Bridgeville, Pennsylvania, 1924",
+  "dct_description_sm": [
+    "Bridgeville, Allegheny County, Pennsylvania, June 1924 : including Mayview. 1 map on 8 sheets : color ; sheets each 65 x 54 cm + one sheet with ancillary map.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "gbl_indexYear_im": [
+    "1924"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
+  "dct_spatial_sm": [
+    "Bridgeville, Pennsylvania",
+    "Mayview, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.1218,-80.088,40.3669,40.3488)",
+  "dcat_bbox": "ENVELOPE(-80.1218,-80.088,40.3669,40.3488)",
+  "dcat_centroid": "40.35785,-80.10489999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27645\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27645/manifest.json\"}",
+  "id": "612261d9-301b-43d4-a658-6d582aacffb6",
+  "dct_identifier_sm": [
+    "612261d9-301b-43d4-a658-6d582aacffb6"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:10Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

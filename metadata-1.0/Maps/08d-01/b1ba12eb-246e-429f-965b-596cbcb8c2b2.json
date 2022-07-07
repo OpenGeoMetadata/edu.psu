@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b1ba12eb-246e-429f-965b-596cbcb8c2b2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Artaria's railroad map, 1893.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b1ba12eb-246e-429f-965b-596cbcb8c2b2",
+  "solr_geom": "ENVELOPE(9.5167,22.9667,51.3167,44.8)",
+  "solr_year_i": "1893",
+  "dc_creator_sm": [
+    "Artaria & Co."
+  ],
+  "dc_description_s": "Railroads--Austria--Maps",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30295\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30295/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Austria"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ]
+}

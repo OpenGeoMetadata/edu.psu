@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d723baef-d20a-48e2-9c7a-54981ab1f624",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mauch Chunk, Pennsylvania, 1908",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "d723baef-d20a-48e2-9c7a-54981ab1f624",
+  "solr_geom": "ENVELOPE(-75.8035,-75.6922,40.9157,40.8249)",
+  "solr_year_i": "1908",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Mauch Chunk and East Mauch Chunk, Carbon Co., Pennsylvania, March 1908. 1 map on 12 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/14536\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14536/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mauch Chunk, Pennsylvania",
+    "East Mauch Chunk, Pennsylvania",
+    "Carbon County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:59Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

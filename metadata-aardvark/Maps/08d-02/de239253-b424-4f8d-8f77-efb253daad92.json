@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Altoona, Pennsylvania, 1922",
+  "dct_description_sm": [
+    "Altoona, Pa. [1922]. maps : col. ; on sheets 65 x 55 cm. July 1922\"\"; Oriented with north to the upper right; Set follow standard Sanborn color-coded key; Title taken from upper left corner of sheet 3; \"\"5293\"\"; Maps Library has duplicate copies of sheets 3, 30, and 32; Maps Library copy is incomplete and is encapsulated. Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Altoona, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.4328,-78.3647,40.5549,40.466)",
+  "dcat_bbox": "ENVELOPE(-78.4328,-78.3647,40.5549,40.466)",
+  "dcat_centroid": "40.510450000000006,-78.39875",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/1506\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/1506/manifest.json\"}",
+  "id": "de239253-b424-4f8d-8f77-efb253daad92",
+  "dct_identifier_sm": [
+    "de239253-b424-4f8d-8f77-efb253daad92"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:42Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

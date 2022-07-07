@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Lineville Station, Pennsylvania, 1886",
+  "dct_description_sm": [
+    "Lineville Station, Pa., July 1886. 1 map : col. ; 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "gbl_indexYear_im": [
+    "1886"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "dct_spatial_sm": [
+    "Lineville Station, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.6596,-75.6493,40.0778,40.0652)",
+  "dcat_bbox": "ENVELOPE(-75.6596,-75.6493,40.0778,40.0652)",
+  "dcat_centroid": "40.0715,-75.65445",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/12648\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/12648/manifest.json\"}",
+  "id": "13f5e916-4b7e-495f-98bb-4bc8589b304f",
+  "dct_identifier_sm": [
+    "13f5e916-4b7e-495f-98bb-4bc8589b304f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:23Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

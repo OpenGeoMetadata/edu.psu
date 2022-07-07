@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Stroudsburg, Pennsylvania, 1897",
+  "dct_description_sm": [
+    "Stroudsburg, Monroe Co., Pa., Mch. 1897. 1 map on 14 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    "1897"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "dct_spatial_sm": [
+    "Stroudsburg, Pennsylvania",
+    "Mch, Pennsylvania",
+    "Monroe County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.2157,-75.1792,40.9977,40.9746)",
+  "dcat_bbox": "ENVELOPE(-75.2157,-75.1792,40.9977,40.9746)",
+  "dcat_centroid": "40.98615,-75.19745",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/8766\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8766/manifest.json\"}",
+  "id": "e3bc9c2a-0edc-4aec-9f4e-1c24cb73431b",
+  "dct_identifier_sm": [
+    "e3bc9c2a-0edc-4aec-9f4e-1c24cb73431b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:52Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

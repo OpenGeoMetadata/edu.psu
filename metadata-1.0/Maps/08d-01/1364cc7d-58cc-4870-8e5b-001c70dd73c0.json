@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1364cc7d-58cc-4870-8e5b-001c70dd73c0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map illustrating the operations of the Seventh Division under Brig. General G.W. Morgan at Cumberland Gap Tennessee : during a portion of the year 1862",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "1364cc7d-58cc-4870-8e5b-001c70dd73c0",
+  "solr_geom": "ENVELOPE(-84.2833,-83.4167,36.9167,36.15)",
+  "solr_year_i": "1877",
+  "dc_creator_sm": [
+    "United States. Army. Corps of Engineers."
+  ],
+  "dc_description_s": "Scale 1:253,440; 1 map: color; 34 x 31 cm on sheet 40 x 36 cm Cumberland Gap Campaign, 1862",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30163\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30163/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Tennessee"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "[Office of the Chief of Engineers, U.S. Army]",
+  "dct_temporal_sm": [
+    "1877"
+  ]
+}

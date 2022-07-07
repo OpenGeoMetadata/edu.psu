@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9f9a4c02-84d3-4564-bb21-7c76363c2755",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Johnsonburg, Pennsylvania, 1919",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "9f9a4c02-84d3-4564-bb21-7c76363c2755",
+  "solr_geom": "ENVELOPE(-78.7046,-78.6573,41.5124,41.4792)",
+  "solr_year_i": "1919",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Johnsonburg, including Rolfe and Deckertown, Elk County, Pennsylvania, Oct. 1919. 1 map on 17 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11667\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/11667/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Johnsonburg, Pennsylvania",
+    "Rolfe, Pennsylvania",
+    "Deckertown, Pennsylvania",
+    "Elk County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1919"
+  ]
+}

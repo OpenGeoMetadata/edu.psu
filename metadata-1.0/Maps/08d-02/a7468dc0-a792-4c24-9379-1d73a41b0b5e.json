@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a7468dc0-a792-4c24-9379-1d73a41b0b5e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Palmerton, Pennsylvania, 1921",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "a7468dc0-a792-4c24-9379-1d73a41b0b5e",
+  "solr_geom": "ENVELOPE(-75.6577,-75.5771,40.8137,40.7893)",
+  "solr_year_i": "1921",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Palmerton, Carbon County, Pennsylvania, Jany. 1921. 1 map on 16 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24933\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24933/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Palmerton, Pennsylvania",
+    "Carbon County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1921"
+  ]
+}

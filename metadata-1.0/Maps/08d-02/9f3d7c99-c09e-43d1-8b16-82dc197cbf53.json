@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9f3d7c99-c09e-43d1-8b16-82dc197cbf53",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Glenfield, Pennsylvania, 1925",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "9f3d7c99-c09e-43d1-8b16-82dc197cbf53",
+  "solr_geom": "ENVELOPE(-80.1517,-80.1195,40.5261,40.5136)",
+  "solr_year_i": "1925",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Glenfield, Allegheny County, Pennsylvania, August 1925. 1 map : color ; 65 x 54 cm.  Scale approximately 1:1,200. 100 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27112\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27112/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Glenfield, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1925"
+  ]
+}

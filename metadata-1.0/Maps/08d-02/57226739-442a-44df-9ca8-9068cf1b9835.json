@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "57226739-442a-44df-9ca8-9068cf1b9835",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Beaverdale, Pennsylvania, 1914",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "57226739-442a-44df-9ca8-9068cf1b9835",
+  "solr_geom": "ENVELOPE(-78.7132,-78.6762,40.3412,40.3053)",
+  "solr_year_i": "1914",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Beaverdale, Cambria County, Pennsylvania, November 1914 : including Lloydell. 1 map on 4 sheets : col. ; sheets 64 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3296\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3296/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Beaverdale, Pennsylvania",
+    "Lloydell, Pennsylvania",
+    "Cambria County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1914"
+  ]
+}

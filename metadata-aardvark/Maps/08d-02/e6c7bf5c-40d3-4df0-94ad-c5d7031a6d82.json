@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Galeton, Pennsylvania, 1905",
+  "dct_description_sm": [
+    "Galeton, Potter County, Pennsylvania, March 1905. 1 map on 9 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "gbl_indexYear_im": [
+    "1905"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "dct_spatial_sm": [
+    "Galeton, Pennsylvania",
+    "Potter County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-77.666,-77.6189,41.748,41.7268)",
+  "dcat_bbox": "ENVELOPE(-77.666,-77.6189,41.748,41.7268)",
+  "dcat_centroid": "41.737399999999994,-77.64245",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9591\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9591/manifest.json\"}",
+  "id": "e6c7bf5c-40d3-4df0-94ad-c5d7031a6d82",
+  "dct_identifier_sm": [
+    "e6c7bf5c-40d3-4df0-94ad-c5d7031a6d82"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:05Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

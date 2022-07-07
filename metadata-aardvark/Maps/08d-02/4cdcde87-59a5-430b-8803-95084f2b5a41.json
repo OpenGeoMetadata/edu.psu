@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Allentown, Pennsylvania, 1885",
+  "dct_description_sm": [
+    "Allentown, Pa. [1885]. 1 map on 24 sheets : col. ; sheets 64 x 54 cm. + Title sheet (64 x 54 cm.). Title from title sheet; Oriented with north slightly to the right; Includes text, adjoining sheets key map, and key; Street and special points indexes on title sheet; Maps Library set is encapsulated. Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "gbl_indexYear_im": [
+    "1885"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "dct_spatial_sm": [
+    "Allentown, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.548,-75.4196,40.636,40.5502)",
+  "dcat_bbox": "ENVELOPE(-75.548,-75.4196,40.636,40.5502)",
+  "dcat_centroid": "40.5931,-75.4838",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/1316\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/1316/manifest.json\"}",
+  "id": "4cdcde87-59a5-430b-8803-95084f2b5a41",
+  "dct_identifier_sm": [
+    "4cdcde87-59a5-430b-8803-95084f2b5a41"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:00Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

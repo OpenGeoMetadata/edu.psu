@@ -1,0 +1,52 @@
+{
+  "dct_title_s": "Map of the western railroads tributary to the principal Atlantic cities.",
+  "dct_description_sm": [
+    "Scale approximately 1:2,217,600; 1 map: color; 42 x 93 cm, folded in cover 15 x 10 cm Railroads--East (U.S.)--Maps"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "Lippincott, Grambo & Co."
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Railroads"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1854"
+  ],
+  "gbl_indexYear_im": [
+    "1854"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1854 TO 1854]"
+  ],
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "locn_geometry": "ENVELOPE(-91.05,-69.4333,43.6667,36.1167)",
+  "dcat_bbox": "ENVELOPE(-91.05,-69.4333,43.6667,36.1167)",
+  "dcat_centroid": "39.8917,-80.24164999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29957\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29957/manifest.json\"}",
+  "id": "41121093-eab0-4316-9400-920b290913ae",
+  "dct_identifier_sm": [
+    "41121093-eab0-4316-9400-920b290913ae"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:30Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

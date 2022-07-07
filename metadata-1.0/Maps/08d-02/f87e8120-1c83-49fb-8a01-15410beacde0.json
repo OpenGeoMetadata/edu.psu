@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f87e8120-1c83-49fb-8a01-15410beacde0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Verona, Pennsylvania, 1900",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f87e8120-1c83-49fb-8a01-15410beacde0",
+  "solr_geom": "ENVELOPE(-79.8507,-79.833,40.5129,40.4956)",
+  "solr_year_i": "1900",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Verona, Allegheny Co., Pa, Feb. 1900. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/16172\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/16172/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Verona, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1900"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dct_title_s": "Bradford, Pennsylvania, 1925",
+  "dct_description_sm": [
+    "Insurance maps of Bradford, McKean Co., Pennsylvania, including Custer City, Farmers Valley, Foster Brook, Lewis Run, Minard Run, Nusbaum, Sept. 1925. 1 map on 38 sheets : color ; sheets 65 x 54 cm + title sheet.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "gbl_indexYear_im": [
+    "1925"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1925 TO 1925]"
+  ],
+  "dct_spatial_sm": [
+    "Bradford, Pennsylvania",
+    "Custer City, Pennsylvania",
+    "Farmers Valley, Pennsylvania",
+    "Foster Brook, Pennsylvania",
+    "Lewis Run, Pennsylvania",
+    "Minard Run, Pennsylvania",
+    "Nusbaum, Pennsylvania",
+    "McKean County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.6759,-78.4326,41.9834,41.8526)",
+  "dcat_bbox": "ENVELOPE(-78.6759,-78.4326,41.9834,41.8526)",
+  "dcat_centroid": "41.918000000000006,-78.55425",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26363\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26363/manifest.json\"}",
+  "id": "0aa785c9-e47a-4c85-b37f-95abef7ccf1d",
+  "dct_identifier_sm": [
+    "0aa785c9-e47a-4c85-b37f-95abef7ccf1d"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:07Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

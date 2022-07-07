@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5a04e17a-ebe2-4b69-b14a-adfcdaee22cc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Delineato Pennsilvaniae et Cæsareæ, nov. occident seu West N. Iersey in America.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "5a04e17a-ebe2-4b69-b14a-adfcdaee22cc",
+  "solr_geom": "ENVELOPE(-80.5167,-73.15,42,37.4333)",
+  "solr_year_i": "1731",
+  "dc_creator_sm": [
+    "Silfvorling, Jonas."
+  ],
+  "dc_description_s": "Scale approximately 1:1,267,200; 1 map; 19 x 27 cm Pennsylvania--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30018\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30018/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:15Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1731",
+  "dct_temporal_sm": [
+    "1731"
+  ]
+}

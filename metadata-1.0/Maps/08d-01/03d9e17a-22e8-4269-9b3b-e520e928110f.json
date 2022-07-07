@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "03d9e17a-22e8-4269-9b3b-e520e928110f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Germany map circa 1946",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "03d9e17a-22e8-4269-9b3b-e520e928110f",
+  "solr_geom": "ENVELOPE(5.85,15.0333,55.05,47.2667)",
+  "solr_year_i": "1946",
+  "dc_description_s": "Germany--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30294\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30294/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1946"
+  ]
+}

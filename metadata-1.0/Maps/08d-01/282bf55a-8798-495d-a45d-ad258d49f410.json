@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "282bf55a-8798-495d-a45d-ad258d49f410",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Colton's railroad & commercial map of the United States & Canada.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "282bf55a-8798-495d-a45d-ad258d49f410",
+  "solr_geom": "ENVELOPE(-97.0167,-65.2,49.4333,26.7333)",
+  "solr_year_i": "1872",
+  "dc_creator_sm": [
+    "G.W. & C.B. Colton & Co."
+  ],
+  "dc_description_s": "Railroads--United States--Maps",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30434\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30434/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "G.W. & C.B. Colton & Co.",
+  "dct_temporal_sm": [
+    "1872"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b879aed3-4d90-468d-a034-fc724e4fe960",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Blairsville, Pennsylvania, 1892",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b879aed3-4d90-468d-a034-fc724e4fe960",
+  "solr_geom": "ENVELOPE(-79.2722,-79.2439,40.4439,40.4193)",
+  "solr_year_i": "1892",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Blairsville, Pa. [1892]. 1 map on 7 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/4379\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4379/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Blairsville, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1892"
+  ]
+}

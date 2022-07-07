@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Suburbs of Scranton, Pennsylvania, 1893",
+  "dct_description_sm": [
+    "Suburbs of Scranton, Pa., July 1893. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    "1893"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "dct_spatial_sm": [
+    "Scranton, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.6633,-75.4837,41.5448,41.4123)",
+  "dcat_bbox": "ENVELOPE(-75.6633,-75.4837,41.5448,41.4123)",
+  "dcat_centroid": "41.47855,-75.5735",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/25541\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25541/manifest.json\"}",
+  "id": "aa408c80-075a-4a59-a199-f01c3af3b2b2",
+  "dct_identifier_sm": [
+    "aa408c80-075a-4a59-a199-f01c3af3b2b2"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:51Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

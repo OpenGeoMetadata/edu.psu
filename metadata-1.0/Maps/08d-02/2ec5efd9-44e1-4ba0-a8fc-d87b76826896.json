@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2ec5efd9-44e1-4ba0-a8fc-d87b76826896",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Quakertown, Pennsylvania, 1909",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2ec5efd9-44e1-4ba0-a8fc-d87b76826896",
+  "solr_geom": "ENVELOPE(-75.3698,-75.3189,40.4523,40.4269)",
+  "solr_year_i": "1909",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Quakertown, Bucks County, Pennsylvania, June 1909. 1 map on 15 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15895\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15895/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Quakertown, Pennsylvania",
+    "Bucks County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1909"
+  ]
+}

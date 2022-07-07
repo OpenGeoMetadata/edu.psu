@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2912b010-66ee-4cec-a7d3-865ad6244a3d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Canada east or lower Canada",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2912b010-66ee-4cec-a7d3-865ad6244a3d",
+  "solr_geom": "ENVELOPE(-75.8833,-64.1333,50,43.9)",
+  "solr_year_i": "1855",
+  "dc_creator_sm": [
+    "Maclear & Co."
+  ],
+  "dc_description_s": "Scale [ca. 1:1,520,640]; 1 map; 44 x 57 cm Canada, Eastern--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27182\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27182/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Maclear & Co.",
+  "dct_temporal_sm": [
+    "1855"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b6b0f10b-2603-4ab5-a1cb-34f097de8193",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Halstead sic, Pennsylvania, 1897",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b6b0f10b-2603-4ab5-a1cb-34f097de8193",
+  "solr_geom": "ENVELOPE(-75.754,-75.7415,41.9698,41.9513)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Halstead [sic], Susquehanna Co. Pa., July, 1897. 1 map : col. ; 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10821\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10821/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Halstead Sic, Pennsylvania",
+    "Susquehanna County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1897"
+  ]
+}

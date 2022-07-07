@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a066e649-1f49-4e49-88bf-41e123e8ec27",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A plan of Boston in 1722",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "a066e649-1f49-4e49-88bf-41e123e8ec27",
+  "solr_geom": "ENVELOPE(-71.1308,-70.9536,42.3986,42.3125)",
+  "solr_year_i": "1722",
+  "dc_description_s": "Scale not given; 1 map; 15 x 10 cm Boston (Mass.)--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29979\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29979/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:12Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1722?"
+  ]
+}

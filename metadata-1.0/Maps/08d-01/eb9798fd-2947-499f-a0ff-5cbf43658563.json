@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "eb9798fd-2947-499f-a0ff-5cbf43658563",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Maps of Boston from 1630-1881 showing the development of the city over time",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "eb9798fd-2947-499f-a0ff-5cbf43658563",
+  "solr_geom": "ENVELOPE(-71.1911,-70.9231,42.3986,42.2278)",
+  "solr_year_i": "1630",
+  "dc_description_s": "Scale not given; 9 maps: 2 color; 25 x 19 cm or smaller, on sheets 27 x 24 cm or smaller Boston (Mass.)--History--Maps--Facsimiles",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30004\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30004/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1630",
+    "1881"
+  ]
+}

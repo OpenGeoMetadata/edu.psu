@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4aa6accc-7cae-42a8-9919-d5006e779c90",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Pottstown, Pennsylvania, 1896",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "4aa6accc-7cae-42a8-9919-d5006e779c90",
+  "solr_geom": "ENVELOPE(-75.6781,-75.6103,40.2675,40.2325)",
+  "solr_year_i": "1896",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Pottstown, Pennsylvania, Montgomery Co., July 1896. 1 map on 14 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22330\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22330/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Pottstown, Pennsylvania",
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1896"
+  ]
+}

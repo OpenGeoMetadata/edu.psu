@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b0e6c2d7-6e9f-4df2-b09f-f4f57cdd4273",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Alaska-Yukon-Pacific Exposition, Seattle, Washington, 1909 : plan of grounds and buildings.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b0e6c2d7-6e9f-4df2-b09f-f4f57cdd4273",
+  "solr_geom": "ENVELOPE(-122.3122,-122.2978,47.6569,47.6506)",
+  "solr_year_i": "1909",
+  "dc_creator_sm": [
+    "J.N. Matthews Co."
+  ],
+  "dc_description_s": "Alaska-Yukon-Pacific Exposition (1909 : Seattle, Wash.)--Maps.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30381\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30381/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Alaska"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:38Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "J.N. Matthews Co.",
+  "dct_temporal_sm": [
+    "1909"
+  ]
+}

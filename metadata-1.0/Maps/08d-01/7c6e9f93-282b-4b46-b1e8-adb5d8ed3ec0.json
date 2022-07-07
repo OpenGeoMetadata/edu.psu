@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7c6e9f93-282b-4b46-b1e8-adb5d8ed3ec0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "An accurate delineation of the coast of the United Kingdom with that of France from Brest to Ostend. : likewise the whole of the coast of Holland, the rivers Weser & Elbe and the Danish Isles : from the best authorities.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7c6e9f93-282b-4b46-b1e8-adb5d8ed3ec0",
+  "solr_geom": "ENVELOPE(-10.2167,13.0667,58.7667,48.3)",
+  "solr_year_i": "1803",
+  "dc_description_s": "Coasts--Great Britain--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30406\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30406/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Great Britain"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Printed for C. Smith",
+  "dct_temporal_sm": [
+    "1803"
+  ]
+}

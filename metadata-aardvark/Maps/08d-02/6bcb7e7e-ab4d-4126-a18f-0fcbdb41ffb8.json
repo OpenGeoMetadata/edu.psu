@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Girard, Pennsylvania, 1904",
+  "dct_description_sm": [
+    "Girard, Erie County, Penn., June 1904. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "dct_spatial_sm": [
+    "Girard, Pennsylvania",
+    "Erie County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.3439,-80.2993,42.0198,41.9903)",
+  "dcat_bbox": "ENVELOPE(-80.3439,-80.2993,42.0198,41.9903)",
+  "dcat_centroid": "42.00505,-80.3216",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9839\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9839/manifest.json\"}",
+  "id": "6bcb7e7e-ab4d-4126-a18f-0fcbdb41ffb8",
+  "dct_identifier_sm": [
+    "6bcb7e7e-ab4d-4126-a18f-0fcbdb41ffb8"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:57Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

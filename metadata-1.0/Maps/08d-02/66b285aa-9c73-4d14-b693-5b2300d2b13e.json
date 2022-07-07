@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "66b285aa-9c73-4d14-b693-5b2300d2b13e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bangor, Pennsylvania, 1897",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "66b285aa-9c73-4d14-b693-5b2300d2b13e",
+  "solr_geom": "ENVELOPE(-75.2236,-75.1939,40.8792,40.8547)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Bangor, Northampton County, Pa. : February 1897. 1 map on 6 sheets : col. ; sheets each 64 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/4656\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4656/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Bangor, Pennsylvania",
+    "Northampton County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1897"
+  ]
+}

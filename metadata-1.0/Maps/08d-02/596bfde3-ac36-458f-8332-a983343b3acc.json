@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "596bfde3-ac36-458f-8332-a983343b3acc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Alliance, Pennsylvania, 1904",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "596bfde3-ac36-458f-8332-a983343b3acc",
+  "solr_geom": "ENVELOPE(-81.1619,-81.0505,40.9373,40.8992)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Alliance, Northampton Co., Pennsylvania, Nov. 1904. 1 map on 10 sheets : col. ; sheets 65 x 55 cm. Statement of responsibility: Sanborn Map Company.  Cadastral map.  Note: Formally known as Siegfrieds, Northampton, Newport, and Rosendale\"\"--sheet 1.  Title from sheet 1.  Oriented with north to the right on some sheets.  Includes sheet index map, key, street and \"\"Specials\"\" indexes, notes, and text.Covers area at the intersection of the Lehigh River and the Hokendauqua Creek\"\". Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2472\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2472/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Alliance, Pennsylvania",
+    "Northampton County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}

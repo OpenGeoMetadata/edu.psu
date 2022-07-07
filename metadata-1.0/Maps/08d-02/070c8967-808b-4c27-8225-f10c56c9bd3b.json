@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "070c8967-808b-4c27-8225-f10c56c9bd3b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Apollo, Pennsylvania, 1889",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "070c8967-808b-4c27-8225-f10c56c9bd3b",
+  "solr_geom": "ENVELOPE(-79.5707,-79.557,40.59,40.5777)",
+  "solr_year_i": "1889",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Apollo, Pa., Armstrong Co, Dec. 1889. 1 map on 3 sheets : col. ; on sheets 64 x 54 cm.; Statement of responsibility: Sanborn-Perris Map Co., Limited.  Partial cadastral map.  Title from sheet 1.  Copyright 1889 by the Sanborn-Perris Map Co. Limited.\"\"  Oriented with north to the upper right on some sheets.  \"\"Dec. 1889.\"\"  Includes key, \"\"Specials\"\" index, sheet index map, notes, and text.\"\". Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2280\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2280/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Apollo, Pennsylvania",
+    "Armstrong County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1889"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7eb2ca3a-d18b-43c5-8444-da4934924abb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Karten und Pläne zur Palästinakunde aus dem VII. bis XVI. Jahrhundert.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7eb2ca3a-d18b-43c5-8444-da4934924abb",
+  "solr_geom": "ENVELOPE(34.2167,35.5667,32.55,31.2167)",
+  "solr_year_i": "1100",
+  "dc_description_s": "Jerusalem--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30282\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30282/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Jerusalem"
+  ],
+  "layer_modified_dt": "2022-04-14T17:31:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "between 1100 and 1400"
+  ]
+}

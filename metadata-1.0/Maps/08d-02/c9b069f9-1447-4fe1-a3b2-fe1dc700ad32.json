@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c9b069f9-1447-4fe1-a3b2-fe1dc700ad32",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lansford, Pennsylvania, 1908",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "c9b069f9-1447-4fe1-a3b2-fe1dc700ad32",
+  "solr_geom": "ENVELOPE(-75.9062,-75.8605,40.8426,40.8228)",
+  "solr_year_i": "1908",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Lansford, Carbon County, Pennsylvania, December 1908. 1 map on 11 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13110\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13110/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Lansford, Pennsylvania",
+    "Carbon County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

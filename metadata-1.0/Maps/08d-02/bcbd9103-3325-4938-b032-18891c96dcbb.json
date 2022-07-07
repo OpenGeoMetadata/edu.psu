@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "bcbd9103-3325-4938-b032-18891c96dcbb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Franklin, Pennsylvania, 1922",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "bcbd9103-3325-4938-b032-18891c96dcbb",
+  "solr_geom": "ENVELOPE(-79.9438,-79.8102,41.4174,41.3535)",
+  "solr_year_i": "1922",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Franklin, Venango County, Pennsylvania, April 1922 : including Rocky Grove, Polk, and Bleakley Hill. 1 map on 42 sheets : col. ; sheets 65 x 54 cm. + title sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/8993\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8993/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Franklin, Pennsylvania",
+    "Rocky Grove, Pennsylvania",
+    "Polk, Pennsylvania",
+    "Bleakley Hill, Pennsylvania",
+    "Venango County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:02Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1922"
+  ]
+}

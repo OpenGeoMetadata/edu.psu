@@ -1,0 +1,51 @@
+{
+  "dct_title_s": "A plan of the city & harbour of Louisburg : shewing that part of Gabarus Bay in which the English landed, also their encampment during the Siege in 1745.",
+  "dct_description_sm": [
+    "Scale [ca. 1:37,000]; 1 map; 19 x 25 cm Louisbourg (N.S.)--History--Siege, 1745--Early works to 1800"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "[Gentleman's magazine]"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1758"
+  ],
+  "gbl_indexYear_im": [
+    "1758"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1758 TO 1758]"
+  ],
+  "dct_spatial_sm": [
+    "Louisbourg, Nova Scotia, Canada",
+    "Nova Scotia, Canada",
+    "Canada"
+  ],
+  "locn_geometry": "ENVELOPE(-60.0667,-59.95,45.9333,45.8667)",
+  "dcat_bbox": "ENVELOPE(-60.0667,-59.95,45.9333,45.8667)",
+  "dcat_centroid": "45.900000000000006,-60.00835",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27184\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27184/manifest.json\"}",
+  "id": "344c8a96-aa0a-4bd1-b26b-c6aeacf5e2fb",
+  "dct_identifier_sm": [
+    "344c8a96-aa0a-4bd1-b26b-c6aeacf5e2fb"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:31:12Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

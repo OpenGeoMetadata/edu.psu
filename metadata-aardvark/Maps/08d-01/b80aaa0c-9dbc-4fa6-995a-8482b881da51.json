@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Map of the action at Drainsville, Va., December 20th 1861. U.S. forces commanded by Brig Gen. E.O.C. Ord.",
+  "dct_description_sm": [
+    "Scale not given; 1 map: color; 40 x 26 cm Dranesville (Va.)--History--Civil War, 1861-1865--Maps"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Strickler, H. H., cartographer."
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "gbl_indexYear_im": [
+    "1861"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1861 TO 1861]"
+  ],
+  "dct_spatial_sm": [
+    "Dranesville, Virginia",
+    "Virginia"
+  ],
+  "locn_geometry": "ENVELOPE(-77.3547,-77.3308,39.0044,38.9944)",
+  "dcat_bbox": "ENVELOPE(-77.3547,-77.3308,39.0044,38.9944)",
+  "dcat_centroid": "38.999399999999994,-77.34275",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30114\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30114/manifest.json\"}",
+  "id": "b80aaa0c-9dbc-4fa6-995a-8482b881da51",
+  "dct_identifier_sm": [
+    "b80aaa0c-9dbc-4fa6-995a-8482b881da51"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:23Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

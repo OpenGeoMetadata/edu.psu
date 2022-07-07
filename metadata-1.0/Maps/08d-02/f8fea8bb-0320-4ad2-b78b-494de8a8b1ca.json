@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f8fea8bb-0320-4ad2-b78b-494de8a8b1ca",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Great Bend, Pennsylvania, 1897",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f8fea8bb-0320-4ad2-b78b-494de8a8b1ca",
+  "solr_geom": "ENVELOPE(-75.753,-75.7385,41.9792,41.968)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Great Bend, Susquehanna Co., Pa., July 1897. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9814\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9814/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Great Bend, Pennsylvania",
+    "Susquehanna County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1897"
+  ]
+}

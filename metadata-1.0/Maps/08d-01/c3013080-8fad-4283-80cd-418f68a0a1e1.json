@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c3013080-8fad-4283-80cd-418f68a0a1e1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ground plan of the Louisiana Purchase Exposition : St. Louis, Mo. 1904.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "c3013080-8fad-4283-80cd-418f68a0a1e1",
+  "solr_geom": "ENVELOPE(-90.3044,-90.265,38.6481,38.6292)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Parker Engraving Company."
+  ],
+  "dc_description_s": "Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)--Maps.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30198\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30198/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Saint Louis, Missouri",
+    "Missouri"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}

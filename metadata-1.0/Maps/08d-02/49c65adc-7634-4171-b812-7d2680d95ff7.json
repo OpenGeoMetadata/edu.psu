@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "49c65adc-7634-4171-b812-7d2680d95ff7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sellersville, Pennsylvania, 1921",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "49c65adc-7634-4171-b812-7d2680d95ff7",
+  "solr_geom": "ENVELOPE(-75.322,-75.2946,40.3696,40.349)",
+  "solr_year_i": "1921",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sellersville, Bucks County, Pennsylvania, October 1921. 1 map on 11 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24224\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24224/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Sellersville, Pennsylvania",
+    "Bucks County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1921"
+  ]
+}

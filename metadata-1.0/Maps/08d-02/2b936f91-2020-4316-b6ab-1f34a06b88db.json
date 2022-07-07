@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2b936f91-2020-4316-b6ab-1f34a06b88db",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Newport, Pennsylvania, 1884",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2b936f91-2020-4316-b6ab-1f34a06b88db",
+  "solr_geom": "ENVELOPE(-77.1403,-77.1262,40.4848,40.4714)",
+  "solr_year_i": "1884",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Newport, Pa., Nov. 1884. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15296\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15296/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Newport, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1884"
+  ]
+}

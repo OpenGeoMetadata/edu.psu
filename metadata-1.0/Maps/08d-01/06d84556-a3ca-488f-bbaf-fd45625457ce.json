@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "06d84556-a3ca-488f-bbaf-fd45625457ce",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A plan of the city & fortifications of Louisburg : from a survey made by Richard Gridley, Lieut̂é. Col. of the train of artillery in 1745.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "06d84556-a3ca-488f-bbaf-fd45625457ce",
+  "solr_geom": "ENVELOPE(-59.9861,-59.9539,45.9303,45.9147)",
+  "solr_year_i": "1745",
+  "dc_description_s": "Scale ca. 1:7200.; Scale ca. 1:36,000.; 2 maps on 1 sheet; 27 x 36 cm Fortification--Nova Scotia--Louisbourg--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27167\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27167/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Louisbourg, Nova Scotia, Canada",
+    "Nova Scotia, Canada",
+    "Canada"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:45Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "[J. Hinton]",
+  "dct_issued_s": "1757",
+  "dct_temporal_sm": [
+    "1745"
+  ]
+}

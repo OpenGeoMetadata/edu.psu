@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "12fee064-d42c-4f83-862f-1291848704cd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "First map, or map of 1578 : [of the east coast of the United States] ; Second map, or map of 1620.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "12fee064-d42c-4f83-862f-1291848704cd",
+  "solr_geom": "ENVELOPE(-100,-45,70,10)",
+  "solr_year_i": "1780",
+  "dc_description_s": "Scale not given; 2 maps on 1 sheet: color; each 20 x 14 cm, sheet 25 x 34 cm United States--History--Colonial period, ca. 1600-1775--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29943\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29943/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:11Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1780-1789"
+  ]
+}

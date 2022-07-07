@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "057a2ef8-01bc-4e04-8cac-cdbf2ab84bd7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of battlefield of Big Black River Bridge, Mississippi, showing the positions of the U.S. troops, May 17th 1863",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "057a2ef8-01bc-4e04-8cac-cdbf2ab84bd7",
+  "solr_geom": "ENVELOPE(-90.7117,-90.6744,32.3586,32.3303)",
+  "solr_year_i": "1863",
+  "dc_creator_sm": [
+    "Mason, F. (Act. Asst. Engineer)"
+  ],
+  "dc_description_s": "Scale approximately 1:7,200; 1 map: color; 49 x 45 cm Big Black River (Miss.)--History--Civil War, 1861-1865--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30171\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30171/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mississippi"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ]
+}

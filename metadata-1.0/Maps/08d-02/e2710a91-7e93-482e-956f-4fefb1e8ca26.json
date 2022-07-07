@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e2710a91-7e93-482e-956f-4fefb1e8ca26",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Womelsdorf, Pennsylvania, 1913",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e2710a91-7e93-482e-956f-4fefb1e8ca26",
+  "solr_geom": "ENVELOPE(-76.2037,-76.1708,40.3722,40.3592)",
+  "solr_year_i": "1913",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Womelsdorf, Berks County, Pennsylvania, February 1913. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22820\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22820/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Womelsdorf, Pennsylvania",
+    "Berks County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1913"
+  ]
+}

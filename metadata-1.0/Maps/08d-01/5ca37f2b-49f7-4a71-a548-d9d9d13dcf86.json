@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5ca37f2b-49f7-4a71-a548-d9d9d13dcf86",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Partie septentrionale de la Souabe / par Guillaume De L'Isle, Geographe de L'Academie Royale des Sciences.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "5ca37f2b-49f7-4a71-a548-d9d9d13dcf86",
+  "solr_geom": "ENVELOPE(9.0833,11.3333,49.5667,48.65)",
+  "solr_year_i": "1742",
+  "dc_creator_sm": [
+    "L'Isle, Guillaume de, 1675-1726, cartographer."
+  ],
+  "dc_description_s": "Swabia (Germany)--Maps--Early works to 1800.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30365\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30365/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Germany"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "chez I. Cévens et C. Mortier, Geographes",
+  "dct_temporal_sm": [
+    "1742?"
+  ]
+}

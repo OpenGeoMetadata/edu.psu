@@ -1,0 +1,47 @@
+{
+  "dct_title_s": "3325 M.S. Fragment of contemporary Spanish map with inscription relating to the Magellan Expedition.",
+  "dct_description_sm": [
+    "Magalhães, Fernão de, -1521--Maps--Facsimiles."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1521"
+  ],
+  "gbl_indexYear_im": [
+    "1521"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1521 TO 1521]"
+  ],
+  "dct_spatial_sm": [
+    "Africa",
+    "Asia"
+  ],
+  "locn_geometry": "ENVELOPE(42.35,75.5833,40.7667,9.8667)",
+  "dcat_bbox": "ENVELOPE(42.35,75.5833,40.7667,9.8667)",
+  "dcat_centroid": "25.3167,58.96665",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30183\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30183/manifest.json\"}",
+  "id": "d943e4bf-efbc-479d-83f6-78dbac2a981f",
+  "dct_identifier_sm": [
+    "d943e4bf-efbc-479d-83f6-78dbac2a981f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:01Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

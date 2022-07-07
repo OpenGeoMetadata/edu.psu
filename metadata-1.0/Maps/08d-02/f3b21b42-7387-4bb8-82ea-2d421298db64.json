@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f3b21b42-7387-4bb8-82ea-2d421298db64",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Girardville, Pennsylvania, 1921",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f3b21b42-7387-4bb8-82ea-2d421298db64",
+  "solr_geom": "ENVELOPE(-76.2956,-76.2699,40.7973,40.7892)",
+  "solr_year_i": "1921",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Girardville, Schuylkill County, Pennsylvania, September 1921. 1 map on 8 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9871\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9871/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Girardville, Pennsylvania",
+    "Schuylkill County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1921"
+  ]
+}

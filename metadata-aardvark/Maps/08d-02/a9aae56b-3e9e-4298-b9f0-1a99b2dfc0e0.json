@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Saxton, Pennsylvania, 1905",
+  "dct_description_sm": [
+    "Saxton, Bedford County, Pennsylvania, August 1905. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "gbl_indexYear_im": [
+    "1905"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1905 TO 1905]"
+  ],
+  "dct_spatial_sm": [
+    "Saxton, Pennsylvania",
+    "Bedford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.2578,-78.2371,40.2188,40.2059)",
+  "dcat_bbox": "ENVELOPE(-78.2578,-78.2371,40.2188,40.2059)",
+  "dcat_centroid": "40.21235,-78.24745",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22976\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22976/manifest.json\"}",
+  "id": "a9aae56b-3e9e-4298-b9f0-1a99b2dfc0e0",
+  "dct_identifier_sm": [
+    "a9aae56b-3e9e-4298-b9f0-1a99b2dfc0e0"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:31:38Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

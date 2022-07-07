@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a0f8bbec-5cfd-40ef-9489-196bfdf75ca7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ashland, Pennsylvania, 1891",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "a0f8bbec-5cfd-40ef-9489-196bfdf75ca7",
+  "solr_geom": "ENVELOPE(-76.3651,-76.324,40.791,40.7709)",
+  "solr_year_i": "1891",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Ashland, Pa. [1891]. 1 map on 11 sheets : col. ; sheets 64 x 54 cm. Title from sheet 1; \"\"Aug. 1891\"\"; Includes sheet index map, map key, streets and specials index, and text; \"\"4583\"\"; Maps Library set is encapsulated. Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/1971\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/1971/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ashland, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1891"
+  ]
+}

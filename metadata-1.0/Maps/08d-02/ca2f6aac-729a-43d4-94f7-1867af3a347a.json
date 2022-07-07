@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ca2f6aac-729a-43d4-94f7-1867af3a347a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Delmont, Pennsylvania, 1909",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ca2f6aac-729a-43d4-94f7-1867af3a347a",
+  "solr_geom": "ENVELOPE(-79.592,-79.5616,40.427,40.4006)",
+  "solr_year_i": "1909",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Delmont, Westmoreland County, Pennsylvania, December 1909. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6773\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6773/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Delmont, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1909"
+  ]
+}

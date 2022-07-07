@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a9461695-ca9f-4819-98d6-24613ef07cb1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New Bloomfield, Pennsylvania, 1929",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "a9461695-ca9f-4819-98d6-24613ef07cb1",
+  "solr_geom": "ENVELOPE(-77.2005,-77.1787,40.4231,40.4127)",
+  "solr_year_i": "1929",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "New Bloomfield, Perry County, Pennsylvania, September 1928. 1 map on 4 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27810\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27810/manifest.json\"}",
+  "dct_spatial_sm": [
+    "New Bloomfield, Pennsylvania",
+    "Perry County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:38Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1929"
+  ]
+}

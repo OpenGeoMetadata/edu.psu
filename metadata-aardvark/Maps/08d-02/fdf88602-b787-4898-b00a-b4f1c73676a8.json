@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Media, Pennsylvania, 1907",
+  "dct_description_sm": [
+    "Media, Delaware County, Pa., June 1907. 1 map on 7 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "gbl_indexYear_im": [
+    "1907"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1907 TO 1907]"
+  ],
+  "dct_spatial_sm": [
+    "Media, Pennsylvania",
+    "Delaware County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.3993,-75.378,39.9293,39.912)",
+  "dcat_bbox": "ENVELOPE(-75.3993,-75.378,39.9293,39.912)",
+  "dcat_centroid": "39.920649999999995,-75.38865",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/14847\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14847/manifest.json\"}",
+  "id": "fdf88602-b787-4898-b00a-b4f1c73676a8",
+  "dct_identifier_sm": [
+    "fdf88602-b787-4898-b00a-b4f1c73676a8"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:34:04Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

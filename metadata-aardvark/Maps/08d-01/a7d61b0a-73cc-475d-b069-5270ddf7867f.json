@@ -1,0 +1,53 @@
+{
+  "dct_title_s": "Plan de Paris",
+  "dct_description_sm": [
+    "Paris (France)--Maps"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Hachette (Firm)"
+  ],
+  "dct_publisher_sm": [
+    "Libraririe Hachette & Cie."
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    "1893"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "dct_spatial_sm": [
+    "Paris, France",
+    "France"
+  ],
+  "locn_geometry": "ENVELOPE(2.225,2.4697,48.9019,48.8156)",
+  "dcat_bbox": "ENVELOPE(2.225,2.4697,48.9019,48.8156)",
+  "dcat_centroid": "48.85875,2.34735",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30350\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30350/manifest.json\"}",
+  "id": "a7d61b0a-73cc-475d-b069-5270ddf7867f",
+  "dct_identifier_sm": [
+    "a7d61b0a-73cc-475d-b069-5270ddf7867f"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:40Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Harmonsburg, Pennsylvania, 1922",
+  "dct_description_sm": [
+    "Harmonsburg, Crawford County, Pennsylvania, June 1922. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Harmonsburg, Pennsylvania",
+    "Crawford County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.3266,-80.302,41.6742,41.6523)",
+  "dcat_bbox": "ENVELOPE(-80.3266,-80.302,41.6742,41.6523)",
+  "dcat_centroid": "41.66325,-80.3143",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10859\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10859/manifest.json\"}",
+  "id": "9f6fc900-3654-4310-9a51-be20b053f43a",
+  "dct_identifier_sm": [
+    "9f6fc900-3654-4310-9a51-be20b053f43a"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:55Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

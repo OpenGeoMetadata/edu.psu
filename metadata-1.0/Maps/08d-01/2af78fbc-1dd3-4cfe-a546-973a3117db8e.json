@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2af78fbc-1dd3-4cfe-a546-973a3117db8e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "James T. Hair Company's Map showing the territory covered by their hotel register business in that part of the United States : from the Hudson River and Atlantic Ocean on the East, West to and including Eastern Washington, Eastern Oregon, Nevada, and Southern California.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2af78fbc-1dd3-4cfe-a546-973a3117db8e",
+  "solr_geom": "ENVELOPE(-125.3667,-62.2667,49.3667,23.55)",
+  "solr_year_i": "1894",
+  "dc_creator_sm": [
+    "James T. Hair Company."
+  ],
+  "dc_description_s": "Scale approximately 1:4,435,200. 70 miles to 1 inch (app.); 1 map: color; 53 x 79 cm Hotels--United States--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29971\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29971/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:03Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "James T. Hair Co.",
+  "dct_temporal_sm": [
+    "1894"
+  ]
+}

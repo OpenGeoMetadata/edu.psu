@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "72d5b94e-bf49-4700-9110-c3a8b79343cc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hazleton, Pennsylvania, 1946",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "72d5b94e-bf49-4700-9110-c3a8b79343cc",
+  "solr_geom": "ENVELOPE(-76.0378,-75.9459,40.982,40.9277)",
+  "solr_year_i": "1946",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Hazleton, including Borough of West Hazelton, Luzerne County, Pennsylvania. 1 map on 93 sheets : color ; sheets 65 x 55 cm + title sheet (65 x 55 cm) + 2  index sheets (65 x 55 cm) + key map sheet (color ; 65 x 55 cm).  Scale approximately 1:600. 50 ft. to one in.unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29479\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29479/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Hazleton, Pennsylvania",
+    "West Hazelton, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:43Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1946"
+  ]
+}

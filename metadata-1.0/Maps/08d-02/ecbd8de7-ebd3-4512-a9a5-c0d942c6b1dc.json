@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ecbd8de7-ebd3-4512-a9a5-c0d942c6b1dc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Steelton, Pennsylvania, 1897",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ecbd8de7-ebd3-4512-a9a5-c0d942c6b1dc",
+  "solr_geom": "ENVELOPE(-76.8536,-76.7957,40.2435,40.2088)",
+  "solr_year_i": "1897",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Steelton, Dauphin County, Pennsylvania, Dec. 1896. 1 map on 12 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19064\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/19064/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Steelton, Pennsylvania",
+    "Dauphin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1897"
+  ]
+}

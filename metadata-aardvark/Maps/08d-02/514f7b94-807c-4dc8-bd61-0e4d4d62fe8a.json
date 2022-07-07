@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Sharpsville, Pennsylvania, 1900",
+  "dct_description_sm": [
+    "Sharpsville, Mercer Co., Penna., Jan. 1900. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "gbl_indexYear_im": [
+    "1900"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "dct_spatial_sm": [
+    "Sharpsville, Pennsylvania",
+    "Mercer County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.4994,-80.4676,41.2718,41.2497)",
+  "dcat_bbox": "ENVELOPE(-80.4994,-80.4676,41.2718,41.2497)",
+  "dcat_centroid": "41.26075,-80.48349999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22459\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22459/manifest.json\"}",
+  "id": "514f7b94-807c-4dc8-bd61-0e4d4d62fe8a",
+  "dct_identifier_sm": [
+    "514f7b94-807c-4dc8-bd61-0e4d4d62fe8a"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:35Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

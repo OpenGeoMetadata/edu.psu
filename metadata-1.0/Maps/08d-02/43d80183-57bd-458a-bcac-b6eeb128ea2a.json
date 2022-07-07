@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "43d80183-57bd-458a-bcac-b6eeb128ea2a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Langhorne, Pennsylvania, 1924",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "43d80183-57bd-458a-bcac-b6eeb128ea2a",
+  "solr_geom": "ENVELOPE(-74.9579,-74.8555,40.2253,40.1319)",
+  "solr_year_i": "1924",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Langhorne, including Langhorne Manor, South Langhorne, Hulmeville, Parkland, Oakelhurst and part of Middletown Township, Bucks County, Pennsylvania, June 1924. 1 map on 17 sheets : color ; sheets 65 x 54 cm + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27303\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27303/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Langhorne, Pennsylvania",
+    "Langhorne Manor, Pennsylvania",
+    "South Langhorne, Pennsylvania",
+    "Hulmeville, Pennsylvania",
+    "Parkland, Pennsylvania",
+    "Oakelhurst, Pennsylvania",
+    "Middletown Township, Pennsylvania",
+    "Bucks County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:00Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1924"
+  ]
+}

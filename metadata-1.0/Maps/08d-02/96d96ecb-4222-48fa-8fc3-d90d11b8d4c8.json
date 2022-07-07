@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "96d96ecb-4222-48fa-8fc3-d90d11b8d4c8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Washington, Pennsylvania, 1914",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "96d96ecb-4222-48fa-8fc3-d90d11b8d4c8",
+  "solr_geom": "ENVELOPE(-80.27,-80.2148,40.1967,40.156)",
+  "solr_year_i": "1914",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Washington, Washington County, Pennsylvania, Dec. 1914. 1 map on 37 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/21111\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/21111/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Washington, Pennsylvania",
+    "Washington County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1914"
+  ]
+}

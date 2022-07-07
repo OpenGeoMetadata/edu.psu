@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "558302ca-6fed-4c52-ba84-d9de4a491adf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Somerset, Pennsylvania, 1924",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "558302ca-6fed-4c52-ba84-d9de4a491adf",
+  "solr_geom": "ENVELOPE(-79.1046,-79.0385,40.0279,39.9898)",
+  "solr_year_i": "1924",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Somerset, Somerset County, Pennsylvania, August, 1924. 1 map on 12 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to one in.unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29709\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29709/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Somerset, Pennsylvania",
+    "Somerset County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1924"
+  ]
+}

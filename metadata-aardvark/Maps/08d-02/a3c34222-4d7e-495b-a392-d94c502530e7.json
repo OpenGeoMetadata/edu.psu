@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Glen Lyon, Pennsylvania, 1928",
+  "dct_description_sm": [
+    "Glen Lyon, Luzerne County, Pennsylvania, April 1928. 1 map on 8 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "gbl_indexYear_im": [
+    "1928"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1928 TO 1928]"
+  ],
+  "dct_spatial_sm": [
+    "Glen Lyon, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-76.1077,-76.0551,41.2015,41.1652)",
+  "dcat_bbox": "ENVELOPE(-76.1077,-76.0551,41.2015,41.1652)",
+  "dcat_centroid": "41.183350000000004,-76.0814",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27002\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27002/manifest.json\"}",
+  "id": "a3c34222-4d7e-495b-a392-d94c502530e7",
+  "dct_identifier_sm": [
+    "a3c34222-4d7e-495b-a392-d94c502530e7"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:37Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

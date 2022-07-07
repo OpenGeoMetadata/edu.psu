@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d60195f2-b26d-4e37-950e-3ceb7d9e8f3e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Weissport, Pennsylvania, 1902",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "d60195f2-b26d-4e37-950e-3ceb7d9e8f3e",
+  "solr_geom": "ENVELOPE(-75.7058,-75.6945,40.835,40.823)",
+  "solr_year_i": "1902",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Weissport, Carbon Co., Penna., March 1902. 1 map : col. ; on sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/23406\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/23406/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Weissport, Pennsylvania",
+    "Carbon County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1902"
+  ]
+}

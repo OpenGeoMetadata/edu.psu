@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "884158f5-dfde-4eb1-94e4-a0a3727c96f8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Patterson, Pennsylvania, 1885",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "884158f5-dfde-4eb1-94e4-a0a3727c96f8",
+  "solr_geom": "ENVELOPE(-80.3501,-80.3148,40.7625,40.7234)",
+  "solr_year_i": "1885",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Patterson, Pa., Dec. 1885. 1 map : col. ; on sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/25096\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25096/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Patterson, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:40Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1885"
+  ]
+}

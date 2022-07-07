@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a301ce99-3af9-4356-9127-ed77fdd70644",
+  "dc_rights_s": "Public",
+  "dc_title_s": "McClellandtown, Pennsylvania, 1921",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "a301ce99-3af9-4356-9127-ed77fdd70644",
+  "solr_geom": "ENVELOPE(-79.8827,-79.8507,39.8956,39.8785)",
+  "solr_year_i": "1921",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "McClellandtown, Fayette County, Pennsylvania, January 1921. 1 map : col. ; 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/14665\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14665/manifest.json\"}",
+  "dct_spatial_sm": [
+    "McClellandtown, Pennsylvania",
+    "Fayette County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1921"
+  ]
+}

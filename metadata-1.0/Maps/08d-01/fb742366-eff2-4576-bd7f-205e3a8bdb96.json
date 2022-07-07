@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fb742366-eff2-4576-bd7f-205e3a8bdb96",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Petersburg and Five Forks",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "fb742366-eff2-4576-bd7f-205e3a8bdb96",
+  "solr_geom": "ENVELOPE(-77.6667,-77.25,37.25,37.0167)",
+  "solr_year_i": "1864",
+  "dc_creator_sm": [
+    "Weyss, J. E."
+  ],
+  "dc_description_s": "Scale [1:42,240]. 1 1/2 in. to 1 mile; 1 map: hand colored, mounted on cloth; 54 x 85 cm Petersburg (Va.)--History--Siege, 1864-1865",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30132\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30132/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Petersburg, Virginia",
+    "Virginia"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1867",
+  "dct_temporal_sm": [
+    "1864-1865"
+  ]
+}

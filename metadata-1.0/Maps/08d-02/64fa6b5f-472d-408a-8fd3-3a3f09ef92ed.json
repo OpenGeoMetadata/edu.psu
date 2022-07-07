@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "64fa6b5f-472d-408a-8fd3-3a3f09ef92ed",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Rochester, Pennsylvania, 1884",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "64fa6b5f-472d-408a-8fd3-3a3f09ef92ed",
+  "solr_geom": "ENVELOPE(-80.2939,-80.275,40.7103,40.6955)",
+  "solr_year_i": "1884",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Rochester, Pa., June 1884. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/21005\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/21005/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Rochester, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:43Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1884"
+  ]
+}

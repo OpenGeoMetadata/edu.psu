@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Northumberland, Pennsylvania, 1896",
+  "dct_description_sm": [
+    "Northumberland, Northumberland Co., Pa., July 1896. 1 map on 6 sheets : col. ; sheets 65 x 54 cm. + 1 title and index sheet.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "gbl_indexYear_im": [
+    "1896"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1896 TO 1896]"
+  ],
+  "dct_spatial_sm": [
+    "Northumberland, Pennsylvania",
+    "Northumberland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-76.811,-76.7758,40.9076,40.8835)",
+  "dcat_bbox": "ENVELOPE(-76.811,-76.7758,40.9076,40.8835)",
+  "dcat_centroid": "40.89555,-76.7934",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22527\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22527/manifest.json\"}",
+  "id": "16587cfa-d514-45ed-885a-c786238e94bf",
+  "dct_identifier_sm": [
+    "16587cfa-d514-45ed-885a-c786238e94bf"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:04Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

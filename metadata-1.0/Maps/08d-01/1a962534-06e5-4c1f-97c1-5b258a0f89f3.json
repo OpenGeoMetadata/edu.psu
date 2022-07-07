@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1a962534-06e5-4c1f-97c1-5b258a0f89f3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mappe-monde, ou, Description du globe terrestre. : ou l'on trouve en general le rapportque toutes ses parties ont avec les cieux, entr'elles, et avec l'histoire",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "1a962534-06e5-4c1f-97c1-5b258a0f89f3",
+  "solr_geom": "ENVELOPE(-180,180,85,-85)",
+  "solr_year_i": "1800",
+  "dc_creator_sm": [
+    "Moullart-Sanson"
+  ],
+  "dc_description_s": "Scale not given; 2 maps on 1 sheet: color; each 30 cm in diameter, on sheet 43 x 60 cm World maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26371\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26371/manifest.json\"}",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1800?"
+  ]
+}

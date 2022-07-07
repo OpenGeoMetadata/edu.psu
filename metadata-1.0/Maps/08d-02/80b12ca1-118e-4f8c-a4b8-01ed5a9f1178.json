@@ -1,0 +1,35 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "80b12ca1-118e-4f8c-a4b8-01ed5a9f1178",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lock Haven, Pennsylvania, 1925",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "80b12ca1-118e-4f8c-a4b8-01ed5a9f1178",
+  "solr_geom": "ENVELOPE(-77.4982,-77.3604,41.2032,41.0929)",
+  "solr_year_i": "1925",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Lock Haven, including Mill Hall, Flemington, Woolrich, Lockport and Castanea, Clinton County, Pennsylvania, Oct. 1925. 1 map on 35 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27529\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27529/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Lock Haven, Pennsylvania",
+    "Mill Hall, Pennsylvania",
+    "Flemington, Pennsylvania",
+    "Woolrich, Pennsylvania",
+    "Lockport, Pennsylvania",
+    "Castanea, Pennsylvania",
+    "Clinton County, Pennsylvania",
+    "Clinton County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:58Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1925"
+  ]
+}

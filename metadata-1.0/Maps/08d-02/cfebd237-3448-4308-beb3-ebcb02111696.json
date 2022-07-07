@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "cfebd237-3448-4308-beb3-ebcb02111696",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Emporium, Pennsylvania, 1909",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "cfebd237-3448-4308-beb3-ebcb02111696",
+  "solr_geom": "ENVELOPE(-78.2511,-78.2198,41.5161,41.5037)",
+  "solr_year_i": "1909",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Emporium, Cameron Co., Pennsylvania, Sept. 1909. 1 map on 12 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/8365\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8365/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Emporium, Pennsylvania",
+    "Cameron County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1909"
+  ]
+}

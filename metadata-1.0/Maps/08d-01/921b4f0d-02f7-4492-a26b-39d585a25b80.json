@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "921b4f0d-02f7-4492-a26b-39d585a25b80",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A geometrical plan, & north east elevation of His Majesty's Dockyard at Deptford with part of the town &c.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "921b4f0d-02f7-4492-a26b-39d585a25b80",
+  "solr_geom": "ENVELOPE(0.0422,0.0103,51.4883,51.4744)",
+  "solr_year_i": "1753",
+  "dc_creator_sm": [
+    "Milton, Thomas"
+  ],
+  "dc_description_s": "Navy-yards and naval stations--England--London--Deptford--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30414\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30414/manifest.json\"}",
+  "dct_spatial_sm": [
+    "London, England",
+    "England"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:10Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1753"
+  ]
+}

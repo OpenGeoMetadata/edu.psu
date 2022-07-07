@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e030f62d-ab7d-414f-b03c-7d021b7ee4c5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Point Marion, Pennsylvania, 1909",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e030f62d-ab7d-414f-b03c-7d021b7ee4c5",
+  "solr_geom": "ENVELOPE(-79.9097,-79.891,39.7421,39.7269)",
+  "solr_year_i": "1909",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Point Marion, Fayette County, Pennsylvania, Sept. 1909. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24940\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24940/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Point Marion, Pennsylvania",
+    "Fayette County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:02Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1909"
+  ]
+}

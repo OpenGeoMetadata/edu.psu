@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e25cfd53-7fb1-4963-8162-2ea2050c7f26",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Allegheny, Pennsylvania, 1906",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e25cfd53-7fb1-4963-8162-2ea2050c7f26",
+  "solr_geom": "ENVELOPE(-80.0755,-80.0447,40.5091,40.4826)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Allegheny including Bellevue and Avalon, Pennsylvania : volume one [and] volume two, 1906. 1 map on 204 sheets : col. ; on sheets 64 x 54 cm. + 2 title sheets (64 x 54 cm.) + 2 key sheets (col. ; 64 x 54 cm.) + 2 street index sheets (64 x 54 cm.) + 2 special index sheets (64 x 54 cm.). Title derived from title sheets.  Oriented with north slightly to the right with some sheets on the horizontal.  Includes text, sheet index maps, indexes, and keys.  Published in two volumes, vol. 1 (pp. 1-105) and vol. 2 (151-249).  Vol. 1 and vol. 2 index maps are continous.  Vol. 1 8729\"\".  Vol. 2 \"\"8840\"\".\"\". Title derived from title sheets.  Oriented with north slightly to the right with some sheets on the horizontal.  Includes text, sheet index maps, indexes, and keys.  Published in two volumes, vol. 1 (pp. 1-105) and vol. 2 (151-249).  Vol. 1 and vol. 2 index maps are continous.  Vol. 1 8729\"\".  Vol. 2 \"\"8840\"\".\"\". Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2764\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2764/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Allegheny, Pennsylvania",
+    "Bellevue, Pennsylvania",
+    "Avalon, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:11Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

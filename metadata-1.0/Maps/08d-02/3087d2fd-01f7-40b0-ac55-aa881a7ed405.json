@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3087d2fd-01f7-40b0-ac55-aa881a7ed405",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New Castle, Pennsylvania, 1920",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "3087d2fd-01f7-40b0-ac55-aa881a7ed405",
+  "solr_geom": "ENVELOPE(-80.3977,-80.3157,41.0279,40.9579)",
+  "solr_year_i": "1920",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "New Castle, Lawrence County, Pennsylvania, September 1920, new and additional maps. 10 maps : col. ; on sheets 65 x 55 cm. + 1 key map sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15501\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15501/manifest.json\"}",
+  "dct_spatial_sm": [
+    "New Castle, Pennsylvania",
+    "Lawrence County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1920"
+  ]
+}

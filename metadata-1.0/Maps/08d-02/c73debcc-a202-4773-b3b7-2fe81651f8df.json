@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c73debcc-a202-4773-b3b7-2fe81651f8df",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Butler, Pennsylvania, 1922",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "c73debcc-a202-4773-b3b7-2fe81651f8df",
+  "solr_geom": "ENVELOPE(-79.929,-79.8756,40.8795,40.8411)",
+  "solr_year_i": "1922",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Butler, Pennsylvania, including Lyndora, Butler Co., Dec. 1921. 1 map on 42 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3598\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3598/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Butler, Pennsylvania",
+    "Lyndora, Pennsylvania",
+    "Bucks County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1922"
+  ]
+}

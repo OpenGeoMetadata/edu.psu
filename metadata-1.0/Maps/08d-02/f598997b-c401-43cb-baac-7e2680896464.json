@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f598997b-c401-43cb-baac-7e2680896464",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Fayette City, Pennsylvania, 1920",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f598997b-c401-43cb-baac-7e2680896464",
+  "solr_geom": "ENVELOPE(-79.8449,-79.8337,40.107,40.0934)",
+  "solr_year_i": "1920",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Fayette City, Fayette County, Pennsylvania, July 1920. 1 map on 6 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9279\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9279/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Fayette City, Pennsylvania",
+    "Fayette County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:30Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1920"
+  ]
+}

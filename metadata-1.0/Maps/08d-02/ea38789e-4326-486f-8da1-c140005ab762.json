@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ea38789e-4326-486f-8da1-c140005ab762",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Port Allegany, Pennsylvania, 1924",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ea38789e-4326-486f-8da1-c140005ab762",
+  "solr_geom": "ENVELOPE(-78.2948,-78.2582,41.8278,41.8019)",
+  "solr_year_i": "1924",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Port Allegany, McKean County, Pennsylvania, October 1924. 1 map on 13 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/28406\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/28406/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Port Allegany, Pennsylvania",
+    "McKean County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1924"
+  ]
+}

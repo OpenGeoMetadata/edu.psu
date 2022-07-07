@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Bradford, Pennsylvania, 1890",
+  "dct_description_sm": [
+    "Bradford, Pa. [1890]. 1 map on 12 sheets : col. ; sheets 65 x 54 cm. Title from sheet 1.  Partial cadastral map.  Includes text and sheet diagram.  Population Bradford 15,000, Kendall 3,000.\"\"  Sheets consist of various sections at diverse orientations.  Includes index of streets and specials.\"\". Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "gbl_indexYear_im": [
+    "1890"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "dct_spatial_sm": [
+    "Bradford, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.6674,-78.6148,41.977,41.9412)",
+  "dcat_bbox": "ENVELOPE(-78.6674,-78.6148,41.977,41.9412)",
+  "dcat_centroid": "41.9591,-78.6411",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2873\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2873/manifest.json\"}",
+  "id": "fe4b090b-e68e-4eba-b219-4b12131c8f9e",
+  "dct_identifier_sm": [
+    "fe4b090b-e68e-4eba-b219-4b12131c8f9e"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:20Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

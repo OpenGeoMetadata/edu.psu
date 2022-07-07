@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f297c45a-0c2a-4b7d-8a10-d39d0d4b358a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New map of the city of Norwich",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f297c45a-0c2a-4b7d-8a10-d39d0d4b358a",
+  "solr_geom": "ENVELOPE(-72.1406,-72.0403,41.6078,41.4906)",
+  "solr_year_i": "1883",
+  "dc_creator_sm": [
+    "Chandler, C. E. (Charles Edward), 1852-"
+  ],
+  "dc_description_s": "Scale [ca. 1:9,000]; 1 map; 41 x 69 cm Norwich (Conn.)--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30010\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30010/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Norwich, Connecticut",
+    "Connecticut"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Price, Lee & Co.",
+  "dct_temporal_sm": [
+    "1883"
+  ]
+}

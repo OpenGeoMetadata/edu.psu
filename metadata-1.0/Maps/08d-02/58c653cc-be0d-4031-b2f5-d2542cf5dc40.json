@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "58c653cc-be0d-4031-b2f5-d2542cf5dc40",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bethlehem, Pennsylvania, 1904",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "58c653cc-be0d-4031-b2f5-d2542cf5dc40",
+  "solr_geom": "ENVELOPE(-75.4304,-75.3016,40.6725,40.578)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Bethlehem, Pa. [1904]. 1 map on 35 sheets : col. ; sheets each 65 x 54 cm. + 1 title sheet with index and 1 map index sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/4118\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4118/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Bethlehem, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "47de9027-4e4c-4857-b6a9-85710dc7bcc1",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The Eskimo tribes of north-east America",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "47de9027-4e4c-4857-b6a9-85710dc7bcc1",
+  "solr_geom": "ENVELOPE(-122.5167,-19.4167,83.6667,57.7833)",
+  "solr_year_i": "1885",
+  "dc_creator_sm": [
+    "Boas, Franz, 1858-1942."
+  ],
+  "dc_description_s": "Scale not given; 2 maps on 2 sheets: color; 52 x 47 cm or smaller Eskimos--Canada, Northern--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27176\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27176/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Canada"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "[G.P.O.?]",
+  "dct_temporal_sm": [
+    "1885?"
+  ]
+}

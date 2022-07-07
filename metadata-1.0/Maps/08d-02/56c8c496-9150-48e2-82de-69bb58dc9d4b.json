@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "56c8c496-9150-48e2-82de-69bb58dc9d4b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Williamstown, Pennsylvania, 1902",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "56c8c496-9150-48e2-82de-69bb58dc9d4b",
+  "solr_geom": "ENVELOPE(-76.6584,-76.5981,40.5859,40.5741)",
+  "solr_year_i": "1902",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Williamstown, Dauphin Co., Pennsylvania, November 1902. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22739\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22739/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Williamstown, Pennsylvania",
+    "Dauphin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1902"
+  ]
+}

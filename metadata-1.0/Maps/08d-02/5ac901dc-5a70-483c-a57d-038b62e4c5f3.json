@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5ac901dc-5a70-483c-a57d-038b62e4c5f3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Williamsport, Pennsylvania, 1912",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "5ac901dc-5a70-483c-a57d-038b62e4c5f3",
+  "solr_geom": "ENVELOPE(-77.0956,-76.9815,41.2643,41.218)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Williamsport and environs, Pennsylvania, 1912. 1 map on 120 sheets : col. ; sheets 65 x 54 cm. + title sheet + index sheet + key map + map of congested district.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22970\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22970/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Williamsport, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:34:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

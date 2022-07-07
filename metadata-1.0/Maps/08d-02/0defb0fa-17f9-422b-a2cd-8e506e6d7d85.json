@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "0defb0fa-17f9-422b-a2cd-8e506e6d7d85",
+  "dc_rights_s": "Public",
+  "dc_title_s": "York Haven, Pennsylvania, 1913",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "0defb0fa-17f9-422b-a2cd-8e506e6d7d85",
+  "solr_geom": "ENVELOPE(-76.7246,-76.7078,40.1164,40.1047)",
+  "solr_year_i": "1913",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "York Haven, York County, Pennsylvania, October 1913. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/18984\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/18984/manifest.json\"}",
+  "dct_spatial_sm": [
+    "York Haven, Pennsylvania",
+    "York County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1913"
+  ]
+}

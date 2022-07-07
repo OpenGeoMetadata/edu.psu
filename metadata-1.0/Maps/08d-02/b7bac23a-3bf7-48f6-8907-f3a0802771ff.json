@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b7bac23a-3bf7-48f6-8907-f3a0802771ff",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Allentown, Pennsylvania, 1932",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b7bac23a-3bf7-48f6-8907-f3a0802771ff",
+  "solr_geom": "ENVELOPE(-75.548,-75.4196,40.636,40.5502)",
+  "solr_year_i": "1932",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Allentown, Pennsylvania. 1 map on 93 sheets : color ; sheets 65 x 55 cm + title sheet (65 x 55 cm) + 2  index sheets (65 x 55 cm) + key map sheet (color ; 65 x 55 cm).  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29585\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29585/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Allentown, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1932"
+  ]
+}

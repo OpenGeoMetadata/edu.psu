@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ab41a136-0fd9-4f34-a428-14b918d897da",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plans of battlefields in and around Fredericksburg and Spottsylvania Court House, Virginia : to accompany the report of the Battlefield Commission, dated December 1, 1925.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ab41a136-0fd9-4f34-a428-14b918d897da",
+  "solr_geom": "ENVELOPE(-77.5327,-77.4471,38.3264,38.2702)",
+  "solr_year_i": "1925",
+  "dc_creator_sm": [
+    "United States. Battlefield Commission."
+  ],
+  "dc_description_s": "Fredericksburg, Battle of, Fredericksburg, Va., 1862--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30443\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30443/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Frederiscksburg, Virginia",
+    "Virginia"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1925"
+  ]
+}

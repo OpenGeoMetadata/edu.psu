@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2a2d6f39-c491-4c0f-acae-fa18daa8596f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nanticoke, Pennsylvania, 1903",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2a2d6f39-c491-4c0f-acae-fa18daa8596f",
+  "solr_geom": "ENVELOPE(-76.0243,-75.9748,41.2204,41.1839)",
+  "solr_year_i": "1903",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Nanticoke, Luzerne County, Pennsylvania, March 1903. 1 map on 15 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15170\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15170/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Nanticoke, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1903"
+  ]
+}

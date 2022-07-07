@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f2dd8545-3b33-49c1-803a-76c7e73d58ff",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A map of Scotland, the Hebrides, and part of England : adapted to Mr. Pennant's Tours",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f2dd8545-3b33-49c1-803a-76c7e73d58ff",
+  "solr_geom": "ENVELOPE(-8.6333,0.7167,60.85,54.6167)",
+  "solr_year_i": "1777",
+  "dc_creator_sm": [
+    "Bayly, J."
+  ],
+  "dc_description_s": "Scotland--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30356\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30356/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Scotland"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Benj.n?é White",
+  "dct_temporal_sm": [
+    "1777"
+  ]
+}

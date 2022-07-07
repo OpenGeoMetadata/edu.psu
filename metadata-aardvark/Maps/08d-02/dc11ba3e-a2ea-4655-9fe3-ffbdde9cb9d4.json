@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Oxford, Pennsylvania, 1914",
+  "dct_description_sm": [
+    "Oxford, Chester County, Pennsylvania, February 1914. 1 map on 8 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "gbl_indexYear_im": [
+    "1914"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "dct_spatial_sm": [
+    "Oxford, Pennsylvania",
+    "Chester County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-76.0008,-75.9599,39.7966,39.7738)",
+  "dcat_bbox": "ENVELOPE(-76.0008,-75.9599,39.7966,39.7738)",
+  "dcat_centroid": "39.7852,-75.98035",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19405\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/19405/manifest.json\"}",
+  "id": "dc11ba3e-a2ea-4655-9fe3-ffbdde9cb9d4",
+  "dct_identifier_sm": [
+    "dc11ba3e-a2ea-4655-9fe3-ffbdde9cb9d4"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:29Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

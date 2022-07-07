@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c6a1a430-e481-4e58-ab2b-ac23d3ca199f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new and accurate map of Quebec and its boundaries. : from a late survey.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "c6a1a430-e481-4e58-ab2b-ac23d3ca199f",
+  "solr_geom": "ENVELOPE(-74.85,-51.7333,51.7833,42.7667)",
+  "solr_year_i": "1760",
+  "dc_description_s": "Scale not given; 1 map; 27 x 32 cm, on sheet 33 x 33 cm Québec Region (Québec)--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27173\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27173/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Québec, Canada",
+    "Canada"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "approximately 1760"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7243ca9c-d1c7-452d-8843-5c8d13d3e0c6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hallstead, Pennsylvania, 1892",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7243ca9c-d1c7-452d-8843-5c8d13d3e0c6",
+  "solr_geom": "ENVELOPE(-75.754,-75.7415,41.9698,41.9513)",
+  "solr_year_i": "1892",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Hallstead, Susquehanna Co. Pa., Apr. 1892. 1 map : col. ; 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10873\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10873/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Hallstead, Pennsylvania",
+    "Susquehanna County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:29Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1892"
+  ]
+}

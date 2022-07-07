@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fb2464b2-0299-4e71-bbeb-93aa291328d3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Reedsville, Pennsylvania, 1904",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "fb2464b2-0299-4e71-bbeb-93aa291328d3",
+  "solr_geom": "ENVELOPE(-77.6383,-77.5832,40.6767,40.6317)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Reedsville, Mifflin Co., Pennsylvania, September 1904. 1 map : col. ; 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20910\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/20910/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Reedsville, Pennsylvania",
+    "Mifflin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:28Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b2ada8fc-3be9-4a7d-818f-708f7d3785da",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Greensburg, Pennsylvania, 1915",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b2ada8fc-3be9-4a7d-818f-708f7d3785da",
+  "solr_geom": "ENVELOPE(-79.5756,-79.5215,40.3427,40.2852)",
+  "solr_year_i": "1915",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Greensburg, Pennsylvania, Westmoreland County, Dec. 1915. 1 map on 23 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9382\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9382/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Insurance Maps, Pennsylvania",
+    "Greensburg, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1915"
+  ]
+}

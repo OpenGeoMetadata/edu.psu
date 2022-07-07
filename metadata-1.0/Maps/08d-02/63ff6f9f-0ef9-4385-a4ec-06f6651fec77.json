@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "63ff6f9f-0ef9-4385-a4ec-06f6651fec77",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mount Pleasant, Pennsylvania, 1927",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "63ff6f9f-0ef9-4385-a4ec-06f6651fec77",
+  "solr_geom": "ENVELOPE(-79.5556,-79.5285,40.1672,40.1404)",
+  "solr_year_i": "1927",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Mount Pleasant, Westmoreland County, Pennsylvania, April 1927 : including Bridgeport & Parfitown. 1 map on 12 sheets : color ; sheets 65 x 54 cm + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27805\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27805/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mount Pleasant, Pennsylvania",
+    "Parfitown, Pennsylvania",
+    "Westmoreland County Bridgeport, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1927"
+  ]
+}

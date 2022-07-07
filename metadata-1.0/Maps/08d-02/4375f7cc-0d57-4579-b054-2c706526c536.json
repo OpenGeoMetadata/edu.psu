@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4375f7cc-0d57-4579-b054-2c706526c536",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Phoenixville, Pennsylvania, 1900",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "4375f7cc-0d57-4579-b054-2c706526c536",
+  "solr_geom": "ENVELOPE(-75.5472,-75.4997,40.1601,40.1167)",
+  "solr_year_i": "1900",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Phoenixville, Chester Co., Pennsylvania, Oct. 1900. 1 map on 13 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/21892\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/21892/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Phoenixville, Pennsylvania",
+    "Chester County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1900"
+  ]
+}

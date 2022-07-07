@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a5774c4b-e31a-49fa-a87a-9438d0697308",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Harmony, Pennsylvania, 1912",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "a5774c4b-e31a-49fa-a87a-9438d0697308",
+  "solr_geom": "ENVELOPE(-80.1319,-80.1121,40.8093,40.7914)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Harmony, Butler County, Pennsylvania, July 1912. 1 map : col. ; 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10916\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10916/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Harmony, Pennsylvania",
+    "Butler County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

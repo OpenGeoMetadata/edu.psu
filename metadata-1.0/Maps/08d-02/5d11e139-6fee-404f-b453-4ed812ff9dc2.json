@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5d11e139-6fee-404f-b453-4ed812ff9dc2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Scranton, Pennsylvania, 1920",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "5d11e139-6fee-404f-b453-4ed812ff9dc2",
+  "solr_geom": "ENVELOPE(-75.7198,-75.5612,41.4693,41.3398)",
+  "solr_year_i": "1920",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Scranton, Pennsylvania, including the borough of Dunmore. Vol. 3, 1920. 1 map in 3 volumes : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24565\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24565/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Scranton Dunmore., Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1920"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f4066173-dd1c-47c2-a24c-fb6284da0cd0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Avoca, Pennsylvania, 1903",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f4066173-dd1c-47c2-a24c-fb6284da0cd0",
+  "solr_geom": "ENVELOPE(-75.7594,-75.7248,41.3472,41.3282)",
+  "solr_year_i": "1903",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Avoca, Luzerne Co., Pennsylvania, April 1903. 1 map on 5 sheets : col. ; on sheets 64 x 54 cm.; Title from sheet 1.  Oriented with the north the left.  April 1903.\"\"  Includes key, sheet index map, streets and specials index, and text.\"\". Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2452\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2452/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Avoca, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:38Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1903"
+  ]
+}

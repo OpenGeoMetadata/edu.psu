@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Duquesne, Pennsylvania, 1891",
+  "dct_description_sm": [
+    "Duquesne, Allegheny Co., Pa., Aug. 1891. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1891"
+  ],
+  "gbl_indexYear_im": [
+    "1891"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1891 TO 1891]"
+  ],
+  "dct_spatial_sm": [
+    "Duquesne, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.8692,-79.8362,40.3886,40.3565)",
+  "dcat_bbox": "ENVELOPE(-79.8692,-79.8362,40.3886,40.3565)",
+  "dcat_centroid": "40.37255,-79.8527",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/7364\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/7364/manifest.json\"}",
+  "id": "ef47387a-3e8a-4548-8fcf-b8f4c2eba331",
+  "dct_identifier_sm": [
+    "ef47387a-3e8a-4548-8fcf-b8f4c2eba331"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:31:41Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

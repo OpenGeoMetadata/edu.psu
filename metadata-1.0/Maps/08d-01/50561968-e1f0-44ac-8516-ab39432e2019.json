@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "50561968-e1f0-44ac-8516-ab39432e2019",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of Southern Africa : showing the recruiting systems of the Native Recruiting Corporation and the Witwatersrand Native Labour Assocn.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "50561968-e1f0-44ac-8516-ab39432e2019",
+  "solr_geom": "ENVELOPE(11.4667,33.0333,-22,-34.9667)",
+  "solr_year_i": "1946",
+  "dc_creator_sm": [
+    "Stead, A. D."
+  ],
+  "dc_description_s": "Mineral industries--Africa, Southern--Employees--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30180\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30180/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1946"
+  ]
+}

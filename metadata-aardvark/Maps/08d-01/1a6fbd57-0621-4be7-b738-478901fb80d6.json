@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "Plan of the position taken by Genl. Burgoyne on the 10th. of Octr. 1777 in which the British Army was invested by the Americans under the Command of Genl. Gates and surrendered to him on the 16th. of October the same year",
+  "dct_description_sm": [
+    "Scale ca.1:11,000.; 1 map; 21 x 36 cm Saratoga Campaign, N.Y., 1777--Maps"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Chapman, Isaac A."
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ],
+  "gbl_indexYear_im": [
+    "1777"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1777 TO 1777]"
+  ],
+  "dct_spatial_sm": [
+    "Saratoga County, New York",
+    "New York"
+  ],
+  "locn_geometry": "ENVELOPE(-74.1601,-73.5733,43.398,42.7754)",
+  "dcat_bbox": "ENVELOPE(-74.1601,-73.5733,43.398,42.7754)",
+  "dcat_centroid": "43.0867,-73.86670000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30027\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30027/manifest.json\"}",
+  "id": "1a6fbd57-0621-4be7-b738-478901fb80d6",
+  "dct_identifier_sm": [
+    "1a6fbd57-0621-4be7-b738-478901fb80d6"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:42Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

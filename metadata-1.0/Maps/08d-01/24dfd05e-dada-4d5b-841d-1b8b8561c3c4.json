@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "24dfd05e-dada-4d5b-841d-1b8b8561c3c4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "British camp at Trudruffrin from the 18th. to the 21st. of September 1777, with the attack made by Major General Grey against the rebels near White Horse Tavern on the 20th. of September / Drawn by an officer on the spot.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "24dfd05e-dada-4d5b-841d-1b8b8561c3c4",
+  "solr_geom": "ENVELOPE(-75.5253,-75.4539,40.0558,40.0297)",
+  "solr_year_i": "1777",
+  "dc_creator_sm": [
+    "W. Faden, 1778"
+  ],
+  "dc_description_s": "Scale ca. 1:31,680; 1 map: photocopy; 26 x 41 cm Paoli Massacre, 1777",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30085\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30085/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Tredyffrin, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ]
+}

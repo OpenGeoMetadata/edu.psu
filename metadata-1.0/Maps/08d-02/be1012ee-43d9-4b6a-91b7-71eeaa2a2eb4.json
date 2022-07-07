@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "be1012ee-43d9-4b6a-91b7-71eeaa2a2eb4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Shickshinny, Pennsylvania, 1919",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "be1012ee-43d9-4b6a-91b7-71eeaa2a2eb4",
+  "solr_geom": "ENVELOPE(-76.1575,-76.1417,41.1607,41.145)",
+  "solr_year_i": "1919",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Shickshinny, Luzerne County, Pennsylvania, August 1919. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/21448\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/21448/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Shickshinny, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1919"
+  ]
+}

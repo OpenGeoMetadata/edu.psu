@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a4c0a53a-a4d0-47be-9de1-dc90ed73b7aa",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Osceola Mills, Pennsylvania, 1910",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "a4c0a53a-a4d0-47be-9de1-dc90ed73b7aa",
+  "solr_geom": "ENVELOPE(-78.276,-78.2631,40.8588,40.8471)",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Osceola Mills, Clearfield County, Pennsylvania, March 1910. 1 map on 7 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20055\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/20055/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Osceola Mills, Pennsylvania",
+    "Clearfield County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

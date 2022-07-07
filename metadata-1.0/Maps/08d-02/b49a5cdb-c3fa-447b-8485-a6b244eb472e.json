@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b49a5cdb-c3fa-447b-8485-a6b244eb472e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lancaster, Pennsylvania, 1886",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b49a5cdb-c3fa-447b-8485-a6b244eb472e",
+  "solr_geom": "ENVELOPE(-76.3466,-76.2541,40.073,40.0069)",
+  "solr_year_i": "1886",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Lancaster, Pennsylvania, Oct. 1886. 1 map on 24 sheets : col. ; sheets 65 x 54 cm. + title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/12392\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/12392/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Lancaster, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:46Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1886"
+  ]
+}

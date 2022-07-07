@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "869d46e1-e21a-4b42-84a8-e3724f6fe3fd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "West Middlesex, Pennsylvania, 1900",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "869d46e1-e21a-4b42-84a8-e3724f6fe3fd",
+  "solr_geom": "ENVELOPE(-80.4686,-80.4412,41.1837,41.1653)",
+  "solr_year_i": "1900",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "West Middlesex, Mercer County, Pa., Jany. 1900. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24710\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24710/manifest.json\"}",
+  "dct_spatial_sm": [
+    "West Middlesex, Pennsylvania",
+    "Mercer County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1900"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b140c6ae-d58c-400e-870a-acf5f99843b7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Steelton, Pennsylvania, 1885",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b140c6ae-d58c-400e-870a-acf5f99843b7",
+  "solr_geom": "ENVELOPE(-76.8536,-76.7957,40.2435,40.2088)",
+  "solr_year_i": "1885",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Steelton, Pa., Oct. 1884. 1 map on 6 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19961\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/19961/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Steelton, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1885"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "eae1b1ec-3db6-48ff-9625-05b6773bf654",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Middleburg, Pennsylvania, 1907",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "eae1b1ec-3db6-48ff-9625-05b6773bf654",
+  "solr_geom": "ENVELOPE(-77.0581,-77.0335,40.7963,40.7803)",
+  "solr_year_i": "1907",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Middleburg, Synder Co., Pa., August 1907. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15011\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15011/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Middleburg, Pennsylvania",
+    "Synder County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:14Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1907"
+  ]
+}

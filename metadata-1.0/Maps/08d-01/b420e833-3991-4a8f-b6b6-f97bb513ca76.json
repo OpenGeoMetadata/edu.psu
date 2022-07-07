@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b420e833-3991-4a8f-b6b6-f97bb513ca76",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new improved map of Hampshire : from the best surveys and intelligences divided into its hundreds shewing the several roads and true measured distances beteen town and town also the rectories & vicarages the parks and seats of the nobililty & gentry with other useful particulars regulated by astron. observations.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b420e833-3991-4a8f-b6b6-f97bb513ca76",
+  "solr_geom": "ENVELOPE(-1.95,0.7167,51.3833,50.7)",
+  "solr_year_i": "1764",
+  "dc_creator_sm": [
+    "Kitchin, Thomas, 1718-1784"
+  ],
+  "dc_description_s": "Hampshire (England)--Early works to 1800--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30408\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30408/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Hampshire, England",
+    "England"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Printed for R. Sayer ..., Carington Bowles ...",
+  "dct_temporal_sm": [
+    "1764"
+  ]
+}

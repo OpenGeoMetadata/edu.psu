@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ef25fc1a-ee62-4905-9164-71f8237bde54",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mount Joy, Pennsylvania, 1886",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ef25fc1a-ee62-4905-9164-71f8237bde54",
+  "solr_geom": "ENVELOPE(-76.5327,-76.4587,40.1221,40.099)",
+  "solr_year_i": "1886",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Mount Joy, PA., Sep. 1886. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/14619\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14619/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mount Joy, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:19Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1886"
+  ]
+}

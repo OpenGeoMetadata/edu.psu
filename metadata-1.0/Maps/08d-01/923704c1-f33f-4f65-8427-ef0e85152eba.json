@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "923704c1-f33f-4f65-8427-ef0e85152eba",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Isle of Wight",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "923704c1-f33f-4f65-8427-ef0e85152eba",
+  "solr_geom": "ENVELOPE(-1.5833,-1,50.7667,50.5667)",
+  "solr_year_i": "1807",
+  "dc_creator_sm": [
+    "Albin, John, active 1791-1800."
+  ],
+  "dc_description_s": "Isle of Wight (England)--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30415\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30415/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Isle of Wight, England",
+    "England"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:06Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "L. Albin",
+  "dct_temporal_sm": [
+    "1807-08-12"
+  ]
+}

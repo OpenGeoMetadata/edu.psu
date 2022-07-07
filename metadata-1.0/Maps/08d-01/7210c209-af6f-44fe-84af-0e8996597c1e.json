@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7210c209-af6f-44fe-84af-0e8996597c1e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Sixth map, or map of 1762 : [of the east coast of the United States].",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7210c209-af6f-44fe-84af-0e8996597c1e",
+  "solr_geom": "ENVELOPE(-97,-62,50,28)",
+  "solr_year_i": "1780",
+  "dc_description_s": "Scale not given; 1 map: color; 20 x 28 cm United States--History--French and Indian War, 1754-1763--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29939\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29939/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:16Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1780-1789"
+  ]
+}

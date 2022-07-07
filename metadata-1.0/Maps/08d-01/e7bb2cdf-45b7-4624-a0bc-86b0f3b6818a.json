@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e7bb2cdf-45b7-4624-a0bc-86b0f3b6818a",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the country between Millikens Bend, La. and Jackson, Miss. shewing the routes followed by the Army of the Tennessee under the command of Maj. Genl. U.S. Grant, U.S. Vols. in its march from Millikens Bend to the rear of Vicksburg in April and May 1863",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e7bb2cdf-45b7-4624-a0bc-86b0f3b6818a",
+  "solr_geom": "ENVELOPE(-91.2333,-90.0333,32.6,31.85)",
+  "solr_year_i": "1876",
+  "dc_creator_sm": [
+    "Wilson, Js. H."
+  ],
+  "dc_description_s": "Scale [1:126,720]. 1/2 in. to the mile; 1 map, col., 69 x 89 cm American Civil War (1861-1865)",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30172\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30172/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "N.Y., Julius Bien & Co.",
+  "dct_temporal_sm": [
+    "1876"
+  ]
+}

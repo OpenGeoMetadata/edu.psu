@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "dc34dd7a-1718-465a-af1c-e12a8d3dd8f2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Chickamauga, Sept. 19th and 20th 1863.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "dc34dd7a-1718-465a-af1c-e12a8d3dd8f2",
+  "solr_geom": "ENVELOPE(-85.3333,-85.2556,34.9569,34.9236)",
+  "solr_year_i": "1889",
+  "dc_creator_sm": [
+    "United States. Army of the Cumberland."
+  ],
+  "dc_description_s": "Chickamauga, Battle of, Ga., 1863--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30145\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30145/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Georgia"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "[The Army]",
+  "dct_temporal_sm": [
+    "1889"
+  ]
+}

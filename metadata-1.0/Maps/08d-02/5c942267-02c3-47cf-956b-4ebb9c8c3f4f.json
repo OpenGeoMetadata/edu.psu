@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5c942267-02c3-47cf-956b-4ebb9c8c3f4f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Ambler, Pennsylvania, 1921",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "5c942267-02c3-47cf-956b-4ebb9c8c3f4f",
+  "solr_geom": "ENVELOPE(-75.2313,-75.164,40.1679,40.1261)",
+  "solr_year_i": "1921",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Ambler : including Fort Washington, Montgomery County, Pennsylvania, Dec. 1921. 1 map on 21 sheets : col. ; on sheets 65 x 55 cm. Publisher's title from [sheet 1].  Copyright 1922 by the Sanborn Map Co.\"\"  \"\"Dec. 1921.\"\"  Oriented with the north to the right on some sheets.  Includes location map, key, sheet index map, street and special index, and text.\"\". Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2494\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2494/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Ambler, Pennsylvania",
+    "Fort Washington, Pennsylvania",
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1921"
+  ]
+}

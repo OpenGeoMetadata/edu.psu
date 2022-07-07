@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "77522f8b-e802-455c-a389-7896c3a5d51f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new and accurate plan of the river St. Laurence, from the falls of Montmorenci to Sillery. : with the operations of the siege of Quebec.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "77522f8b-e802-455c-a389-7896c3a5d51f",
+  "solr_geom": "ENVELOPE(-71.3122,-71.0478,46.9075,46.7497)",
+  "solr_year_i": "1763",
+  "dc_description_s": "Scale [ca. 1:50,000]; 1 map; 18 x 23 cm Québec Campaign, Québec, 1759--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27169\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27169/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Québec, Canada",
+    "Canada"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1763"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "dd32a7cf-2d6c-4c3e-a584-2aa5c2e8bf7b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mayfield, Pennsylvania, 1896",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "dd32a7cf-2d6c-4c3e-a584-2aa5c2e8bf7b",
+  "solr_geom": "ENVELOPE(-75.5574,-75.5005,41.5541,41.5295)",
+  "solr_year_i": "1896",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Mayfield, Lackawanna Co. Pa., June 1896. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/14715\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14715/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mayfield, Pennsylvania",
+    "Lackawanna County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:35Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1896"
+  ]
+}

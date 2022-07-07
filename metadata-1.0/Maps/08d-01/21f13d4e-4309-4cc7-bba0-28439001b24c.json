@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "21f13d4e-4309-4cc7-bba0-28439001b24c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Worlds Columbian Exposition, Chicago 1893 : Jackson Park.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "21f13d4e-4309-4cc7-bba0-28439001b24c",
+  "solr_geom": "ENVELOPE(-87.5867,-87.5664,41.7933,41.7733)",
+  "solr_year_i": "1893",
+  "dc_description_s": "World's Columbian Exposition (1893 : Chicago, Ill.)--Maps.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30210\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30210/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Chicago, Illinois",
+    "Illinois"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ]
+}

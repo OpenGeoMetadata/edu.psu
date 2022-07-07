@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3f5f5196-5497-491d-b2f8-9398ed7add19",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the battlefield of Perryville, Ky. : Major General Don Carlos Buell commanding the U.S. forces ; General Braxton Bragg commanding the Confederate forces ; Oct. 8th 1862",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "3f5f5196-5497-491d-b2f8-9398ed7add19",
+  "solr_geom": "ENVELOPE(-85.0125,-84.9408,37.6908,37.6072)",
+  "solr_year_i": "1877",
+  "dc_creator_sm": [
+    "Ruger, Edward."
+  ],
+  "dc_description_s": "Perryville (Ky.)--History--Civil War, 1861-1865--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30160\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30160/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Perryville, Kentucky",
+    "Kentucky"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "[Office of the Chief of Engineers, U.S. Army]",
+  "dct_temporal_sm": [
+    "1877"
+  ]
+}

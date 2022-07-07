@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Allegheny, Pennsylvania, 1906",
+  "dct_description_sm": [
+    "Insurance maps of Allegheny including Bellevue and Avalon, Pennsylvania : volume one [and] volume two, 1906. 1 map on 204 sheets : col. ; on sheets 64 x 54 cm. + 2 title sheets (64 x 54 cm.) + 2 key sheets (col. ; 64 x 54 cm.) + 2 street index sheets (64 x 54 cm.) + 2 special index sheets (64 x 54 cm.). Title derived from title sheets.  Oriented with north slightly to the right with some sheets on the horizontal.  Includes text, sheet index maps, indexes, and keys.  Published in two volumes, vol. 1 (pp. 1-105) and vol. 2 (151-249).  Vol. 1 and vol. 2 index maps are continous.  Vol. 1 8729\"\".  Vol. 2 \"\"8840\"\".\"\". Title derived from title sheets.  Oriented with north slightly to the right with some sheets on the horizontal.  Includes text, sheet index maps, indexes, and keys.  Published in two volumes, vol. 1 (pp. 1-105) and vol. 2 (151-249).  Vol. 1 and vol. 2 index maps are continous.  Vol. 1 8729\"\".  Vol. 2 \"\"8840\"\".\"\". Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1906"
+  ],
+  "gbl_indexYear_im": [
+    "1906"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1906 TO 1906]"
+  ],
+  "dct_spatial_sm": [
+    "Allegheny, Pennsylvania",
+    "Bellevue, Pennsylvania",
+    "Avalon, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.0755,-80.0447,40.5091,40.4826)",
+  "dcat_bbox": "ENVELOPE(-80.0755,-80.0447,40.5091,40.4826)",
+  "dcat_centroid": "40.49585,-80.0601",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2764\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2764/manifest.json\"}",
+  "id": "e25cfd53-7fb1-4963-8162-2ea2050c7f26",
+  "dct_identifier_sm": [
+    "e25cfd53-7fb1-4963-8162-2ea2050c7f26"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:11Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

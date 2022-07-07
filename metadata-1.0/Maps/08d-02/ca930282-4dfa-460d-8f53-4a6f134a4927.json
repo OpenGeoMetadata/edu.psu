@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ca930282-4dfa-460d-8f53-4a6f134a4927",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Frackville, Pennsylvania, 1928",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ca930282-4dfa-460d-8f53-4a6f134a4927",
+  "solr_geom": "ENVELOPE(-76.2422,-76.2237,40.7904,40.7764)",
+  "solr_year_i": "1928",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Frackville, Schuylkill County, Pennsylvania, May 1928 : including part of West Mahanoy Township. 1 map on 15 sheets : color ; sheets 65 x 54 cm + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26959\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26959/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Frackville, Pennsylvania",
+    "West Mahanoy Township, Pennsylvania",
+    "Schuylkill County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1928"
+  ]
+}

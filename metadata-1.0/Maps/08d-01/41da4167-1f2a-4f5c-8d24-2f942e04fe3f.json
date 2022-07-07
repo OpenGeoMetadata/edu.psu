@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "41da4167-1f2a-4f5c-8d24-2f942e04fe3f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Kimball's map of the city of Watertown, 1889.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "41da4167-1f2a-4f5c-8d24-2f942e04fe3f",
+  "solr_geom": "ENVELOPE(-75.9478,-75.8544,43.9958,43.9489)",
+  "solr_year_i": "1889",
+  "dc_creator_sm": [
+    "Kimball, J. C."
+  ],
+  "dc_description_s": "Scale approximately 1:14,000; 1 map: color; 40 x 47 cm Election districts--New York (State)--Watertown--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30035\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30035/manifest.json\"}",
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:04Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ]
+}

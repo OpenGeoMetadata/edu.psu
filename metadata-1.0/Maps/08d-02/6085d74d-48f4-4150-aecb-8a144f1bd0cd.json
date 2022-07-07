@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6085d74d-48f4-4150-aecb-8a144f1bd0cd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Covington, Pennsylvania, 1885",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "6085d74d-48f4-4150-aecb-8a144f1bd0cd",
+  "solr_geom": "ENVELOPE(-77.1777,-77.0185,41.7622,41.6949)",
+  "solr_year_i": "1885",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Covington, Pa., Nov. 1885. 1 map : col. ; sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6578\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6578/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Covington, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:05Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1885"
+  ]
+}

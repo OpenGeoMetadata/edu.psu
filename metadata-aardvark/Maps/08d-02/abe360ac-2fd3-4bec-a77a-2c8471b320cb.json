@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Muncy, Pennsylvania, 1916",
+  "dct_description_sm": [
+    "Muncy, Lycoming County, Pennsylvania, May 1916. 1 map on 6 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1916"
+  ],
+  "gbl_indexYear_im": [
+    "1916"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1916 TO 1916]"
+  ],
+  "dct_spatial_sm": [
+    "Muncy, Pennsylvania",
+    "Lycoming County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-76.7977,-76.7736,41.2111,41.1926)",
+  "dcat_bbox": "ENVELOPE(-76.7977,-76.7736,41.2111,41.1926)",
+  "dcat_centroid": "41.20185,-76.78565",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/14574\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14574/manifest.json\"}",
+  "id": "abe360ac-2fd3-4bec-a77a-2c8471b320cb",
+  "dct_identifier_sm": [
+    "abe360ac-2fd3-4bec-a77a-2c8471b320cb"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:31:11Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

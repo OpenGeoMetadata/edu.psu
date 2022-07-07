@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Coudersport, Pennsylvania, 1911",
+  "dct_description_sm": [
+    "Insurance maps of Coudersport, Potter County, Pennsylvania, April 1911. 1 map on 17 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1911"
+  ],
+  "gbl_indexYear_im": [
+    "1911"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1911 TO 1911]"
+  ],
+  "dct_spatial_sm": [
+    "Coudersport, Pennsylvania",
+    "Potter County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.0448,-77.9807,41.7919,41.7612)",
+  "dcat_bbox": "ENVELOPE(-78.0448,-77.9807,41.7919,41.7612)",
+  "dcat_centroid": "41.77655,-78.01275",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6555\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6555/manifest.json\"}",
+  "id": "785b44a2-2974-4942-ac6b-b6703970febb",
+  "dct_identifier_sm": [
+    "785b44a2-2974-4942-ac6b-b6703970febb"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:30Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

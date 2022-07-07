@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "442cc6fc-b56b-4438-b369-d2439a676f58",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Brockwayville, Pennsylvania, 1915",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "442cc6fc-b56b-4438-b369-d2439a676f58",
+  "solr_geom": "ENVELOPE(-78.8075,-78.7772,41.2608,41.2371)",
+  "solr_year_i": "1915",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Brockwayville, Jefferson County, Pennsylvania, December 1914. 1 map on 6 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3839\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3839/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Brockwayville, Pennsylvania",
+    "Jefferson County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:54Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1915"
+  ]
+}

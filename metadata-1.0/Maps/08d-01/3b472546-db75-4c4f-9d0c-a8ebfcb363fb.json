@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3b472546-db75-4c4f-9d0c-a8ebfcb363fb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the Falls of the Ohio, and the adjoining countries.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "3b472546-db75-4c4f-9d0c-a8ebfcb363fb",
+  "solr_geom": "ENVELOPE(-85.8264,-85.7314,38.2958,38.2483)",
+  "solr_year_i": "1819",
+  "dc_description_s": "Subjects:",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30159\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30159/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Louisville, Kentucky",
+    "Kentucky",
+    "Indiana"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1963",
+  "dct_temporal_sm": [
+    "1819"
+  ]
+}

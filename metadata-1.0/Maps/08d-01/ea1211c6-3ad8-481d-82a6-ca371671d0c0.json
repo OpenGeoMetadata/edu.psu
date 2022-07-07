@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ea1211c6-3ad8-481d-82a6-ca371671d0c0",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the battlefield of Pea Ridge, Arkansas, showing the positions of the United States and Confederate forces on the 8th of March 1862",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ea1211c6-3ad8-481d-82a6-ca371671d0c0",
+  "solr_geom": "ENVELOPE(-94.1167,-93.9667,36.5167,36.4)",
+  "solr_year_i": "1862",
+  "dc_creator_sm": [
+    "United States. Army. Corps of Engineers."
+  ],
+  "dc_description_s": "Pea Ridge, Battle of, Ark., 1862--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30204\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30204/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Arkansas"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ]
+}

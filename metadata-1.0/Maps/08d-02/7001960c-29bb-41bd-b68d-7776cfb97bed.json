@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7001960c-29bb-41bd-b68d-7776cfb97bed",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Middletown, Pennsylvania, 1928",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7001960c-29bb-41bd-b68d-7776cfb97bed",
+  "solr_geom": "ENVELOPE(-76.7451,-76.7136,40.2198,40.1806)",
+  "solr_year_i": "1928",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Middletown including Royalton, Dauphin County, Pennsylvania, October 1928. 1 map on 20 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27676\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27676/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Middletown, Pennsylvania",
+    "Royalton, Pennsylvania",
+    "Dauphin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1928"
+  ]
+}

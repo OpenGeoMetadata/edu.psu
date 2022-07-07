@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b80aaa0c-9dbc-4fa6-995a-8482b881da51",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the action at Drainsville, Va., December 20th 1861. U.S. forces commanded by Brig Gen. E.O.C. Ord.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b80aaa0c-9dbc-4fa6-995a-8482b881da51",
+  "solr_geom": "ENVELOPE(-77.3547,-77.3308,39.0044,38.9944)",
+  "solr_year_i": "1861",
+  "dc_creator_sm": [
+    "Strickler, H. H., cartographer."
+  ],
+  "dc_description_s": "Scale not given; 1 map: color; 40 x 26 cm Dranesville (Va.)--History--Civil War, 1861-1865--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30114\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30114/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Dranesville, Virginia",
+    "Virginia"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ]
+}

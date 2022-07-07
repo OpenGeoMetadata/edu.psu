@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d212f075-eaf0-46f8-a1c4-8c8a66b23f72",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Trafford, Pennsylvania, 1910",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "d212f075-eaf0-46f8-a1c4-8c8a66b23f72",
+  "solr_geom": "ENVELOPE(-79.775,-79.7337,40.3971,40.3688)",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Trafford, Westmoreland County, Pennsylvania, January 1910. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/18714\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/18714/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Trafford, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

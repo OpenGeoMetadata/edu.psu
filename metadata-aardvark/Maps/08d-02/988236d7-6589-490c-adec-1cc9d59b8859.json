@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Crafton, Pennsylvania, 1902",
+  "dct_description_sm": [
+    "Crafton, Allegheny Co., Penna., November 1902. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "gbl_indexYear_im": [
+    "1902"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1902 TO 1902]"
+  ],
+  "dct_spatial_sm": [
+    "Crafton, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.0864,-80.0572,40.4422,40.4235)",
+  "dcat_bbox": "ENVELOPE(-80.0864,-80.0572,40.4422,40.4235)",
+  "dcat_centroid": "40.43285,-80.0718",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6592\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6592/manifest.json\"}",
+  "id": "988236d7-6589-490c-adec-1cc9d59b8859",
+  "dct_identifier_sm": [
+    "988236d7-6589-490c-adec-1cc9d59b8859"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:11Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

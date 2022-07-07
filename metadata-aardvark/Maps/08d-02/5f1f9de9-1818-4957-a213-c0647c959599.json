@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Brockwayville, Pennsylvania, 1904",
+  "dct_description_sm": [
+    "Brockwayville, Jefferson Co. Pennsylvania, July. 1904. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "dct_spatial_sm": [
+    "Brockwayville, Pennsylvania",
+    "Jefferson County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.8075,-78.7772,41.2608,41.2371)",
+  "dcat_bbox": "ENVELOPE(-78.8075,-78.7772,41.2608,41.2371)",
+  "dcat_centroid": "41.24895,-78.79235",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3832\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3832/manifest.json\"}",
+  "id": "5f1f9de9-1818-4957-a213-c0647c959599",
+  "dct_identifier_sm": [
+    "5f1f9de9-1818-4957-a213-c0647c959599"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:42Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

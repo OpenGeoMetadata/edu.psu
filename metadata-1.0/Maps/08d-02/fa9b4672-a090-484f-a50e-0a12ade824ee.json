@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fa9b4672-a090-484f-a50e-0a12ade824ee",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Patton, Pennsylvania, 1895",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "fa9b4672-a090-484f-a50e-0a12ade824ee",
+  "solr_geom": "ENVELOPE(-78.6638,-78.6345,40.6423,40.6193)",
+  "solr_year_i": "1895",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Patton, Cambria Co., Pa., Nov. 1895. 1 map : col. ; on sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24835\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24835/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Patton, Pennsylvania",
+    "Cambria County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1895"
+  ]
+}

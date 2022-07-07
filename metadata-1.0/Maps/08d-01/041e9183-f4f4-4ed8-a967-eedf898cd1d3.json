@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "041e9183-f4f4-4ed8-a967-eedf898cd1d3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Pocket guide map of the St. Louis Exposition, 1904",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "041e9183-f4f4-4ed8-a967-eedf898cd1d3",
+  "solr_geom": "ENVELOPE(-90.3044,-90.265,38.6481,38.6292)",
+  "solr_year_i": "1904",
+  "dc_creator_sm": [
+    "Dry, Camille N."
+  ],
+  "dc_description_s": "Louisiana Purchase Exposition (1904 : Saint Louis, Mo.)--Maps.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30197\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30197/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Saint Louis, Missouri",
+    "Missouri"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ]
+}

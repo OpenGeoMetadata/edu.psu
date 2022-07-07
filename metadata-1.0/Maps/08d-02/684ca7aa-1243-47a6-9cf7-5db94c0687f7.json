@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "684ca7aa-1243-47a6-9cf7-5db94c0687f7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Coatesville, Pennsylvania, 1928",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "684ca7aa-1243-47a6-9cf7-5db94c0687f7",
+  "solr_geom": "ENVELOPE(-75.8415,-75.7932,40.0054,39.9559)",
+  "solr_year_i": "1928",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Coatesville including Rock Run and Modena, also part of Valley and East Fallowfield townships, Chester County, Pennsylvania : February 1928. 1 map on 30 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26593\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26593/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Coatesville, Pennsylvania",
+    "Rock Run, Pennsylvania",
+    "Modena, Pennsylvania",
+    "Valley Township, Pennsylvania",
+    "East Fallowfield Township, Pennsylvania",
+    "Chester County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1928"
+  ]
+}

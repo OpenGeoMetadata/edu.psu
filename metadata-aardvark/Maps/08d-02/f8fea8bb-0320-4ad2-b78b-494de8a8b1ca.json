@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Great Bend, Pennsylvania, 1897",
+  "dct_description_sm": [
+    "Great Bend, Susquehanna Co., Pa., July 1897. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    "1897"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "dct_spatial_sm": [
+    "Great Bend, Pennsylvania",
+    "Susquehanna County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.753,-75.7385,41.9792,41.968)",
+  "dcat_bbox": "ENVELOPE(-75.753,-75.7385,41.9792,41.968)",
+  "dcat_centroid": "41.973600000000005,-75.74575",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9814\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9814/manifest.json\"}",
+  "id": "f8fea8bb-0320-4ad2-b78b-494de8a8b1ca",
+  "dct_identifier_sm": [
+    "f8fea8bb-0320-4ad2-b78b-494de8a8b1ca"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:39Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

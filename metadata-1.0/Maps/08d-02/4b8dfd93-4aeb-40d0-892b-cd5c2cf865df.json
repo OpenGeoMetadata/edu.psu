@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4b8dfd93-4aeb-40d0-892b-cd5c2cf865df",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Mount Union, Pennsylvania, 1894",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "4b8dfd93-4aeb-40d0-892b-cd5c2cf865df",
+  "solr_geom": "ENVELOPE(-77.8966,-77.8699,40.3936,40.3752)",
+  "solr_year_i": "1894",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Mount Union, Huntingdon Co., Penn., Sep. 1894. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13557\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13557/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mount Union, Pennsylvania",
+    "Huntingdon County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1894"
+  ]
+}

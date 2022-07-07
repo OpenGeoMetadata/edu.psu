@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Jersey Shore, Pennsylvania, 1901",
+  "dct_description_sm": [
+    "Jersey Shore, Lycoming Co., Pa., Oct. 1901. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1901"
+  ],
+  "gbl_indexYear_im": [
+    "1901"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1901 TO 1901]"
+  ],
+  "dct_spatial_sm": [
+    "Jersey Shore, Pennsylvania",
+    "Lycoming County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-77.286,-77.2509,41.2093,41.195)",
+  "dcat_bbox": "ENVELOPE(-77.286,-77.2509,41.2093,41.195)",
+  "dcat_centroid": "41.20215,-77.26845",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11700\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/11700/manifest.json\"}",
+  "id": "e34131d5-fdf1-47b4-9516-050785b8a62c",
+  "dct_identifier_sm": [
+    "e34131d5-fdf1-47b4-9516-050785b8a62c"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:28Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

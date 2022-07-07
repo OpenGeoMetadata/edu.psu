@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b7564f32-bbb4-44eb-9219-e6e271ae0ee7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "DuBois, Pennsylvania, 1891",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b7564f32-bbb4-44eb-9219-e6e271ae0ee7",
+  "solr_geom": "ENVELOPE(-78.7854,-78.7293,41.1373,41.1022)",
+  "solr_year_i": "1891",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "DuBois, Clearfield Co., Pennsylvania, Aug. 1891. 1 map on 9 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/7245\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/7245/manifest.json\"}",
+  "dct_spatial_sm": [
+    "DuBois, Pennsylvania",
+    "Clearfield County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:45Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1891"
+  ]
+}

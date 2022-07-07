@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "5094589d-2c63-49a3-900c-24b5fa2b024d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Congo : physique, économique et administratif",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "5094589d-2c63-49a3-900c-24b5fa2b024d",
+  "solr_geom": "ENVELOPE(11.15,18.6333,3.7,-5.0167)",
+  "solr_year_i": "1913",
+  "dc_creator_sm": [
+    "Michiels, A. (Albert), 1879-"
+  ],
+  "dc_description_s": "Congo (Democratic Republic)--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30225\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30225/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Democratic Republic of the Congo"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:45Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1913",
+  "dct_temporal_sm": [
+    "1913"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d5650e11-fdd2-4713-a541-a56fde1734a7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Huntingdon, Pennsylvania, 1906",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "d5650e11-fdd2-4713-a541-a56fde1734a7",
+  "solr_geom": "ENVELOPE(-78.027,-77.9863,40.519,40.4769)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Huntingdon, Huntingdon, Co., Pennsylvania, Dec. 1906. 1 map on 14 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10425\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10425/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Huntington, Pennsylvania",
+    "Huntingdon County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:08Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

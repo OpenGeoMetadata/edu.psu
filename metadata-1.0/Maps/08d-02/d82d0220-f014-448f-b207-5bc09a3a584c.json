@@ -1,0 +1,31 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d82d0220-f014-448f-b207-5bc09a3a584c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Galeton, Pennsylvania, 1933",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "d82d0220-f014-448f-b207-5bc09a3a584c",
+  "solr_geom": "ENVELOPE(-77.666,-77.6189,41.748,41.7268)",
+  "solr_year_i": "1933",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Galeton, Potter County, Pennsylvania, May 1933 : including Walton & part of West Branch Township. 1 map on 7 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27104\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27104/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Galeton, Pennsylvania",
+    "Walton, Pennsylvania",
+    "West Branch Township, Pennsylvania",
+    "Potter County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:53Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1933"
+  ]
+}

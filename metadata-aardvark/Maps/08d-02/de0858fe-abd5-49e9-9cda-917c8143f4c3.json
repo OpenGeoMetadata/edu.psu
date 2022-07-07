@@ -1,0 +1,62 @@
+{
+  "dct_title_s": "Grove City, Pennsylvania, 1928",
+  "dct_description_sm": [
+    "Grove City, including Broad Acres, Hallville and George Junior Republic, Mercer County, Pennsylvania, October 1928. 1 map on 23 sheets : color ; sheets 65 x 54 cm + 1 title sheet.  Scale approximately 1:600. 50 ft. to one in.unless otherwise noted on individual sheets."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1928"
+  ],
+  "gbl_indexYear_im": [
+    "1928"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1928 TO 1928]"
+  ],
+  "dct_spatial_sm": [
+    "Grove City, Pennsylvania",
+    "Broad Acres, Pennsylvania",
+    "Hallville, Pennsylvania",
+    "George Junior Republic, Pennsylvania",
+    "Mercer County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.116,-80.0664,41.1854,41.136)",
+  "dcat_bbox": "ENVELOPE(-80.116,-80.0664,41.1854,41.136)",
+  "dcat_centroid": "41.160700000000006,-80.0912",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27038\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27038/manifest.json\"}",
+  "id": "de0858fe-abd5-49e9-9cda-917c8143f4c3",
+  "dct_identifier_sm": [
+    "de0858fe-abd5-49e9-9cda-917c8143f4c3"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:25Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

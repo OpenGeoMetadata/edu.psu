@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Lehighton, Pennsylvania, 1887",
+  "dct_description_sm": [
+    "Lehighton, Pa., Jan. 1887. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1887"
+  ],
+  "gbl_indexYear_im": [
+    "1887"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1887 TO 1887]"
+  ],
+  "dct_spatial_sm": [
+    "Lehighton, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.7323,-75.7001,40.8423,40.8192)",
+  "dcat_bbox": "ENVELOPE(-75.7323,-75.7001,40.8423,40.8192)",
+  "dcat_centroid": "40.83075,-75.7162",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13268\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13268/manifest.json\"}",
+  "id": "8f4ad5bb-f59a-4d40-ab7d-60e1912845e2",
+  "dct_identifier_sm": [
+    "8f4ad5bb-f59a-4d40-ab7d-60e1912845e2"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:46Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

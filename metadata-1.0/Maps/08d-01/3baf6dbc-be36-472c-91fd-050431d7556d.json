@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3baf6dbc-be36-472c-91fd-050431d7556d",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the Negeb : and it's surroundings, to accompany Trumbull's Kedesh-Barnea, 1884.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "3baf6dbc-be36-472c-91fd-050431d7556d",
+  "solr_geom": "ENVELOPE(34.25,35.5833,31.75,29.4)",
+  "solr_year_i": "1884",
+  "dc_description_s": "Exodus, The--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30218\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30218/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:04Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "aa408c80-075a-4a59-a199-f01c3af3b2b2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Suburbs of Scranton, Pennsylvania, 1893",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "aa408c80-075a-4a59-a199-f01c3af3b2b2",
+  "solr_geom": "ENVELOPE(-75.6633,-75.4837,41.5448,41.4123)",
+  "solr_year_i": "1893",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Suburbs of Scranton, Pa., July 1893. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/25541\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25541/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Scranton, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:51Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1893"
+  ]
+}

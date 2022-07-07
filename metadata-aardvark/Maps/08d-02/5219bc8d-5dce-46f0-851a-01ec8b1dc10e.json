@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Parsons, Pennsylvania, 1903",
+  "dct_description_sm": [
+    "Parsons, Luzerne Co., Pennsylvania, April 1903. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1903"
+  ],
+  "gbl_indexYear_im": [
+    "1903"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1903 TO 1903]"
+  ],
+  "dct_spatial_sm": [
+    "Parsons, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.8579,-75.8259,41.2685,41.2517)",
+  "dcat_bbox": "ENVELOPE(-75.8579,-75.8259,41.2685,41.2517)",
+  "dcat_centroid": "41.2601,-75.84190000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24945\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24945/manifest.json\"}",
+  "id": "5219bc8d-5dce-46f0-851a-01ec8b1dc10e",
+  "dct_identifier_sm": [
+    "5219bc8d-5dce-46f0-851a-01ec8b1dc10e"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:25Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

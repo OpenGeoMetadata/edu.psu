@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Stoneboro, Pennsylvania, 1925",
+  "dct_description_sm": [
+    "Stoneboro, Mercer County, Pennsylvania, April 1925. 1 map on 3 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1925"
+  ],
+  "gbl_indexYear_im": [
+    "1925"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1925 TO 1925]"
+  ],
+  "dct_spatial_sm": [
+    "Stoneboro, Pennsylvania",
+    "Mercer County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.1294,-80.0948,41.3486,41.3204)",
+  "dcat_bbox": "ENVELOPE(-80.1294,-80.0948,41.3486,41.3204)",
+  "dcat_centroid": "41.3345,-80.1121",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29893\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29893/manifest.json\"}",
+  "id": "2e043dd3-e0a5-4b44-b250-34595e90863d",
+  "dct_identifier_sm": [
+    "2e043dd3-e0a5-4b44-b250-34595e90863d"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:43Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

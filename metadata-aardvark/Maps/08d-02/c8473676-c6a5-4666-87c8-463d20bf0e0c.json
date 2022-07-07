@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Roaring Spring, Pennsylvania, 1922",
+  "dct_description_sm": [
+    "Roaring Spring, Blair County, Pennsylvania, March 1922. 1 map on 9 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Roaring Spring, Pennsylvania",
+    "Blair County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.4081,-78.3812,40.3425,40.3259)",
+  "dcat_bbox": "ENVELOPE(-78.4081,-78.3812,40.3425,40.3259)",
+  "dcat_centroid": "40.334199999999996,-78.39465000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/21073\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/21073/manifest.json\"}",
+  "id": "c8473676-c6a5-4666-87c8-463d20bf0e0c",
+  "dct_identifier_sm": [
+    "c8473676-c6a5-4666-87c8-463d20bf0e0c"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:31:21Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

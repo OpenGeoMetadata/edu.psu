@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "029bf6af-3467-47e9-895c-180ac710a5ed",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Union City, Pennsylvania, 1905",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "029bf6af-3467-47e9-895c-180ac710a5ed",
+  "solr_geom": "ENVELOPE(-79.8644,-79.8288,41.9073,41.8833)",
+  "solr_year_i": "1905",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Union City, Erie County, Pennsylvania, July 1905. 1 map on 10 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/16090\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/16090/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Union City, Pennsylvania",
+    "Erie County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1905"
+  ]
+}

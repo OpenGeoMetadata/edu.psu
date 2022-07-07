@@ -1,0 +1,46 @@
+{
+  "dct_title_s": "Map of the Negeb : and it's surroundings, to accompany Trumbull's Kedesh-Barnea, 1884.",
+  "dct_description_sm": [
+    "Exodus, The--Maps"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "gbl_indexYear_im": [
+    "1884"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1884 TO 1884]"
+  ],
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "locn_geometry": "ENVELOPE(34.25,35.5833,31.75,29.4)",
+  "dcat_bbox": "ENVELOPE(34.25,35.5833,31.75,29.4)",
+  "dcat_centroid": "30.575,34.916650000000004",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30218\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30218/manifest.json\"}",
+  "id": "3baf6dbc-be36-472c-91fd-050431d7556d",
+  "dct_identifier_sm": [
+    "3baf6dbc-be36-472c-91fd-050431d7556d"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:04Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

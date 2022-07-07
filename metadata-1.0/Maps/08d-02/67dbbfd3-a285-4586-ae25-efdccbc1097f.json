@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "67dbbfd3-a285-4586-ae25-efdccbc1097f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Pen Argyl, Pennsylvania, 1912",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "67dbbfd3-a285-4586-ae25-efdccbc1097f",
+  "solr_geom": "ENVELOPE(-75.2698,-75.2406,40.8795,40.8556)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Pen Argyl, Northampton County, Pennsylvania, June 1912. 1 map on 8 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/25149\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25149/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Pen Argyl, Pennsylvania",
+    "Northampton County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

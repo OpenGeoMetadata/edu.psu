@@ -1,0 +1,52 @@
+{
+  "dct_title_s": "Artaria's railroad map, 1893.",
+  "dct_description_sm": [
+    "Railroads--Austria--Maps"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Artaria & Co."
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Railroads"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "gbl_indexYear_im": [
+    "1893"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1893 TO 1893]"
+  ],
+  "dct_spatial_sm": [
+    "Austria"
+  ],
+  "locn_geometry": "ENVELOPE(9.5167,22.9667,51.3167,44.8)",
+  "dcat_bbox": "ENVELOPE(9.5167,22.9667,51.3167,44.8)",
+  "dcat_centroid": "48.05835,16.2417",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30295\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30295/manifest.json\"}",
+  "id": "b1ba12eb-246e-429f-965b-596cbcb8c2b2",
+  "dct_identifier_sm": [
+    "b1ba12eb-246e-429f-965b-596cbcb8c2b2"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:20Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

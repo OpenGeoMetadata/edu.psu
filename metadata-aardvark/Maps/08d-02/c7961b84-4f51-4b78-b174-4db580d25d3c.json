@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Bangor, Pennsylvania, 1904",
+  "dct_description_sm": [
+    "Bangor, Northampton County, Pennsylvania, December 1904 : including East Bangor. 1 map on 12 sheets : col. ; sheets each 64 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1904"
+  ],
+  "gbl_indexYear_im": [
+    "1904"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1904 TO 1904]"
+  ],
+  "dct_spatial_sm": [
+    "Bangor, Pennsylvania",
+    "East Bangor, Pennsylvania",
+    "Northampton County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.2236,-75.1758,40.892,40.8547)",
+  "dcat_bbox": "ENVELOPE(-75.2236,-75.1758,40.892,40.8547)",
+  "dcat_centroid": "40.87335,-75.1997",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3853\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3853/manifest.json\"}",
+  "id": "c7961b84-4f51-4b78-b174-4db580d25d3c",
+  "dct_identifier_sm": [
+    "c7961b84-4f51-4b78-b174-4db580d25d3c"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:26:08Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

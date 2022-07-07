@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "de239253-b424-4f8d-8f77-efb253daad92",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Altoona, Pennsylvania, 1922",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "de239253-b424-4f8d-8f77-efb253daad92",
+  "solr_geom": "ENVELOPE(-78.4328,-78.3647,40.5549,40.466)",
+  "solr_year_i": "1922",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Altoona, Pa. [1922]. maps : col. ; on sheets 65 x 55 cm. July 1922\"\"; Oriented with north to the upper right; Set follow standard Sanborn color-coded key; Title taken from upper left corner of sheet 3; \"\"5293\"\"; Maps Library has duplicate copies of sheets 3, 30, and 32; Maps Library copy is incomplete and is encapsulated. Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/1506\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/1506/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Altoona, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1922"
+  ]
+}

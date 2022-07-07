@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1df8cd24-fd88-4366-9324-34455d4ed14e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map showing the line of the Buffalo & Washington Railway and its connections, 1865",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "1df8cd24-fd88-4366-9324-34455d4ed14e",
+  "solr_geom": "ENVELOPE(-80.5167,-73.5,42.9833,38.65)",
+  "solr_year_i": "1865",
+  "dc_creator_sm": [
+    "Wallace, William (Engineer)"
+  ],
+  "dc_description_s": "Scale approximately 1:2,534,400; 1 map; 25 x 26 cm Buffalo and Washington Railway Company--Maps.",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30076\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30076/manifest.json\"}",
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ]
+}

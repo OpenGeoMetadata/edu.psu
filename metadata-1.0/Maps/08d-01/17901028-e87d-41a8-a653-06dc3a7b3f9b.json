@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "17901028-e87d-41a8-a653-06dc3a7b3f9b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the battle of Iuka, Mississippi, showing the positions of the United States and Confederate troops on the 19th of September 1862",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "17901028-e87d-41a8-a653-06dc3a7b3f9b",
+  "solr_geom": "ENVELOPE(-88.2181,-88.1767,34.8161,34.785)",
+  "solr_year_i": "1862",
+  "dc_creator_sm": [
+    "United States. Army. Corps of Engineers."
+  ],
+  "dc_description_s": "Scale 1:6,336; 1 map: color; 61 x 72 cm Iuka (Miss.)--History--Civil War, 1861-1865--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30165\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30165/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Mississippi"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ]
+}

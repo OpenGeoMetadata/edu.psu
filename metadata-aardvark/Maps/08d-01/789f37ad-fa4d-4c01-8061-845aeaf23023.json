@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "A new map of the western parts of Virginia, Pennsylvania, Maryland and North Carolina; : comprehending the river Ohio, and all the rivers, which fall into it; part of the river Mississippi, the whole of the Illinois River, Lake Erie; part of the lakes Huron, Michigan &c. and all the country bordering on these lakes and rivers.",
+  "dct_description_sm": [
+    "Scale approximately 1:1,270,000; 1 map 92 x 109 cm Ohio River Valley--Maps--Early works to 1800"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Hutchins, Thomas, 1730-1789"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "gbl_indexYear_im": [
+    "1778"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1778 TO 1778]"
+  ],
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "locn_geometry": "ENVELOPE(-93.2833,-75.2667,45.1667,35.05)",
+  "dcat_bbox": "ENVELOPE(-93.2833,-75.2667,45.1667,35.05)",
+  "dcat_centroid": "40.10835,-84.275",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29954\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29954/manifest.json\"}",
+  "id": "789f37ad-fa4d-4c01-8061-845aeaf23023",
+  "dct_identifier_sm": [
+    "789f37ad-fa4d-4c01-8061-845aeaf23023"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:16Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

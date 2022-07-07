@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c3385d87-b468-4593-9c53-d67d09a5f6f3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Glen Lyon, Pennsylvania, 1907",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "c3385d87-b468-4593-9c53-d67d09a5f6f3",
+  "solr_geom": "ENVELOPE(-76.1077,-75.8846,41.3001,41.1652)",
+  "solr_year_i": "1907",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Glen Lyon, Luzerne, Penn., Sept. 1907. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9733\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9733/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Glen Lyon, Pennsylvania",
+    "Luzerne, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:56Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1907"
+  ]
+}

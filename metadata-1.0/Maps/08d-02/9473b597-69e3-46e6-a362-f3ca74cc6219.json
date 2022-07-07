@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "9473b597-69e3-46e6-a362-f3ca74cc6219",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Springdale, Pennsylvania, 1924",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "9473b597-69e3-46e6-a362-f3ca74cc6219",
+  "solr_geom": "ENVELOPE(-79.7952,-79.7647,40.5484,40.5339)",
+  "solr_year_i": "1924",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Springdale, Allegheny County, Pennsylvania, April 1924. 1 map on 9 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to one in.unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29770\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29770/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Springdale, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:52Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1924"
+  ]
+}

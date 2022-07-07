@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ca2fa7a5-7565-481e-8d7b-b399f47fe43e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Freeland, Pennsylvania, 1895",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ca2fa7a5-7565-481e-8d7b-b399f47fe43e",
+  "solr_geom": "ENVELOPE(-75.9062,-75.8859,41.0263,41.0133)",
+  "solr_year_i": "1895",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Freeland, Luzerne Co., Pa., Dec. 1895. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9171\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9171/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Freeland, Pennsylvania",
+    "Luzerne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:00Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1895"
+  ]
+}

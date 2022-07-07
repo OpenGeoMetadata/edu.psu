@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fdca7631-dcae-41e6-a4a6-da2db6ca450f",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Spring Creek, Pennsylvania, 1910",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "fdca7631-dcae-41e6-a4a6-da2db6ca450f",
+  "solr_geom": "ENVELOPE(-79.5289,-79.5198,41.8794,41.8744)",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Spring Creek, Warren County, Pennsylvania, January 1910. 1 map : col. ; 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19407\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/19407/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Spring Creek, Pennsylvania",
+    "Warren County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Osceola Mills, Pennsylvania, 1892",
+  "dct_description_sm": [
+    "Osceola Mills, Centre Co., Pa., Apr. 1892. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "gbl_indexYear_im": [
+    "1892"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "dct_spatial_sm": [
+    "Osceola Mills, Pennsylvania",
+    "Centre County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.276,-78.2631,40.8588,40.8471)",
+  "dcat_bbox": "ENVELOPE(-78.276,-78.2631,40.8588,40.8471)",
+  "dcat_centroid": "40.85295,-78.26955",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19941\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/19941/manifest.json\"}",
+  "id": "d8559f57-b984-4d57-aec6-0857e9faa6fe",
+  "dct_identifier_sm": [
+    "d8559f57-b984-4d57-aec6-0857e9faa6fe"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:31:14Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

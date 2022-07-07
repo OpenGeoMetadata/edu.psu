@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2cd0c57a-4a0b-47cd-be45-29149be4eb75",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Edgeworth, Pennsylvania, 1938",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2cd0c57a-4a0b-47cd-be45-29149be4eb75",
+  "solr_geom": "ENVELOPE(-80.2096,-80.1804,40.5698,40.5406)",
+  "solr_year_i": "1938",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Edgeworth, Allegheny County, Pennsylvania, Jan. 1938. 1 map on 5 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:1,200. 100 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26840\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26840/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Edgeworth, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:29:23Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1938"
+  ]
+}

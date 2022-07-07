@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8026e73d-530b-45e1-a29f-626e391146c3",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Oil City, Pennsylvania, 1906",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "8026e73d-530b-45e1-a29f-626e391146c3",
+  "solr_geom": "ENVELOPE(-79.7335,-79.6731,41.4472,41.4052)",
+  "solr_year_i": "1906",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Oil City, Venango County, Pennsylvania, Aug. 1906. 1 map on 40 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/17338\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/17338/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Oil City, Pennsylvania",
+    "Venango County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:41Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1906"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Elizabeth, Pennsylvania, 1910",
+  "dct_description_sm": [
+    "Elizabeth, Allegheny County, Pennsylvania, June 1910. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1910"
+  ],
+  "gbl_indexYear_im": [
+    "1910"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1910 TO 1910]"
+  ],
+  "dct_spatial_sm": [
+    "Elizabeth, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.8948,-79.8786,40.2793,40.2641)",
+  "dcat_bbox": "ENVELOPE(-79.8948,-79.8786,40.2793,40.2641)",
+  "dcat_centroid": "40.271699999999996,-79.8867",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/8840\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8840/manifest.json\"}",
+  "id": "c7dd0e1c-20f2-4351-bece-6099cadc8748",
+  "dct_identifier_sm": [
+    "c7dd0e1c-20f2-4351-bece-6099cadc8748"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:44Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

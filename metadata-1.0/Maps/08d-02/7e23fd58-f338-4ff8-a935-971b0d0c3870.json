@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7e23fd58-f338-4ff8-a935-971b0d0c3870",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Bryn Athyn, Pennsylvania, 1933",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7e23fd58-f338-4ff8-a935-971b0d0c3870",
+  "solr_geom": "ENVELOPE(-75.0935,-75.0449,40.1596,40.1252)",
+  "solr_year_i": "1933",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Bryn Athyn, Montgomery County, Pennsylvania, Jan. 1933. 1 map on 5 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:1,200. 100 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26385\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26385/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Bryn Athyn, Pennsylvania",
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:57Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1933"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "8c19fdec-0852-49f5-a360-ecf9a8d64bd5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The London Land Company survey, by Thomas Fairman : copy, 1764 of an island in the river Delaware in Philadelphia County abouve the mouth of the Schuylkill",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "8c19fdec-0852-49f5-a360-ecf9a8d64bd5",
+  "solr_geom": "ENVELOPE(-75.2803,-74.9558,40.138,39.867)",
+  "solr_year_i": "1764",
+  "dc_creator_sm": [
+    "Fairman, Thomas."
+  ],
+  "dc_description_s": "Scale approximately 7,920. 40 perches per in.; 1 map: color; 42 x 36 cm Real property--Pennsylvania--Philadelphia County--Maps--Early works to 1800--Facsimiles",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30087\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30087/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Philadelphia County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ]
+}

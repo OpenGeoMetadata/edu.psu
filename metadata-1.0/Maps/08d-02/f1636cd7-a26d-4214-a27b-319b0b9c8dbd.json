@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f1636cd7-a26d-4214-a27b-319b0b9c8dbd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "East Brady, Pennsylvania, 1891",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f1636cd7-a26d-4214-a27b-319b0b9c8dbd",
+  "solr_geom": "ENVELOPE(-79.6245,-79.5998,40.9947,40.973)",
+  "solr_year_i": "1891",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "East Brady, Clarion Co., Pa., Aug. 1891. 1 map on 2 sheets : col. ; sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/7426\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/7426/manifest.json\"}",
+  "dct_spatial_sm": [
+    "E Brady, Pennsylvania",
+    "Clarion County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:07Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1891"
+  ]
+}

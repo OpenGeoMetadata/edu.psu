@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "ffa64bac-f1ed-4c47-8532-85a98063d888",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Colton's township and railroad map of the United States of America : including a large portion of Canada, New Brunswick, & showing the base meridian and township lines of the U.S. surveys, rail roads and other internal improvements",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "ffa64bac-f1ed-4c47-8532-85a98063d888",
+  "solr_geom": "ENVELOPE(-126.1167,-59.9333,53.3167,24.3667)",
+  "solr_year_i": "1861",
+  "dc_creator_sm": [
+    "Sherman, George E., 1810 or 1811-"
+  ],
+  "dc_description_s": "Railroads--United States--Maps",
+  "dc_format_s": "JPEG",
+  "dc_subject_sm": [
+    "Railroads"
+  ],
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30436\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30436/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "J.H. Colton",
+  "dct_temporal_sm": [
+    "1861"
+  ]
+}

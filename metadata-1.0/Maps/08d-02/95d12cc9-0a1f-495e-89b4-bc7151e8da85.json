@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "95d12cc9-0a1f-495e-89b4-bc7151e8da85",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Nanticoke, Pennsylvania, 1888",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "95d12cc9-0a1f-495e-89b4-bc7151e8da85",
+  "solr_geom": "ENVELOPE(-76.0243,-75.9748,41.2204,41.1839)",
+  "solr_year_i": "1888",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Nanticoke, Pennsylvania, March 1888. 1 map on 8 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15259\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15259/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Nanticoke, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:50Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1888"
+  ]
+}

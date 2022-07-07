@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "67a0a8df-218d-4e12-a76e-ad29d303e635",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Salisbury, Pennsylvania, 1924",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "67a0a8df-218d-4e12-a76e-ad29d303e635",
+  "solr_geom": "ENVELOPE(-79.111,-79.075,39.7628,39.7457)",
+  "solr_year_i": "1924",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Salisbury, Somerset County, Pennsylvania, September 1924 : including West Salisbury (Elk Lick). 1 map on 4 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29889\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29889/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Salisbury, Pennsylvania",
+    "West Salisbury, Pennsylvania",
+    "Somerset County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:38Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1924"
+  ]
+}

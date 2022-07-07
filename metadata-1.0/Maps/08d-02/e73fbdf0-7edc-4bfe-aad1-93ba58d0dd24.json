@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "e73fbdf0-7edc-4bfe-aad1-93ba58d0dd24",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Snydertown, Pennsylvania, 1921",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "e73fbdf0-7edc-4bfe-aad1-93ba58d0dd24",
+  "solr_geom": "ENVELOPE(-76.6974,-76.643,40.8842,40.8609)",
+  "solr_year_i": "1921",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Snydertown, Northumberland County, Pennsylvania, February 1921. 1 map : col. ; on sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20195\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/20195/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Snydertown, Pennsylvania",
+    "Northumberland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:44Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1921"
+  ]
+}

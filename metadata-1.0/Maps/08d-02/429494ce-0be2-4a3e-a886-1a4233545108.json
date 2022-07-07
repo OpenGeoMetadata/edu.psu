@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "429494ce-0be2-4a3e-a886-1a4233545108",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Dauphin, Pennsylvania, 1884",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "429494ce-0be2-4a3e-a886-1a4233545108",
+  "solr_geom": "ENVELOPE(-76.9384,-76.9227,40.3769,40.3613)",
+  "solr_year_i": "1884",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Dauphin, Pa., Nov. 1884. 1 map : col. ; on sheet 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6781\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6781/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Dauphin, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:03Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1884"
+  ]
+}

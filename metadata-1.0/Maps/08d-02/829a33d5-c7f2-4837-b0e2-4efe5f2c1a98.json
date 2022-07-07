@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "829a33d5-c7f2-4837-b0e2-4efe5f2c1a98",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Norristown, Pennsylvania, 1928",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "829a33d5-c7f2-4837-b0e2-4efe5f2c1a98",
+  "solr_geom": "ENVELOPE(-75.3648,-75.2601,40.1413,40.0884)",
+  "solr_year_i": "1928",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Norristown, Montgomery County, Pennsylvania : including Plymouth Meeting, Ivy Rock Station, Mogeetown and Earnest Station, 1928. 1 map on 44 sheets : color ; sheets 65 x 54 cm + title sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/28021\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/28021/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Norristown, Pennsylvania",
+    "Ivy Rock Station, Pennsylvania",
+    "Mogeetown, Pennsylvania",
+    "Earnest Station, Pennsylvania",
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:13Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1928"
+  ]
+}

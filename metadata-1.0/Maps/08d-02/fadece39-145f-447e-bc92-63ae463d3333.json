@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fadece39-145f-447e-bc92-63ae463d3333",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Pottstown, Pennsylvania, 1925",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "fadece39-145f-447e-bc92-63ae463d3333",
+  "solr_geom": "ENVELOPE(-75.7068,-75.563,40.2914,40.228)",
+  "solr_year_i": "1925",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Pottstown, including South Pottstown, Pottstown Landing, Stowe, Sanatoga, Sanatoga Park, Ringing Rocks Park, Pine Forge and Colebrookdale, Montgomery County, Pennsylvania, May 1925. 1 map on 41 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/28460\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/28460/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Pottstown, Pennsylvania",
+    "South Pottstown, Pennsylvania",
+    "Pottstown Landing, Pennsylvania",
+    "Stowe, Pennsylvania",
+    "Sanatoga, Pennsylvania",
+    "Sanatoga Park, Pennsylvania",
+    "Ringing Rocks Park, Pennsylvania",
+    "Pine Forge, Pennsylvania",
+    "Colebrookdale, Pennsylvania",
+    "Montgomery County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:49Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1925"
+  ]
+}

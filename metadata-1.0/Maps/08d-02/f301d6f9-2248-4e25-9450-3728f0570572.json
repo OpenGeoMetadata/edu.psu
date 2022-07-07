@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "f301d6f9-2248-4e25-9450-3728f0570572",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Jeannette, Pennsylvania, 1916",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "f301d6f9-2248-4e25-9450-3728f0570572",
+  "solr_geom": "ENVELOPE(-79.6365,-79.5953,40.3427,40.3105)",
+  "solr_year_i": "1916",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Jeannette, Westmoreland County, Pennsylvania, March 1916. 1 map on 14 sheets : col. ; on sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11755\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/11755/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Jeannette, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:18Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1916"
+  ]
+}

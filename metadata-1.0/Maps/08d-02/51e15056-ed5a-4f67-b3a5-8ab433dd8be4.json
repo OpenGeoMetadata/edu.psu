@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "51e15056-ed5a-4f67-b3a5-8ab433dd8be4",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Duquesne, Pennsylvania, 1925",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "51e15056-ed5a-4f67-b3a5-8ab433dd8be4",
+  "solr_geom": "ENVELOPE(-79.8692,-79.8362,40.3886,40.3565)",
+  "solr_year_i": "1925",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Duquesne, Allegheny County, Pennsylvania, Jan. 1925. 1 map on 14 sheets : color ; sheets 65 x 54 cm + ; title sheet.  Scale approximately 1:600. 50 ft. to one in.unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26859\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26859/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Duquesne, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:24:48Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1925"
+  ]
+}

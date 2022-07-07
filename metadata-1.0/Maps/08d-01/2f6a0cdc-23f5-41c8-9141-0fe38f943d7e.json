@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2f6a0cdc-23f5-41c8-9141-0fe38f943d7e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new map of the English Empire in the Ocean of America or West Indies",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2f6a0cdc-23f5-41c8-9141-0fe38f943d7e",
+  "solr_geom": "ENVELOPE(-101.3333,-57.0833,30.6,6.0333)",
+  "solr_year_i": "1712",
+  "dc_creator_sm": [
+    "Harris, John, 1667?-1719"
+  ],
+  "dc_description_s": "West Indies--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30389\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30389/manifest.json\"}",
+  "dct_spatial_sm": [
+    "West Indies"
+  ],
+  "layer_modified_dt": "2022-04-01T15:28:09Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1712",
+  "dct_temporal_sm": [
+    "1712"
+  ]
+}

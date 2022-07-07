@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d877d10b-e1c1-46ed-85ed-e12e2d872516",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Winburne, Pennsylvania, 1911",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "d877d10b-e1c1-46ed-85ed-e12e2d872516",
+  "solr_geom": "ENVELOPE(-78.1543,-78.1378,40.9738,40.9585)",
+  "solr_year_i": "1911",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Winburne, Clearfield County, Pennsylvania, September 1911. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22979\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22979/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Winburne, Pennsylvania",
+    "Clearfield County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:36Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1911"
+  ]
+}

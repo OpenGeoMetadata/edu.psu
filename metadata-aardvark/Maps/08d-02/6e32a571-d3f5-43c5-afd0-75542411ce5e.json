@@ -1,0 +1,61 @@
+{
+  "dct_title_s": "Olyphant, Pennsylvania, 1912",
+  "dct_description_sm": [
+    "Insurance maps of Olyphant, Lackawanna County, Pennsylvania, including Blakely and Dickson City Boroughs, April 1912. 1 map on 40 sheets : col. ; sheets 65 x 54 cm. + title sheet.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1912"
+  ],
+  "gbl_indexYear_im": [
+    "1912"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1912 TO 1912]"
+  ],
+  "dct_spatial_sm": [
+    "Olyphant, Pennsylvania",
+    "Dickson City, Pennsylvania",
+    "Blakely, Pennsylvania",
+    "Lackawanna County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.6633,-75.5361,41.5032,41.4215)",
+  "dcat_bbox": "ENVELOPE(-75.6633,-75.5361,41.5032,41.4215)",
+  "dcat_centroid": "41.46235,-75.59970000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/18785\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/18785/manifest.json\"}",
+  "id": "6e32a571-d3f5-43c5-afd0-75542411ce5e",
+  "dct_identifier_sm": [
+    "6e32a571-d3f5-43c5-afd0-75542411ce5e"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:41Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

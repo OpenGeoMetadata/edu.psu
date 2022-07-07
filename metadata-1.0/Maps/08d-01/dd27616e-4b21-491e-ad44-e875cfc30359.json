@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "dd27616e-4b21-491e-ad44-e875cfc30359",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Map of the frontiers of the northern colonies : with the boundary line established between them and the Indians at the treaty held by S. Will Johnson at Ft. Stanwix in Novr. 1768.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "dd27616e-4b21-491e-ad44-e875cfc30359",
+  "solr_geom": "ENVELOPE(-89.2,-73.05,43.8167,36.9333)",
+  "solr_year_i": "1768",
+  "dc_creator_sm": [
+    "Johnson, Guy, approximately 1740-1788."
+  ],
+  "dc_description_s": "Scale approximately 1:1,140,000; 1 map: color; 54 x 85 cm Indians of North America--New York (State)--Maps--Early works to 1800--Facsimiles",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30068\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30068/manifest.json\"}",
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1768"
+  ]
+}

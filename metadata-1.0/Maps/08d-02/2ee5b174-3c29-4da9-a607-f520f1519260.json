@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "2ee5b174-3c29-4da9-a607-f520f1519260",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Pittston, Pennsylvania, 1910",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "2ee5b174-3c29-4da9-a607-f520f1519260",
+  "solr_geom": "ENVELOPE(-75.8075,-75.7763,41.3442,41.3103)",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps, Pittston, Pennsylvania, 1910. 1 map on 64 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet, 1 key map sheet, and 1 index sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22204\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22204/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Insurance maps, Pennsylvania",
+    "Pittston, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:25Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

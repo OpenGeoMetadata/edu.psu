@@ -1,0 +1,30 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "352f0f0f-e033-4b3a-9750-74a034c399fd",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Monessen, Pennsylvania, 1925",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "352f0f0f-e033-4b3a-9750-74a034c399fd",
+  "solr_geom": "ENVELOPE(-79.905,-79.8613,40.1652,40.1326)",
+  "solr_year_i": "1925",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Monessen, including part of Rostraver Township, Westmoreland County, Pennsylvania, Feb. 1925. 1 map on 19 sheets : color ; sheets 65 x 54 cm + 1 title sheet.  Scale approximately 1:600. 50 ft. to one in.unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27777\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27777/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Monessen, Pennsylvania",
+    "Rostraver Township, Pennsylvania",
+    "Westmoreland County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:42Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1925"
+  ]
+}

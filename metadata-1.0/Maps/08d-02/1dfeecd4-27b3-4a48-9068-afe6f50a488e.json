@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1dfeecd4-27b3-4a48-9068-afe6f50a488e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Clifton Heights, Pennsylvania, 1912",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "1dfeecd4-27b3-4a48-9068-afe6f50a488e",
+  "solr_geom": "ENVELOPE(-75.308,-75.2751,39.9355,39.9146)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Clifton Heights, Delaware County, Pennsylvania, October 1912 : including Aldan. 1 map on 10 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6480\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6480/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Clifton Heights, Pennsylvania",
+    "Delaware County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

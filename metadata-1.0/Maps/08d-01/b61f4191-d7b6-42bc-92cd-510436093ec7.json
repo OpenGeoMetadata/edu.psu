@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "b61f4191-d7b6-42bc-92cd-510436093ec7",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Third map, or map of 1643 : [of the east coast of the United States] ; Fourth map, or map of 1692.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "b61f4191-d7b6-42bc-92cd-510436093ec7",
+  "solr_geom": "ENVELOPE(-82,-62,50,28)",
+  "solr_year_i": "1780",
+  "dc_description_s": "Scale not given; 2 maps on 1 sheet: color; each 20 x 14 cm, sheet 25 x 34 cm United States--History--17th century--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29941\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29941/manifest.json\"}",
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:21Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1780-1789"
+  ]
+}

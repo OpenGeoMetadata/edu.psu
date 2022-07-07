@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "55ea6e62-ed46-4707-b860-1155dc306428",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Liverpool",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "55ea6e62-ed46-4707-b860-1155dc306428",
+  "solr_geom": "ENVELOPE(-3.0086,-2.8128,53.5039,53.3358)",
+  "solr_year_i": "1836",
+  "dc_creator_sm": [
+    "Starling, Thomas."
+  ],
+  "dc_description_s": "Liverpool (England)--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30402\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30402/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Liverpool, England",
+    "England"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:39Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Baldwin & Cradock",
+  "dct_temporal_sm": [
+    "1836"
+  ]
+}

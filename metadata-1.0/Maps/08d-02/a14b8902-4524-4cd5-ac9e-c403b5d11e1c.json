@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a14b8902-4524-4cd5-ac9e-c403b5d11e1c",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Altoona, Pennsylvania, 1920",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "a14b8902-4524-4cd5-ac9e-c403b5d11e1c",
+  "solr_geom": "ENVELOPE(-78.4328,-78.3647,40.5549,40.466)",
+  "solr_year_i": "1920",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Altoona, Pa. [1920]. maps : col. ; on sheets 65 x 55 cm. Title taken from upper left corner of sheet 99;  Oriented with north to the upper right; Set follows standard Sanborn color-coded key; Maps Library has duplicate copies of sheets 99 and 102-105 that are not encapsulated; Maps Library copy is incomplete and is encapsulated. Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/1512\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/1512/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Altoona, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:27Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1920"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d87e776d-f0f3-44b0-b11a-f7b93a59feee",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Honesdale, Pennsylvania, 1920",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "d87e776d-f0f3-44b0-b11a-f7b93a59feee",
+  "solr_geom": "ENVELOPE(-75.2737,-75.2325,41.5988,41.5526)",
+  "solr_year_i": "1920",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Honesdale, Wayne County, Pennsylvania, October 1920. 1 map on 11 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10588\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10588/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Honesdale, Pennsylvania",
+    "Wayne County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1920"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "59bfcbf8-f3ea-41ab-8733-5ca2b6a980ed",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Aspinwall, Pennsylvania, 1920",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "59bfcbf8-f3ea-41ab-8733-5ca2b6a980ed",
+  "solr_geom": "ENVELOPE(-79.9093,-79.8969,40.5001,40.4856)",
+  "solr_year_i": "1920",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Aspinwall. 1 map : col. ; on sheet 65 x 55 cm. Title taken from sheet 250 of Aspinwall Insurance maps of Allegheny including Bellevue, Avalon and Aspinwall, Pennsylvania : volume one [and] volume two as an additional sheet published separately in 1920.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/25522\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25522/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Aspinwall, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:34Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1920"
+  ]
+}

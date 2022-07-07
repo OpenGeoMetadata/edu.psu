@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "02018b3b-ba0f-4eb5-ba14-f1ca3f1c3d75",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Burgettstown, Pennsylvania, 1908",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "02018b3b-ba0f-4eb5-ba14-f1ca3f1c3d75",
+  "solr_geom": "ENVELOPE(-80.3992,-80.3854,40.3906,40.3716)",
+  "solr_year_i": "1908",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Burgettstown, Washington Co., Pennsylvania, April 1908. 1 map on 6 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3615\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3615/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Burgettstown, Pennsylvania",
+    "Washington County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:31:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1908"
+  ]
+}

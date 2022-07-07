@@ -1,0 +1,32 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "73da52ea-3e16-472c-a555-9fe18681f177",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Palmerton, Pennsylvania, 1912",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "73da52ea-3e16-472c-a555-9fe18681f177",
+  "solr_geom": "ENVELOPE(-75.6722,-75.5771,40.8137,40.7866)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Palmerton, Carbon County, Pennsylvania, November 1912 : including Hazard, Lehigh Gap & Bowmanstown. 1 map on 12 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24820\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24820/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Palmerton, Pennsylvania",
+    "Lehigh Gap, Pennsylvania",
+    "Bowmanstown, Pennsylvania",
+    "Hazard, Pennsylvania",
+    "Carbon County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

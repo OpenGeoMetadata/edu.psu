@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "445e9953-7658-4a5d-889e-42fb837e5158",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lititz, Pennsylvania, 1912",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "445e9953-7658-4a5d-889e-42fb837e5158",
+  "solr_geom": "ENVELOPE(-76.3233,-76.2839,40.1668,40.1386)",
+  "solr_year_i": "1912",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Lititz, Lancaster County, Pennsylvania, August 1912. 1 map on 11 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/12646\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/12646/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Lititz, Pennsylvania",
+    "Lancaster County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:41Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1912"
+  ]
+}

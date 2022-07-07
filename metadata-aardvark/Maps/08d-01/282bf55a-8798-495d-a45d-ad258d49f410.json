@@ -1,0 +1,55 @@
+{
+  "dct_title_s": "Colton's railroad & commercial map of the United States & Canada.",
+  "dct_description_sm": [
+    "Railroads--United States--Maps"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "G.W. & C.B. Colton & Co."
+  ],
+  "dct_publisher_sm": [
+    "G.W. & C.B. Colton & Co."
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dct_subject_sm": [
+    "Railroads"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1872"
+  ],
+  "gbl_indexYear_im": [
+    "1872"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1872 TO 1872]"
+  ],
+  "dct_spatial_sm": [
+    "United States of America"
+  ],
+  "locn_geometry": "ENVELOPE(-97.0167,-65.2,49.4333,26.7333)",
+  "dcat_bbox": "ENVELOPE(-97.0167,-65.2,49.4333,26.7333)",
+  "dcat_centroid": "38.0833,-81.10835",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30434\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30434/manifest.json\"}",
+  "id": "282bf55a-8798-495d-a45d-ad258d49f410",
+  "dct_identifier_sm": [
+    "282bf55a-8798-495d-a45d-ad258d49f410"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:58Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

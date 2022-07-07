@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Lewistown, Pennsylvania, 1885",
+  "dct_description_sm": [
+    "Lewistown, Pennsylvania, Nov. 1885. 1 map on 5 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1885"
+  ],
+  "gbl_indexYear_im": [
+    "1885"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1885 TO 1885]"
+  ],
+  "dct_spatial_sm": [
+    "Lewistown, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-77.6042,-77.5518,40.6133,40.5839)",
+  "dcat_bbox": "ENVELOPE(-77.6042,-77.5518,40.6133,40.5839)",
+  "dcat_centroid": "40.598600000000005,-77.578",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/12048\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/12048/manifest.json\"}",
+  "id": "fb29d589-f44a-4f1a-a51e-2806d7115811",
+  "dct_identifier_sm": [
+    "fb29d589-f44a-4f1a-a51e-2806d7115811"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:25:48Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

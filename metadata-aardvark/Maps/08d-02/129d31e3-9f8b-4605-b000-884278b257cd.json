@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Bloomsburg, Pennsylvania, 1922",
+  "dct_description_sm": [
+    "Bloomsburg, Pa. [1922]. 1 map on 22 sheets : col. ; sheets 64 x 54 cm.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "gbl_indexYear_im": [
+    "1922"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1922 TO 1922]"
+  ],
+  "dct_spatial_sm": [
+    "Bloomsburg, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-76.4778,-76.4276,41.0254,40.9763)",
+  "dcat_bbox": "ENVELOPE(-76.4778,-76.4276,41.0254,40.9763)",
+  "dcat_centroid": "41.00085,-76.4527",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/4257\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4257/manifest.json\"}",
+  "id": "129d31e3-9f8b-4605-b000-884278b257cd",
+  "dct_identifier_sm": [
+    "129d31e3-9f8b-4605-b000-884278b257cd"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:40Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

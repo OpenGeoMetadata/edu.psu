@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "c28a851b-368a-46d1-90cc-dc9bd9472b9b",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Norristown, Pennsylvania, 1942",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "c28a851b-368a-46d1-90cc-dc9bd9472b9b",
+  "solr_geom": "ENVELOPE(-75.4243,-75.2601,40.1758,40.0884)",
+  "solr_year_i": "1942",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Norristown, Pennsylvania, including Black Horse, Earnest Station, Ivy Rock Station, Jeffersonville, Mogeetown, Plymouth Meeting and parts of East Norriton, Plymouth and West Norriton Townships. 1 map on 68 sheets : color ; on sheets 65 x 55 cm + 1 title sheet + 1 index sheet + 1 key map.  Scale approximately 1:600. 50 ft. to one in.unless otherwise noted on individual sheets.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29113\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29113/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Norristown, Pennsylvania",
+    "Earnest Station, Pennsylvania",
+    "Ivy Rock Station, Pennsylvania",
+    "Jeffersonville, Pennsylvania",
+    "Mogeetown, Pennsylvania",
+    "Plymouth Meeting, Pennsylvania",
+    "East Norriton Township, Pennsylvania",
+    "Plymouth Township, Pennsylvania",
+    "West Norriton Township, Pennsylvania",
+    "Black Horse, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:00Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1942"
+  ]
+}

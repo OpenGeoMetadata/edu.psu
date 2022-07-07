@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Donora, Pennsylvania, 1909",
+  "dct_description_sm": [
+    "Donora, Washington County, Pennsylvania, October 1909. 1 map on 9 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1909"
+  ],
+  "gbl_indexYear_im": [
+    "1909"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1909 TO 1909]"
+  ],
+  "dct_spatial_sm": [
+    "Donora, Pennsylvania",
+    "Washington County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.8794,-79.8504,40.1948,40.1618)",
+  "dcat_bbox": "ENVELOPE(-79.8794,-79.8504,40.1948,40.1618)",
+  "dcat_centroid": "40.1783,-79.8649",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6732\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6732/manifest.json\"}",
+  "id": "0d665724-f2e5-419c-922b-5e8523f96c00",
+  "dct_identifier_sm": [
+    "0d665724-f2e5-419c-922b-5e8523f96c00"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:10Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

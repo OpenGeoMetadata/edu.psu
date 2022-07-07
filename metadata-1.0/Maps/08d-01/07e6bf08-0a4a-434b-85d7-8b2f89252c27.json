@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "07e6bf08-0a4a-434b-85d7-8b2f89252c27",
+  "dc_rights_s": "Public",
+  "dc_title_s": "The environs of Dublin",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "07e6bf08-0a4a-434b-85d7-8b2f89252c27",
+  "solr_geom": "ENVELOPE(-6.4472,-6.0439,53.425,53.2233)",
+  "solr_year_i": "1837",
+  "dc_creator_sm": [
+    "Davies, B. R."
+  ],
+  "dc_description_s": "Dublin (Ireland)--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30206\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30206/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Dublin, Ireland",
+    "Ireland"
+  ],
+  "layer_modified_dt": "2022-04-01T15:32:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Published under the superintendance of the Society for the Diffusion of Useful Knowledge by Baldwin & Cradock",
+  "dct_temporal_sm": [
+    "1837"
+  ]
+}

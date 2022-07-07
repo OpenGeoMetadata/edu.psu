@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "18dcfd9f-912e-4d87-a86b-fdc6f3b3dc85",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Millersburg, Pennsylvania, 1902",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "18dcfd9f-912e-4d87-a86b-fdc6f3b3dc85",
+  "solr_geom": "ENVELOPE(-76.9684,-76.9379,40.5557,40.5274)",
+  "solr_year_i": "1902",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Millersburg, Dauphin Co., Pennsylvania, November. 1902. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15046\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15046/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Millersburg, Pennsylvania",
+    "Dauphin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:11Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1902"
+  ]
+}

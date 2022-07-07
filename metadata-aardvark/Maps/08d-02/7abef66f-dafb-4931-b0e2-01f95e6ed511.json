@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Yardley, Pennsylvania, 1924",
+  "dct_description_sm": [
+    "Yardley, Bucks County, Pennsylvania, April 1924. 1 map on 4 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:1,200. 100 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1924"
+  ],
+  "gbl_indexYear_im": [
+    "1924"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1924 TO 1924]"
+  ],
+  "dct_spatial_sm": [
+    "Yardley, Pennsylvania",
+    "Bucks County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-74.8814,-74.8237,40.259,40.2317)",
+  "dcat_bbox": "ENVELOPE(-74.8814,-74.8237,40.259,40.2317)",
+  "dcat_centroid": "40.24535,-74.85255000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/28868\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/28868/manifest.json\"}",
+  "id": "7abef66f-dafb-4931-b0e2-01f95e6ed511",
+  "dct_identifier_sm": [
+    "7abef66f-dafb-4931-b0e2-01f95e6ed511"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:23:17Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

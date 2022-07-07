@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Edgeworth, Pennsylvania, 1938",
+  "dct_description_sm": [
+    "Edgeworth, Allegheny County, Pennsylvania, Jan. 1938. 1 map on 5 sheets : color ; sheets 65 x 54 cm.  Scale approximately 1:1,200. 100 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1938"
+  ],
+  "gbl_indexYear_im": [
+    "1938"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1938 TO 1938]"
+  ],
+  "dct_spatial_sm": [
+    "Edgeworth, Pennsylvania",
+    "Allegheny County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.2096,-80.1804,40.5698,40.5406)",
+  "dcat_bbox": "ENVELOPE(-80.2096,-80.1804,40.5698,40.5406)",
+  "dcat_centroid": "40.5552,-80.195",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26840\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26840/manifest.json\"}",
+  "id": "2cd0c57a-4a0b-47cd-be45-29149be4eb75",
+  "dct_identifier_sm": [
+    "2cd0c57a-4a0b-47cd-be45-29149be4eb75"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:23Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

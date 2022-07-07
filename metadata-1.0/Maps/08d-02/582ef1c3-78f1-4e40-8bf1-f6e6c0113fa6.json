@@ -1,0 +1,29 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "582ef1c3-78f1-4e40-8bf1-f6e6c0113fa6",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Hastings, Pennsylvania, 1910",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "582ef1c3-78f1-4e40-8bf1-f6e6c0113fa6",
+  "solr_geom": "ENVELOPE(-78.7185,-78.6968,40.6703,40.6568)",
+  "solr_year_i": "1910",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Hastings, Cambria County, Pennsylvania, November 1910. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11007\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/11007/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Hastings, Pennsylvania",
+    "Cambria County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:31Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1910"
+  ]
+}

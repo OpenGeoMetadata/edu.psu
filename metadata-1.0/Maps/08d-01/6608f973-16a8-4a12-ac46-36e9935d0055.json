@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "6608f973-16a8-4a12-ac46-36e9935d0055",
+  "dc_rights_s": "Public",
+  "dc_title_s": "A new and accurate map of the present seat of war in North America : comprehending New Jersey, Philadelphia, Pensylvania, New-York, &c.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "6608f973-16a8-4a12-ac46-36e9935d0055",
+  "solr_geom": "ENVELOPE(-75.4017,-73.9022,41.3572,39.5992)",
+  "solr_year_i": "1777",
+  "dc_description_s": "Scale [ca. 1:550,000]; 1 map 37 x 29 cm New Jersey--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30029\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30029/manifest.json\"}",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "layer_modified_dt": "2022-04-01T15:27:20Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1777"
+  ]
+}

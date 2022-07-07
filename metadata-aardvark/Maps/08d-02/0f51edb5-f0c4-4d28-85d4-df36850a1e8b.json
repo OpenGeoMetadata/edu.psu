@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Eldred, Pennsylvania, 1889",
+  "dct_description_sm": [
+    "Eldred, Pa., Nov. 1888. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "gbl_indexYear_im": [
+    "1889"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1889 TO 1889]"
+  ],
+  "dct_spatial_sm": [
+    "Eldred, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.3887,-78.3738,41.9664,41.9412)",
+  "dcat_bbox": "ENVELOPE(-78.3887,-78.3738,41.9664,41.9412)",
+  "dcat_centroid": "41.9538,-78.38125",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/8519\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8519/manifest.json\"}",
+  "id": "0f51edb5-f0c4-4d28-85d4-df36850a1e8b",
+  "dct_identifier_sm": [
+    "0f51edb5-f0c4-4d28-85d4-df36850a1e8b"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:29:56Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

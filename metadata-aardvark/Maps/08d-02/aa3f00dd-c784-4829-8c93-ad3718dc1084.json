@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Lykens, Pennsylvania, 1890",
+  "dct_description_sm": [
+    "Lykens, Dauphin Co., Pa., Sep. 1890. 1 map on 3 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "gbl_indexYear_im": [
+    "1890"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1890 TO 1890]"
+  ],
+  "dct_spatial_sm": [
+    "Lykens, Pennsylvania",
+    "Dauphin County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-76.7158,-76.6734,40.5703,40.555)",
+  "dcat_bbox": "ENVELOPE(-76.7158,-76.6734,40.5703,40.555)",
+  "dcat_centroid": "40.562650000000005,-76.69460000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13228\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13228/manifest.json\"}",
+  "id": "aa3f00dd-c784-4829-8c93-ad3718dc1084",
+  "dct_identifier_sm": [
+    "aa3f00dd-c784-4829-8c93-ad3718dc1084"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:32:58Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

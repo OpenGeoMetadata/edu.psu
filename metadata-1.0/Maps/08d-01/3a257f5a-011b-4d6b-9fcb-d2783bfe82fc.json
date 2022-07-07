@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "3a257f5a-011b-4d6b-9fcb-d2783bfe82fc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "North Anna",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "3a257f5a-011b-4d6b-9fcb-d2783bfe82fc",
+  "solr_geom": "ENVELOPE(-77.5833,-77.45,37.9333,37.85)",
+  "solr_year_i": "1867",
+  "dc_creator_sm": [
+    "Weyss, J. E."
+  ],
+  "dc_description_s": "Scale [1:21,120]. 3 in. to 1 mile; 1 map: hand colored, mounted on cloth; 39 x 46 cm North Anna Region (Va.)--History--Civil War, 1861-1865--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30126\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30126/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Virginia"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:55Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "[Corps of Engineers?]",
+  "dct_temporal_sm": [
+    "1867"
+  ]
+}

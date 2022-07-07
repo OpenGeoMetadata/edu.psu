@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Ellwood City, Pennsylvania, 1914",
+  "dct_description_sm": [
+    "Insurance maps of Ellwood City, Lawrence County, Pennsylvania : Aug. 1914. 1 map on 20 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in. unless otherwise noted on individual sheets."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1914"
+  ],
+  "gbl_indexYear_im": [
+    "1914"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1914 TO 1914]"
+  ],
+  "dct_spatial_sm": [
+    "Ellwood City, Pennsylvania",
+    "Lawrence County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-80.3008,-80.2637,40.8761,40.8427)",
+  "dcat_bbox": "ENVELOPE(-80.3008,-80.2637,40.8761,40.8427)",
+  "dcat_centroid": "40.8594,-80.28225",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/8417\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8417/manifest.json\"}",
+  "id": "2c2c0def-acee-4691-a60a-90cbfcbebfc9",
+  "dct_identifier_sm": [
+    "2c2c0def-acee-4691-a60a-90cbfcbebfc9"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:28:10Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

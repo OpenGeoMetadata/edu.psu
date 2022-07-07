@@ -1,0 +1,24 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "44093382-c71c-48f7-8fd2-f18c0488e07e",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Tracts of land called New Munster tract and the Society, Dec. 13, 1763",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "44093382-c71c-48f7-8fd2-f18c0488e07e",
+  "solr_geom": "ENVELOPE(-75.86,-75.8147,39.7397,39.7219)",
+  "solr_year_i": "1763",
+  "dc_description_s": "Scale not given; 1 map: color; 28 x 29 cm, on sheet 50 x 34 cm Real property--Pennsylvania--Chester County--Maps--Early works to 1800--Facsimiles",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30091\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30091/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Chester County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:41Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1763"
+  ]
+}

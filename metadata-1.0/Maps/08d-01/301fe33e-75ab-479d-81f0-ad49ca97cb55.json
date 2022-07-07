@@ -1,0 +1,23 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "301fe33e-75ab-479d-81f0-ad49ca97cb55",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Location and wanderings of the Aboriginal tribes : [of the eastern half of the United States and Canada] : introductory map.",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "301fe33e-75ab-479d-81f0-ad49ca97cb55",
+  "solr_geom": "ENVELOPE(-102,-62,50,28)",
+  "solr_year_i": "1780",
+  "dc_description_s": "Scale not given; 1 map: color; 20 x 27 cm Indians of North America--East (U.S.)--Maps--Early works to 1800",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29944\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29944/manifest.json\"}",
+  "dct_spatial_sm": [
+    "North America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:22Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1780-1789"
+  ]
+}

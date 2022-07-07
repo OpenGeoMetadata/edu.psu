@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1a38f4b3-97a7-49dd-914f-f781abb508cc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "H. Kiepert's Politische Schul-Wandkarte von Séd-America. : im Masstabe von 1:8,000,000",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "1a38f4b3-97a7-49dd-914f-f781abb508cc",
+  "solr_geom": "ENVELOPE(-110.0167,-29.3333,17.65,-56.1333)",
+  "solr_year_i": "1886",
+  "dc_creator_sm": [
+    "Kiepert, Heinrich, 1818-1899."
+  ],
+  "dc_description_s": "South America--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30403\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30403/manifest.json\"}",
+  "dct_spatial_sm": [
+    "South America"
+  ],
+  "layer_modified_dt": "2022-04-01T15:22:32Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Verlag von Dietrich Reimer",
+  "dct_temporal_sm": [
+    "1886"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "a28f94f2-ab3b-4a1b-827e-3de062c494a5",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Chambersburg, Pennsylvania, 1899",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "a28f94f2-ab3b-4a1b-827e-3de062c494a5",
+  "solr_geom": "ENVELOPE(-77.6858,-77.6224,39.9677,39.9046)",
+  "solr_year_i": "1899",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of Chambersburg, Pennsylvania, May 1899. 1 map on 22 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6075\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6075/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Chambersburg, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1899"
+  ]
+}

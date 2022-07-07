@@ -1,0 +1,26 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "64bae094-a7a3-474a-8399-5a4ca041cfaf",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Plan de Port Sáid. : levé en mai 1869",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "64bae094-a7a3-474a-8399-5a4ca041cfaf",
+  "solr_geom": "ENVELOPE(32.2489,32.3211,31.2783,31.1986)",
+  "solr_year_i": "1869",
+  "dc_creator_sm": [
+    "Larousse, Mr."
+  ],
+  "dc_description_s": "Port Said (Egypt)--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30186\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30186/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Egypt"
+  ],
+  "layer_modified_dt": "2022-04-01T15:26:47Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_temporal_sm": [
+    "1869"
+  ]
+}

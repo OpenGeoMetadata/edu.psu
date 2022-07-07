@@ -1,0 +1,27 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "7bbb38ae-175d-4634-8d41-44301bd3dae8",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Indian territory",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "7bbb38ae-175d-4634-8d41-44301bd3dae8",
+  "solr_geom": "ENVELOPE(-98.2005,-94.0037,37.2739,33.5504)",
+  "solr_year_i": "1895",
+  "dc_creator_sm": [
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "Indians of North America--Oklahoma--Claims--Maps",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30368\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30368/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Oklahoma"
+  ],
+  "layer_modified_dt": "2022-04-01T15:23:17Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dct_issued_s": "1902",
+  "dct_temporal_sm": [
+    "between 1895 and 1899"
+  ]
+}

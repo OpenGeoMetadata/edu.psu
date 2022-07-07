@@ -1,0 +1,33 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "1abf62e3-58df-4754-a72d-fba02697cefc",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Forest City, Pennsylvania, 1914",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "1abf62e3-58df-4754-a72d-fba02697cefc",
+  "solr_geom": "ENVELOPE(-75.4836,-75.4421,41.6629,41.616)",
+  "solr_year_i": "1914",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Forest City, Susquehanna County, Pennsylvania, December 1914 : including Vandling, Lackawanna Co., and Browndale, Wayne Co. 1 map on 12 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9256\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9256/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Forest City, Pennsylvania",
+    "Vandling, Pennsylvania",
+    "Browndale, Pennsylvania",
+    "Wayne County, Pennsylvania",
+    "Lackawanna County, Pennsylvania",
+    "Susquehanna County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:33:37Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1914"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "dct_title_s": "Brownsville, Pennsylvania, 1886",
+  "dct_description_sm": [
+    "Brownsville, Penn., including Bridgeport and West Brownsville, Aug. 1886. 1 map on 6 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "gbl_indexYear_im": [
+    "1886"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "dct_spatial_sm": [
+    "Brownsville, Pennsylvania",
+    "Bridgeport, Pennsylvania",
+    "West Brownsville, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.9111,-79.8746,40.0432,40.0093)",
+  "dcat_bbox": "ENVELOPE(-79.9111,-79.8746,40.0432,40.0093)",
+  "dcat_centroid": "40.026250000000005,-79.89285000000001",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3705\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3705/manifest.json\"}",
+  "id": "06c0cb68-b131-4301-9317-fa7c7f306982",
+  "dct_identifier_sm": [
+    "06c0cb68-b131-4301-9317-fa7c7f306982"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:20Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

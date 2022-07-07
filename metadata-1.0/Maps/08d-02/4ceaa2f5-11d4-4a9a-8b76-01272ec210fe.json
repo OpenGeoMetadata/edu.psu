@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "4ceaa2f5-11d4-4a9a-8b76-01272ec210fe",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Lock Haven, Pennsylvania, 1885",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "4ceaa2f5-11d4-4a9a-8b76-01272ec210fe",
+  "solr_geom": "ENVELOPE(-77.475,-77.4136,41.1539,41.1237)",
+  "solr_year_i": "1885",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Lock Haven, Pennsylvania, October 1885. 1 map on 8 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/12222\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/12222/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Lock Haven, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:26Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1885"
+  ]
+}

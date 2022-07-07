@@ -1,0 +1,49 @@
+{
+  "dct_title_s": "The route of Mr. Mungo Park, from Pisania on the River Gambia, to Silla, on the River Joliba or Niger, with his return by the Southern Route, to Pisania",
+  "dct_description_sm": [
+    "Park, Mungo, 1771-1806--Travel--Africa, West--Maps."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Rennell, James, 1742-1830."
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1771"
+  ],
+  "gbl_indexYear_im": [
+    "1771"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1771 TO 1771]"
+  ],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "locn_geometry": "ENVELOPE(-17.6833,15.9833,19.1833,4.1667)",
+  "dcat_bbox": "ENVELOPE(-17.6833,15.9833,19.1833,4.1667)",
+  "dcat_centroid": "11.674999999999999,-0.8499999999999996",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30223\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30223/manifest.json\"}",
+  "id": "d010c151-8e6a-4544-84f7-3dae8d808675",
+  "dct_identifier_sm": [
+    "d010c151-8e6a-4544-84f7-3dae8d808675"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:33:42Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

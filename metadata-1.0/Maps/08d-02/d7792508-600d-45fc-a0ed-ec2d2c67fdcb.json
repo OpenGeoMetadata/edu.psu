@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "d7792508-600d-45fc-a0ed-ec2d2c67fdcb",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Altoona, Pennsylvania, 1909",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "d7792508-600d-45fc-a0ed-ec2d2c67fdcb",
+  "solr_geom": "ENVELOPE(-78.4328,-78.3647,40.5549,40.466)",
+  "solr_year_i": "1909",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Altoona, Pa. [1909]. 1 map on 100 sheets : col. ; on sheets 64 x 54 cm. Oriented with north to the upper right; \"\"Corrected to 1909\"\"; Sheet 1 on verso of key sheet; Title from upper right corner of key sheet; Includes text, key sheet and Altoona key map on key sheet; Maps Library set includes additional skeleton sheets for sheet numbers 27-30; Maps Library copy is encapsulated. Scale not noted.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/1422\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/1422/manifest.json\"}",
+  "dct_spatial_sm": [
+    "Altoona, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:25:01Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1909"
+  ]
+}

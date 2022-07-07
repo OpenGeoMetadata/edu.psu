@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Tunkhannock, Pennsylvania, 1892",
+  "dct_description_sm": [
+    "Tunkhannock, Wyoming Co. Pa., March 1892. 1 map on 4 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "gbl_indexYear_im": [
+    "1892"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1892 TO 1892]"
+  ],
+  "dct_spatial_sm": [
+    "Tunkhannock, Pennsylvania",
+    "Wyoming County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.9632,-75.9352,41.5507,41.535)",
+  "dcat_bbox": "ENVELOPE(-75.9632,-75.9352,41.5507,41.535)",
+  "dcat_centroid": "41.54285,-75.94919999999999",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/18644\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/18644/manifest.json\"}",
+  "id": "faa12df6-0e7b-4f37-ada6-c490a58eb092",
+  "dct_identifier_sm": [
+    "faa12df6-0e7b-4f37-ada6-c490a58eb092"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:27:19Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

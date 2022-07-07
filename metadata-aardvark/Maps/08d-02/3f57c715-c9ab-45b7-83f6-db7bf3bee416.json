@@ -1,0 +1,58 @@
+{
+  "dct_title_s": "Phoenixville, Pennsylvania, 1886",
+  "dct_description_sm": [
+    "Phoenixville, Pennsylvania, Jan. 1886. 1 map on 6 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "gbl_indexYear_im": [
+    "1886"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1886 TO 1886]"
+  ],
+  "dct_spatial_sm": [
+    "Phoenixville, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-75.5472,-75.4997,40.1601,40.1167)",
+  "dcat_bbox": "ENVELOPE(-75.5472,-75.4997,40.1601,40.1167)",
+  "dcat_centroid": "40.138400000000004,-75.52345",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22136\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22136/manifest.json\"}",
+  "id": "3f57c715-c9ab-45b7-83f6-db7bf3bee416",
+  "dct_identifier_sm": [
+    "3f57c715-c9ab-45b7-83f6-db7bf3bee416"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:24:31Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

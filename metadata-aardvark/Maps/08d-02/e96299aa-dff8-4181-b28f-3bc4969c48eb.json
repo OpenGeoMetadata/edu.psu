@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Indiana, Pennsylvania, 1895",
+  "dct_description_sm": [
+    "Insurance maps of Indiana, Indiana County, Pennsylvania, Aug. 1897. 1 map on 12 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "gbl_indexYear_im": [
+    "1897"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1897 TO 1897]"
+  ],
+  "dct_spatial_sm": [
+    "Indiana, Pennsylvania",
+    "Indiana County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-79.174,-79.1383,40.6316,40.6125)",
+  "dcat_bbox": "ENVELOPE(-79.174,-79.1383,40.6316,40.6125)",
+  "dcat_centroid": "40.62205,-79.15615",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11248\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/11248/manifest.json\"}",
+  "id": "e96299aa-dff8-4181-b28f-3bc4969c48eb",
+  "dct_identifier_sm": [
+    "e96299aa-dff8-4181-b28f-3bc4969c48eb"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:43Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,50 @@
+{
+  "dct_title_s": "A compleat chart of the coast of Asia and America with the great South Sea",
+  "dct_description_sm": [
+    "Scale not given; 1 map; 24 x 40 cm World maps--Early works to 1800"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Seale, Richard William"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "dcat_keyword_sm": [
+    "Penn State Rare Maps"
+  ],
+  "dct_temporal_sm": [
+    "1754"
+  ],
+  "dct_issued_s": "1754",
+  "gbl_indexYear_im": [
+    "1754"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1754 TO 1754]"
+  ],
+  "dct_spatial_sm": [
+    "Pacific Ocean"
+  ],
+  "locn_geometry": "ENVELOPE(9.1333,-27.0667,78.2,-60.2333)",
+  "dcat_bbox": "ENVELOPE(9.1333,-27.0667,78.2,-60.2333)",
+  "dcat_centroid": "8.983350000000002,-8.9667",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-01"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26370\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26370/manifest.json\"}",
+  "id": "de8488f2-478e-40a9-854a-0393725fa5ab",
+  "dct_identifier_sm": [
+    "de8488f2-478e-40a9-854a-0393725fa5ab"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:30:52Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

@@ -1,0 +1,59 @@
+{
+  "dct_title_s": "Gallitzin, Pennsylvania, 1900",
+  "dct_description_sm": [
+    "Gallitzin, Cambria Co., Pa., June 1900. 1 map on 2 sheets : col. ; sheets 65 x 54 cm.  Scale approximately 1:600. 50 ft. to an in."
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dct_publisher_sm": [
+    "Sanborn Map Company"
+  ],
+  "schema_provider_s": "Pennsylvania State University",
+  "gbl_resourceClass_sm": [
+    "Maps"
+  ],
+  "gbl_resourceType_sm": [
+    "Fire insurance maps"
+  ],
+  "dcat_keyword_sm": [
+    "Fire risk assessment",
+    "Real property",
+    "Sanborn Fire Insurance Maps"
+  ],
+  "dct_temporal_sm": [
+    "1900"
+  ],
+  "gbl_indexYear_im": [
+    "1900"
+  ],
+  "gbl_dateRange_drsim": [
+    "[1900 TO 1900]"
+  ],
+  "dct_spatial_sm": [
+    "Gallitzin, Pennsylvania",
+    "Cambria County, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "locn_geometry": "ENVELOPE(-78.5656,-78.5456,40.488,40.4729)",
+  "dcat_bbox": "ENVELOPE(-78.5656,-78.5456,40.488,40.4729)",
+  "dcat_centroid": "40.480450000000005,-78.5556",
+  "pcdm_memberOf_sm": [
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+  ],
+  "dct_isPartOf_sm": [
+    "08d-02"
+  ],
+  "dct_accessRights_s": "Public",
+  "dct_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9578\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9578/manifest.json\"}",
+  "id": "85914f4e-c0fe-4e2a-9498-396848cc62ab",
+  "dct_identifier_sm": [
+    "85914f4e-c0fe-4e2a-9498-396848cc62ab"
+  ],
+  "gbl_mdModified_dt": "2022-04-01T15:22:47Z",
+  "gbl_mdVersion_s": "Aardvark"
+}

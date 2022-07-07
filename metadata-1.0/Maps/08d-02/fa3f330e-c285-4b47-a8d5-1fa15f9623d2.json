@@ -1,0 +1,28 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "fa3f330e-c285-4b47-a8d5-1fa15f9623d2",
+  "dc_rights_s": "Public",
+  "dc_title_s": "McKeesport, Pennsylvania, 1894",
+  "dct_provenance_s": "Pennsylvania State University",
+  "layer_slug_s": "fa3f330e-c285-4b47-a8d5-1fa15f9623d2",
+  "solr_geom": "ENVELOPE(-79.8859,-79.816,40.3642,40.318)",
+  "solr_year_i": "1894",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Insurance maps of McKeesport, Pennsylvania, 1894. 1 map on 38 sheets : col. ; sheets 65 x 54 cm. + 1 title sheet and 1 adjoining sheets index map sheet.  Scale approximately 1:600. 50 ft. to an in.",
+  "dc_format_s": "JPEG",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13946\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13946/manifest.json\"}",
+  "dct_spatial_sm": [
+    "McKeesport, Pennsylvania",
+    "Pennsylvania"
+  ],
+  "layer_modified_dt": "2022-04-01T15:30:24Z",
+  "dc_language_sm": [
+    "eng"
+  ],
+  "dc_publisher_s": "Sanborn Map Company",
+  "dct_temporal_sm": [
+    "1894"
+  ]
+}
