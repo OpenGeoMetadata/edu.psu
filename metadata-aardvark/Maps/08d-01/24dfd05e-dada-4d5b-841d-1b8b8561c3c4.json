@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1777"
@@ -26,10 +27,10 @@
     "[1777 TO 1777]"
   ],
   "dct_spatial_sm": [
-    "Tredyffrin, Pennsylvania",
+    "Pennsylvania--Tredyffrin",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.5253,-75.4539,40.0558,40.0297)",
+  "locn_geometry": "POLYGON((-75.5253 40.0558, -75.4539 40.0558, -75.4539 40.0297, -75.5253 40.0297, -75.5253 40.0558))",
   "dcat_bbox": "ENVELOPE(-75.5253,-75.4539,40.0558,40.0297)",
   "dcat_centroid": "40.04275,-75.4896",
   "pcdm_memberOf_sm": [
@@ -45,6 +46,6 @@
   "dct_identifier_sm": [
     "24dfd05e-dada-4d5b-841d-1b8b8561c3c4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:54Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

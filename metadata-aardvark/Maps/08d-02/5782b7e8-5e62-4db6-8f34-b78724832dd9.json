@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1902"
@@ -34,15 +35,19 @@
     "[1902 TO 1902]"
   ],
   "dct_spatial_sm": [
-    "Donora, Pennsylvania",
-    "Washington County, Pennsylvania",
+    "Pennsylvania--Donora",
+    "Pennsylvania--Washington County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.8794,-79.8504,40.1948,40.1618)",
+  "locn_geometry": "POLYGON((-79.8794 40.1948, -79.8504 40.1948, -79.8504 40.1618, -79.8794 40.1618, -79.8794 40.1948))",
   "dcat_bbox": "ENVELOPE(-79.8794,-79.8504,40.1948,40.1618)",
   "dcat_centroid": "40.1783,-79.8649",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "5782b7e8-5e62-4db6-8f34-b78724832dd9"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:26Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

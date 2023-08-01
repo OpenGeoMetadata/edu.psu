@@ -30,7 +30,7 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "locn_geometry": "ENVELOPE(-81.4972,-81.4017,39.4592,39.3981)",
+  "locn_geometry": "POLYGON((-81.4972 39.4592, -81.4017 39.4592, -81.4017 39.3981, -81.4972 39.3981, -81.4972 39.4592))",
   "dcat_bbox": "ENVELOPE(-81.4972,-81.4017,39.4592,39.3981)",
   "dcat_centroid": "39.428650000000005,-81.44945000000001",
   "pcdm_memberOf_sm": [
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "4cbd07da-f627-4a2b-adcd-9a6b3108c0f0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -30,7 +30,7 @@
   "dct_spatial_sm": [
     "Massachusetts"
   ],
-  "locn_geometry": "ENVELOPE(-72.9167,-69.4667,43,41)",
+  "locn_geometry": "POLYGON((-72.9167 43, -69.4667 43, -69.4667 41, -72.9167 41, -72.9167 43))",
   "dcat_bbox": "ENVELOPE(-72.9167,-69.4667,43,41)",
   "dcat_centroid": "42.0,-71.1917",
   "pcdm_memberOf_sm": [
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "22b3a7e5-83ad-4f7f-8260-0bc6d709c942"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:19Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

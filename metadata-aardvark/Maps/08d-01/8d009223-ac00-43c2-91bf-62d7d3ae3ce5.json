@@ -31,7 +31,7 @@
   "dct_spatial_sm": [
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-76.1014,-74.6894,40.6372,39.6506)",
+  "locn_geometry": "POLYGON((-76.1014 40.6372, -74.6894 40.6372, -74.6894 39.6506, -76.1014 39.6506, -76.1014 40.6372))",
   "dcat_bbox": "ENVELOPE(-76.1014,-74.6894,40.6372,39.6506)",
   "dcat_centroid": "40.1439,-75.3954",
   "pcdm_memberOf_sm": [
@@ -47,6 +47,6 @@
   "dct_identifier_sm": [
     "8d009223-ac00-43c2-91bf-62d7d3ae3ce5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:04Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

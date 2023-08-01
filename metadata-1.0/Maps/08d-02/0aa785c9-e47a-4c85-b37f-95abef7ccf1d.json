@@ -14,17 +14,17 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26363\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26363/manifest.json\"}",
   "dct_spatial_sm": [
-    "Bradford, Pennsylvania",
-    "Custer City, Pennsylvania",
-    "Farmers Valley, Pennsylvania",
-    "Foster Brook, Pennsylvania",
-    "Lewis Run, Pennsylvania",
-    "Minard Run, Pennsylvania",
-    "Nusbaum, Pennsylvania",
-    "McKean County, Pennsylvania",
+    "Pennsylvania--Bradford",
+    "Pennsylvania--Custer City",
+    "Pennsylvania--Farmers Valley",
+    "Pennsylvania--Foster Brook",
+    "Pennsylvania--Lewis Run",
+    "Pennsylvania--Minard Run",
+    "Pennsylvania--Nusbaum",
+    "Pennsylvania--McKean County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:07Z",
+  "layer_modified_dt": "2023-04-14T01:02:24Z",
   "dc_language_sm": [
     "eng"
   ],

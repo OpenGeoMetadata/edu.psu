@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1921"
@@ -34,15 +35,19 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Palmerton, Pennsylvania",
-    "Carbon County, Pennsylvania",
+    "Pennsylvania--Palmerton",
+    "Pennsylvania--Carbon County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.6577,-75.5771,40.8137,40.7893)",
+  "locn_geometry": "POLYGON((-75.6577 40.8137, -75.5771 40.8137, -75.5771 40.7893, -75.6577 40.7893, -75.6577 40.8137))",
   "dcat_bbox": "ENVELOPE(-75.6577,-75.5771,40.8137,40.7893)",
   "dcat_centroid": "40.8015,-75.6174",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "a7468dc0-a792-4c24-9379-1d73a41b0b5e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:42Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

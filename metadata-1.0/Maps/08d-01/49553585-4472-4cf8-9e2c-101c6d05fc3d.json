@@ -5,7 +5,7 @@
   "dc_title_s": "Wallis's complete voyage round the world : a new geographical pastime",
   "dct_provenance_s": "Pennsylvania State University",
   "layer_slug_s": "49553585-4472-4cf8-9e2c-101c6d05fc3d",
-  "solr_geom": "ENVELOPE(-180,180,85,-85)",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
   "solr_year_i": "1796",
   "dc_creator_sm": [
     "Wallis, John Samuel, 1825-1897"
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:34Z",
+  "layer_modified_dt": "2023-06-23T22:01:01Z",
   "dc_language_sm": [
     "eng"
   ],

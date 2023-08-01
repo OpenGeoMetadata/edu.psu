@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1903"
@@ -29,9 +30,9 @@
     "[1903 TO 1903]"
   ],
   "dct_spatial_sm": [
-    "Alaska"
+    "North America"
   ],
-  "locn_geometry": "ENVELOPE(-171.2,-50,70.1833,9)",
+  "locn_geometry": "POLYGON((-171.2 70.1833, -50 70.1833, -50 9, -171.2 9, -171.2 70.1833))",
   "dcat_bbox": "ENVELOPE(-171.2,-50,70.1833,9)",
   "dcat_centroid": "39.59165,-110.6",
   "pcdm_memberOf_sm": [
@@ -47,6 +48,6 @@
   "dct_identifier_sm": [
     "ff9e7474-1939-465d-8ad6-4665b7d69c6f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:17Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

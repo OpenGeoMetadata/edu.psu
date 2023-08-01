@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -34,15 +35,19 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "West Elizabeth, Pennsylvania",
-    "Allegheny County, Pennsylvania",
+    "Pennsylvania--West Elizabeth",
+    "Pennsylvania--Allegheny County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.9045,-79.8848,40.2792,40.2669)",
+  "locn_geometry": "POLYGON((-79.9045 40.2792, -79.8848 40.2792, -79.8848 40.2669, -79.9045 40.2669, -79.9045 40.2792))",
   "dcat_bbox": "ENVELOPE(-79.9045,-79.8848,40.2792,40.2669)",
   "dcat_centroid": "40.27305,-79.89465",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "693c4039-06cc-4415-8474-71ae400391fd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:43Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

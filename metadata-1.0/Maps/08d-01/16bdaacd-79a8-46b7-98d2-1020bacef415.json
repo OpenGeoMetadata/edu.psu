@@ -5,10 +5,10 @@
   "dc_title_s": "Map showing the distribution of the native tribes of Alaska and adjoining territory",
   "dct_provenance_s": "Pennsylvania State University",
   "layer_slug_s": "16bdaacd-79a8-46b7-98d2-1020bacef415",
-  "solr_geom": "ENVELOPE(175,-115,70,53)",
+  "solr_geom": "ENVELOPE(-179.9,-129.97,71.6,51.02)",
   "solr_year_i": "1875",
   "dc_creator_sm": [
-    "Dall, William Healey, 1845-1927."
+    "Dall, William Healey, 1845-1927"
   ],
   "dc_description_s": "Indians of North America--Alaska--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:25Z",
+  "layer_modified_dt": "2023-02-03T21:22:05Z",
   "dc_language_sm": [
     "eng"
   ],

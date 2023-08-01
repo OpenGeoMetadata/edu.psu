@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1928"
@@ -34,21 +35,25 @@
     "[1928 TO 1928]"
   ],
   "dct_spatial_sm": [
-    "New Kensington, Pennsylvania",
-    "Arnold, Pennsylvania",
-    "East Kensington, Pennsylvania",
-    "Parnassus, Pennsylvania",
-    "Valley, Pennsylvania",
-    "Valley Heights, Pennsylvania",
-    "Lower Burrell Township, Pennsylvania",
-    "Westmoreland County, Pennsylvania",
+    "Pennsylvania--New Kensington",
+    "Pennsylvania--Arnold",
+    "Pennsylvania--East Kensington",
+    "Pennsylvania--Parnassus",
+    "Pennsylvania--Valley",
+    "Pennsylvania--Valley Heights",
+    "Pennsylvania--Lower Burrell Township",
+    "Pennsylvania--Westmoreland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.7744,-79.7301,40.5986,40.5501)",
+  "locn_geometry": "POLYGON((-79.7744 40.5986, -79.7301 40.5986, -79.7301 40.5501, -79.7744 40.5501, -79.7744 40.5986))",
   "dcat_bbox": "ENVELOPE(-79.7744,-79.7301,40.5986,40.5501)",
   "dcat_centroid": "40.574349999999995,-79.75225",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -60,6 +65,6 @@
   "dct_identifier_sm": [
     "482c742c-a341-4f7e-93a3-d99035f421c9"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:23Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

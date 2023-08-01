@@ -26,7 +26,7 @@
     "Africa",
     "Asia"
   ],
-  "locn_geometry": "ENVELOPE(42.35,75.5833,40.7667,9.8667)",
+  "locn_geometry": "POLYGON((42.35 40.7667, 75.5833 40.7667, 75.5833 9.8667, 42.35 9.8667, 42.35 40.7667))",
   "dcat_bbox": "ENVELOPE(42.35,75.5833,40.7667,9.8667)",
   "dcat_centroid": "25.3167,58.96665",
   "pcdm_memberOf_sm": [
@@ -42,6 +42,6 @@
   "dct_identifier_sm": [
     "d943e4bf-efbc-479d-83f6-78dbac2a981f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

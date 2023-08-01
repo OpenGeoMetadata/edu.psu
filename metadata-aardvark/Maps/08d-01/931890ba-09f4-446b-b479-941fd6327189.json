@@ -30,7 +30,7 @@
   "dct_spatial_sm": [
     "South Carolina"
   ],
-  "locn_geometry": "ENVELOPE(-81.8333,-78.8333,35.1667,31.8333)",
+  "locn_geometry": "POLYGON((-81.8333 35.1667, -78.8333 35.1667, -78.8333 31.8333, -81.8333 31.8333, -81.8333 35.1667))",
   "dcat_bbox": "ENVELOPE(-81.8333,-78.8333,35.1667,31.8333)",
   "dcat_centroid": "33.5,-80.3333",
   "pcdm_memberOf_sm": [
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "931890ba-09f4-446b-b479-941fd6327189"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:37Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

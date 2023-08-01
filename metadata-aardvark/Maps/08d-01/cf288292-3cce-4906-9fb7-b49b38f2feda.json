@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1864"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-77.374,-77.246,37.6407,37.5505)",
+  "locn_geometry": "POLYGON((-77.374 37.6407, -77.246 37.6407, -77.246 37.5505, -77.374 37.5505, -77.374 37.6407))",
   "dcat_bbox": "ENVELOPE(-77.374,-77.246,37.6407,37.5505)",
   "dcat_centroid": "37.595600000000005,-77.31",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "cf288292-3cce-4906-9fb7-b49b38f2feda"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:02Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

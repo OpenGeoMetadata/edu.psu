@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1923"
@@ -34,16 +35,20 @@
     "[1923 TO 1923]"
   ],
   "dct_spatial_sm": [
-    "Carbondale, Pennsylvania",
-    "Simpson, Pennsylvania",
-    "Lackawanna County, Pennsylvania",
+    "Pennsylvania--Carbondale",
+    "Pennsylvania--Simpson",
+    "Pennsylvania--Lackawanna County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.5316,-75.4692,41.6001,41.5575)",
+  "locn_geometry": "POLYGON((-75.5316 41.6001, -75.4692 41.6001, -75.4692 41.5575, -75.5316 41.5575, -75.5316 41.6001))",
   "dcat_bbox": "ENVELOPE(-75.5316,-75.4692,41.6001,41.5575)",
   "dcat_centroid": "41.5788,-75.5004",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -55,6 +60,6 @@
   "dct_identifier_sm": [
     "1e5b5861-11e5-4655-aa04-c9f469c2ca63"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:24Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

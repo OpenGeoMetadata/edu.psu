@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1926"
@@ -34,19 +35,23 @@
     "[1926 TO 1926]"
   ],
   "dct_spatial_sm": [
-    "Braddock, Pennsylvania",
-    "North Braddock, Pennsylvania",
-    "Swissvale, Pennsylvania",
-    "Rankin, Pennsylvania",
-    "Edgewood, Pennsylvania",
-    "Braddock Township, Pennsylvania",
+    "Pennsylvania--Braddock",
+    "Pennsylvania--North Braddock",
+    "Pennsylvania--Swissvale",
+    "Pennsylvania--Rankin",
+    "Pennsylvania--Edgewood",
+    "Pennsylvania--Braddock Township",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.8994,-79.837,40.4366,40.3883)",
+  "locn_geometry": "POLYGON((-79.8994 40.4366, -79.837 40.4366, -79.837 40.3883, -79.8994 40.3883, -79.8994 40.4366))",
   "dcat_bbox": "ENVELOPE(-79.8994,-79.837,40.4366,40.3883)",
   "dcat_centroid": "40.41245,-79.8682",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -58,6 +63,6 @@
   "dct_identifier_sm": [
     "5ef5cf4d-ded5-45ce-a714-9cdd18d06d5b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:06Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

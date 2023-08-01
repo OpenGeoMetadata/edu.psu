@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Lukens, John, 1720-1789."
+    "Lukens, John, 1720-1789"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1780"
@@ -26,10 +27,10 @@
     "[1780 TO 1780]"
   ],
   "dct_spatial_sm": [
-    "Washington County, Pennsylvania",
+    "Pennsylvania--Washington County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.0742,-79.9836,40.2497,40.2397)",
+  "locn_geometry": "POLYGON((-80.0742 40.2497, -79.9836 40.2497, -79.9836 40.2397, -80.0742 40.2397, -80.0742 40.2497))",
   "dcat_bbox": "ENVELOPE(-80.0742,-79.9836,40.2497,40.2397)",
   "dcat_centroid": "40.244699999999995,-80.0289",
   "pcdm_memberOf_sm": [
@@ -45,6 +46,6 @@
   "dct_identifier_sm": [
     "6ee8f0c5-d3b7-4b97-be2b-cabd440d24cb"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

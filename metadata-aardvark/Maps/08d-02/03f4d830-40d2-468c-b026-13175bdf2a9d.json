@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1923"
@@ -34,18 +35,22 @@
     "[1923 TO 1923]"
   ],
   "dct_spatial_sm": [
-    "Lewistown, Pennsylvania",
-    "Lewistown Junction, Pennsylvania",
-    "West Derry, Pennsylvania",
-    "Lake Park, Pennsylvania",
-    "Mifflin County, Pennsylvania",
+    "Pennsylvania--Lewistown",
+    "Pennsylvania--Lewistown Junction",
+    "Pennsylvania--West Derry",
+    "Pennsylvania--Lake Park",
+    "Pennsylvania--Mifflin County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-77.6042,-77.5518,40.6133,40.5819)",
+  "locn_geometry": "POLYGON((-77.6042 40.6133, -77.5518 40.6133, -77.5518 40.5819, -77.6042 40.5819, -77.6042 40.6133))",
   "dcat_bbox": "ENVELOPE(-77.6042,-77.5518,40.6133,40.5819)",
   "dcat_centroid": "40.5976,-77.578",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -57,6 +62,6 @@
   "dct_identifier_sm": [
     "03f4d830-40d2-468c-b026-13175bdf2a9d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:28Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

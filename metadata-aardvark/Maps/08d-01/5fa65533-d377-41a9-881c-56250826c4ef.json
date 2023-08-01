@@ -19,7 +19,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1757"
@@ -32,10 +33,10 @@
     "[1757 TO 1757]"
   ],
   "dct_spatial_sm": [
-    "Boston, Massachusetts",
+    "Massachusetts--Boston",
     "Massachusetts"
   ],
-  "locn_geometry": "ENVELOPE(-71.1911,-70.7495,42.4008,42.2279)",
+  "locn_geometry": "POLYGON((-71.1911 42.4008, -70.7495 42.4008, -70.7495 42.2279, -71.1911 42.2279, -71.1911 42.4008))",
   "dcat_bbox": "ENVELOPE(-71.1911,-70.7495,42.4008,42.2279)",
   "dcat_centroid": "42.31435,-70.97030000000001",
   "pcdm_memberOf_sm": [
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "5fa65533-d377-41a9-881c-56250826c4ef"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:51Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

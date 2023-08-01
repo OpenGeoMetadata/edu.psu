@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1903"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "Tanzania"
   ],
-  "locn_geometry": "ENVELOPE(29,41,1,-12)",
+  "locn_geometry": "POLYGON((29 1, 41 1, 41 -12, 29 -12, 29 1))",
   "dcat_bbox": "ENVELOPE(29,41,1,-12)",
   "dcat_centroid": "-5.5,35.0",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "e7b08f7d-5560-4f5a-a499-6db204b4f3e7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

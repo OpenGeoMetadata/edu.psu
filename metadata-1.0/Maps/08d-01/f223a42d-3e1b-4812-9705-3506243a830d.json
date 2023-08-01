@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-73.7278,-71.787,42.0506,40.9493)",
   "solr_year_i": "1899",
   "dc_creator_sm": [
-    "White, J. W."
+    "White, J. W. (Cartographer)"
   ],
   "dc_description_s": "Scale approximately 1:500,000; 1 map: color; 26 x 34 cm Connecticut--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Connecticut"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:18Z",
+  "layer_modified_dt": "2023-02-03T21:17:48Z",
   "dc_language_sm": [
     "eng"
   ],

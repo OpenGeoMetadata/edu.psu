@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1905"
@@ -34,15 +35,19 @@
     "[1905 TO 1905]"
   ],
   "dct_spatial_sm": [
-    "Ligonier, Pennsylvania",
-    "Westmoreland County, Pennsylvania",
+    "Pennsylvania--Ligonier",
+    "Pennsylvania--Westmoreland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.2474,-79.2287,40.2508,40.2385)",
+  "locn_geometry": "POLYGON((-79.2474 40.2508, -79.2287 40.2508, -79.2287 40.2385, -79.2474 40.2385, -79.2474 40.2508))",
   "dcat_bbox": "ENVELOPE(-79.2474,-79.2287,40.2508,40.2385)",
   "dcat_centroid": "40.24465,-79.23805",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "7b52a9a9-a3af-4f7e-8085-7caf184ad5ab"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:19Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -32,7 +32,7 @@
     "Pennsylvania",
     "Delaware"
   ],
-  "locn_geometry": "ENVELOPE(-75.7756,-75.2664,40.0492,39.6497)",
+  "locn_geometry": "POLYGON((-75.7756 40.0492, -75.2664 40.0492, -75.2664 39.6497, -75.7756 39.6497, -75.7756 40.0492))",
   "dcat_bbox": "ENVELOPE(-75.7756,-75.2664,40.0492,39.6497)",
   "dcat_centroid": "39.849450000000004,-75.521",
   "pcdm_memberOf_sm": [
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "20cff9de-7c6e-4fa3-ba1e-d9788f27b513"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:51Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

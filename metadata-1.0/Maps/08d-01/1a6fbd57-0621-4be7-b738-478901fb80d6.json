@@ -14,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30027\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30027/manifest.json\"}",
   "dct_spatial_sm": [
-    "Saratoga County, New York",
+    "New York--Saratoga County",
     "New York"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:42Z",
+  "layer_modified_dt": "2023-02-03T21:23:38Z",
   "dc_language_sm": [
     "eng"
   ],

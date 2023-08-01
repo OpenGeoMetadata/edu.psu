@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-96.85,-63.5333,48.0167,25.1167)",
   "solr_year_i": "1850",
   "dc_creator_sm": [
-    "Kemble, William."
+    "Kemble, William, 1795?-1881"
   ],
   "dc_description_s": "Scale not given; 1 map: color; 20 x 22 cm North America--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:34Z",
+  "layer_modified_dt": "2023-02-03T21:21:33Z",
   "dc_language_sm": [
     "eng"
   ],

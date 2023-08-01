@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Michler, N. (Nathaniel), 1827-1881."
+    "Michler, N. (Nathaniel), 1827-1881"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1862"
@@ -31,10 +32,10 @@
     "[1862 TO 1862]"
   ],
   "dct_spatial_sm": [
-    "Frederiscksburg, Virginia",
+    "Virginia--Frederiscksburg",
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-77.5319,-77.4378,38.3765,38.2702)",
+  "locn_geometry": "POLYGON((-77.5319 38.3765, -77.4378 38.3765, -77.4378 38.2702, -77.5319 38.2702, -77.5319 38.3765))",
   "dcat_bbox": "ENVELOPE(-77.5319,-77.4378,38.3765,38.2702)",
   "dcat_centroid": "38.323350000000005,-77.48485",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "19a95296-115f-48ef-942b-e346e9e7d74e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

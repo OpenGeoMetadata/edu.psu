@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-79.8889,-79.8624,40.0378,40.0159)",
   "solr_year_i": "1784",
   "dc_creator_sm": [
-    "Lukens, John, 1720-1789."
+    "Lukens, John, 1720-1789"
   ],
   "dc_description_s": "Scale not given; 1 map: color; 15 x 14 cm, on sheet 39 x 25 cm Real property--Pennsylvania--Fayette County--Maps--Early works to 1800--Facsimiles",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30079\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30079/manifest.json\"}",
   "dct_spatial_sm": [
-    "Fayette County, Pennsylvania",
+    "Pennsylvania--Fayette County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:46Z",
+  "layer_modified_dt": "2023-02-03T21:20:04Z",
   "dc_language_sm": [
     "eng"
   ],

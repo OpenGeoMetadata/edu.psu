@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-84.76,-84.7211,37.0717,37.0389)",
   "solr_year_i": "1877",
   "dc_creator_sm": [
-    "United States. Army. Corps of Engineers."
+    "United States. Army. Corps of Engineers"
   ],
   "dc_description_s": "Scale 1:15,840; Scale 1:15,840; 2 maps on 1 sheet : hand colored; 34 x 29 cm, sheet 40 x 35 cm Thomas, George H.(George Henry), 1816-1870.",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Kentucky"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:40Z",
+  "layer_modified_dt": "2023-02-03T21:25:05Z",
   "dc_language_sm": [
     "eng"
   ],

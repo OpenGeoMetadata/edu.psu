@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-77.7995,-77.6494,39.4,39.2973)",
   "solr_year_i": "1862",
   "dc_creator_sm": [
-    "Michler, N. (Nathaniel), 1827-1881."
+    "Michler, N. (Nathaniel), 1827-1881"
   ],
   "dc_description_s": "Scale [1:21,120]. 3 in. to 1 mile; 1 map: hand colored, mounted on cloth; 56 x 68 cm Harpers Ferry, Battle of, Harpers Ferry, W. Va., 1862--Maps",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30116\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30116/manifest.json\"}",
   "dct_spatial_sm": [
-    "Harper's Ferry, West Virginia",
+    "West Virginia--Harper's Ferry",
     "West Virginia"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:30Z",
+  "layer_modified_dt": "2023-02-03T21:19:24Z",
   "dc_language_sm": [
     "eng"
   ],

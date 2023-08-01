@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1877"
@@ -29,10 +30,10 @@
     "[1877 TO 1877]"
   ],
   "dct_spatial_sm": [
-    "Perryville, Kentucky",
+    "Kentucky--Perryville",
     "Kentucky"
   ],
-  "locn_geometry": "ENVELOPE(-85.0125,-84.9408,37.6908,37.6072)",
+  "locn_geometry": "POLYGON((-85.0125 37.6908, -84.9408 37.6908, -84.9408 37.6072, -85.0125 37.6072, -85.0125 37.6908))",
   "dcat_bbox": "ENVELOPE(-85.0125,-84.9408,37.6908,37.6072)",
   "dcat_centroid": "37.649,-84.97665",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "3f5f5196-5497-491d-b2f8-9398ed7add19"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:55Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

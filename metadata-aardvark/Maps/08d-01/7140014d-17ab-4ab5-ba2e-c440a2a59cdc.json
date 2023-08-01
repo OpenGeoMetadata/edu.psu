@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Gannett, Henry, 1846-1914."
+    "Gannett, Henry, 1846-1914"
   ],
   "dct_publisher_sm": [
     "[Census Bureau]"
@@ -20,7 +20,8 @@
     "Census"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1880"
@@ -34,7 +35,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-125,-65,49,25)",
+  "locn_geometry": "POLYGON((-125 49, -65 49, -65 25, -125 25, -125 49))",
   "dcat_bbox": "ENVELOPE(-125,-65,49,25)",
   "dcat_centroid": "37.0,-95.0",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "7140014d-17ab-4ab5-ba2e-c440a2a59cdc"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:41Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

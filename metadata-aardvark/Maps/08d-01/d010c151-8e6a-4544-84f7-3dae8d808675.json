@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Rennell, James, 1742-1830."
+    "Rennell, James, 1742-1830"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1771"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Africa"
   ],
-  "locn_geometry": "ENVELOPE(-17.6833,15.9833,19.1833,4.1667)",
+  "locn_geometry": "POLYGON((-17.6833 19.1833, 15.9833 19.1833, 15.9833 4.1667, -17.6833 4.1667, -17.6833 19.1833))",
   "dcat_bbox": "ENVELOPE(-17.6833,15.9833,19.1833,4.1667)",
   "dcat_centroid": "11.674999999999999,-0.8499999999999996",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "d010c151-8e6a-4544-84f7-3dae8d808675"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

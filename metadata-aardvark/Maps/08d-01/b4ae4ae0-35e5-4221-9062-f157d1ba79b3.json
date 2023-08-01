@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Paine, Paul M. (Paul Mayo), 1869-1955, cartographer"
+    "Paine, Paul M. (Paul Mayo), 1869-1955"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1927"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "British Isles"
   ],
-  "locn_geometry": "ENVELOPE(-10.5667,2.3833,59.4167,48.6)",
+  "locn_geometry": "POLYGON((-10.5667 59.4167, 2.3833 59.4167, 2.3833 48.6, -10.5667 48.6, -10.5667 59.4167))",
   "dcat_bbox": "ENVELOPE(-10.5667,2.3833,59.4167,48.6)",
   "dcat_centroid": "54.00835,-4.0917",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "b4ae4ae0-35e5-4221-9062-f157d1ba79b3"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

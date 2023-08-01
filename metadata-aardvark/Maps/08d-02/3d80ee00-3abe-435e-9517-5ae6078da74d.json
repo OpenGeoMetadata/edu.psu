@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1923"
@@ -34,15 +35,19 @@
     "[1923 TO 1923]"
   ],
   "dct_spatial_sm": [
-    "Carlisle, Pennsylvania",
-    "Cumberland County, Pennsylvania",
+    "Pennsylvania--Carlisle",
+    "Pennsylvania--Cumberland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-77.2467,-77.1711,40.2194,40.1807)",
+  "locn_geometry": "POLYGON((-77.2467 40.2194, -77.1711 40.2194, -77.1711 40.1807, -77.2467 40.1807, -77.2467 40.2194))",
   "dcat_bbox": "ENVELOPE(-77.2467,-77.1711,40.2194,40.1807)",
   "dcat_centroid": "40.200050000000005,-77.2089",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "3d80ee00-3abe-435e-9517-5ae6078da74d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:28Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -34,15 +35,19 @@
     "[1894 TO 1894]"
   ],
   "dct_spatial_sm": [
-    "Shippensburg, Pennsylvania",
-    "Cumberland County, Pennsylvania",
+    "Pennsylvania--Shippensburg",
+    "Pennsylvania--Cumberland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-77.5491,-77.4992,40.0584,40.0363)",
+  "locn_geometry": "POLYGON((-77.5491 40.0584, -77.4992 40.0584, -77.4992 40.0363, -77.5491 40.0363, -77.5491 40.0584))",
   "dcat_bbox": "ENVELOPE(-77.5491,-77.4992,40.0584,40.0363)",
   "dcat_centroid": "40.047349999999994,-77.52414999999999",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "37e12e62-7640-4a0a-8a90-83604842093b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:46Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

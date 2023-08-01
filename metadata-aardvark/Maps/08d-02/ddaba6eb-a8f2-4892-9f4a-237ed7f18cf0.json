@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1900"
@@ -34,15 +35,19 @@
     "[1900 TO 1900]"
   ],
   "dct_spatial_sm": [
-    "Westfield, Pennsylvania",
-    "Tioga County, Pennsylvania",
+    "Pennsylvania--Westfield",
+    "Pennsylvania--Tioga County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-77.554,-77.5284,41.9258,41.9086)",
+  "locn_geometry": "POLYGON((-77.554 41.9258, -77.5284 41.9258, -77.5284 41.9086, -77.554 41.9086, -77.554 41.9258))",
   "dcat_bbox": "ENVELOPE(-77.554,-77.5284,41.9258,41.9086)",
   "dcat_centroid": "41.9172,-77.5412",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "ddaba6eb-a8f2-4892-9f4a-237ed7f18cf0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:27Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

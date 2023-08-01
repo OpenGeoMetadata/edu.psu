@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "McPherson, James Birdseye, 1828-1864."
+    "McPherson, James Birdseye, 1828-1864"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1861 and 1865"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Tennessee"
   ],
-  "locn_geometry": "ENVELOPE(-87.8942,-87.8303,36.4958,36.4689)",
+  "locn_geometry": "POLYGON((-87.8942 36.4958, -87.8303 36.4958, -87.8303 36.4689, -87.8942 36.4689, -87.8942 36.4958))",
   "dcat_bbox": "ENVELOPE(-87.8942,-87.8303,36.4958,36.4689)",
   "dcat_centroid": "36.48235,-87.86224999999999",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "b5561539-b930-43a1-b648-5db64c967beb"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

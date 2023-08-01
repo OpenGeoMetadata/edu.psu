@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1898"
@@ -31,7 +32,7 @@
   "dct_spatial_sm": [
     "Kentucky"
   ],
-  "locn_geometry": "ENVELOPE(-85.9667,-83.4167,38.8,37.3667)",
+  "locn_geometry": "POLYGON((-85.9667 38.8, -83.4167 38.8, -83.4167 37.3667, -85.9667 37.3667, -85.9667 38.8))",
   "dcat_bbox": "ENVELOPE(-85.9667,-83.4167,38.8,37.3667)",
   "dcat_centroid": "38.083349999999996,-84.6917",
   "pcdm_memberOf_sm": [
@@ -47,6 +48,6 @@
   "dct_identifier_sm": [
     "33fb6041-da0a-4d10-8457-74b4145ce345"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

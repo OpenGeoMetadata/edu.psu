@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers."
+    "United States. Army. Corps of Engineers"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1861"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "West Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-80.9575,-80.9303,38.2136,38.1917)",
+  "locn_geometry": "POLYGON((-80.9575 38.2136, -80.9303 38.2136, -80.9303 38.1917, -80.9575 38.1917, -80.9575 38.2136))",
   "dcat_bbox": "ENVELOPE(-80.9575,-80.9303,38.2136,38.1917)",
   "dcat_centroid": "38.20265,-80.9439",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "e2c3aff9-20da-4dae-b0ab-26d1e3902d1c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:59Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

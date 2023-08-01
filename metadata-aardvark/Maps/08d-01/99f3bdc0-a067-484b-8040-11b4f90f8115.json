@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Le Rouge, Georges-Louis."
+    "Le Rouge, Georges-Louis"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -19,7 +19,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1770"
@@ -34,7 +35,7 @@
   "dct_spatial_sm": [
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.5199,-74.6895,42.5161,39.7198)",
+  "locn_geometry": "POLYGON((-80.5199 42.5161, -74.6895 42.5161, -74.6895 39.7198, -80.5199 39.7198, -80.5199 42.5161))",
   "dcat_bbox": "ENVELOPE(-80.5199,-74.6895,42.5161,39.7198)",
   "dcat_centroid": "41.11795,-77.60470000000001",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "99f3bdc0-a067-484b-8040-11b4f90f8115"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:55Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

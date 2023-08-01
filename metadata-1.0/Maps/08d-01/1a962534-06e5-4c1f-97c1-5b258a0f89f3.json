@@ -5,7 +5,7 @@
   "dc_title_s": "Mappe-monde, ou, Description du globe terrestre. : ou l'on trouve en general le rapportque toutes ses parties ont avec les cieux, entr'elles, et avec l'histoire",
   "dct_provenance_s": "Pennsylvania State University",
   "layer_slug_s": "1a962534-06e5-4c1f-97c1-5b258a0f89f3",
-  "solr_geom": "ENVELOPE(-180,180,85,-85)",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
   "solr_year_i": "1800",
   "dc_creator_sm": [
     "Moullart-Sanson"
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:25Z",
+  "layer_modified_dt": "2023-06-23T22:01:00Z",
   "dc_language_sm": [
     "eng"
   ],

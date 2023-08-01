@@ -5,7 +5,7 @@
   "dc_title_s": "World wonders : a pictorial map",
   "dct_provenance_s": "Pennsylvania State University",
   "layer_slug_s": "cbb381a9-8b50-4223-b960-c0e549f8c7fd",
-  "solr_geom": "ENVELOPE(-180,180,85,-85)",
+  "solr_geom": "ENVELOPE(-180,180,90,-90)",
   "solr_year_i": "1939",
   "dc_creator_sm": [
     "Chase, Ernest Dudley, 1878-"
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:04Z",
+  "layer_modified_dt": "2023-06-23T22:01:00Z",
   "dc_language_sm": [
     "eng"
   ],

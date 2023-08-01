@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1922"
@@ -34,15 +35,19 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Conneaut Lake Park, Pennsylvania",
-    "Crawford County, Pennsylvania",
+    "Pennsylvania--Conneaut Lake Park",
+    "Pennsylvania--Crawford County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.3163,-80.3103,41.6372,41.6334)",
+  "locn_geometry": "POLYGON((-80.3163 41.6372, -80.3103 41.6372, -80.3103 41.6334, -80.3163 41.6334, -80.3163 41.6372))",
   "dcat_bbox": "ENVELOPE(-80.3163,-80.3103,41.6372,41.6334)",
   "dcat_centroid": "41.6353,-80.3133",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "d309cf09-4523-49be-8dca-fd0928ff3c0e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:27Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

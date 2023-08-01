@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Van Loon, Hendrik Willem, 1882-1944, cartographer."
+    "Van Loon, Hendrik Willem, 1882-1944"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1932"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "ENVELOPE(-165.2,179.9833,82.3333,-70)",
+  "locn_geometry": "POLYGON((-165.2 82.3333, 179.9833 82.3333, 179.9833 -70, -165.2 -70, -165.2 82.3333))",
   "dcat_bbox": "ENVELOPE(-165.2,179.9833,82.3333,-70)",
   "dcat_centroid": "6.166649999999997,7.391650000000013",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "ca76dd1e-9bea-4f1e-bb8d-3d5762edcbb6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:58Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

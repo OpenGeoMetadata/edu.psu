@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1924"
@@ -34,15 +35,19 @@
     "[1924 TO 1924]"
   ],
   "dct_spatial_sm": [
-    "Clairton, Pennsylvania",
-    "Allegheny County, Pennsylvania",
+    "Pennsylvania--Clairton",
+    "Pennsylvania--Allegheny County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.9013,-79.8669,40.3209,40.2809)",
+  "locn_geometry": "POLYGON((-79.9013 40.3209, -79.8669 40.3209, -79.8669 40.2809, -79.9013 40.2809, -79.9013 40.3209))",
   "dcat_bbox": "ENVELOPE(-79.9013,-79.8669,40.3209,40.2809)",
   "dcat_centroid": "40.3009,-79.8841",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "ba2d14bd-14bf-4635-a904-8c786ad96602"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:47Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

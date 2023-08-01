@@ -17,7 +17,8 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1893"
@@ -31,7 +32,7 @@
   "dct_spatial_sm": [
     "Austria"
   ],
-  "locn_geometry": "ENVELOPE(9.5167,22.9667,51.3167,44.8)",
+  "locn_geometry": "POLYGON((9.5167 51.3167, 22.9667 51.3167, 22.9667 44.8, 9.5167 44.8, 9.5167 51.3167))",
   "dcat_bbox": "ENVELOPE(9.5167,22.9667,51.3167,44.8)",
   "dcat_centroid": "48.05835,16.2417",
   "pcdm_memberOf_sm": [
@@ -47,6 +48,6 @@
   "dct_identifier_sm": [
     "b1ba12eb-246e-429f-965b-596cbcb8c2b2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:26Z",
   "gbl_mdVersion_s": "Aardvark"
 }

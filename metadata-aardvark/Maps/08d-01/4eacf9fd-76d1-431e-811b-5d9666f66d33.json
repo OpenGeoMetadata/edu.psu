@@ -30,7 +30,7 @@
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "locn_geometry": "ENVELOPE(-91.1667,-89.3333,46.8333,46.1833)",
+  "locn_geometry": "POLYGON((-91.1667 46.8333, -89.3333 46.8333, -89.3333 46.1833, -91.1667 46.1833, -91.1667 46.8333))",
   "dcat_bbox": "ENVELOPE(-91.1667,-89.3333,46.8333,46.1833)",
   "dcat_centroid": "46.508300000000006,-90.25",
   "pcdm_memberOf_sm": [
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "4eacf9fd-76d1-431e-811b-5d9666f66d33"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

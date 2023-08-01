@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1880 and 1889"
@@ -31,10 +32,10 @@
     "[1880 TO 1889]"
   ],
   "dct_spatial_sm": [
-    "Paris, France",
+    "France--Paris",
     "France"
   ],
-  "locn_geometry": "ENVELOPE(2.2467,2.4183,48.9019,48.8164)",
+  "locn_geometry": "POLYGON((2.2467 48.9019, 2.4183 48.9019, 2.4183 48.8164, 2.2467 48.8164, 2.2467 48.9019))",
   "dcat_bbox": "ENVELOPE(2.2467,2.4183,48.9019,48.8164)",
   "dcat_centroid": "48.85915,2.3325",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "7ecbde46-0423-4be5-95e6-75b0e3c5a66d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:38Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

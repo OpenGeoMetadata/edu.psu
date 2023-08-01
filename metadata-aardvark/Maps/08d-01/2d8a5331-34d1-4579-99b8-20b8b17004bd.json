@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bauman, Sebastian."
+    "Bauman, Sebastian"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1781"
@@ -31,10 +32,10 @@
     "[1781 TO 1781]"
   ],
   "dct_spatial_sm": [
-    "Yorktown, Virginia",
+    "Virginia--Yorktown",
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-76.5589,-76.4614,37.2676,37.1925)",
+  "locn_geometry": "POLYGON((-76.5589 37.2676, -76.4614 37.2676, -76.4614 37.1925, -76.5589 37.1925, -76.5589 37.2676))",
   "dcat_bbox": "ENVELOPE(-76.5589,-76.4614,37.2676,37.1925)",
   "dcat_centroid": "37.230050000000006,-76.51015",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "2d8a5331-34d1-4579-99b8-20b8b17004bd"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

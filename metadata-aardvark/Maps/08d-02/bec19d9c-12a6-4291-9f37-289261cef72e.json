@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -34,15 +35,19 @@
     "[1894 TO 1894]"
   ],
   "dct_spatial_sm": [
-    "Ellwood City, Pennsylvania",
-    "Lawrence County, Pennsylvania",
+    "Pennsylvania--Ellwood City",
+    "Pennsylvania--Lawrence County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.3008,-80.2637,40.8761,40.8427)",
+  "locn_geometry": "POLYGON((-80.3008 40.8761, -80.2637 40.8761, -80.2637 40.8427, -80.3008 40.8427, -80.3008 40.8761))",
   "dcat_bbox": "ENVELOPE(-80.3008,-80.2637,40.8761,40.8427)",
   "dcat_centroid": "40.8594,-80.28225",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "bec19d9c-12a6-4291-9f37-289261cef72e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:10Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1895"
@@ -34,15 +35,19 @@
     "[1895 TO 1895]"
   ],
   "dct_spatial_sm": [
-    "Sharpsville, Pennsylvania",
-    "Mercer County, Pennsylvania",
+    "Pennsylvania--Sharpsville",
+    "Pennsylvania--Mercer County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.4994,-80.4676,41.2718,41.2497)",
+  "locn_geometry": "POLYGON((-80.4994 41.2718, -80.4676 41.2718, -80.4676 41.2497, -80.4994 41.2497, -80.4994 41.2718))",
   "dcat_bbox": "ENVELOPE(-80.4994,-80.4676,41.2718,41.2497)",
   "dcat_centroid": "41.26075,-80.48349999999999",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "a727c17b-580f-4bea-9548-25ba938cc1f0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:16Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Alsop, John"
+    "Alsop, John, 1724-1794"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -19,7 +19,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1782"
@@ -34,7 +35,7 @@
   "dct_spatial_sm": [
     "Rhode Island"
   ],
-  "locn_geometry": "ENVELOPE(-72.3667,-69.6667,44.5833,41.2667)",
+  "locn_geometry": "POLYGON((-72.3667 44.5833, -69.6667 44.5833, -69.6667 41.2667, -72.3667 41.2667, -72.3667 44.5833))",
   "dcat_bbox": "ENVELOPE(-72.3667,-69.6667,44.5833,41.2667)",
   "dcat_centroid": "42.925,-71.0167",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "f278c9c8-bb3d-44b8-b30c-e3b2e4586dc8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:06Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

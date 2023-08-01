@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1902"
@@ -34,15 +35,19 @@
     "[1902 TO 1902]"
   ],
   "dct_spatial_sm": [
-    "Ambler, Pennsylvania",
-    "Montgomery County, Pennsylvania",
+    "Pennsylvania--Ambler",
+    "Pennsylvania--Montgomery County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.2313,-75.2128,40.1679,40.1455)",
+  "locn_geometry": "POLYGON((-75.2313 40.1679, -75.2128 40.1679, -75.2128 40.1455, -75.2313 40.1455, -75.2313 40.1679))",
   "dcat_bbox": "ENVELOPE(-75.2313,-75.2128,40.1679,40.1455)",
   "dcat_centroid": "40.1567,-75.22205",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "69907298-c72b-4724-8e60-f1c4ed0837c4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:28Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

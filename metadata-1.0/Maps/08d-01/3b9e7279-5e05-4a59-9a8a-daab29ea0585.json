@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(135.6,153.45,8.9,-39.05)",
   "solr_year_i": "1852",
   "dc_creator_sm": [
-    "Arrowsmith, John, 1790-1873."
+    "Arrowsmith, John, 1790-1873"
   ],
   "dc_description_s": "Australia, Southeastern--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Australia"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:03Z",
+  "layer_modified_dt": "2023-02-03T21:26:14Z",
   "dc_language_sm": [
     "eng"
   ],

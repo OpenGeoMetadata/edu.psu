@@ -32,10 +32,10 @@
     "[1900 TO 1925]"
   ],
   "dct_spatial_sm": [
-    "Paris, France",
+    "France--Paris",
     "France"
   ],
-  "locn_geometry": "ENVELOPE(2.2242,2.4699,48.9021,48.8156)",
+  "locn_geometry": "POLYGON((2.2242 48.9021, 2.4699 48.9021, 2.4699 48.8156, 2.2242 48.8156, 2.2242 48.9021))",
   "dcat_bbox": "ENVELOPE(2.2242,2.4699,48.9021,48.8156)",
   "dcat_centroid": "48.858850000000004,2.3470500000000003",
   "pcdm_memberOf_sm": [
@@ -51,6 +51,6 @@
   "dct_identifier_sm": [
     "3ab62f18-b351-4ed4-a000-a59bb7e02507"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:36Z",
+  "gbl_mdModified_dt": "2023-02-03T21:15:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

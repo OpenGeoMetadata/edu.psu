@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1896"
@@ -34,15 +35,19 @@
     "[1896 TO 1896]"
   ],
   "dct_spatial_sm": [
-    "Milton, Pennsylvania",
-    "Northumberland County, Pennsylvania",
+    "Pennsylvania--Milton",
+    "Pennsylvania--Northumberland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-76.8674,-76.8329,41.0372,40.9687)",
+  "locn_geometry": "POLYGON((-76.8674 41.0372, -76.8329 41.0372, -76.8329 40.9687, -76.8674 40.9687, -76.8674 41.0372))",
   "dcat_bbox": "ENVELOPE(-76.8674,-76.8329,41.0372,40.9687)",
   "dcat_centroid": "41.00295,-76.85015",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "97f05baf-9734-4bb5-93aa-c542dc8181e5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:22Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

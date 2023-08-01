@@ -29,10 +29,10 @@
     "[1564 TO 1564]"
   ],
   "dct_spatial_sm": [
-    "Jacksonville, Florida",
+    "Florida--Jacksonville",
     "Florida"
   ],
-  "locn_geometry": "ENVELOPE(-81.5056,-81.4936,30.3883,30.3794)",
+  "locn_geometry": "POLYGON((-81.5056 30.3883, -81.4936 30.3883, -81.4936 30.3794, -81.5056 30.3794, -81.5056 30.3883))",
   "dcat_bbox": "ENVELOPE(-81.5056,-81.4936,30.3883,30.3794)",
   "dcat_centroid": "30.383850000000002,-81.4996",
   "pcdm_memberOf_sm": [
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "0646fe77-0818-4084-a1cd-3537da7d06cf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:27Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

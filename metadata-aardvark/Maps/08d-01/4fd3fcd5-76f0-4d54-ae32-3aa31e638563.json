@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Leuzinger, R."
+    "Leuzinger, R. (Rudolf), 1826-1896"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1890 and 1899"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Switzerland"
   ],
-  "locn_geometry": "ENVELOPE(5.95,10.4833,47.8,45.8167)",
+  "locn_geometry": "POLYGON((5.95 47.8, 10.4833 47.8, 10.4833 45.8167, 5.95 45.8167, 5.95 47.8))",
   "dcat_bbox": "ENVELOPE(5.95,10.4833,47.8,45.8167)",
   "dcat_centroid": "46.80835,8.21665",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "4fd3fcd5-76f0-4d54-ae32-3aa31e638563"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:58Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

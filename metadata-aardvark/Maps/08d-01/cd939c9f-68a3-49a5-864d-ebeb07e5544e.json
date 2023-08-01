@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Michler, N. (Nathaniel), 1827-1881."
+    "Michler, N. (Nathaniel), 1827-1881"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1862"
@@ -31,10 +32,10 @@
     "[1862 TO 1862]"
   ],
   "dct_spatial_sm": [
-    "Harper's Ferry, West Virginia",
+    "West Virginia--Harper's Ferry",
     "West Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-77.7995,-77.6494,39.4,39.2973)",
+  "locn_geometry": "POLYGON((-77.7995 39.4, -77.6494 39.4, -77.6494 39.2973, -77.7995 39.2973, -77.7995 39.4))",
   "dcat_bbox": "ENVELOPE(-77.7995,-77.6494,39.4,39.2973)",
   "dcat_centroid": "39.34865,-77.72444999999999",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "cd939c9f-68a3-49a5-864d-ebeb07e5544e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:30Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

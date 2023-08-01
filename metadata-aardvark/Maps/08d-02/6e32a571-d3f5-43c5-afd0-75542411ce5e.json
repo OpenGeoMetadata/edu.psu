@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -34,17 +35,21 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Olyphant, Pennsylvania",
-    "Dickson City, Pennsylvania",
-    "Blakely, Pennsylvania",
-    "Lackawanna County, Pennsylvania",
+    "Pennsylvania--Olyphant",
+    "Pennsylvania--Dickson City",
+    "Pennsylvania--Blakely",
+    "Pennsylvania--Lackawanna County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.6633,-75.5361,41.5032,41.4215)",
+  "locn_geometry": "POLYGON((-75.6633 41.5032, -75.5361 41.5032, -75.5361 41.4215, -75.6633 41.4215, -75.6633 41.5032))",
   "dcat_bbox": "ENVELOPE(-75.6633,-75.5361,41.5032,41.4215)",
   "dcat_centroid": "41.46235,-75.59970000000001",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -56,6 +61,6 @@
   "dct_identifier_sm": [
     "6e32a571-d3f5-43c5-afd0-75542411ce5e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:41Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

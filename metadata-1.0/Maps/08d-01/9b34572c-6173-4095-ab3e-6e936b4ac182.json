@@ -5,10 +5,10 @@
   "dc_title_s": "General chart of Alaska",
   "dct_provenance_s": "Pennsylvania State University",
   "layer_slug_s": "9b34572c-6173-4095-ab3e-6e936b4ac182",
-  "solr_geom": "ENVELOPE(158,-128,72,48)",
+  "solr_geom": "ENVELOPE(-179,-128,72,48)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
-    "U.S. Coast and Geodetic Survey."
+    "U.S. Coast and Geodetic Survey"
   ],
   "dc_description_s": "Nautical charts--Alaska",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:42Z",
+  "layer_modified_dt": "2023-02-03T21:18:46Z",
   "dc_language_sm": [
     "eng"
   ],

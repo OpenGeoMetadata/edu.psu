@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1816"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Belgium"
   ],
-  "locn_geometry": "ENVELOPE(4.3547,4.4411,50.7358,50.6708)",
+  "locn_geometry": "POLYGON((4.3547 50.7358, 4.4411 50.7358, 4.4411 50.6708, 4.3547 50.6708, 4.3547 50.7358))",
   "dcat_bbox": "ENVELOPE(4.3547,4.4411,50.7358,50.6708)",
   "dcat_centroid": "50.7033,4.3979",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "faf3c1d8-1877-4fd3-a462-c2e8f5d5a354"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:40Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

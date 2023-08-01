@@ -14,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29977\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29977/manifest.json\"}",
   "dct_spatial_sm": [
-    "Boston, Massachusetts",
+    "Massachusetts--Boston",
     "Massachusetts"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:51Z",
+  "layer_modified_dt": "2023-02-03T21:16:10Z",
   "dc_language_sm": [
     "eng"
   ],

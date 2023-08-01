@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Methodist Episcopal Church. Missionary Society."
+    "Methodist Episcopal Church. Woman's Foreign Missionary Society"
   ],
   "dct_publisher_sm": [
     "Published by the Missionary Society"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1898"
@@ -31,7 +32,7 @@
   "dct_spatial_sm": [
     "Mexico"
   ],
-  "locn_geometry": "ENVELOPE(-169.9833,-49.3833,71.1833,18.3167)",
+  "locn_geometry": "POLYGON((-169.9833 71.1833, -49.3833 71.1833, -49.3833 18.3167, -169.9833 18.3167, -169.9833 71.1833))",
   "dcat_bbox": "ENVELOPE(-169.9833,-49.3833,71.1833,18.3167)",
   "dcat_centroid": "44.75,-109.6833",
   "pcdm_memberOf_sm": [
@@ -47,6 +48,6 @@
   "dct_identifier_sm": [
     "734aba0a-bdf7-4f99-8152-fd5a56ac3a66"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

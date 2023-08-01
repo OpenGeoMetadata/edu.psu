@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1916"
@@ -34,15 +35,19 @@
     "[1916 TO 1916]"
   ],
   "dct_spatial_sm": [
-    "Penn Station, Pennsylvania",
-    "Westmoreland County, Pennsylvania",
+    "Pennsylvania--Penn Station",
+    "Pennsylvania--Westmoreland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.6518,-79.6309,40.3336,40.3237)",
+  "locn_geometry": "POLYGON((-79.6518 40.3336, -79.6309 40.3336, -79.6309 40.3237, -79.6518 40.3237, -79.6518 40.3336))",
   "dcat_bbox": "ENVELOPE(-79.6518,-79.6309,40.3336,40.3237)",
   "dcat_centroid": "40.328649999999996,-79.64134999999999",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "133f1531-c8af-4de1-b247-dad1a0494036"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:46Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

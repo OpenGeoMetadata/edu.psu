@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-78.2765,-78.0854,37.366,37.2736)",
   "solr_year_i": "1865",
   "dc_creator_sm": [
-    "Michler, N. (Nathaniel), 1827-1881."
+    "Michler, N. (Nathaniel), 1827-1881"
   ],
   "dc_description_s": "Scale 1:21,120. 3 in. to 1 mile; 1 map; 51 x 87 cm Jetersville Region (Va.)--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Virginia"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:57Z",
+  "layer_modified_dt": "2023-02-03T21:20:04Z",
   "dc_language_sm": [
     "eng"
   ],

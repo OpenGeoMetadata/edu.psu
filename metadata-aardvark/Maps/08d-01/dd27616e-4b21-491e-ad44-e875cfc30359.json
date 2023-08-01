@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Johnson, Guy, approximately 1740-1788."
+    "Johnson, Guy, approximately 1740-1788"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1768"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "New York"
   ],
-  "locn_geometry": "ENVELOPE(-89.2,-73.05,43.8167,36.9333)",
+  "locn_geometry": "POLYGON((-89.2 43.8167, -73.05 43.8167, -73.05 36.9333, -89.2 36.9333, -89.2 43.8167))",
   "dcat_bbox": "ENVELOPE(-89.2,-73.05,43.8167,36.9333)",
   "dcat_centroid": "40.375,-81.125",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "dd27616e-4b21-491e-ad44-e875cfc30359"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:31Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

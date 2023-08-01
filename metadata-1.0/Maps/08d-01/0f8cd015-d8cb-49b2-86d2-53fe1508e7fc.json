@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-88.1,-87.8333,36.5333,36.45)",
   "solr_year_i": "1862",
   "dc_creator_sm": [
-    "McPherson, James Birdseye, 1828-1864."
+    "McPherson, James Birdseye, 1828-1864"
   ],
   "dc_description_s": "Scale 1:95,040. 1 1/2 miles to an in.; 1 map: color; 40 x 55 cm Fort Henry Region (Tenn.)--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Tennessee"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:29Z",
+  "layer_modified_dt": "2023-02-03T21:25:06Z",
   "dc_language_sm": [
     "eng"
   ],

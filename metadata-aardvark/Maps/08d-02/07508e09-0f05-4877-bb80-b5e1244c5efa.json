@@ -23,7 +23,8 @@
     "Fire risk assessment",
     "Real property",
     "Sanborn Fire Insurance Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1902 - 1903"
@@ -36,15 +37,19 @@
     "[1902 TO 1903]"
   ],
   "dct_spatial_sm": [
-    "Freeport, Pennsylvania",
-    "Armstrong County, Pennsylvania",
+    "Pennsylvania--Freeport",
+    "Pennsylvania--Armstrong County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.693,-79.6736,40.6977,40.6688)",
+  "locn_geometry": "POLYGON((-79.693 40.6977, -79.6736 40.6977, -79.6736 40.6688, -79.693 40.6688, -79.693 40.6977))",
   "dcat_bbox": "ENVELOPE(-79.693,-79.6736,40.6977,40.6688)",
   "dcat_centroid": "40.68325,-79.6833",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -56,6 +61,6 @@
   "dct_identifier_sm": [
     "07508e09-0f05-4877-bb80-b5e1244c5efa"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:36Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

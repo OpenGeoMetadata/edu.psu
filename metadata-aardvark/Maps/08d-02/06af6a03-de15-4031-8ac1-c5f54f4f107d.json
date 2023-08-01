@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -34,16 +35,20 @@
     "[1912 TO 1912]"
   ],
   "dct_spatial_sm": [
-    "Jermyn, Pennsylvania",
-    "Mayfield, Pennsylvania",
-    "Lackawanna County, Pennsylvania",
+    "Pennsylvania--Jermyn",
+    "Pennsylvania--Mayfield",
+    "Pennsylvania--Lackawanna County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.5574,-75.5005,41.5541,41.5151)",
+  "locn_geometry": "POLYGON((-75.5574 41.5541, -75.5005 41.5541, -75.5005 41.5151, -75.5574 41.5151, -75.5574 41.5541))",
   "dcat_bbox": "ENVELOPE(-75.5574,-75.5005,41.5541,41.5151)",
   "dcat_centroid": "41.5346,-75.52895000000001",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -55,6 +60,6 @@
   "dct_identifier_sm": [
     "06af6a03-de15-4031-8ac1-c5f54f4f107d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:11Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

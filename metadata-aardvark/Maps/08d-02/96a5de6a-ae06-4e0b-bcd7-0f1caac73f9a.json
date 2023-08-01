@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1884"
@@ -34,14 +35,18 @@
     "[1884 TO 1884]"
   ],
   "dct_spatial_sm": [
-    "Hazleton, Pennsylvania",
+    "Pennsylvania--Hazleton",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.9963,-75.9459,40.9749,40.9277)",
+  "locn_geometry": "POLYGON((-75.9963 40.9749, -75.9459 40.9749, -75.9459 40.9277, -75.9963 40.9277, -75.9963 40.9749))",
   "dcat_bbox": "ENVELOPE(-75.9963,-75.9459,40.9749,40.9277)",
   "dcat_centroid": "40.9513,-75.9711",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -53,6 +58,6 @@
   "dct_identifier_sm": [
     "96a5de6a-ae06-4e0b-bcd7-0f1caac73f9a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:25Z",
+  "gbl_mdModified_dt": "2023-04-14T01:00:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

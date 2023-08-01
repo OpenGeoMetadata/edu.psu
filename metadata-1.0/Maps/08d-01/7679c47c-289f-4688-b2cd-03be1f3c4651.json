@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-77.6708,-77.5547,39.5078,39.38)",
   "solr_year_i": "1862",
   "dc_creator_sm": [
-    "United States. Army. Corps of Topographical Engineers."
+    "United States. Army. Corps of Topographical Engineers"
   ],
   "dc_description_s": "Scale approximately 1:17,600; 1 map: color; 84 x 54 cm South Mountain, Battle of, Md., 1862--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Maryland"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:00Z",
+  "layer_modified_dt": "2023-02-03T21:25:14Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1921"
@@ -34,15 +35,19 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Watsontown, Pennsylvania",
-    "Northumberland County, Pennsylvania",
+    "Pennsylvania--Watsontown",
+    "Pennsylvania--Northumberland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-76.8796,-76.8531,41.0945,41.0734)",
+  "locn_geometry": "POLYGON((-76.8796 41.0945, -76.8531 41.0945, -76.8531 41.0734, -76.8796 41.0734, -76.8796 41.0945))",
   "dcat_bbox": "ENVELOPE(-76.8796,-76.8531,41.0945,41.0734)",
   "dcat_centroid": "41.08395,-76.86635",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "95cc7654-028e-467b-b38b-765294b09f0e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:37Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

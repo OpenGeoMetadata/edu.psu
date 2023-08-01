@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-107.4358,-107.4289,45.5725,45.5675)",
   "solr_year_i": "1876",
   "dc_creator_sm": [
-    "Geological Survey (U.S.) cartographer."
+    "Geological Survey (U.S.), cartographer."
   ],
   "dc_description_s": "Little Bighorn, Battle of the, Mont., 1876--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Montana"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:30Z",
+  "layer_modified_dt": "2023-02-03T21:22:29Z",
   "dc_language_sm": [
     "eng"
   ],

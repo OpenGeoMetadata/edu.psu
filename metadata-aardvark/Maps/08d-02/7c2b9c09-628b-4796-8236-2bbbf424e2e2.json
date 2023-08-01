@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1902"
@@ -34,16 +35,20 @@
     "[1902 TO 1902]"
   ],
   "dct_spatial_sm": [
-    "Mauch Chunk, Pennsylvania",
-    "East Mauch Chunk, Pennsylvania",
-    "Carbon County, Pennsylvania",
+    "Pennsylvania--Mauch Chunk",
+    "Pennsylvania--East Mauch Chunk",
+    "Pennsylvania--Carbon County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.8035,-75.6922,40.9157,40.8249)",
+  "locn_geometry": "POLYGON((-75.8035 40.9157, -75.6922 40.9157, -75.6922 40.8249, -75.8035 40.8249, -75.8035 40.9157))",
   "dcat_bbox": "ENVELOPE(-75.8035,-75.6922,40.9157,40.8249)",
   "dcat_centroid": "40.8703,-75.74785",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -55,6 +60,6 @@
   "dct_identifier_sm": [
     "7c2b9c09-628b-4796-8236-2bbbf424e2e2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:07Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

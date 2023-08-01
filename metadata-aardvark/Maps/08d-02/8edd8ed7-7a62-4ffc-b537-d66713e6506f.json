@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1933"
@@ -34,17 +35,21 @@
     "[1933 TO 1933]"
   ],
   "dct_spatial_sm": [
-    "Fleetwood, Pennsylvania",
-    "Richmondale, Pennsylvania",
-    "Lackawanna County, Pennsylvania",
-    "Berks County, Pennsylvania",
+    "Pennsylvania--Fleetwood",
+    "Pennsylvania--Richmondale",
+    "Pennsylvania--Lackawanna County",
+    "Pennsylvania--Berks County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.8388,-75.8019,40.4654,40.4466)",
+  "locn_geometry": "POLYGON((-75.8388 40.4654, -75.8019 40.4654, -75.8019 40.4466, -75.8388 40.4466, -75.8388 40.4654))",
   "dcat_bbox": "ENVELOPE(-75.8388,-75.8019,40.4654,40.4466)",
   "dcat_centroid": "40.456,-75.82035",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -56,6 +61,6 @@
   "dct_identifier_sm": [
     "8edd8ed7-7a62-4ffc-b537-d66713e6506f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:36Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

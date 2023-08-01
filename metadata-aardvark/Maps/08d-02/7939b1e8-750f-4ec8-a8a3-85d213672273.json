@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -34,15 +35,19 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "West Fairview, Pennsylvania",
-    "Cumberland County, Pennsylvania",
+    "Pennsylvania--West Fairview",
+    "Pennsylvania--Cumberland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-76.9272,-76.9136,40.2857,40.2709)",
+  "locn_geometry": "POLYGON((-76.9272 40.2857, -76.9136 40.2857, -76.9136 40.2709, -76.9272 40.2709, -76.9272 40.2857))",
   "dcat_bbox": "ENVELOPE(-76.9272,-76.9136,40.2857,40.2709)",
   "dcat_centroid": "40.2783,-76.9204",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "7939b1e8-750f-4ec8-a8a3-85d213672273"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:40Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

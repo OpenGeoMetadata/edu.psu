@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-79,-77,40,37)",
   "solr_year_i": "1865",
   "dc_creator_sm": [
-    "Michler, N. (Nathaniel), 1827-1881."
+    "Michler, N. (Nathaniel), 1827-1881"
   ],
   "dc_description_s": "Scale approximately 1:380,000; 1 map: color; 88 x 52 cm Middle Atlantic States--History--Civil War, 1861-1865--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:23Z",
+  "layer_modified_dt": "2023-02-03T21:21:37Z",
   "dc_language_sm": [
     "eng"
   ],

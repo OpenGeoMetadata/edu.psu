@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Zatta, Antonio, active 1757-1797."
+    "Zatta, Antonio, active 1757-1797"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-oct2020"
+    "sprint-oct2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1765",
@@ -35,7 +36,7 @@
   "dct_spatial_sm": [
     "Oceania"
   ],
-  "locn_geometry": "ENVELOPE(139.5667,-73.1167,3.25,-59.9667)",
+  "locn_geometry": "POLYGON((139.5667 3.25, -73.1167 3.25, -73.1167 -59.9667, 139.5667 -59.9667, 139.5667 3.25))",
   "dcat_bbox": "ENVELOPE(139.5667,-73.1167,3.25,-59.9667)",
   "dcat_centroid": "-28.35835,33.225",
   "pcdm_memberOf_sm": [
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "871f5cbf-e0da-4e57-8dde-d4e6c6cc42b6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:46Z",
+  "gbl_mdModified_dt": "2023-02-28T04:15:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1896"
@@ -34,15 +35,19 @@
     "[1896 TO 1896]"
   ],
   "dct_spatial_sm": [
-    "Parsons, Pennsylvania",
-    "Luzerne County, Pennsylvania",
+    "Pennsylvania--Parsons",
+    "Pennsylvania--Luzerne County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.8579,-75.8259,41.2685,41.2517)",
+  "locn_geometry": "POLYGON((-75.8579 41.2685, -75.8259 41.2685, -75.8259 41.2517, -75.8579 41.2517, -75.8579 41.2685))",
   "dcat_bbox": "ENVELOPE(-75.8579,-75.8259,41.2685,41.2517)",
   "dcat_centroid": "41.2601,-75.84190000000001",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "f31e1cb3-f0c4-40d1-89d6-866bdcf69e9f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:50Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

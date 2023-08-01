@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-1.5833,-1,50.7667,50.5667)",
   "solr_year_i": "1807",
   "dc_creator_sm": [
-    "Albin, John, active 1791-1800."
+    "Albin, John, active 1791-1800"
   ],
   "dc_description_s": "Isle of Wight (England)--Maps--Early works to 1800",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30415\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30415/manifest.json\"}",
   "dct_spatial_sm": [
-    "Isle of Wight, England",
+    "Isle of Wight",
     "England"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:06Z",
+  "layer_modified_dt": "2023-02-03T21:20:00Z",
   "dc_language_sm": [
     "eng"
   ],

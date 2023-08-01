@@ -28,7 +28,7 @@
   "dct_spatial_sm": [
     "Connecticut"
   ],
-  "locn_geometry": "ENVELOPE(-73.7275,-71.0986,42.0506,40.9869)",
+  "locn_geometry": "POLYGON((-73.7275 42.0506, -71.0986 42.0506, -71.0986 40.9869, -73.7275 40.9869, -73.7275 42.0506))",
   "dcat_bbox": "ENVELOPE(-73.7275,-71.0986,42.0506,40.9869)",
   "dcat_centroid": "41.51875,-72.41305",
   "pcdm_memberOf_sm": [
@@ -44,6 +44,6 @@
   "dct_identifier_sm": [
     "c8bbb1d3-5c4f-4f31-b6d7-8d276e73cab8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:30Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

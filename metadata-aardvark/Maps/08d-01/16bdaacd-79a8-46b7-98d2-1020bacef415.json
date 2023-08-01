@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Dall, William Healey, 1845-1927."
+    "Dall, William Healey, 1845-1927"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1875"
@@ -33,9 +34,9 @@
   "dct_spatial_sm": [
     "Alaska"
   ],
-  "locn_geometry": "ENVELOPE(175,-115,70,53)",
-  "dcat_bbox": "ENVELOPE(175,-115,70,53)",
-  "dcat_centroid": "61.5,30.0",
+  "locn_geometry": "POLYGON((-179.9 71.6, -129.97 71.6, -129.97 51.02, -179.9 51.02, -179.9 71.6))",
+  "dcat_bbox": "ENVELOPE(-179.9,-129.97,71.6,51.02)",
+  "dcat_centroid": "61.31,-154.935",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "16bdaacd-79a8-46b7-98d2-1020bacef415"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:25Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

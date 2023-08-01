@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1841"
@@ -31,11 +32,11 @@
     "[1841 TO 1841]"
   ],
   "dct_spatial_sm": [
-    "Louisbourg, Nova Scotia, Canada",
-    "Nova Scotia, Canada",
+    "Canada-- Nova Scotia--Louisbourg",
+    "Canada--Nova Scotia",
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-60.0689,-59.9392,45.9417,45.8672)",
+  "locn_geometry": "POLYGON((-60.0689 45.9417, -59.9392 45.9417, -59.9392 45.8672, -60.0689 45.8672, -60.0689 45.9417))",
   "dcat_bbox": "ENVELOPE(-60.0689,-59.9392,45.9417,45.8672)",
   "dcat_centroid": "45.90445,-60.00405",
   "pcdm_memberOf_sm": [
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "292471c5-9345-49f7-9af3-48cb35594372"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:29Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Homann, Johann Baptist, 1663-1724."
+    "Homann, Johann Baptist, 1663-1724"
   ],
   "dct_publisher_sm": [
     "[Secretary of the Commonwealth]"
@@ -20,7 +20,8 @@
     "Early maps"
   ],
   "dcat_keyword_sm": [
-    "sprint-oct2020"
+    "sprint-oct2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1750 and 1759"
@@ -35,7 +36,7 @@
   "dct_spatial_sm": [
     "Spain"
   ],
-  "locn_geometry": "ENVELOPE(-111.9667,-45.7,52.1333,5.7333)",
+  "locn_geometry": "POLYGON((-111.9667 52.1333, -45.7 52.1333, -45.7 5.7333, -111.9667 5.7333, -111.9667 52.1333))",
   "dcat_bbox": "ENVELOPE(-111.9667,-45.7,52.1333,5.7333)",
   "dcat_centroid": "28.9333,-78.83335",
   "pcdm_memberOf_sm": [
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "f4d9c5c4-b7e1-426e-80f6-aaf1f3ce153f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:33Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

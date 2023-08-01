@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -34,15 +35,19 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Trafford, Pennsylvania",
-    "Westmoreland County, Pennsylvania",
+    "Pennsylvania--Trafford",
+    "Pennsylvania--Westmoreland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.775,-79.7337,40.3971,40.3688)",
+  "locn_geometry": "POLYGON((-79.775 40.3971, -79.7337 40.3971, -79.7337 40.3688, -79.775 40.3688, -79.775 40.3971))",
   "dcat_bbox": "ENVELOPE(-79.775,-79.7337,40.3971,40.3688)",
   "dcat_centroid": "40.38295,-79.75435",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "d212f075-eaf0-46f8-a1c4-8c8a66b23f72"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:27Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

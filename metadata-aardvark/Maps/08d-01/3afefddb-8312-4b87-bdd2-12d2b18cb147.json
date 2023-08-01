@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -28,10 +29,10 @@
     "[1894 TO 1894]"
   ],
   "dct_spatial_sm": [
-    "Meriden, Connecticut",
+    "Connecticut--Meriden",
     "Connecticut"
   ],
-  "locn_geometry": "ENVELOPE(-72.8589,-72.7447,41.5789,41.4953)",
+  "locn_geometry": "POLYGON((-72.8589 41.5789, -72.7447 41.5789, -72.7447 41.4953, -72.8589 41.4953, -72.8589 41.5789))",
   "dcat_bbox": "ENVELOPE(-72.8589,-72.7447,41.5789,41.4953)",
   "dcat_centroid": "41.537099999999995,-72.8018",
   "pcdm_memberOf_sm": [
@@ -47,6 +48,6 @@
   "dct_identifier_sm": [
     "3afefddb-8312-4b87-bdd2-12d2b18cb147"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:31Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

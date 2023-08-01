@@ -29,7 +29,7 @@
   "dct_spatial_sm": [
     "Jerusalem"
   ],
-  "locn_geometry": "ENVELOPE(34.2167,35.5667,32.55,31.2167)",
+  "locn_geometry": "POLYGON((34.2167 32.55, 35.5667 32.55, 35.5667 31.2167, 34.2167 31.2167, 34.2167 32.55))",
   "dcat_bbox": "ENVELOPE(34.2167,35.5667,32.55,31.2167)",
   "dcat_centroid": "31.88335,34.8917",
   "pcdm_memberOf_sm": [
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "7eb2ca3a-d18b-43c5-8444-da4934924abb"
   ],
-  "gbl_mdModified_dt": "2022-04-14T17:31:37Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

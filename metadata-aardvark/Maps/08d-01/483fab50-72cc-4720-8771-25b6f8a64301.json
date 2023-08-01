@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868."
+    "Mitchell, S. Augustus (Samuel Augustus), 1792-1868"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1881"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "ENVELOPE(-75.55,-73.9,41.35,38.9167)",
+  "locn_geometry": "POLYGON((-75.55 41.35, -73.9 41.35, -73.9 38.9167, -75.55 38.9167, -75.55 41.35))",
   "dcat_bbox": "ENVELOPE(-75.55,-73.9,41.35,38.9167)",
   "dcat_centroid": "40.13335,-74.725",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "483fab50-72cc-4720-8771-25b6f8a64301"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:14Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

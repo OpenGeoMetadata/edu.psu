@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1760"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Caribbean"
   ],
-  "locn_geometry": "ENVELOPE(-109.5167,-57.0833,30.6,6.0333)",
+  "locn_geometry": "POLYGON((-109.5167 30.6, -57.0833 30.6, -57.0833 6.0333, -109.5167 6.0333, -109.5167 30.6))",
   "dcat_bbox": "ENVELOPE(-109.5167,-57.0833,30.6,6.0333)",
   "dcat_centroid": "18.31665,-83.3",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "6dd71064-72ae-4b01-a42a-408950e09581"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:41Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

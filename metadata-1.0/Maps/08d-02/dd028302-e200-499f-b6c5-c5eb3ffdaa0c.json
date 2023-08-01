@@ -14,11 +14,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/23375\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/23375/manifest.json\"}",
   "dct_spatial_sm": [
-    "Williamsburg, Pennsylvania",
-    "Blair County, Pennsylvania",
+    "Pennsylvania--Williamsburg",
+    "Pennsylvania--Blair County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:31:28Z",
+  "layer_modified_dt": "2023-04-14T01:02:12Z",
   "dc_language_sm": [
     "eng"
   ],

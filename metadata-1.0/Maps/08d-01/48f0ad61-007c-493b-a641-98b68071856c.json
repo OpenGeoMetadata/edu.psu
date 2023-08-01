@@ -5,7 +5,7 @@
   "dc_title_s": "A map of the state of Vermont",
   "dct_provenance_s": "Pennsylvania State University",
   "layer_slug_s": "48f0ad61-007c-493b-a641-98b68071856c",
-  "solr_geom": "ENVELOPE(3.75,5.75,45,42.75)",
+  "solr_geom": "ENVELOPE(-73.4377,-71.4654,45.0167,42.727)",
   "solr_year_i": "1793",
   "dc_creator_sm": [
     "Whitelaw, James, 1748-1829"
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Vermont"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:34Z",
+  "layer_modified_dt": "2023-06-23T18:47:25Z",
   "dc_language_sm": [
     "eng"
   ],

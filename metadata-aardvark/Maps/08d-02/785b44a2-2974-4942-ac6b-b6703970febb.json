@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -34,15 +35,19 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "Coudersport, Pennsylvania",
-    "Potter County, Pennsylvania",
+    "Pennsylvania--Coudersport",
+    "Pennsylvania--Potter County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-78.0448,-77.9807,41.7919,41.7612)",
+  "locn_geometry": "POLYGON((-78.0448 41.7919, -77.9807 41.7919, -77.9807 41.7612, -78.0448 41.7612, -78.0448 41.7919))",
   "dcat_bbox": "ENVELOPE(-78.0448,-77.9807,41.7919,41.7612)",
   "dcat_centroid": "41.77655,-78.01275",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "785b44a2-2974-4942-ac6b-b6703970febb"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:30Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

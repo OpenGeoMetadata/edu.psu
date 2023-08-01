@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Colton, G. Woolworth (George Woolworth), 1827-1901."
+    "Colton, G. Woolworth (George Woolworth), 1827-1901"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -21,7 +21,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1863-1864"
@@ -36,7 +37,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-100,-74,41,28)",
+  "locn_geometry": "POLYGON((-100 41, -74 41, -74 28, -100 28, -100 41))",
   "dcat_bbox": "ENVELOPE(-100,-74,41,28)",
   "dcat_centroid": "34.5,-87.0",
   "pcdm_memberOf_sm": [
@@ -52,6 +53,6 @@
   "dct_identifier_sm": [
     "51a0be98-1d1e-49f8-a028-97687e4cb0f2"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:15Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

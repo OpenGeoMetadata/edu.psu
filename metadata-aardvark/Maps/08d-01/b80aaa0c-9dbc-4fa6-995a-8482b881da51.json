@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1861"
@@ -26,10 +27,10 @@
     "[1861 TO 1861]"
   ],
   "dct_spatial_sm": [
-    "Dranesville, Virginia",
+    "Virginia--Dranesville",
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-77.3547,-77.3308,39.0044,38.9944)",
+  "locn_geometry": "POLYGON((-77.3547 39.0044, -77.3308 39.0044, -77.3308 38.9944, -77.3547 38.9944, -77.3547 39.0044))",
   "dcat_bbox": "ENVELOPE(-77.3547,-77.3308,39.0044,38.9944)",
   "dcat_centroid": "38.999399999999994,-77.34275",
   "pcdm_memberOf_sm": [
@@ -45,6 +46,6 @@
   "dct_identifier_sm": [
     "b80aaa0c-9dbc-4fa6-995a-8482b881da51"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:23Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

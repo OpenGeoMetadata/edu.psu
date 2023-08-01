@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1928"
@@ -34,23 +35,27 @@
     "[1928 TO 1928]"
   ],
   "dct_spatial_sm": [
-    "Turtle Creek Valley, Pennsylvania",
-    "Chalfant, Pennsylvania",
-    "East Pittsburgh, Pennsylvania",
-    "Turtle Creek, Pennsylvania",
-    "Wall, Pennsylvania",
-    "Wilmerding, Pennsylvania",
-    "Wilkins Township, Pennsylvania",
-    "Patton Township, Pennsylvania",
-    "North Versailles Township, Pennsylvania",
-    "Allegheny County, Pennsylvania",
+    "Pennsylvania--Turtle Creek Valley",
+    "Pennsylvania--Chalfant",
+    "Pennsylvania--East Pittsburgh",
+    "Pennsylvania--Turtle Creek",
+    "Pennsylvania--Wall",
+    "Pennsylvania--Wilmerding",
+    "Pennsylvania--Wilkins Township",
+    "Pennsylvania--Patton Township",
+    "Pennsylvania--North Versailles Township",
+    "Pennsylvania--Allegheny County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.8538,-79.7653,40.4444,40.3589)",
+  "locn_geometry": "POLYGON((-79.8538 40.4444, -79.7653 40.4444, -79.7653 40.3589, -79.8538 40.3589, -79.8538 40.4444))",
   "dcat_bbox": "ENVELOPE(-79.8538,-79.7653,40.4444,40.3589)",
   "dcat_centroid": "40.401650000000004,-79.80955",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -62,6 +67,6 @@
   "dct_identifier_sm": [
     "25e41e46-a4f4-48e0-9b5f-07ba5df41403"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:21Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

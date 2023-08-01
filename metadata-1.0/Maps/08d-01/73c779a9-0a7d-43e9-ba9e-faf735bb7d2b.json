@@ -8,15 +8,15 @@
   "solr_geom": "ENVELOPE(-77.2667,-76.75,39.0167,38.75)",
   "solr_year_i": "1923",
   "dc_creator_sm": [
-    "Olsen, William."
+    "Olsen, William"
   ],
   "dc_description_s": "Not drawn to scale; 1 view; 49 x 75 cm Washington (D.C.)--Aerial views",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30109\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30109/manifest.json\"}",
   "dct_spatial_sm": [
-    "Washington, D.C."
+    "D.C.--Washington"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:10Z",
+  "layer_modified_dt": "2023-02-03T21:26:43Z",
   "dc_language_sm": [
     "eng"
   ],

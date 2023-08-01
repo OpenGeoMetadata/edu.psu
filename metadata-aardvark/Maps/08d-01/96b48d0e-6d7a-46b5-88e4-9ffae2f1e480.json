@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Rand McNally and Company."
+    "Rand McNally and Company"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1898"
@@ -30,7 +31,7 @@
   "dct_spatial_sm": [
     "Connecticut"
   ],
-  "locn_geometry": "ENVELOPE(-73.7167,-71.0667,42.05,40.9833)",
+  "locn_geometry": "POLYGON((-73.7167 42.05, -71.0667 42.05, -71.0667 40.9833, -73.7167 40.9833, -73.7167 42.05))",
   "dcat_bbox": "ENVELOPE(-73.7167,-71.0667,42.05,40.9833)",
   "dcat_centroid": "41.51665,-72.3917",
   "pcdm_memberOf_sm": [
@@ -46,6 +47,6 @@
   "dct_identifier_sm": [
     "96b48d0e-6d7a-46b5-88e4-9ffae2f1e480"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

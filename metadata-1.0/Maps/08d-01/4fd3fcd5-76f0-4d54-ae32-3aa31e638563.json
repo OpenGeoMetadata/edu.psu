@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(5.95,10.4833,47.8,45.8167)",
   "solr_year_i": "1890",
   "dc_creator_sm": [
-    "Leuzinger, R."
+    "Leuzinger, R. (Rudolf), 1826-1896"
   ],
   "dc_description_s": "Switzerland--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Switzerland"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:58Z",
+  "layer_modified_dt": "2023-02-03T21:24:12Z",
   "dc_language_sm": [
     "eng"
   ],

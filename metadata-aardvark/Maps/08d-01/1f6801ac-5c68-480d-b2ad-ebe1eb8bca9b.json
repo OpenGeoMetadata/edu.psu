@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -30,7 +31,7 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
-  "locn_geometry": "ENVELOPE(21.7333,30.5833,0.9833,-13.45)",
+  "locn_geometry": "POLYGON((21.7333 0.9833, 30.5833 0.9833, 30.5833 -13.45, 21.7333 -13.45, 21.7333 0.9833))",
   "dcat_bbox": "ENVELOPE(21.7333,30.5833,0.9833,-13.45)",
   "dcat_centroid": "-6.23335,26.1583",
   "pcdm_memberOf_sm": [
@@ -46,6 +47,6 @@
   "dct_identifier_sm": [
     "1f6801ac-5c68-480d-b2ad-ebe1eb8bca9b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:14Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

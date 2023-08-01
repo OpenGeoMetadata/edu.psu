@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Ptolemy, active 2nd century."
+    "Ptolemy, active 2nd century"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1482"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Spain"
   ],
-  "locn_geometry": "ENVELOPE(-11.8667,4.3167,43.7833,35.2333)",
+  "locn_geometry": "POLYGON((-11.8667 43.7833, 4.3167 43.7833, 4.3167 35.2333, -11.8667 35.2333, -11.8667 43.7833))",
   "dcat_bbox": "ENVELOPE(-11.8667,4.3167,43.7833,35.2333)",
   "dcat_centroid": "39.5083,-3.775",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "b474595d-c545-4a3e-aa10-bab3500caec5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

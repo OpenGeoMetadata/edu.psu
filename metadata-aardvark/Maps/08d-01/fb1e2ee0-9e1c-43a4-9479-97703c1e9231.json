@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "George F. Cram Company."
+    "George F. Cram Company"
   ],
   "dct_publisher_sm": [
     "Geo. F. Cram"
@@ -20,7 +20,8 @@
     "Railroads"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1899"
@@ -34,7 +35,7 @@
   "dct_spatial_sm": [
     "Connecticut"
   ],
-  "locn_geometry": "ENVELOPE(-73.7167,-71.7833,42.05,40.9833)",
+  "locn_geometry": "POLYGON((-73.7167 42.05, -71.7833 42.05, -71.7833 40.9833, -73.7167 40.9833, -73.7167 42.05))",
   "dcat_bbox": "ENVELOPE(-73.7167,-71.7833,42.05,40.9833)",
   "dcat_centroid": "41.51665,-72.75",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "fb1e2ee0-9e1c-43a4-9479-97703c1e9231"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1898"
@@ -34,15 +35,19 @@
     "[1898 TO 1898]"
   ],
   "dct_spatial_sm": [
-    "Johnsonburg, Pennsylvania",
-    "Elk County, Pennsylvania",
+    "Pennsylvania--Johnsonburg",
+    "Pennsylvania--Elk County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-78.6978,-78.6573,41.5124,41.4792)",
+  "locn_geometry": "POLYGON((-78.6978 41.5124, -78.6573 41.5124, -78.6573 41.4792, -78.6978 41.4792, -78.6978 41.5124))",
   "dcat_bbox": "ENVELOPE(-78.6978,-78.6573,41.5124,41.4792)",
   "dcat_centroid": "41.4958,-78.67755",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "9cafd7ee-6211-4a07-ae44-1a2c1e9d8609"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:04Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }
