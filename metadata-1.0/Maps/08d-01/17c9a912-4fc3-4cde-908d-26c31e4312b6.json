@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-71.3122,-71.0478,46.9075,46.7497)",
   "solr_year_i": "1840",
   "dc_creator_sm": [
-    "Smith, George Girdler, 1795-1878."
+    "Smith, George Girdler, 1795-1878"
   ],
   "dc_description_s": "Scale [ca. 1:77,000]; 1 map; 13 x 18 cm Québec Campaign, Québec, 1759--Maps",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27170\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27170/manifest.json\"}",
   "dct_spatial_sm": [
-    "Québec, Canada",
+    "Canada--Québec",
     "Canada"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:53Z",
+  "layer_modified_dt": "2023-02-03T21:25:03Z",
   "dc_language_sm": [
     "eng"
   ],

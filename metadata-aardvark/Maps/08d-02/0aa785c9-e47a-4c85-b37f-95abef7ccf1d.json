@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1925"
@@ -34,21 +35,25 @@
     "[1925 TO 1925]"
   ],
   "dct_spatial_sm": [
-    "Bradford, Pennsylvania",
-    "Custer City, Pennsylvania",
-    "Farmers Valley, Pennsylvania",
-    "Foster Brook, Pennsylvania",
-    "Lewis Run, Pennsylvania",
-    "Minard Run, Pennsylvania",
-    "Nusbaum, Pennsylvania",
-    "McKean County, Pennsylvania",
+    "Pennsylvania--Bradford",
+    "Pennsylvania--Custer City",
+    "Pennsylvania--Farmers Valley",
+    "Pennsylvania--Foster Brook",
+    "Pennsylvania--Lewis Run",
+    "Pennsylvania--Minard Run",
+    "Pennsylvania--Nusbaum",
+    "Pennsylvania--McKean County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-78.6759,-78.4326,41.9834,41.8526)",
+  "locn_geometry": "POLYGON((-78.6759 41.9834, -78.4326 41.9834, -78.4326 41.8526, -78.6759 41.8526, -78.6759 41.9834))",
   "dcat_bbox": "ENVELOPE(-78.6759,-78.4326,41.9834,41.8526)",
   "dcat_centroid": "41.918000000000006,-78.55425",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -60,6 +65,6 @@
   "dct_identifier_sm": [
     "0aa785c9-e47a-4c85-b37f-95abef7ccf1d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:07Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

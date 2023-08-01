@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1909"
@@ -34,15 +35,19 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Masontown, Pennsylvania",
-    "Fayette County, Pennsylvania",
+    "Pennsylvania--Masontown",
+    "Pennsylvania--Fayette County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.9289,-79.8895,39.8577,39.8382)",
+  "locn_geometry": "POLYGON((-79.9289 39.8577, -79.8895 39.8577, -79.8895 39.8382, -79.9289 39.8382, -79.9289 39.8577))",
   "dcat_bbox": "ENVELOPE(-79.9289,-79.8895,39.8577,39.8382)",
   "dcat_centroid": "39.84795,-79.9092",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "0e8e2906-4f86-4ebe-9dd1-822c79ab84f5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:11Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:44Z",
   "gbl_mdVersion_s": "Aardvark"
 }

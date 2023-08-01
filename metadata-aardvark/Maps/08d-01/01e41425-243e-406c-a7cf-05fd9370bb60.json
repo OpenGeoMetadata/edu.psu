@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Madison, James, 1749-1812."
+    "Madison, James, 1749-1812"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1795 and 1812"
@@ -30,7 +31,7 @@
   "dct_spatial_sm": [
     "Ohio"
   ],
-  "locn_geometry": "ENVELOPE(-84.8667,-80.5,42,38.3667)",
+  "locn_geometry": "POLYGON((-84.8667 42, -80.5 42, -80.5 38.3667, -84.8667 38.3667, -84.8667 42))",
   "dcat_bbox": "ENVELOPE(-84.8667,-80.5,42,38.3667)",
   "dcat_centroid": "40.183350000000004,-82.68334999999999",
   "pcdm_memberOf_sm": [
@@ -46,6 +47,6 @@
   "dct_identifier_sm": [
     "01e41425-243e-406c-a7cf-05fd9370bb60"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:05Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

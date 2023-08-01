@@ -14,15 +14,15 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10729\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10729/manifest.json\"}",
   "dct_spatial_sm": [
-    "Hanover, Pennsylvania",
-    "Midway, Pennsylvania",
-    "Baerville, Pennsylvania",
-    "Grangeville, Pennsylvania",
-    "Pennville, Pennsylvania",
-    "York County, Pennsylvania",
+    "Pennsylvania--Hanover",
+    "Pennsylvania--Midway",
+    "Pennsylvania--Baerville",
+    "Pennsylvania--Grangeville",
+    "Pennsylvania--Pennville",
+    "Pennsylvania--York County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:46Z",
+  "layer_modified_dt": "2023-04-14T01:02:22Z",
   "dc_language_sm": [
     "eng"
   ],

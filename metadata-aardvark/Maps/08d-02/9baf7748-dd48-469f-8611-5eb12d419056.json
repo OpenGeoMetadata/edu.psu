@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1896"
@@ -34,15 +35,19 @@
     "[1896 TO 1896]"
   ],
   "dct_spatial_sm": [
-    "Homestead, Pennsylvania",
-    "Allegheny County, Pennsylvania",
+    "Pennsylvania--Homestead",
+    "Pennsylvania--Allegheny County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.9192,-79.9,40.416,40.3986)",
+  "locn_geometry": "POLYGON((-79.9192 40.416, -79.9 40.416, -79.9 40.3986, -79.9192 40.3986, -79.9192 40.416))",
   "dcat_bbox": "ENVELOPE(-79.9192,-79.9,40.416,40.3986)",
   "dcat_centroid": "40.4073,-79.90960000000001",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "9baf7748-dd48-469f-8611-5eb12d419056"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:08Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:33Z",
   "gbl_mdVersion_s": "Aardvark"
 }

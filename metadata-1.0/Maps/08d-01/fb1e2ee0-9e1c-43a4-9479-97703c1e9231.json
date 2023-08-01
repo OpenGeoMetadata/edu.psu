@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-73.7167,-71.7833,42.05,40.9833)",
   "solr_year_i": "1899",
   "dc_creator_sm": [
-    "George F. Cram Company."
+    "George F. Cram Company"
   ],
   "dc_description_s": "Scale approximately 1:45,000; 1 map: color; 26 x 49 cm Railroads--Connecticut--Maps",
   "dc_format_s": "JPEG",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "Connecticut"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:24Z",
+  "layer_modified_dt": "2023-02-03T21:17:48Z",
   "dc_language_sm": [
     "eng"
   ],

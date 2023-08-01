@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1903"
@@ -34,15 +35,19 @@
     "[1903 TO 1903]"
   ],
   "dct_spatial_sm": [
-    "Elkland, Pennsylvania",
-    "Tioga County, Pennsylvania",
+    "Pennsylvania--Elkland",
+    "Pennsylvania--Tioga County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-77.3282,-77.2911,41.9998,41.9759)",
+  "locn_geometry": "POLYGON((-77.3282 41.9998, -77.2911 41.9998, -77.2911 41.9759, -77.3282 41.9759, -77.3282 41.9998))",
   "dcat_bbox": "ENVELOPE(-77.3282,-77.2911,41.9998,41.9759)",
   "dcat_centroid": "41.98785,-77.30965",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "bcf4e648-e5ed-4410-a7cd-ca062fa5e5ed"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:09Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

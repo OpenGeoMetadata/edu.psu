@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-76.5589,-76.4614,37.2676,37.1925)",
   "solr_year_i": "1781",
   "dc_creator_sm": [
-    "Bauman, Sebastian."
+    "Bauman, Sebastian"
   ],
   "dc_description_s": "Scale approximately 1:28,000; 1 map; on sheet 31 x 25 cm Yorktown (Va.)--History--Siege, 1781--Maps--Early works to 1800",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30122\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30122/manifest.json\"}",
   "dct_spatial_sm": [
-    "Yorktown, Virginia",
+    "Virginia--Yorktown",
     "Virginia"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:37Z",
+  "layer_modified_dt": "2023-02-03T21:26:18Z",
   "dc_language_sm": [
     "eng"
   ],

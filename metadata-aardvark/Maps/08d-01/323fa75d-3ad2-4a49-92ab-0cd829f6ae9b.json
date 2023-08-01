@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1865"
@@ -29,10 +30,10 @@
     "[1865 TO 1865]"
   ],
   "dct_spatial_sm": [
-    "London, England",
+    "England--London",
     "England"
   ],
-  "locn_geometry": "ENVELOPE(0.3514,0.1481,51.6722,51.3847)",
+  "locn_geometry": "POLYGON((0.3514 51.6722, 0.1481 51.6722, 0.1481 51.3847, 0.3514 51.3847, 0.3514 51.6722))",
   "dcat_bbox": "ENVELOPE(0.3514,0.1481,51.6722,51.3847)",
   "dcat_centroid": "51.52845,0.24975",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "323fa75d-3ad2-4a49-92ab-0cd829f6ae9b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

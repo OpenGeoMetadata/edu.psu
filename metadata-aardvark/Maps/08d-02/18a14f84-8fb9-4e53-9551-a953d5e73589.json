@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1928"
@@ -34,15 +35,19 @@
     "[1928 TO 1928]"
   ],
   "dct_spatial_sm": [
-    "Shickshinny, Pennsylvania",
-    "Luzerne County, Pennsylvania",
+    "Pennsylvania--Shickshinny",
+    "Pennsylvania--Luzerne County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-76.1575,-76.1417,41.1607,41.145)",
+  "locn_geometry": "POLYGON((-76.1575 41.1607, -76.1417 41.1607, -76.1417 41.145, -76.1575 41.145, -76.1575 41.1607))",
   "dcat_bbox": "ENVELOPE(-76.1575,-76.1417,41.1607,41.145)",
   "dcat_centroid": "41.15285,-76.14959999999999",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "18a14f84-8fb9-4e53-9551-a953d5e73589"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:58Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

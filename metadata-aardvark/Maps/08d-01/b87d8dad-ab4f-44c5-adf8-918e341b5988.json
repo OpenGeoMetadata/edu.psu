@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Mohun, Edward."
+    "Mohun, Edward"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1884"
@@ -31,10 +32,10 @@
     "[1884 TO 1884]"
   ],
   "dct_spatial_sm": [
-    "British Columbia, Canada",
+    "Canada--British Columbia",
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-139.06,-114.05,60,48.22)",
+  "locn_geometry": "POLYGON((-139.06 60, -114.05 60, -114.05 48.22, -139.06 48.22, -139.06 60))",
   "dcat_bbox": "ENVELOPE(-139.06,-114.05,60,48.22)",
   "dcat_centroid": "54.11,-126.555",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "b87d8dad-ab4f-44c5-adf8-918e341b5988"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:07Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Michler, N. (Nathaniel), 1827-1881."
+    "Michler, N. (Nathaniel), 1827-1881"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -17,7 +17,8 @@
     "Military maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1865"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-79,-77,40,37)",
+  "locn_geometry": "POLYGON((-79 40, -77 40, -77 37, -79 37, -79 40))",
   "dcat_bbox": "ENVELOPE(-79,-77,40,37)",
   "dcat_centroid": "38.5,-78.0",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "9a4dd457-b0a5-4f4f-9323-fffded160211"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:23Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

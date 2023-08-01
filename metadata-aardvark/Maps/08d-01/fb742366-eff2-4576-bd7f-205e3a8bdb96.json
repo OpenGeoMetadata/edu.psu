@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1864-1865"
@@ -31,10 +32,10 @@
     "[1864 TO 1865]"
   ],
   "dct_spatial_sm": [
-    "Petersburg, Virginia",
+    "Virginia--Petersburg",
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-77.6667,-77.25,37.25,37.0167)",
+  "locn_geometry": "POLYGON((-77.6667 37.25, -77.25 37.25, -77.25 37.0167, -77.6667 37.0167, -77.6667 37.25))",
   "dcat_bbox": "ENVELOPE(-77.6667,-77.25,37.25,37.0167)",
   "dcat_centroid": "37.13335,-77.45835",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "fb742366-eff2-4576-bd7f-205e3a8bdb96"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:16Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

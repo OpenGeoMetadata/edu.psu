@@ -25,7 +25,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "ENVELOPE(-82,-62,50,28)",
+  "locn_geometry": "POLYGON((-82 50, -62 50, -62 28, -82 28, -82 50))",
   "dcat_bbox": "ENVELOPE(-82,-62,50,28)",
   "dcat_centroid": "39.0,-72.0",
   "pcdm_memberOf_sm": [
@@ -41,6 +41,6 @@
   "dct_identifier_sm": [
     "b61f4191-d7b6-42bc-92cd-510436093ec7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

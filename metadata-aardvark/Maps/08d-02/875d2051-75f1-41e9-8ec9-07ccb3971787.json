@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -34,15 +35,19 @@
     "[1911 TO 1911]"
   ],
   "dct_spatial_sm": [
-    "Sewickley, Pennsylvania",
-    "Allegheny County, Pennsylvania",
+    "Pennsylvania--Sewickley",
+    "Pennsylvania--Allegheny County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.1949,-80.1547,40.5497,40.5301)",
+  "locn_geometry": "POLYGON((-80.1949 40.5497, -80.1547 40.5497, -80.1547 40.5301, -80.1949 40.5301, -80.1949 40.5497))",
   "dcat_bbox": "ENVELOPE(-80.1949,-80.1547,40.5497,40.5301)",
   "dcat_centroid": "40.5399,-80.1748",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "875d2051-75f1-41e9-8ec9-07ccb3971787"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:31Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

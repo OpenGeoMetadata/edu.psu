@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(140.9833,153.6333,-28.15,-37.5)",
   "solr_year_i": "1880",
   "dc_creator_sm": [
-    "Bartholomew, John, 1831-1893."
+    "Bartholomew, John, 1831-1893"
   ],
   "dc_description_s": "New South Wales--Maps",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30238\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30238/manifest.json\"}",
   "dct_spatial_sm": [
-    "New South Wales, Australia",
+    "Australia--New South Wales",
     "Australia"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:07Z",
+  "layer_modified_dt": "2023-02-03T21:22:49Z",
   "dc_language_sm": [
     "eng"
   ],

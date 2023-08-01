@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1891"
@@ -34,15 +35,19 @@
     "[1891 TO 1891]"
   ],
   "dct_spatial_sm": [
-    "Derry Station, Pennsylvania",
-    "Westmoreland County, Pennsylvania",
+    "Pennsylvania--Derry Station",
+    "Pennsylvania--Westmoreland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.3034,-79.2994,40.3331,40.3302)",
+  "locn_geometry": "POLYGON((-79.3034 40.3331, -79.2994 40.3331, -79.2994 40.3302, -79.3034 40.3302, -79.3034 40.3331))",
   "dcat_bbox": "ENVELOPE(-79.3034,-79.2994,40.3331,40.3302)",
   "dcat_centroid": "40.331649999999996,-79.3014",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "4e33c2bc-368a-4033-a056-9ddbf9322391"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:51Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

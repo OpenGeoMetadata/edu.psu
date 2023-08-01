@@ -28,7 +28,7 @@
   "dct_spatial_sm": [
     "Great Britain"
   ],
-  "locn_geometry": "ENVELOPE(-10.2167,13.0667,58.7667,48.3)",
+  "locn_geometry": "POLYGON((-10.2167 58.7667, 13.0667 58.7667, 13.0667 48.3, -10.2167 48.3, -10.2167 58.7667))",
   "dcat_bbox": "ENVELOPE(-10.2167,13.0667,58.7667,48.3)",
   "dcat_centroid": "53.53335,1.4250000000000007",
   "pcdm_memberOf_sm": [
@@ -44,6 +44,6 @@
   "dct_identifier_sm": [
     "7c6e9f93-282b-4b46-b1e8-adb5d8ed3ec0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:23Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

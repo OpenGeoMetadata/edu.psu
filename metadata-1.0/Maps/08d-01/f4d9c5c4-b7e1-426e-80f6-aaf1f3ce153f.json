@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-111.9667,-45.7,52.1333,5.7333)",
   "solr_year_i": "1750",
   "dc_creator_sm": [
-    "Homann, Johann Baptist, 1663-1724."
+    "Homann, Johann Baptist, 1663-1724"
   ],
   "dc_description_s": "Scale not given; 1 map; ol.; 74 x 89 cm Spain--Colonies--Maps--Early workds to 1800--Facsimiles",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Spain"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:33Z",
+  "layer_modified_dt": "2023-02-03T21:24:19Z",
   "dc_language_sm": [
     "eng"
   ],

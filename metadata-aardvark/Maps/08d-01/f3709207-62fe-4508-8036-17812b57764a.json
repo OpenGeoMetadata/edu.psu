@@ -15,7 +15,9 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "FixedBBoxes",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "between 1742 and 1756"
@@ -30,9 +32,9 @@
   "dct_spatial_sm": [
     "Pacific Ocean"
   ],
-  "locn_geometry": "ENVELOPE(116.6,-63.5,41.3,-58.2)",
-  "dcat_bbox": "ENVELOPE(116.6,-63.5,41.3,-58.2)",
-  "dcat_centroid": "-8.450000000000003,26.549999999999997",
+  "locn_geometry": "POLYGON((110.0 43.0, -65.0 43.0, -65.0 -60.0, 110.0 -60.0, 110.0 43.0))",
+  "dcat_bbox": "ENVELOPE(110.0,-65.0,43.0,-60.0)",
+  "dcat_centroid": "-8.5,22.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,6 +48,6 @@
   "dct_identifier_sm": [
     "f3709207-62fe-4508-8036-17812b57764a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:16Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

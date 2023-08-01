@@ -23,10 +23,10 @@
     "[1893 TO 1893]"
   ],
   "dct_spatial_sm": [
-    "Chicago, Illinois",
+    "Illinois--Chicago",
     "Illinois"
   ],
-  "locn_geometry": "ENVELOPE(-87.5867,-87.5664,41.7933,41.7733)",
+  "locn_geometry": "POLYGON((-87.5867 41.7933, -87.5664 41.7933, -87.5664 41.7733, -87.5867 41.7733, -87.5867 41.7933))",
   "dcat_bbox": "ENVELOPE(-87.5867,-87.5664,41.7933,41.7733)",
   "dcat_centroid": "41.7833,-87.57655",
   "pcdm_memberOf_sm": [
@@ -42,6 +42,6 @@
   "dct_identifier_sm": [
     "21f13d4e-4309-4cc7-bba0-28439001b24c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:34Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

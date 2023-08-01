@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-85.3333,-85.2556,34.9569,34.9236)",
   "solr_year_i": "1889",
   "dc_creator_sm": [
-    "United States. Army of the Cumberland."
+    "United States. Army of the Cumberland"
   ],
   "dc_description_s": "Chickamauga, Battle of, Ga., 1863--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Georgia"
   ],
-  "layer_modified_dt": "2022-04-01T15:33:23Z",
+  "layer_modified_dt": "2023-02-03T21:17:32Z",
   "dc_language_sm": [
     "eng"
   ],

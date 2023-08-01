@@ -17,7 +17,11 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint",
+    "FixedBBoxes",
+    "bboxSprintJune2023",
+    "-180TO180"
   ],
   "dct_temporal_sm": [
     "1739"
@@ -32,9 +36,9 @@
   "dct_spatial_sm": [
     "Australia"
   ],
-  "locn_geometry": "ENVELOPE(-177.8833,-178.2333,0.5167,-84.6333)",
-  "dcat_bbox": "ENVELOPE(-177.8833,-178.2333,0.5167,-84.6333)",
-  "dcat_centroid": "-42.0583,-178.0583",
+  "locn_geometry": "ENVELOPE(-180,180,0,-85)",
+  "dcat_bbox": "ENVELOPE(-180,180,0,-85)",
+  "dcat_centroid": "-42.5,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,6 +52,6 @@
   "dct_identifier_sm": [
     "e2bba847-0157-4f61-a246-d3ca62119df0"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:52Z",
+  "gbl_mdModified_dt": "2023-06-23T22:01:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

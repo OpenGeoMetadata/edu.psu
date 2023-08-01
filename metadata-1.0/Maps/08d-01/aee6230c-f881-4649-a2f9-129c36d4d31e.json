@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-73.7167,-71.0667,42.05,40.9833)",
   "solr_year_i": "1902",
   "dc_creator_sm": [
-    "Rand McNally and Company."
+    "Rand McNally and Company"
   ],
   "dc_description_s": "Scale 1:443,520. 7 miles = 1 in.; 1 map: color; 30 x 49 cm, on sheet 36 x 54 cm Railroads--Connecticut--Maps",
   "dc_format_s": "JPEG",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "Connecticut"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:39Z",
+  "layer_modified_dt": "2023-02-03T21:24:15Z",
   "dc_language_sm": [
     "eng"
   ],

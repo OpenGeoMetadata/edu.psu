@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Fairman, Thomas."
+    "Fairman, Thomas"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1764"
@@ -26,10 +27,10 @@
     "[1764 TO 1764]"
   ],
   "dct_spatial_sm": [
-    "Philadelphia County, Pennsylvania",
+    "Pennsylvania--Philadelphia County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.2803,-74.9558,40.138,39.867)",
+  "locn_geometry": "POLYGON((-75.2803 40.138, -74.9558 40.138, -74.9558 39.867, -75.2803 39.867, -75.2803 40.138))",
   "dcat_bbox": "ENVELOPE(-75.2803,-74.9558,40.138,39.867)",
   "dcat_centroid": "40.0025,-75.11805",
   "pcdm_memberOf_sm": [
@@ -45,6 +46,6 @@
   "dct_identifier_sm": [
     "8c19fdec-0852-49f5-a360-ecf9a8d64bd5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:55Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

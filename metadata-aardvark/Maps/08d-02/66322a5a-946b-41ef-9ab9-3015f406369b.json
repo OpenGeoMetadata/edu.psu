@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1922"
@@ -34,16 +35,20 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Greenville, Pennsylvania",
-    "Shenango, Pennsylvania",
-    "Mercer County, Pennsylvania",
+    "Pennsylvania--Greenville",
+    "Pennsylvania--Shenango",
+    "Pennsylvania--Mercer County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.4054,-80.3609,41.4183,41.3926)",
+  "locn_geometry": "POLYGON((-80.4054 41.4183, -80.3609 41.4183, -80.3609 41.3926, -80.4054 41.3926, -80.4054 41.4183))",
   "dcat_bbox": "ENVELOPE(-80.4054,-80.3609,41.4183,41.3926)",
   "dcat_centroid": "41.40545,-80.38315",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -55,6 +60,6 @@
   "dct_identifier_sm": [
     "66322a5a-946b-41ef-9ab9-3015f406369b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:09Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

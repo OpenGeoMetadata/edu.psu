@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "McPherson, James Birdseye, 1828-1864."
+    "McPherson, James Birdseye, 1828-1864"
   ],
   "dct_publisher_sm": [
     "Office of the Chief of Engineers, U.S. Army"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1875"
@@ -31,7 +32,7 @@
   "dct_spatial_sm": [
     "Tennessee"
   ],
-  "locn_geometry": "ENVELOPE(-87.8814,-87.8456,36.5086,36.475)",
+  "locn_geometry": "POLYGON((-87.8814 36.5086, -87.8456 36.5086, -87.8456 36.475, -87.8814 36.475, -87.8814 36.5086))",
   "dcat_bbox": "ENVELOPE(-87.8814,-87.8456,36.5086,36.475)",
   "dcat_centroid": "36.4918,-87.8635",
   "pcdm_memberOf_sm": [
@@ -47,6 +48,6 @@
   "dct_identifier_sm": [
     "036e4a1f-dcb9-4c56-859b-e9ba2bf9ea97"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:24Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

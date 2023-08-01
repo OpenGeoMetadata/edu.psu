@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -34,14 +35,18 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Blandburg, Pennsylvania",
+    "Pennsylvania--Blandburg",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-78.4269,-78.3948,40.6955,40.6785)",
+  "locn_geometry": "POLYGON((-78.4269 40.6955, -78.3948 40.6955, -78.3948 40.6785, -78.4269 40.6785, -78.4269 40.6955))",
   "dcat_bbox": "ENVELOPE(-78.4269,-78.3948,40.6955,40.6785)",
   "dcat_centroid": "40.687,-78.41085000000001",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -53,6 +58,6 @@
   "dct_identifier_sm": [
     "aa750eea-2ee2-4f39-9a37-02c5f9cc2c78"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:22Z",
+  "gbl_mdModified_dt": "2023-04-14T01:00:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

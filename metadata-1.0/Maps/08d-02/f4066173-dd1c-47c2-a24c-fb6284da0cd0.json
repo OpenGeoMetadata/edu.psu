@@ -14,11 +14,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2452\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2452/manifest.json\"}",
   "dct_spatial_sm": [
-    "Avoca, Pennsylvania",
-    "Luzerne County, Pennsylvania",
+    "Pennsylvania--Avoca",
+    "Pennsylvania--Luzerne County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:38Z",
+  "layer_modified_dt": "2023-04-14T01:02:21Z",
   "dc_language_sm": [
     "eng"
   ],

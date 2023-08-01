@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States Coast Survey."
+    "United States Coast Survey"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1852"
@@ -32,9 +33,9 @@
   ],
   "dct_spatial_sm": [
     "California",
-    "Catalina Harbor, California"
+    "California--Catalina Harbor"
   ],
-  "locn_geometry": "ENVELOPE(-118.5125,-118.5008,33.4361,33.4228)",
+  "locn_geometry": "POLYGON((-118.5125 33.4361, -118.5008 33.4361, -118.5008 33.4228, -118.5125 33.4228, -118.5125 33.4361))",
   "dcat_bbox": "ENVELOPE(-118.5125,-118.5008,33.4361,33.4228)",
   "dcat_centroid": "33.42945,-118.50665000000001",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "60f6c505-3c04-4c91-8f5c-e188e89ea5ba"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:32Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

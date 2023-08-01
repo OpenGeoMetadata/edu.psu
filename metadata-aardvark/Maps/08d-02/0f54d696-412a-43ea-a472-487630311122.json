@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1897"
@@ -34,15 +35,19 @@
     "[1897 TO 1897]"
   ],
   "dct_spatial_sm": [
-    "Easton, Pennsylvania",
-    "South Easton, Pennsylvania",
+    "Pennsylvania--Easton",
+    "Pennsylvania--South Easton",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.283,-75.1902,40.7166,40.6411)",
+  "locn_geometry": "POLYGON((-75.283 40.7166, -75.1902 40.7166, -75.1902 40.6411, -75.283 40.6411, -75.283 40.7166))",
   "dcat_bbox": "ENVELOPE(-75.283,-75.1902,40.7166,40.6411)",
   "dcat_centroid": "40.67885,-75.23660000000001",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "0f54d696-412a-43ea-a472-487630311122"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:59Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

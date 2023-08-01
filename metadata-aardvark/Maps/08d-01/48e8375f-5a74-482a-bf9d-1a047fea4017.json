@@ -15,7 +15,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1894"
@@ -30,7 +31,7 @@
   "dct_spatial_sm": [
     "California"
   ],
-  "locn_geometry": "ENVELOPE(-119.3833,-115.4833,34.3,32.5)",
+  "locn_geometry": "POLYGON((-119.3833 34.3, -115.4833 34.3, -115.4833 32.5, -119.3833 32.5, -119.3833 34.3))",
   "dcat_bbox": "ENVELOPE(-119.3833,-115.4833,34.3,32.5)",
   "dcat_centroid": "33.4,-117.4333",
   "pcdm_memberOf_sm": [
@@ -46,6 +47,6 @@
   "dct_identifier_sm": [
     "48e8375f-5a74-482a-bf9d-1a047fea4017"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:13Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

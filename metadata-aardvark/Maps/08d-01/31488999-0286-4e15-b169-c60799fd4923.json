@@ -19,7 +19,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1869"
@@ -34,7 +35,7 @@
   "dct_spatial_sm": [
     "Egypt"
   ],
-  "locn_geometry": "ENVELOPE(32.3,32.5833,31.0833,29.9167)",
+  "locn_geometry": "POLYGON((32.3 31.0833, 32.5833 31.0833, 32.5833 29.9167, 32.3 29.9167, 32.3 31.0833))",
   "dcat_bbox": "ENVELOPE(32.3,32.5833,31.0833,29.9167)",
   "dcat_centroid": "30.5,32.441649999999996",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "31488999-0286-4e15-b169-c60799fd4923"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:14Z",
+  "gbl_mdModified_dt": "2023-02-03T21:18:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

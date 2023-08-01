@@ -28,10 +28,10 @@
     "[1667 TO 1667]"
   ],
   "dct_spatial_sm": [
-    "Rome, Italy",
+    "Italy--Rome",
     "Italy"
   ],
-  "locn_geometry": "ENVELOPE(12.3417,12.7303,42.0503,41.7694)",
+  "locn_geometry": "POLYGON((12.3417 42.0503, 12.7303 42.0503, 12.7303 41.7694, 12.3417 41.7694, 12.3417 42.0503))",
   "dcat_bbox": "ENVELOPE(12.3417,12.7303,42.0503,41.7694)",
   "dcat_centroid": "41.90985,12.536",
   "pcdm_memberOf_sm": [
@@ -47,6 +47,6 @@
   "dct_identifier_sm": [
     "d10b2767-7211-4a6f-b2c0-d793354a344e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:05Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

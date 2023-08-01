@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -34,7 +35,7 @@
     "Fairfield County",
     "Connecticut"
   ],
-  "locn_geometry": "ENVELOPE(-73.7167,-73.05,41.6667,40.9833)",
+  "locn_geometry": "POLYGON((-73.7167 41.6667, -73.05 41.6667, -73.05 40.9833, -73.7167 40.9833, -73.7167 41.6667))",
   "dcat_bbox": "ENVELOPE(-73.7167,-73.05,41.6667,40.9833)",
   "dcat_centroid": "41.325,-73.38335000000001",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "19ce0da4-dfe0-4636-8687-1de0c0cee3ba"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

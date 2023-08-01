@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1909"
@@ -34,14 +35,18 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Bolivar, Pennsylvania",
+    "Pennsylvania--Bolivar",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.1564,-79.1465,40.3997,40.3901)",
+  "locn_geometry": "POLYGON((-79.1564 40.3997, -79.1465 40.3997, -79.1465 40.3901, -79.1564 40.3901, -79.1564 40.3997))",
   "dcat_bbox": "ENVELOPE(-79.1564,-79.1465,40.3997,40.3901)",
   "dcat_centroid": "40.3949,-79.15145000000001",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -53,6 +58,6 @@
   "dct_identifier_sm": [
     "b9e6c586-f210-48e1-bd01-a61e082d0e33"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:07Z",
+  "gbl_mdModified_dt": "2023-04-14T01:00:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

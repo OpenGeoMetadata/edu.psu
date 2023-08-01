@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers."
+    "United States. Army. Corps of Engineers"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1862"
@@ -31,10 +32,10 @@
     "[1862 TO 1877]"
   ],
   "dct_spatial_sm": [
-    "Cincinnati, Ohio",
+    "Ohio--Cincinnati",
     "Ohio"
   ],
-  "locn_geometry": "ENVELOPE(-84.5953,-84.4272,39.1144,39.0239)",
+  "locn_geometry": "POLYGON((-84.5953 39.1144, -84.4272 39.1144, -84.4272 39.0239, -84.5953 39.0239, -84.5953 39.1144))",
   "dcat_bbox": "ENVELOPE(-84.5953,-84.4272,39.1144,39.0239)",
   "dcat_centroid": "39.06915,-84.51124999999999",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "a6215dd6-144a-4004-9463-d42d4c4d5639"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:42Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

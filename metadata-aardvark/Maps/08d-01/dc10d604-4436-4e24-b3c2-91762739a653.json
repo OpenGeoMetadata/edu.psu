@@ -17,7 +17,8 @@
     "Military maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1864"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-77.4086,-77.2275,37.74,37.6403)",
+  "locn_geometry": "POLYGON((-77.4086 37.74, -77.2275 37.74, -77.2275 37.6403, -77.4086 37.6403, -77.4086 37.74))",
   "dcat_bbox": "ENVELOPE(-77.4086,-77.2275,37.74,37.6403)",
   "dcat_centroid": "37.69015,-77.31805",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "dc10d604-4436-4e24-b3c2-91762739a653"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:40Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

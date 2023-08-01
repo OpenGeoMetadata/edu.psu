@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Wyld, James, 1812-1887."
+    "Wyld, James, 1812-1887"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1840"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Asia"
   ],
-  "locn_geometry": "ENVELOPE(32.3333,167.3333,65.4667,-6.75)",
+  "locn_geometry": "POLYGON((32.3333 65.4667, 167.3333 65.4667, 167.3333 -6.75, 32.3333 -6.75, 32.3333 65.4667))",
   "dcat_bbox": "ENVELOPE(32.3333,167.3333,65.4667,-6.75)",
   "dcat_centroid": "29.35835,99.83330000000001",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "d99579f8-1778-4b5d-9778-7d191614f3a4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:35Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1898"
@@ -29,10 +30,10 @@
     "[1898 TO 1898]"
   ],
   "dct_spatial_sm": [
-    "Hartford, Connecticut",
+    "Connecticut--Hartford",
     "Connecticut"
   ],
-  "locn_geometry": "ENVELOPE(-72.7175,-72.6425,41.8075,41.7236)",
+  "locn_geometry": "POLYGON((-72.7175 41.8075, -72.6425 41.8075, -72.6425 41.7236, -72.7175 41.7236, -72.7175 41.8075))",
   "dcat_bbox": "ENVELOPE(-72.7175,-72.6425,41.8075,41.7236)",
   "dcat_centroid": "41.76555,-72.68",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "ec0af6c0-6c5c-40f3-b2df-1b35baa28af7"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:23Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

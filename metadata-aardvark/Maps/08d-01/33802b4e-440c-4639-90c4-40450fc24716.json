@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1772"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Saint Lawrence River"
   ],
-  "locn_geometry": "ENVELOPE(-75.4989,-75.4228,44.7628,44.705)",
+  "locn_geometry": "POLYGON((-75.4989 44.7628, -75.4228 44.7628, -75.4228 44.705, -75.4989 44.705, -75.4989 44.7628))",
   "dcat_bbox": "ENVELOPE(-75.4989,-75.4228,44.7628,44.705)",
   "dcat_centroid": "44.7339,-75.46085",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "33802b4e-440c-4639-90c4-40450fc24716"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:39Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

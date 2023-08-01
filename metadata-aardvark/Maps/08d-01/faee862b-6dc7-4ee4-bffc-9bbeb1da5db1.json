@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Raisz, Erwin, 1893-1968."
+    "Raisz, Erwin, 1893-1968"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
     "Nautical charts"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1492 and 1493"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Atlantic Ocean"
   ],
-  "locn_geometry": "ENVELOPE(-82.0667,-5,39.75,17.9833)",
+  "locn_geometry": "POLYGON((-82.0667 39.75, -5 39.75, -5 17.9833, -82.0667 17.9833, -82.0667 39.75))",
   "dcat_bbox": "ENVELOPE(-82.0667,-5,39.75,17.9833)",
   "dcat_centroid": "28.86665,-43.53335",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "faee862b-6dc7-4ee4-bffc-9bbeb1da5db1"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:00Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

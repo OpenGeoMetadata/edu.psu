@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Lee, Thomas Jefferson, 1808-1891, cartographer."
+    "Lee, Thomas Jefferson, 1808-1891"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1799 and 1836"
@@ -34,7 +35,7 @@
     "Susquehanna River",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-76.1366,-76.029,39.5758,39.4781)",
+  "locn_geometry": "POLYGON((-76.1366 39.5758, -76.029 39.5758, -76.029 39.4781, -76.1366 39.4781, -76.1366 39.5758))",
   "dcat_bbox": "ENVELOPE(-76.1366,-76.029,39.5758,39.4781)",
   "dcat_centroid": "39.52695,-76.08279999999999",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "ff8a3723-a254-4744-9e52-bc5e38a66c81"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:46Z",
+  "gbl_mdModified_dt": "2023-02-03T21:17:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

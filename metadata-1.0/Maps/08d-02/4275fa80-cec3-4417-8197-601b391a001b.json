@@ -14,12 +14,12 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27013\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27013/manifest.json\"}",
   "dct_spatial_sm": [
-    "Galeton, Pennsylvania",
-    "Walton, Pennsylvania",
-    "Potter County, Pennsylvania",
+    "Pennsylvania--Galeton",
+    "Pennsylvania--Walton",
+    "Pennsylvania--Potter County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:13Z",
+  "layer_modified_dt": "2023-04-14T01:02:16Z",
   "dc_language_sm": [
     "eng"
   ],

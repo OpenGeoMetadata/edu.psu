@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1904"
@@ -34,15 +35,19 @@
     "[1904 TO 1904]"
   ],
   "dct_spatial_sm": [
-    "New Castle, Pennsylvania",
-    "Lawrence County, Pennsylvania",
+    "Pennsylvania--New Castle",
+    "Pennsylvania--Lawrence County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.3977,-80.3157,41.0279,40.9579)",
+  "locn_geometry": "POLYGON((-80.3977 41.0279, -80.3157 41.0279, -80.3157 40.9579, -80.3977 40.9579, -80.3977 41.0279))",
   "dcat_bbox": "ENVELOPE(-80.3977,-80.3157,41.0279,40.9579)",
   "dcat_centroid": "40.992900000000006,-80.3567",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "8656081c-57d6-4ae7-b1a3-aad46bd0fa7c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:41Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Reichsbahnzentrale fér den Deutschen Reiseverkehr, cartographer."
+    "Reichsbahnzentrale für den Deutschen Reiseverkehr"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1936"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Germany"
   ],
-  "locn_geometry": "ENVELOPE(5.85,22.95,55.5,47.2667)",
+  "locn_geometry": "POLYGON((5.85 55.5, 22.95 55.5, 22.95 47.2667, 5.85 47.2667, 5.85 55.5))",
   "dcat_bbox": "ENVELOPE(5.85,22.95,55.5,47.2667)",
   "dcat_centroid": "51.38335,14.399999999999999",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "505e010b-b846-47e1-9def-2d6ef7d5e150"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:55Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

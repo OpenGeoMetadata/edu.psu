@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1890"
@@ -34,15 +35,19 @@
     "[1890 TO 1890]"
   ],
   "dct_spatial_sm": [
-    "Lykens, Pennsylvania",
-    "Dauphin County, Pennsylvania",
+    "Pennsylvania--Lykens",
+    "Pennsylvania--Dauphin County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-76.7158,-76.6734,40.5703,40.555)",
+  "locn_geometry": "POLYGON((-76.7158 40.5703, -76.6734 40.5703, -76.6734 40.555, -76.7158 40.555, -76.7158 40.5703))",
   "dcat_bbox": "ENVELOPE(-76.7158,-76.6734,40.5703,40.555)",
   "dcat_centroid": "40.562650000000005,-76.69460000000001",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "aa3f00dd-c784-4829-8c93-ad3718dc1084"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:58Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

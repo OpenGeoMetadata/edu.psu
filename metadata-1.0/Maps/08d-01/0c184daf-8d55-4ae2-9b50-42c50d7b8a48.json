@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-89.5715,-82.0052,39.1646,36.4439)",
   "solr_year_i": "1795",
   "dc_creator_sm": [
-    "Barker, Elihu."
+    "Barker, Elihu"
   ],
   "dc_description_s": "Scale approximately 1:1,400,000; 1 map; 24 x 52 cm. Kentucky--Maps--Early works to 1800--Facsimiles",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Kentucky"
   ],
-  "layer_modified_dt": "2022-04-01T15:30:47Z",
+  "layer_modified_dt": "2023-02-03T21:20:11Z",
   "dc_language_sm": [
     "eng"
   ],

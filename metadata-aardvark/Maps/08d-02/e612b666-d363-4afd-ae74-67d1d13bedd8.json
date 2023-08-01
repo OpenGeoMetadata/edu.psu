@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -34,15 +35,19 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Emlenton, Pennsylvania",
-    "Venango County, Pennsylvania",
+    "Pennsylvania--Emlenton",
+    "Pennsylvania--Venango County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.7222,-79.6934,41.1876,41.1731)",
+  "locn_geometry": "POLYGON((-79.7222 41.1876, -79.6934 41.1876, -79.6934 41.1731, -79.7222 41.1731, -79.7222 41.1876))",
   "dcat_bbox": "ENVELOPE(-79.7222,-79.6934,41.1876,41.1731)",
   "dcat_centroid": "41.180350000000004,-79.70779999999999",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "e612b666-d363-4afd-ae74-67d1d13bedd8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:38Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1890"
@@ -34,15 +35,19 @@
     "[1890 TO 1890]"
   ],
   "dct_spatial_sm": [
-    "Lewisburg, Pennsylvania",
-    "Union County, Pennsylvania",
+    "Pennsylvania--Lewisburg",
+    "Pennsylvania--Union County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-76.9088,-76.8771,40.9718,40.9544)",
+  "locn_geometry": "POLYGON((-76.9088 40.9718, -76.8771 40.9718, -76.8771 40.9544, -76.9088 40.9544, -76.9088 40.9718))",
   "dcat_bbox": "ENVELOPE(-76.9088,-76.8771,40.9718,40.9544)",
   "dcat_centroid": "40.9631,-76.89295",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "29c7e871-351a-4e68-ba6f-327384a77536"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:15Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

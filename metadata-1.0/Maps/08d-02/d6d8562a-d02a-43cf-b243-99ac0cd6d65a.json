@@ -14,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11481\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/11481/manifest.json\"}",
   "dct_spatial_sm": [
-    "Johnstown, Pennsylvania",
+    "Pennsylvania--Johnstown",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:57Z",
+  "layer_modified_dt": "2023-04-14T01:02:17Z",
   "dc_language_sm": [
     "eng"
   ],

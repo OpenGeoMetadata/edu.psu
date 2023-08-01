@@ -14,16 +14,16 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/28690\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/28690/manifest.json\"}",
   "dct_spatial_sm": [
-    "Waynesburg, Pennsylvania",
-    "Carmichaels, Pennsylvania",
-    "Jefferson, Pennsylvania",
-    "Rices Landing, Pennsylvania",
-    "Rogersville, Pennsylvania",
-    "Mount Morris, Pennsylvania",
-    "Greene County, Pennsylvania",
+    "Pennsylvania--Waynesburg",
+    "Pennsylvania--Carmichaels",
+    "Pennsylvania--Jefferson",
+    "Pennsylvania--Rices Landing",
+    "Pennsylvania--Rogersville",
+    "Pennsylvania--Mount Morris",
+    "Pennsylvania--Greene County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:58Z",
+  "layer_modified_dt": "2023-04-14T01:02:24Z",
   "dc_language_sm": [
     "eng"
   ],

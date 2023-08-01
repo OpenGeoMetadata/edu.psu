@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1929"
@@ -34,15 +35,19 @@
     "[1929 TO 1929]"
   ],
   "dct_spatial_sm": [
-    "New Bloomfield, Pennsylvania",
-    "Perry County, Pennsylvania",
+    "Pennsylvania--New Bloomfield",
+    "Pennsylvania--Perry County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-77.2005,-77.1787,40.4231,40.4127)",
+  "locn_geometry": "POLYGON((-77.2005 40.4231, -77.1787 40.4231, -77.1787 40.4127, -77.2005 40.4127, -77.2005 40.4231))",
   "dcat_bbox": "ENVELOPE(-77.2005,-77.1787,40.4231,40.4127)",
   "dcat_centroid": "40.4179,-77.18960000000001",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "a9461695-ca9f-4819-98d6-24613ef07cb1"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:38Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -25,7 +25,7 @@
   "dct_spatial_sm": [
     "New Hampshire"
   ],
-  "locn_geometry": "ENVELOPE(-72.55,-70.6,45.3,42.6833)",
+  "locn_geometry": "POLYGON((-72.55 45.3, -70.6 45.3, -70.6 42.6833, -72.55 42.6833, -72.55 45.3))",
   "dcat_bbox": "ENVELOPE(-72.55,-70.6,45.3,42.6833)",
   "dcat_centroid": "43.99165,-71.57499999999999",
   "pcdm_memberOf_sm": [
@@ -41,6 +41,6 @@
   "dct_identifier_sm": [
     "506d70b6-45f5-464b-8bd8-e6cdf31464bf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:43Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-80.9575,-80.9303,38.2136,38.1917)",
   "solr_year_i": "1861",
   "dc_creator_sm": [
-    "United States. Army. Corps of Engineers."
+    "United States. Army. Corps of Engineers"
   ],
   "dc_description_s": "Scale 1:5,280. 12 inches to 1 mile; 1 map: color; 47 x 44 cm Carnifex Ferry, Battle of, W. Va., 1861--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "West Virginia"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:59Z",
+  "layer_modified_dt": "2023-02-03T21:21:28Z",
   "dc_language_sm": [
     "eng"
   ],

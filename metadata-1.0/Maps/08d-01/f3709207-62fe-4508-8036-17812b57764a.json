@@ -5,7 +5,7 @@
   "dc_title_s": "Carte reduite des mers comprises entre l'Asie et l'Amerique. : apelées par les navigateurs Mer du Sud ou Mer Pacifique : pour servir aux vaisseaux du Roi, dressée aux dépost des cartes, plans et journaux de la marine : par ordre de M. le Comte de Maurepas.",
   "dct_provenance_s": "Pennsylvania State University",
   "layer_slug_s": "f3709207-62fe-4508-8036-17812b57764a",
-  "solr_geom": "ENVELOPE(116.6,-63.5,41.3,-58.2)",
+  "solr_geom": "ENVELOPE(110.0,-65.0,43.0,-60.0)",
   "solr_year_i": "1742",
   "dc_description_s": "Pacific Ocean--Maps--Early works to 1800",
   "dc_format_s": "JPEG",
@@ -13,7 +13,7 @@
   "dct_spatial_sm": [
     "Pacific Ocean"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:16Z",
+  "layer_modified_dt": "2023-06-23T18:47:28Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1903"
@@ -34,15 +35,19 @@
     "[1903 TO 1903]"
   ],
   "dct_spatial_sm": [
-    "Mahaffey, Pennsylvania",
-    "Clearfield County, Pennsylvania",
+    "Pennsylvania--Mahaffey",
+    "Pennsylvania--Clearfield County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-78.7388,-78.7193,40.8824,40.8651)",
+  "locn_geometry": "POLYGON((-78.7388 40.8824, -78.7193 40.8824, -78.7193 40.8651, -78.7388 40.8651, -78.7388 40.8824))",
   "dcat_bbox": "ENVELOPE(-78.7388,-78.7193,40.8824,40.8651)",
   "dcat_centroid": "40.87375,-78.72905",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "6484c6b3-cd68-42fe-b8ce-d3ab1cb6be3b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:04Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

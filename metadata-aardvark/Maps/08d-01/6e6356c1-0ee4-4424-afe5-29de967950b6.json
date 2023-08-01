@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Geological Survey (U.S.) cartographer."
+    "Geological Survey (U.S.), cartographer."
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -17,7 +17,8 @@
     "Military maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1876"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "Montana"
   ],
-  "locn_geometry": "ENVELOPE(-107.4358,-107.4289,45.5725,45.5675)",
+  "locn_geometry": "POLYGON((-107.4358 45.5725, -107.4289 45.5725, -107.4289 45.5675, -107.4358 45.5675, -107.4358 45.5725))",
   "dcat_bbox": "ENVELOPE(-107.4358,-107.4289,45.5725,45.5675)",
   "dcat_centroid": "45.57,-107.43235",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "6e6356c1-0ee4-4424-afe5-29de967950b6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:30Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

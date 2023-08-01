@@ -25,7 +25,7 @@
   "dct_spatial_sm": [
     "Martinique"
   ],
-  "locn_geometry": "ENVELOPE(-61.2289,-60.8103,14.8786,14.3886)",
+  "locn_geometry": "POLYGON((-61.2289 14.8786, -60.8103 14.8786, -60.8103 14.3886, -61.2289 14.3886, -61.2289 14.8786))",
   "dcat_bbox": "ENVELOPE(-61.2289,-60.8103,14.8786,14.3886)",
   "dcat_centroid": "14.633600000000001,-61.0196",
   "pcdm_memberOf_sm": [
@@ -41,6 +41,6 @@
   "dct_identifier_sm": [
     "b6f024dd-374e-4d13-9221-ad539c3044fb"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

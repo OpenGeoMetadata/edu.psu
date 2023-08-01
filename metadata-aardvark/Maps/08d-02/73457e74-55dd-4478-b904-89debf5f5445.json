@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1906"
@@ -34,14 +35,18 @@
     "[1906 TO 1906]"
   ],
   "dct_spatial_sm": [
-    "Pittsburgh, Pennsylvania",
+    "Pennsylvania--Pittsburgh",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.0953,-79.8657,40.5014,40.3614)",
+  "locn_geometry": "POLYGON((-80.0953 40.5014, -79.8657 40.5014, -79.8657 40.3614, -80.0953 40.3614, -80.0953 40.5014))",
   "dcat_bbox": "ENVELOPE(-80.0953,-79.8657,40.5014,40.3614)",
   "dcat_centroid": "40.4314,-79.9805",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -53,6 +58,6 @@
   "dct_identifier_sm": [
     "73457e74-55dd-4478-b904-89debf5f5445"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:33:22Z",
+  "gbl_mdModified_dt": "2023-04-14T01:00:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

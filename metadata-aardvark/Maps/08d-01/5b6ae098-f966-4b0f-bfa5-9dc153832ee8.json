@@ -19,7 +19,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1901"
@@ -34,7 +35,7 @@
   "dct_spatial_sm": [
     "Colorado"
   ],
-  "locn_geometry": "ENVELOPE(-108,-105,40.5,37.5)",
+  "locn_geometry": "POLYGON((-108 40.5, -105 40.5, -105 37.5, -108 37.5, -108 40.5))",
   "dcat_bbox": "ENVELOPE(-108,-105,40.5,37.5)",
   "dcat_centroid": "39.0,-106.5",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "5b6ae098-f966-4b0f-bfa5-9dc153832ee8"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:21Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

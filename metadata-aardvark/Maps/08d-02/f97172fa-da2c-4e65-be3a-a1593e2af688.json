@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -34,15 +35,19 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Madera, Pennsylvania",
-    "Clearfield County, Pennsylvania",
+    "Pennsylvania--Madera",
+    "Pennsylvania--Clearfield County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-78.451,-78.419,40.8368,40.8199)",
+  "locn_geometry": "POLYGON((-78.451 40.8368, -78.419 40.8368, -78.419 40.8199, -78.451 40.8199, -78.451 40.8368))",
   "dcat_bbox": "ENVELOPE(-78.451,-78.419,40.8368,40.8199)",
   "dcat_centroid": "40.82835,-78.435",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "f97172fa-da2c-4e65-be3a-a1593e2af688"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:32Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:42Z",
   "gbl_mdVersion_s": "Aardvark"
 }

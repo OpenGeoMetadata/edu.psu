@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-76.1366,-76.029,39.5758,39.4781)",
   "solr_year_i": "1799",
   "dc_creator_sm": [
-    "Lee, Thomas Jefferson, 1808-1891, cartographer."
+    "Lee, Thomas Jefferson, 1808-1891"
   ],
   "dc_description_s": "Scale 1:15,840. Scale of four in. to one mile; 1 map; 61 x 83 cm. Nautical charts--Susquehanna River Estuary",
   "dc_format_s": "JPEG",
@@ -17,7 +17,7 @@
     "Susquehanna River",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:46Z",
+  "layer_modified_dt": "2023-02-03T21:17:30Z",
   "dc_language_sm": [
     "eng"
   ],

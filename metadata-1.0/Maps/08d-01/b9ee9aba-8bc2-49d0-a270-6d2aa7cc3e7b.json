@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-79.0558,-78.3483,40.7258,40.2428)",
   "solr_year_i": "1867",
   "dc_creator_sm": [
-    "Beers, D. G. (Daniel G.), cartographer."
+    "Beers, D. G. (Daniel G.)"
   ],
   "dc_description_s": "Scale approximately 1:79,200. 1 1/4 in. to the mile; 1 map: hand colored; 175 x 117 cm Real property--Pennsylvania--Cambria County--Maps",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30096\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30096/manifest.json\"}",
   "dct_spatial_sm": [
-    "Cambria County, Pennsylvania",
+    "Pennsylvania--Cambria County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:09Z",
+  "layer_modified_dt": "2023-02-03T21:20:54Z",
   "dc_language_sm": [
     "eng"
   ],

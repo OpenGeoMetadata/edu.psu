@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1909"
@@ -29,9 +30,10 @@
     "[1909 TO 1909]"
   ],
   "dct_spatial_sm": [
-    "Alaska"
+    "Washington--Seattle",
+    "Washington"
   ],
-  "locn_geometry": "ENVELOPE(-122.3122,-122.2978,47.6569,47.6506)",
+  "locn_geometry": "POLYGON((-122.3122 47.6569, -122.2978 47.6569, -122.2978 47.6506, -122.3122 47.6506, -122.3122 47.6569))",
   "dcat_bbox": "ENVELOPE(-122.3122,-122.2978,47.6569,47.6506)",
   "dcat_centroid": "47.65375,-122.305",
   "pcdm_memberOf_sm": [
@@ -47,6 +49,6 @@
   "dct_identifier_sm": [
     "4694fcb7-9a8e-4bd2-abcf-1efdd22a437e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:59Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

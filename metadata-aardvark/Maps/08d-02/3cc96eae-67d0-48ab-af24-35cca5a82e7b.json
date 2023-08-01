@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1900"
@@ -34,15 +35,19 @@
     "[1900 TO 1900]"
   ],
   "dct_spatial_sm": [
-    "Curwensville, Pennsylvania",
-    "Clearfield County, Pennsylvania",
+    "Pennsylvania--Curwensville",
+    "Pennsylvania--Clearfield County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-78.5401,-78.4976,40.9862,40.9601)",
+  "locn_geometry": "POLYGON((-78.5401 40.9862, -78.4976 40.9862, -78.4976 40.9601, -78.5401 40.9601, -78.5401 40.9862))",
   "dcat_bbox": "ENVELOPE(-78.5401,-78.4976,40.9862,40.9601)",
   "dcat_centroid": "40.97315,-78.51885",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "3cc96eae-67d0-48ab-af24-35cca5a82e7b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:34Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

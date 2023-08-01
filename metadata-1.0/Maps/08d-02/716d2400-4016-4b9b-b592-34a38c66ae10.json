@@ -14,11 +14,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/20470\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/20470/manifest.json\"}",
   "dct_spatial_sm": [
-    "Shippensburg, Pennsylvania",
-    "Cumberland County, Pennsylvania",
+    "Pennsylvania--Shippensburg",
+    "Pennsylvania--Cumberland County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:05Z",
+  "layer_modified_dt": "2023-04-14T01:02:03Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-86.8318,-85.1978,35.2815,34.362)",
   "solr_year_i": "1863",
   "dc_creator_sm": [
-    "United States. Army. Corps of Engineers."
+    "United States. Army. Corps of Engineers"
   ],
   "dc_description_s": "Chattanooga, Battle of, Chattanooga, Tenn., 1863--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Tennessee"
   ],
-  "layer_modified_dt": "2022-04-01T15:23:17Z",
+  "layer_modified_dt": "2023-02-03T21:26:12Z",
   "dc_language_sm": [
     "eng"
   ],

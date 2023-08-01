@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-79,-77.1333,40,37)",
   "solr_year_i": "1860",
   "dc_creator_sm": [
-    "Michler, N. (Nathaniel), 1827-1881."
+    "Michler, N. (Nathaniel), 1827-1881"
   ],
   "dc_description_s": "Scale approximately 1:290,000; 1 map: color; 108 x 66 cm. Gettysburg Region (Pa.)--Maps",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:16Z",
+  "layer_modified_dt": "2023-02-03T21:21:37Z",
   "dc_language_sm": [
     "eng"
   ],

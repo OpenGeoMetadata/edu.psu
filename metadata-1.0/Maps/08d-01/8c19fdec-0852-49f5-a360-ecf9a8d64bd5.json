@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-75.2803,-74.9558,40.138,39.867)",
   "solr_year_i": "1764",
   "dc_creator_sm": [
-    "Fairman, Thomas."
+    "Fairman, Thomas"
   ],
   "dc_description_s": "Scale approximately 7,920. 40 perches per in.; 1 map: color; 42 x 36 cm Real property--Pennsylvania--Philadelphia County--Maps--Early works to 1800--Facsimiles",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30087\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30087/manifest.json\"}",
   "dct_spatial_sm": [
-    "Philadelphia County, Pennsylvania",
+    "Pennsylvania--Philadelphia County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:55Z",
+  "layer_modified_dt": "2023-02-03T21:26:11Z",
   "dc_language_sm": [
     "eng"
   ],

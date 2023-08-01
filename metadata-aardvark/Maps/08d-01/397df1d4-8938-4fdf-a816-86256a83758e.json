@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Lyne, James."
+    "Lyne, James"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1728"
@@ -31,10 +32,10 @@
     "[1728 TO 1728]"
   ],
   "dct_spatial_sm": [
-    "Manhattan, New York",
+    "New York--Manhattan",
     "New York"
   ],
-  "locn_geometry": "ENVELOPE(-74.0472,-73.9069,40.7494,40.6803)",
+  "locn_geometry": "POLYGON((-74.0472 40.7494, -73.9069 40.7494, -73.9069 40.6803, -74.0472 40.6803, -74.0472 40.7494))",
   "dcat_bbox": "ENVELOPE(-74.0472,-73.9069,40.7494,40.6803)",
   "dcat_centroid": "40.71485,-73.97704999999999",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "397df1d4-8938-4fdf-a816-86256a83758e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:53Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

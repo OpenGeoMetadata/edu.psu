@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Albin, John, active 1791-1800."
+    "Albin, John, active 1791-1800"
   ],
   "dct_publisher_sm": [
     "L. Albin"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1807-08-12"
@@ -29,10 +30,10 @@
     "[1807 TO 1807]"
   ],
   "dct_spatial_sm": [
-    "Isle of Wight, England",
+    "Isle of Wight",
     "England"
   ],
-  "locn_geometry": "ENVELOPE(-1.5833,-1,50.7667,50.5667)",
+  "locn_geometry": "POLYGON((-1.5833 50.7667, -1 50.7667, -1 50.5667, -1.5833 50.5667, -1.5833 50.7667))",
   "dcat_bbox": "ENVELOPE(-1.5833,-1,50.7667,50.5667)",
   "dcat_centroid": "50.6667,-1.29165",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "923704c1-f33f-4f65-8427-ef0e85152eba"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:06Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

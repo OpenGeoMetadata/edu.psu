@@ -23,10 +23,10 @@
     "[1763 TO 1763]"
   ],
   "dct_spatial_sm": [
-    "Québec, Canada",
+    "Canada--Québec",
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-71.3122,-71.0478,46.9075,46.7497)",
+  "locn_geometry": "POLYGON((-71.3122 46.9075, -71.0478 46.9075, -71.0478 46.7497, -71.3122 46.7497, -71.3122 46.9075))",
   "dcat_bbox": "ENVELOPE(-71.3122,-71.0478,46.9075,46.7497)",
   "dcat_centroid": "46.828599999999994,-71.18",
   "pcdm_memberOf_sm": [
@@ -42,6 +42,6 @@
   "dct_identifier_sm": [
     "77522f8b-e802-455c-a389-7896c3a5d51f"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:48Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

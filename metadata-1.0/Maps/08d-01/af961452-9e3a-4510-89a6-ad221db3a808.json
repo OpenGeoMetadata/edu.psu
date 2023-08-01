@@ -8,16 +8,16 @@
   "solr_geom": "ENVELOPE(-67.8167,-52.6167,60.3667,46.6)",
   "solr_year_i": "1772",
   "dc_creator_sm": [
-    "Kitchin, Thomas, -1784."
+    "Kitchin, Thomas, 1718-1784"
   ],
   "dc_description_s": "Scale ca. 1:20,000; 1 map; 21 x 31 cm Newfoundland and Labrador--Maps--Early works to 1800",
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27172\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27172/manifest.json\"}",
   "dct_spatial_sm": [
-    "Newfoundland and Labrador, Canada",
+    "Canada--Newfoundland and Labrador",
     "Canada"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:19Z",
+  "layer_modified_dt": "2023-02-03T21:23:38Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -14,15 +14,15 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29854\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29854/manifest.json\"}",
   "dct_spatial_sm": [
-    "Stroudsburg, Pennsylvania",
-    "East Stroudsburg, Pennsylvania",
-    "Bushkill, Pennsylvania",
-    "Shawnee-On-Delaware, Pennsylvania",
-    "Saylorsburg, Pennsylvania",
-    "Monroe County, Pennsylvania",
+    "Pennsylvania--Stroudsburg",
+    "Pennsylvania--East Stroudsburg",
+    "Pennsylvania--Bushkill",
+    "Pennsylvania--Shawnee-On-Delaware",
+    "Pennsylvania--Saylorsburg",
+    "Pennsylvania--Monroe County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:29:47Z",
+  "layer_modified_dt": "2023-04-14T01:02:23Z",
   "dc_language_sm": [
     "eng"
   ],

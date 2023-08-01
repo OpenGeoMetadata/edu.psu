@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1928"
@@ -34,17 +35,21 @@
     "[1928 TO 1928]"
   ],
   "dct_spatial_sm": [
-    "Honesdale, Pennsylvania",
-    "Seelyville, Pennsylvania",
-    "White Mills, Pennsylvania",
-    "Wayne County, Pennsylvania",
+    "Pennsylvania--Honesdale",
+    "Pennsylvania--Seelyville",
+    "Pennsylvania--White Mills",
+    "Pennsylvania--Wayne County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.297,-75.1868,41.5988,41.5241)",
+  "locn_geometry": "POLYGON((-75.297 41.5988, -75.1868 41.5988, -75.1868 41.5241, -75.297 41.5241, -75.297 41.5988))",
   "dcat_bbox": "ENVELOPE(-75.297,-75.1868,41.5988,41.5241)",
   "dcat_centroid": "41.561449999999994,-75.2419",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -56,6 +61,6 @@
   "dct_identifier_sm": [
     "bb6e60a6-67b7-488e-8dc1-dc4b07038773"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:18Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

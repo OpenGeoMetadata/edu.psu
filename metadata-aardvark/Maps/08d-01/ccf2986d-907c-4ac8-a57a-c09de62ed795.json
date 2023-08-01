@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Kiepert, Heinrich, 1818-1899."
+    "Kiepert, Heinrich, 1818-1899"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -17,7 +17,8 @@
     "Manuscript maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "between 1838 and 1856"
@@ -32,7 +33,7 @@
   "dct_spatial_sm": [
     "Egypt"
   ],
-  "locn_geometry": "ENVELOPE(32.2333,35.5,31.45,27.6833)",
+  "locn_geometry": "POLYGON((32.2333 31.45, 35.5 31.45, 35.5 27.6833, 32.2333 27.6833, 32.2333 31.45))",
   "dcat_bbox": "ENVELOPE(32.2333,35.5,31.45,27.6833)",
   "dcat_centroid": "29.56665,33.86665",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "ccf2986d-907c-4ac8-a57a-c09de62ed795"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:44Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:36Z",
   "gbl_mdVersion_s": "Aardvark"
 }

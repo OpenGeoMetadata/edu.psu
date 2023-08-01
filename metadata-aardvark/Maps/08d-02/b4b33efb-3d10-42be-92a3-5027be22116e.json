@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1928"
@@ -34,21 +35,25 @@
     "[1928 TO 1928]"
   ],
   "dct_spatial_sm": [
-    "Conshohocken, Pennsylvania",
-    "Connaughtown, Pennsylvania",
-    "Gulph, Pennsylvania",
-    "Mechanicsville, Pennsylvania",
-    "Spring Mill, Pennsylvania",
-    "West Conshohocken, Pennsylvania",
-    "Plymouth Township, Pennsylvania",
-    "Whitemarsh Township, Pennsylvania",
+    "Pennsylvania--Conshohocken",
+    "Pennsylvania--Connaughtown",
+    "Pennsylvania--Gulph",
+    "Pennsylvania--Mechanicsville",
+    "Pennsylvania--Spring Mill",
+    "Pennsylvania--West Conshohocken",
+    "Pennsylvania--Plymouth Township",
+    "Pennsylvania--Whitemarsh Township",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.3559,-75.29,40.0884,40.0613)",
+  "locn_geometry": "POLYGON((-75.3559 40.0884, -75.29 40.0884, -75.29 40.0613, -75.3559 40.0613, -75.3559 40.0884))",
   "dcat_bbox": "ENVELOPE(-75.3559,-75.29,40.0884,40.0613)",
   "dcat_centroid": "40.07485,-75.32295",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -60,6 +65,6 @@
   "dct_identifier_sm": [
     "b4b33efb-3d10-42be-92a3-5027be22116e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:11Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

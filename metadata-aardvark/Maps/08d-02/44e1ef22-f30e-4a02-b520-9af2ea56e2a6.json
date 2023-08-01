@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -34,15 +35,19 @@
     "[1910 TO 1910]"
   ],
   "dct_spatial_sm": [
-    "Belle Vernon, Pennsylvania",
-    "Fayette County, Pennsylvania",
+    "Pennsylvania--Belle Vernon",
+    "Pennsylvania--Fayette County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.8774,-79.8586,40.1293,40.1204)",
+  "locn_geometry": "POLYGON((-79.8774 40.1293, -79.8586 40.1293, -79.8586 40.1204, -79.8774 40.1204, -79.8774 40.1293))",
   "dcat_bbox": "ENVELOPE(-79.8774,-79.8586,40.1293,40.1204)",
   "dcat_centroid": "40.124849999999995,-79.868",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "44e1ef22-f30e-4a02-b520-9af2ea56e2a6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:37Z",
+  "gbl_mdModified_dt": "2023-04-14T01:01:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

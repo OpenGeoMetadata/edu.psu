@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Schenk, Peter, 1660-1718 or 1719."
+    "Schenk, Peter, 1661-1711"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1758"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Germany"
   ],
-  "locn_geometry": "ENVELOPE(11.8667,15.0333,51.6833,50.1667)",
+  "locn_geometry": "POLYGON((11.8667 51.6833, 15.0333 51.6833, 15.0333 50.1667, 11.8667 50.1667, 11.8667 51.6833))",
   "dcat_bbox": "ENVELOPE(11.8667,15.0333,51.6833,50.1667)",
   "dcat_centroid": "50.925,13.45",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "54c7c395-7377-4464-9928-7b3b6ca2a067"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:15Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-125.3667,-62.2667,49.3667,23.55)",
   "solr_year_i": "1872",
   "dc_creator_sm": [
-    "Watson, Gaylord."
+    "Watson, Gaylord"
   ],
   "dc_description_s": "Scale not determined; 1 map: color; 76 x 106 cm Railroads--United States--Maps.",
   "dc_format_s": "JPEG",
@@ -19,7 +19,7 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:13Z",
+  "layer_modified_dt": "2023-02-03T21:26:45Z",
   "dc_language_sm": [
     "eng"
   ],

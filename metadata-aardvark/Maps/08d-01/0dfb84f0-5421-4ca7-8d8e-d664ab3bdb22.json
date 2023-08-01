@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "United States. Army. Corps of Engineers."
+    "United States. Army. Corps of Engineers"
   ],
   "dct_publisher_sm": [
     "Office of the Chief of Engineers"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1877"
@@ -31,7 +32,7 @@
   "dct_spatial_sm": [
     "Kentucky"
   ],
-  "locn_geometry": "ENVELOPE(-84.76,-84.7211,37.0717,37.0389)",
+  "locn_geometry": "POLYGON((-84.76 37.0717, -84.7211 37.0717, -84.7211 37.0389, -84.76 37.0389, -84.76 37.0717))",
   "dcat_bbox": "ENVELOPE(-84.76,-84.7211,37.0717,37.0389)",
   "dcat_centroid": "37.0553,-84.74055000000001",
   "pcdm_memberOf_sm": [
@@ -47,6 +48,6 @@
   "dct_identifier_sm": [
     "0dfb84f0-5421-4ca7-8d8e-d664ab3bdb22"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:40Z",
+  "gbl_mdModified_dt": "2023-02-03T21:25:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1908"
@@ -34,15 +35,19 @@
     "[1908 TO 1908]"
   ],
   "dct_spatial_sm": [
-    "Seven Valley, Pennsylvania",
-    "York County, Pennsylvania",
+    "Pennsylvania--Seven Valley",
+    "Pennsylvania--York County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-76.7811,-76.7518,39.8663,39.8438)",
+  "locn_geometry": "POLYGON((-76.7811 39.8663, -76.7518 39.8663, -76.7518 39.8438, -76.7811 39.8438, -76.7811 39.8663))",
   "dcat_bbox": "ENVELOPE(-76.7811,-76.7518,39.8663,39.8438)",
   "dcat_centroid": "39.855050000000006,-76.76644999999999",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "9a4bccbd-febf-4201-945e-b7512f5a1e34"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:36Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

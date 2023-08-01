@@ -17,7 +17,8 @@
     "Aerial views"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1904"
@@ -30,10 +31,10 @@
     "[1904 TO 1904]"
   ],
   "dct_spatial_sm": [
-    "Saint Louis, Missouri",
+    "Missouri--Saint Louis",
     "Missouri"
   ],
-  "locn_geometry": "ENVELOPE(-90.3044,-90.265,38.6481,38.6292)",
+  "locn_geometry": "POLYGON((-90.3044 38.6481, -90.265 38.6481, -90.265 38.6292, -90.3044 38.6292, -90.3044 38.6481))",
   "dcat_bbox": "ENVELOPE(-90.3044,-90.265,38.6481,38.6292)",
   "dcat_centroid": "38.63865,-90.2847",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "ffd3ac8f-0093-49f1-99d5-71713dd34a7a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:26Z",
+  "gbl_mdModified_dt": "2023-02-03T21:21:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

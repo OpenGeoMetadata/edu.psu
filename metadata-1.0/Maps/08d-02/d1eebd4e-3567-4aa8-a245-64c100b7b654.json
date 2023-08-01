@@ -14,12 +14,12 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26785\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26785/manifest.json\"}",
   "dct_spatial_sm": [
-    "Doylestown, Pennsylvania",
-    "Doylestown Twp, Pennsylvania",
-    "Bucks County, Pennsylvania",
+    "Pennsylvania--Doylestown",
+    "Pennsylvania--Doylestown Twp",
+    "Pennsylvania--Bucks County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:19Z",
+  "layer_modified_dt": "2023-04-14T01:02:16Z",
   "dc_language_sm": [
     "eng"
   ],

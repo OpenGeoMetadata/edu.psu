@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1881"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Cuba"
   ],
-  "locn_geometry": "ENVELOPE(-79,-67,26,18)",
+  "locn_geometry": "POLYGON((-79 26, -67 26, -67 18, -79 18, -79 26))",
   "dcat_bbox": "ENVELOPE(-79,-67,26,18)",
   "dcat_centroid": "22.0,-73.0",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "6263fbff-cf9d-4702-a112-c69e778a39f6"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:41Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

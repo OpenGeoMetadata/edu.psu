@@ -30,7 +30,7 @@
   "dct_spatial_sm": [
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-78.5,-73,39.8333,36.25)",
+  "locn_geometry": "POLYGON((-78.5 39.8333, -73 39.8333, -73 36.25, -78.5 36.25, -78.5 39.8333))",
   "dcat_bbox": "ENVELOPE(-78.5,-73,39.8333,36.25)",
   "dcat_centroid": "38.041650000000004,-75.75",
   "pcdm_memberOf_sm": [
@@ -46,6 +46,6 @@
   "dct_identifier_sm": [
     "e889e66f-d010-4a5d-9854-cebad870ce51"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:46Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1893"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Japan"
   ],
-  "locn_geometry": "ENVELOPE(122.9333,153.9833,45.5167,20.4167)",
+  "locn_geometry": "POLYGON((122.9333 45.5167, 153.9833 45.5167, 153.9833 20.4167, 122.9333 20.4167, 122.9333 45.5167))",
   "dcat_bbox": "ENVELOPE(122.9333,153.9833,45.5167,20.4167)",
   "dcat_centroid": "32.9667,138.4583",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "77f036ac-fbc7-4b65-ba25-a2629ea6860d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:19Z",
+  "gbl_mdModified_dt": "2023-02-03T21:19:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

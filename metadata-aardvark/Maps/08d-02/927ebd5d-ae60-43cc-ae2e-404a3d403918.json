@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1922"
@@ -34,15 +35,19 @@
     "[1922 TO 1922]"
   ],
   "dct_spatial_sm": [
-    "Doylestown, Pennsylvania",
-    "Bucks County, Pennsylvania",
+    "Pennsylvania--Doylestown",
+    "Pennsylvania--Bucks County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.1486,-75.1055,40.3278,40.2979)",
+  "locn_geometry": "POLYGON((-75.1486 40.3278, -75.1055 40.3278, -75.1055 40.2979, -75.1486 40.2979, -75.1486 40.3278))",
   "dcat_bbox": "ENVELOPE(-75.1486,-75.1055,40.3278,40.2979)",
   "dcat_centroid": "40.31285,-75.12705",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "927ebd5d-ae60-43cc-ae2e-404a3d403918"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:53Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:16Z",
   "gbl_mdVersion_s": "Aardvark"
 }

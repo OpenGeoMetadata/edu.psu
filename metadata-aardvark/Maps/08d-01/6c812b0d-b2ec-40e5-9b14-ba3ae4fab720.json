@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1875"
@@ -33,7 +34,7 @@
   "dct_spatial_sm": [
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.5167,-73.7667,42.2667,38.9)",
+  "locn_geometry": "POLYGON((-80.5167 42.2667, -73.7667 42.2667, -73.7667 38.9, -80.5167 38.9, -80.5167 42.2667))",
   "dcat_bbox": "ENVELOPE(-80.5167,-73.7667,42.2667,38.9)",
   "dcat_centroid": "40.583349999999996,-77.1417",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "6c812b0d-b2ec-40e5-9b14-ba3ae4fab720"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:26:12Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

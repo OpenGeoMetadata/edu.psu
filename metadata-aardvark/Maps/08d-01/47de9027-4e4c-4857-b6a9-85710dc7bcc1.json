@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Boas, Franz, 1858-1942."
+    "Boas, Franz, 1858-1942"
   ],
   "dct_publisher_sm": [
     "[G.P.O.?]"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1885?"
@@ -31,7 +32,7 @@
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-122.5167,-19.4167,83.6667,57.7833)",
+  "locn_geometry": "POLYGON((-122.5167 83.6667, -19.4167 83.6667, -19.4167 57.7833, -122.5167 57.7833, -122.5167 83.6667))",
   "dcat_bbox": "ENVELOPE(-122.5167,-19.4167,83.6667,57.7833)",
   "dcat_centroid": "70.725,-70.9667",
   "pcdm_memberOf_sm": [
@@ -47,6 +48,6 @@
   "dct_identifier_sm": [
     "47de9027-4e4c-4857-b6a9-85710dc7bcc1"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:18Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

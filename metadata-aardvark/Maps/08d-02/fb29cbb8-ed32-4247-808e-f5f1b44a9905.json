@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1921"
@@ -34,17 +35,21 @@
     "[1921 TO 1921]"
   ],
   "dct_spatial_sm": [
-    "Shippensburg, Pennsylvania",
-    "Newburg, Pennsylvania",
-    "Lees Cross Roads, Pennsylvania",
-    "Cumberland County, Pennsylvania",
+    "Pennsylvania--Shippensburg",
+    "Pennsylvania--Newburg",
+    "Pennsylvania--Lees Cross Roads",
+    "Pennsylvania--Cumberland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-77.5605,-77.4259,40.1405,40.0363)",
+  "locn_geometry": "POLYGON((-77.5605 40.1405, -77.4259 40.1405, -77.4259 40.0363, -77.5605 40.0363, -77.5605 40.1405))",
   "dcat_bbox": "ENVELOPE(-77.5605,-77.4259,40.1405,40.0363)",
   "dcat_centroid": "40.0884,-77.4932",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -56,6 +61,6 @@
   "dct_identifier_sm": [
     "fb29cbb8-ed32-4247-808e-f5f1b44a9905"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:25Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

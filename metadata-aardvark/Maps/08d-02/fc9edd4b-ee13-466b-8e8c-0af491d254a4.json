@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1895"
@@ -34,15 +35,19 @@
     "[1895 TO 1895]"
   ],
   "dct_spatial_sm": [
-    "West Middlesex, Pennsylvania",
-    "Mercer County, Pennsylvania",
+    "Pennsylvania--West Middlesex",
+    "Pennsylvania--Mercer County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.4686,-80.4412,41.1837,41.1653)",
+  "locn_geometry": "POLYGON((-80.4686 41.1837, -80.4412 41.1837, -80.4412 41.1653, -80.4686 41.1653, -80.4686 41.1837))",
   "dcat_bbox": "ENVELOPE(-80.4686,-80.4412,41.1837,41.1653)",
   "dcat_centroid": "41.1745,-80.4549",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "fc9edd4b-ee13-466b-8e8c-0af491d254a4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:48Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

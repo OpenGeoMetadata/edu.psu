@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1904"
@@ -34,15 +35,19 @@
     "[1904 TO 1904]"
   ],
   "dct_spatial_sm": [
-    "Apollo, Pennsylvania",
-    "Armstrong County, Pennsylvania",
+    "Pennsylvania--Apollo",
+    "Pennsylvania--Armstrong County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-79.5707,-79.557,40.59,40.5777)",
+  "locn_geometry": "POLYGON((-79.5707 40.59, -79.557 40.59, -79.557 40.5777, -79.5707 40.5777, -79.5707 40.59))",
   "dcat_bbox": "ENVELOPE(-79.5707,-79.557,40.59,40.5777)",
   "dcat_centroid": "40.58385,-79.56385",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "d0e9cb54-d78f-4257-98c1-3a5c415b7a62"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:30:17Z",
+  "gbl_mdModified_dt": "2023-04-14T01:00:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

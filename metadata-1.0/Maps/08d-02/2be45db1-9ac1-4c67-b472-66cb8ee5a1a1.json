@@ -14,12 +14,12 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13681\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13681/manifest.json\"}",
   "dct_spatial_sm": [
-    "Meadville, Pennsylvania",
-    "Kerrtown, Pennsylvania",
-    "Crawford County, Pennsylvania",
+    "Pennsylvania--Meadville",
+    "Pennsylvania--Kerrtown",
+    "Pennsylvania--Crawford County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:32:35Z",
+  "layer_modified_dt": "2023-04-14T01:01:45Z",
   "dc_language_sm": [
     "eng"
   ],

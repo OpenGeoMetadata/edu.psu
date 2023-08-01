@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Heermans, Augustus, 1621?-1686."
+    "Herrman, Augustine, 1621 or 1622-1686"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1670"
@@ -29,7 +30,7 @@
     "Virginia",
     "Maryland"
   ],
-  "locn_geometry": "ENVELOPE(-77.75,-74.3,39.9667,36.6)",
+  "locn_geometry": "POLYGON((-77.75 39.9667, -74.3 39.9667, -74.3 36.6, -77.75 36.6, -77.75 39.9667))",
   "dcat_bbox": "ENVELOPE(-77.75,-74.3,39.9667,36.6)",
   "dcat_centroid": "38.28335,-76.025",
   "pcdm_memberOf_sm": [
@@ -45,6 +46,6 @@
   "dct_identifier_sm": [
     "e4d7a73e-a787-4bfa-8e16-5f327684047d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:22:39Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:39Z",
   "gbl_mdVersion_s": "Aardvark"
 }

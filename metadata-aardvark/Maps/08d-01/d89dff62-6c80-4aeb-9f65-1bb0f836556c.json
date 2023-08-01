@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bouchette, Joseph, 1774-1841."
+    "Bouchette, Joseph, 1774-1841"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1812?"
@@ -28,7 +29,7 @@
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-88.5833,-56.15,53.55,38.5)",
+  "locn_geometry": "POLYGON((-88.5833 53.55, -56.15 53.55, -56.15 38.5, -88.5833 38.5, -88.5833 53.55))",
   "dcat_bbox": "ENVELOPE(-88.5833,-56.15,53.55,38.5)",
   "dcat_centroid": "46.025,-72.36664999999999",
   "pcdm_memberOf_sm": [
@@ -44,6 +45,6 @@
   "dct_identifier_sm": [
     "d89dff62-6c80-4aeb-9f65-1bb0f836556c"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:53Z",
+  "gbl_mdModified_dt": "2023-02-03T21:24:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

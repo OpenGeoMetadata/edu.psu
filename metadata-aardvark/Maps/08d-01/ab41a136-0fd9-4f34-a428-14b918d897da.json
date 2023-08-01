@@ -14,7 +14,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1925"
@@ -26,10 +27,10 @@
     "[1925 TO 1925]"
   ],
   "dct_spatial_sm": [
-    "Frederiscksburg, Virginia",
+    "Virginia--Frederiscksburg",
     "Virginia"
   ],
-  "locn_geometry": "ENVELOPE(-77.5327,-77.4471,38.3264,38.2702)",
+  "locn_geometry": "POLYGON((-77.5327 38.3264, -77.4471 38.3264, -77.4471 38.2702, -77.5327 38.2702, -77.5327 38.3264))",
   "dcat_bbox": "ENVELOPE(-77.5327,-77.4471,38.3264,38.2702)",
   "dcat_centroid": "38.2983,-77.4899",
   "pcdm_memberOf_sm": [
@@ -45,6 +46,6 @@
   "dct_identifier_sm": [
     "ab41a136-0fd9-4f34-a428-14b918d897da"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:31Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

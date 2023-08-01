@@ -14,11 +14,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/12758\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/12758/manifest.json\"}",
   "dct_spatial_sm": [
-    "Linesville, Pennsylvania",
-    "Crawford County, Pennsylvania",
+    "Pennsylvania--Linesville",
+    "Pennsylvania--Crawford County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:22:44Z",
+  "layer_modified_dt": "2023-04-14T01:00:54Z",
   "dc_language_sm": [
     "eng"
   ],

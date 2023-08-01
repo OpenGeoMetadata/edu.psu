@@ -7,14 +7,15 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Kitchin, Thomas, -1784."
+    "Kitchin, Thomas, 1718-1784"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "approximately 1772"
@@ -26,10 +27,10 @@
     "[1772 TO 1772]"
   ],
   "dct_spatial_sm": [
-    "Newfoundland and Labrador, Canada",
+    "Canada--Newfoundland and Labrador",
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-67.8167,-52.6167,60.3667,46.6)",
+  "locn_geometry": "POLYGON((-67.8167 60.3667, -52.6167 60.3667, -52.6167 46.6, -67.8167 46.6, -67.8167 60.3667))",
   "dcat_bbox": "ENVELOPE(-67.8167,-52.6167,60.3667,46.6)",
   "dcat_centroid": "53.48335,-60.2167",
   "pcdm_memberOf_sm": [
@@ -45,6 +46,6 @@
   "dct_identifier_sm": [
     "af961452-9e3a-4510-89a6-ad221db3a808"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:19Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

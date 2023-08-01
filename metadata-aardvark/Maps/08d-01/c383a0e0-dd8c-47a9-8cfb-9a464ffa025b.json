@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1903"
@@ -29,10 +30,10 @@
     "[1903 TO 1903]"
   ],
   "dct_spatial_sm": [
-    "Saint Louis, Missouri",
+    "Missouri--Saint Louis",
     "Missouri"
   ],
-  "locn_geometry": "ENVELOPE(-90.3044,-90.265,38.6481,38.6292)",
+  "locn_geometry": "POLYGON((-90.3044 38.6481, -90.265 38.6481, -90.265 38.6292, -90.3044 38.6292, -90.3044 38.6481))",
   "dcat_bbox": "ENVELOPE(-90.3044,-90.265,38.6481,38.6292)",
   "dcat_centroid": "38.63865,-90.2847",
   "pcdm_memberOf_sm": [
@@ -48,6 +49,6 @@
   "dct_identifier_sm": [
     "c383a0e0-dd8c-47a9-8cfb-9a464ffa025b"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

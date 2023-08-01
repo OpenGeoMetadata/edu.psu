@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1892"
@@ -34,15 +35,19 @@
     "[1892 TO 1892]"
   ],
   "dct_spatial_sm": [
-    "Linesville, Pennsylvania",
-    "Crawford County, Pennsylvania",
+    "Pennsylvania--Linesville",
+    "Pennsylvania--Crawford County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-80.4328,-80.4092,41.6614,41.6508)",
+  "locn_geometry": "POLYGON((-80.4328 41.6614, -80.4092 41.6614, -80.4092 41.6508, -80.4328 41.6508, -80.4328 41.6614))",
   "dcat_bbox": "ENVELOPE(-80.4328,-80.4092,41.6614,41.6508)",
   "dcat_centroid": "41.656099999999995,-80.42099999999999",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -54,6 +59,6 @@
   "dct_identifier_sm": [
     "052c92d3-1065-4cc2-a7b3-5dab1dec7e9d"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:25:19Z",
+  "gbl_mdModified_dt": "2023-04-14T01:00:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

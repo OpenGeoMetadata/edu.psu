@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1929"
@@ -34,19 +35,23 @@
     "[1929 TO 1929]"
   ],
   "dct_spatial_sm": [
-    "Tyrone, Pennsylvania",
-    "Greensburg, Pennsylvania",
-    "Ironville, Pennsylvania",
-    "Nealmont, Pennsylvania",
-    "Northwood, Pennsylvania",
-    "Blair County, Pennsylvania",
+    "Pennsylvania--Tyrone",
+    "Pennsylvania--Greensburg",
+    "Pennsylvania--Ironville",
+    "Pennsylvania--Nealmont",
+    "Pennsylvania--Northwood",
+    "Pennsylvania--Blair County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-78.2647,-78.2032,40.6958,40.6577)",
+  "locn_geometry": "POLYGON((-78.2647 40.6958, -78.2032 40.6958, -78.2032 40.6577, -78.2647 40.6577, -78.2647 40.6958))",
   "dcat_bbox": "ENVELOPE(-78.2647,-78.2032,40.6958,40.6577)",
   "dcat_centroid": "40.67675,-78.23395",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -58,6 +63,6 @@
   "dct_identifier_sm": [
     "ab6e054f-445f-4ebd-9b83-bf021c475915"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:34:06Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -25,7 +25,7 @@
   "dct_spatial_sm": [
     "New Jersey"
   ],
-  "locn_geometry": "ENVELOPE(-75.4017,-73.9022,41.3572,39.5992)",
+  "locn_geometry": "POLYGON((-75.4017 41.3572, -73.9022 41.3572, -73.9022 39.5992, -75.4017 39.5992, -75.4017 41.3572))",
   "dcat_bbox": "ENVELOPE(-75.4017,-73.9022,41.3572,39.5992)",
   "dcat_centroid": "40.4782,-74.65195",
   "pcdm_memberOf_sm": [
@@ -41,6 +41,6 @@
   "dct_identifier_sm": [
     "6608f973-16a8-4a12-ac46-36e9935d0055"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:27:20Z",
+  "gbl_mdModified_dt": "2023-02-03T21:16:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

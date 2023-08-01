@@ -14,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/10993\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/10993/manifest.json\"}",
   "dct_spatial_sm": [
-    "Hawley, Pennsylvania",
+    "Pennsylvania--Hawley",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:26:27Z",
+  "layer_modified_dt": "2023-04-14T01:00:52Z",
   "dc_language_sm": [
     "eng"
   ],

@@ -14,10 +14,10 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30208\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30208/manifest.json\"}",
   "dct_spatial_sm": [
-    "Saint Louis, Missouri",
+    "Missouri--Saint Louis",
     "Missouri"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:39Z",
+  "layer_modified_dt": "2023-02-03T21:25:17Z",
   "dc_language_sm": [
     "eng"
   ],

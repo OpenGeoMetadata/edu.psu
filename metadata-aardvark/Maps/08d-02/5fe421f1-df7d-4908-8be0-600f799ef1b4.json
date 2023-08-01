@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1896"
@@ -34,20 +35,24 @@
     "[1896 TO 1896]"
   ],
   "dct_spatial_sm": [
-    "Pottsville, Pennsylvania",
-    "St Clair, Pennsylvania",
-    "Minersville, Pennsylvania",
-    "Schuylkill Haven, Pennsylvania",
-    "Orwigsburg, Pennsylvania",
-    "Cressona, Pennsylvania",
-    "Schuylkill County Port Carbon, Pennsylvania",
+    "Pennsylvania--Pottsville",
+    "Pennsylvania--St Clair",
+    "Pennsylvania--Minersville",
+    "Pennsylvania--Schuylkill Haven",
+    "Pennsylvania--Orwigsburg",
+    "Pennsylvania--Cressona",
+    "Pennsylvania--Schuylkill County Port Carbon",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-76.2711,-76.0849,40.7325,40.6156)",
+  "locn_geometry": "POLYGON((-76.2711 40.7325, -76.0849 40.7325, -76.0849 40.6156, -76.2711 40.6156, -76.2711 40.7325))",
   "dcat_bbox": "ENVELOPE(-76.2711,-76.0849,40.7325,40.6156)",
   "dcat_centroid": "40.67405,-76.178",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -59,6 +64,6 @@
   "dct_identifier_sm": [
     "5fe421f1-df7d-4908-8be0-600f799ef1b4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:13Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

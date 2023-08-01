@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Fairman, Thomas."
+    "Fairman, Thomas"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -19,7 +19,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1709"
@@ -32,10 +33,10 @@
     "[1709 TO 1894]"
   ],
   "dct_spatial_sm": [
-    "Chester County, Pennsylvania",
+    "Pennsylvania--Chester County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.86,-75.7894,41.4497,41.4097)",
+  "locn_geometry": "POLYGON((-75.86 41.4497, -75.7894 41.4497, -75.7894 41.4097, -75.86 41.4097, -75.86 41.4497))",
   "dcat_bbox": "ENVELOPE(-75.86,-75.7894,41.4497,41.4097)",
   "dcat_centroid": "41.4297,-75.8247",
   "pcdm_memberOf_sm": [
@@ -51,6 +52,6 @@
   "dct_identifier_sm": [
     "0e369463-e842-49da-98b8-d75ab503102a"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:23:28Z",
+  "gbl_mdModified_dt": "2023-02-03T21:20:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

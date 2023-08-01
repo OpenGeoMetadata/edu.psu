@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(139.5667,-73.1167,3.25,-59.9667)",
   "solr_year_i": "1765",
   "dc_creator_sm": [
-    "Zatta, Antonio, active 1757-1797."
+    "Zatta, Antonio, active 1757-1797"
   ],
   "dc_description_s": "Discoveries in geography",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Oceania"
   ],
-  "layer_modified_dt": "2022-04-01T15:24:46Z",
+  "layer_modified_dt": "2023-02-28T04:15:11Z",
   "dc_language_sm": [
     "eng"
   ],

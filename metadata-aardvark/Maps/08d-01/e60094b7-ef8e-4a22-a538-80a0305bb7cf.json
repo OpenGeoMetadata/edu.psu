@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Jefferys, Thomas, -1771."
+    "Jefferys, Thomas, -1771"
   ],
   "dct_publisher_sm": [
     "[Thomas Jeffreys]"
@@ -17,7 +17,8 @@
     "Maps"
   ],
   "dcat_keyword_sm": [
-    "Penn State Rare Maps"
+    "Penn State Rare Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1758"
@@ -29,11 +30,11 @@
     "[1758 TO 1758]"
   ],
   "dct_spatial_sm": [
-    "Montréal, Québec, Canada",
-    "Québec, Canada",
+    "Canada-- Québec--Montréal",
+    "Canada--Québec",
     "Canada"
   ],
-  "locn_geometry": "ENVELOPE(-73.6047,-73.5169,45.5397,45.4853)",
+  "locn_geometry": "POLYGON((-73.6047 45.5397, -73.5169 45.5397, -73.5169 45.4853, -73.6047 45.4853, -73.6047 45.5397))",
   "dcat_bbox": "ENVELOPE(-73.6047,-73.5169,45.5397,45.4853)",
   "dcat_centroid": "45.5125,-73.5608",
   "pcdm_memberOf_sm": [
@@ -49,6 +50,6 @@
   "dct_identifier_sm": [
     "e60094b7-ef8e-4a22-a538-80a0305bb7cf"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:28:19Z",
+  "gbl_mdModified_dt": "2023-02-03T21:23:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

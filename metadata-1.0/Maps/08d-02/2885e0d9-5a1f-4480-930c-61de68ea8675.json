@@ -14,11 +14,11 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/23051\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/23051/manifest.json\"}",
   "dct_spatial_sm": [
-    "Wayne-Saint Davids, Pennsylvania",
-    "Delaware County, Pennsylvania",
+    "Pennsylvania--Wayne-Saint Davids",
+    "Pennsylvania--Delaware County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:27:22Z",
+  "layer_modified_dt": "2023-04-14T01:02:20Z",
   "dc_language_sm": [
     "eng"
   ],

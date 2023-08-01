@@ -29,10 +29,10 @@
     "[1759 TO 1759]"
   ],
   "dct_spatial_sm": [
-    "Fort Ticonderoga, New York",
+    "New York--Fort Ticonderoga",
     "New York"
   ],
-  "locn_geometry": "ENVELOPE(-73.7428,-73.3486,43.8517,43.2492)",
+  "locn_geometry": "POLYGON((-73.7428 43.8517, -73.3486 43.8517, -73.3486 43.2492, -73.7428 43.2492, -73.7428 43.8517))",
   "dcat_bbox": "ENVELOPE(-73.7428,-73.3486,43.8517,43.2492)",
   "dcat_centroid": "43.55045,-73.54570000000001",
   "pcdm_memberOf_sm": [
@@ -48,6 +48,6 @@
   "dct_identifier_sm": [
     "66a32e48-4417-4add-ac19-7136c74ad039"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:08Z",
+  "gbl_mdModified_dt": "2023-02-03T21:11:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

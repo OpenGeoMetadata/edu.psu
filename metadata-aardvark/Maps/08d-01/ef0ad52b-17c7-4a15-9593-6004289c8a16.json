@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Lagrive, Jean de, 1689-1757."
+    "Lagrive, Jean de, 1689-1757"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,8 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1756"
@@ -31,10 +32,10 @@
     "[1756 TO 1756]"
   ],
   "dct_spatial_sm": [
-    "Paris, France",
+    "France--Paris",
     "France"
   ],
-  "locn_geometry": "ENVELOPE(2.225,2.4697,48.9019,48.8156)",
+  "locn_geometry": "POLYGON((2.225 48.9019, 2.4697 48.9019, 2.4697 48.8156, 2.225 48.8156, 2.225 48.9019))",
   "dcat_bbox": "ENVELOPE(2.225,2.4697,48.9019,48.8156)",
   "dcat_centroid": "48.85875,2.34735",
   "pcdm_memberOf_sm": [
@@ -50,6 +51,6 @@
   "dct_identifier_sm": [
     "ef0ad52b-17c7-4a15-9593-6004289c8a16"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:24:57Z",
+  "gbl_mdModified_dt": "2023-02-03T21:22:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

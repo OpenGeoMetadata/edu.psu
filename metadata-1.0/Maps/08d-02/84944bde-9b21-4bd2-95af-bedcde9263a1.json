@@ -14,13 +14,13 @@
   "dc_format_s": "JPEG",
   "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26419\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26419/manifest.json\"}",
   "dct_spatial_sm": [
-    "Coalport, Pennsylvania",
-    "Rosebud, Pennsylvania",
-    "Blain City, Pennsylvania",
-    "Clearfield County, Pennsylvania",
+    "Pennsylvania--Coalport",
+    "Pennsylvania--Rosebud",
+    "Pennsylvania--Blain City",
+    "Pennsylvania--Clearfield County",
     "Pennsylvania"
   ],
-  "layer_modified_dt": "2022-04-01T15:25:38Z",
+  "layer_modified_dt": "2023-04-14T01:02:15Z",
   "dc_language_sm": [
     "eng"
   ],

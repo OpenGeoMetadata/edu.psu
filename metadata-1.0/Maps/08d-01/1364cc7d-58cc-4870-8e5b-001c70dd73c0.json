@@ -8,7 +8,7 @@
   "solr_geom": "ENVELOPE(-84.2833,-83.4167,36.9167,36.15)",
   "solr_year_i": "1877",
   "dc_creator_sm": [
-    "United States. Army. Corps of Engineers."
+    "United States. Army. Corps of Engineers"
   ],
   "dc_description_s": "Scale 1:253,440; 1 map: color; 34 x 31 cm on sheet 40 x 36 cm Cumberland Gap Campaign, 1862",
   "dc_format_s": "JPEG",
@@ -16,7 +16,7 @@
   "dct_spatial_sm": [
     "Tennessee"
   ],
-  "layer_modified_dt": "2022-04-01T15:28:44Z",
+  "layer_modified_dt": "2023-02-03T21:20:43Z",
   "dc_language_sm": [
     "eng"
   ],

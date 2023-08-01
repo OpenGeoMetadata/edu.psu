@@ -7,7 +7,7 @@
     "eng"
   ],
   "dct_creator_sm": [
-    "Bellin, Jacques Nicolas, 1703-1772"
+    "Bellin, Jacques Nicolas, 1703-1773"
   ],
   "schema_provider_s": "Pennsylvania State University",
   "gbl_resourceClass_sm": [
@@ -18,7 +18,10 @@
   ],
   "dcat_keyword_sm": [
     "Penn State Rare Maps",
-    "sprint-mar2020"
+    "sprint-mar2020",
+    "2022-creator-sprint",
+    "BBoxButFlagged",
+    "bboxSprintJune2023"
   ],
   "dct_temporal_sm": [
     "1764"
@@ -33,9 +36,9 @@
   "dct_spatial_sm": [
     "Oceania"
   ],
-  "locn_geometry": "ENVELOPE(134.4,-60.4,29.7,-57.8)",
-  "dcat_bbox": "ENVELOPE(134.4,-60.4,29.7,-57.8)",
-  "dcat_centroid": "-14.049999999999999,37.0",
+  "locn_geometry": "POLYGON((140.2 26.5, -56.3 26.5, -56.3 -56.9, 140.2 -56.9, 140.2 26.5))",
+  "dcat_bbox": "ENVELOPE(140.2,-56.3,26.5,-56.9)",
+  "dcat_centroid": "-15.2,41.949999999999996",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -49,6 +52,6 @@
   "dct_identifier_sm": [
     "6ef3aef4-06a4-4ef4-a024-7ff608e9db1e"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:29:06Z",
+  "gbl_mdModified_dt": "2023-06-23T18:47:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

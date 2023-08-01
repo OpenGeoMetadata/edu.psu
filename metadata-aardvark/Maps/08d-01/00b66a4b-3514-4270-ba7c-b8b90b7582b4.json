@@ -25,7 +25,7 @@
   "dct_spatial_sm": [
     "Asia"
   ],
-  "locn_geometry": "ENVELOPE(33.8333,39.1667,37.5333,31)",
+  "locn_geometry": "POLYGON((33.8333 37.5333, 39.1667 37.5333, 39.1667 31, 33.8333 31, 33.8333 37.5333))",
   "dcat_bbox": "ENVELOPE(33.8333,39.1667,37.5333,31)",
   "dcat_centroid": "34.26665,36.5",
   "pcdm_memberOf_sm": [
@@ -41,6 +41,6 @@
   "dct_identifier_sm": [
     "00b66a4b-3514-4270-ba7c-b8b90b7582b4"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:32:01Z",
+  "gbl_mdModified_dt": "2023-02-03T21:26:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

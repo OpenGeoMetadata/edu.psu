@@ -22,7 +22,8 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps"
+    "Sanborn Fire Insurance Maps",
+    "2022-creator-sprint"
   ],
   "dct_temporal_sm": [
     "1913"
@@ -34,19 +35,23 @@
     "[1913 TO 1913]"
   ],
   "dct_spatial_sm": [
-    "Slatington, Pennsylvania",
-    "Emerald, Pennsylvania",
-    "Slatedale, Pennsylvania",
-    "Walnutport, Pennsylvania",
-    "Lehigh County, Pennsylvania",
-    "Northampton County , Pennsylvania",
+    "Pennsylvania--Slatington",
+    "Pennsylvania--Emerald",
+    "Pennsylvania--Slatedale",
+    "Pennsylvania--Walnutport",
+    "Pennsylvania--Lehigh County",
+    "Pennsylvania--Northampton County",
     "Pennsylvania"
   ],
-  "locn_geometry": "ENVELOPE(-75.6726,-75.5877,40.7736,40.7361)",
+  "locn_geometry": "POLYGON((-75.6726 40.7736, -75.5877 40.7736, -75.5877 40.7361, -75.6726 40.7361, -75.6726 40.7736))",
   "dcat_bbox": "ENVELOPE(-75.6726,-75.5877,40.7736,40.7361)",
   "dcat_centroid": "40.754850000000005,-75.63015",
+  "dct_relation_sm": [
+    "8888-002"
+  ],
   "pcdm_memberOf_sm": [
-    "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
+    "64bd8c4c-8e60-4956-b43d-bdc3f93db488",
+    "b35f927e-9051-4d7f-9ca3-ad5b19024e0b"
   ],
   "dct_isPartOf_sm": [
     "08d-02"
@@ -58,6 +63,6 @@
   "dct_identifier_sm": [
     "2d957d68-b047-4cae-bfde-9ed4c268a3c5"
   ],
-  "gbl_mdModified_dt": "2022-04-01T15:31:30Z",
+  "gbl_mdModified_dt": "2023-04-14T01:02:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }
