@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1913"
@@ -39,9 +38,9 @@
     "Pennsylvania--Schuylkill County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-76.2956 40.7973, -76.2699 40.7973, -76.2699 40.7892, -76.2956 40.7892, -76.2956 40.7973))",
-  "dcat_bbox": "ENVELOPE(-76.2956,-76.2699,40.7973,40.7892)",
-  "dcat_centroid": "40.79325,-76.28275",
+  "locn_geometry": "POLYGON((-76.296 40.797, -76.270 40.797, -76.270 40.789, -76.296 40.789, -76.296 40.797))",
+  "dcat_bbox": "ENVELOPE(-76.296,-76.270,40.797,40.789)",
+  "dcat_centroid": "40.793,-76.283",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9851\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9851/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/9851\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9851/manifest.json\"}",
   "id": "2113b9c8-931c-4eba-be02-26cbc83bd68b",
   "dct_identifier_sm": [
     "2113b9c8-931c-4eba-be02-26cbc83bd68b"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -38,9 +37,9 @@
     "Pennsylvania--Tioga",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-77.1395 41.9186, -77.1285 41.9186, -77.1285 41.8942, -77.1395 41.8942, -77.1395 41.9186))",
-  "dcat_bbox": "ENVELOPE(-77.1395,-77.1285,41.9186,41.8942)",
-  "dcat_centroid": "41.9064,-77.134",
+  "locn_geometry": "POLYGON((-77.139 41.919, -77.129 41.919, -77.129 41.894, -77.139 41.894, -77.139 41.919))",
+  "dcat_bbox": "ENVELOPE(-77.139,-77.129,41.919,41.894)",
+  "dcat_centroid": "41.906499999999994,-77.134",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/17777\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/17777/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/17777\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/17777/manifest.json\"}",
   "id": "9e6c3f79-75aa-4c08-9f2e-815fa3b2d146",
   "dct_identifier_sm": [
     "9e6c3f79-75aa-4c08-9f2e-815fa3b2d146"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

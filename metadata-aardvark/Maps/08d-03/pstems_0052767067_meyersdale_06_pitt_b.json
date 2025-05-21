@@ -26,11 +26,20 @@
     "Geological maps"
   ],
   "dct_subject_sm": [
-    "Bituminous coal--Pennsylvania--Maps",
-    "Gas wells--Pennsylvania--Maps",
-    "Oil wells--Pennsylvania--Maps"
+    "Bituminous coal",
+    "Gas wells",
+    "Oil wells"
   ],
   "dcat_keyword_sm": [
+    "Western Maryland Railroad-Cumberland &amp",
+    "Connellsville Line",
+    "Electric Railroad",
+    "Beachdale Hollow",
+    "Berlin Road",
+    "Cumberland Road",
+    "Ridge Road",
+    "Allegheny Mines",
+    "Vogel Mine",
     "Berlin",
     "Shober",
     "Burkhelder",
@@ -54,16 +63,7 @@
     "Maple Grove Church",
     "Buffalo Bridge",
     "Baltimore &amp",
-    "Ohio Railroad-Berlin Branch",
-    "Western Maryland Railroad-Cumberland &amp",
-    "Connellsville Line",
-    "Electric Railroad",
-    "Beachdale Hollow",
-    "Berlin Road",
-    "Cumberland Road",
-    "Ridge Road",
-    "Allegheny Mines",
-    "Vogel Mine"
+    "Ohio Railroad-Berlin Branch"
   ],
   "dct_temporal_sm": [
     "1934-1938"
@@ -77,14 +77,14 @@
   ],
   "dct_spatial_sm": [
     "Pennsylvania",
-    "Somerset County;",
-    "Brothers Valley Township",
-    "Summit Township",
-    "Black Township;"
+    "Pennsylvania--Somerset County",
+    "Pennsylvania--Brothers Valley Township",
+    "Pennsylvania--Summit Township",
+    "Pennsylvania--Black Township"
   ],
-  "locn_geometry": "POLYGON((-79.083333 39.916667, -79 39.916667, -79 39.833333, -79.083333 39.833333, -79.083333 39.916667))",
-  "dcat_bbox": "ENVELOPE(-79.083333,-79,39.916667,39.833333)",
-  "dcat_centroid": "39.875,-79.04166649999999",
+  "locn_geometry": "POLYGON((-79.083 39.917, -79.000 39.917, -79.000 39.833, -79.083 39.833, -79.083 39.917))",
+  "dcat_bbox": "ENVELOPE(-79.083,-79.000,39.917,39.833)",
+  "dcat_centroid": "39.875,-79.0415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -96,12 +96,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://www.minemaps.psu.edu/aboutnew.htm\",\"http://iiif.io/api/image\":\"https://cdm17287.contentdm.oclc.org/digital/iiif/wpamaps/3290/info.json\",\"http://schema.org/url\":\"http://cdm17287.contentdm.oclc.org/cdm/ref/collection/wpamaps/id/3290\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://www.minemaps.psu.edu/aboutnew.htm\",\"http://schema.org/url\":\"http://cdm17287.contentdm.oclc.org/cdm/ref/collection/wpamaps/id/3290\",\"http://iiif.io/api/image\":\"https://cdm17287.contentdm.oclc.org/digital/iiif/wpamaps/3290/info.json\"}",
   "id": "pstems_0052767067_meyersdale_06_pitt_b",
   "dct_identifier_sm": [
     "52767067",
     "/wpamaps/image/3258.jp2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

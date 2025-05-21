@@ -13,12 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint",
-    "FixedBBoxes",
-    "bboxSprintJune2023"
-  ],
   "dct_temporal_sm": [
     "1754"
   ],
@@ -43,11 +37,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26370\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26370/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/26370\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26370/manifest.json\"}",
   "id": "de8488f2-478e-40a9-854a-0393725fa5ab",
   "dct_identifier_sm": [
     "de8488f2-478e-40a9-854a-0393725fa5ab"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

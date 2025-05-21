@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Cadastral maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1867"
   ],
@@ -35,9 +30,9 @@
     "Pennsylvania--Cambria County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-79.0558 40.7258, -78.3483 40.7258, -78.3483 40.2428, -79.0558 40.2428, -79.0558 40.7258))",
-  "dcat_bbox": "ENVELOPE(-79.0558,-78.3483,40.7258,40.2428)",
-  "dcat_centroid": "40.484300000000005,-78.70205",
+  "locn_geometry": "POLYGON((-79.056 40.726, -78.348 40.726, -78.348 40.243, -79.056 40.243, -79.056 40.726))",
+  "dcat_bbox": "ENVELOPE(-79.056,-78.348,40.726,40.243)",
+  "dcat_centroid": "40.4845,-78.702",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30096\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30096/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30096\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30096/manifest.json\"}",
   "id": "b9ee9aba-8bc2-49d0-a270-6d2aa7cc3e7b",
   "dct_identifier_sm": [
     "b9ee9aba-8bc2-49d0-a270-6d2aa7cc3e7b"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

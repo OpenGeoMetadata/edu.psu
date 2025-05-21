@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -39,9 +38,9 @@
     "Pennsylvania--Mifflin County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-77.6042 40.6133, -77.5518 40.6133, -77.5518 40.5839, -77.6042 40.5839, -77.6042 40.6133))",
-  "dcat_bbox": "ENVELOPE(-77.6042,-77.5518,40.6133,40.5839)",
-  "dcat_centroid": "40.598600000000005,-77.578",
+  "locn_geometry": "POLYGON((-77.604 40.613, -77.552 40.613, -77.552 40.584, -77.604 40.584, -77.604 40.613))",
+  "dcat_bbox": "ENVELOPE(-77.604,-77.552,40.613,40.584)",
+  "dcat_centroid": "40.5985,-77.578",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/12083\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/12083/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/12083\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/12083/manifest.json\"}",
   "id": "642889c0-b564-4915-9b8e-4050c92dbcd7",
   "dct_identifier_sm": [
     "642889c0-b564-4915-9b8e-4050c92dbcd7"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:41Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1927"
@@ -44,9 +43,9 @@
     "Pennsylvania--Forks Township",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.283 40.7252, -75.1902 40.7252, -75.1902 40.6411, -75.283 40.6411, -75.283 40.7252))",
-  "dcat_bbox": "ENVELOPE(-75.283,-75.1902,40.7252,40.6411)",
-  "dcat_centroid": "40.68315,-75.23660000000001",
+  "locn_geometry": "POLYGON((-75.283 40.725, -75.190 40.725, -75.190 40.641, -75.283 40.641, -75.283 40.725))",
+  "dcat_bbox": "ENVELOPE(-75.283,-75.190,40.725,40.641)",
+  "dcat_centroid": "40.683,-75.2365",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -59,11 +58,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29201\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29201/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/29201\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29201/manifest.json\"}",
   "id": "dd96ccbc-1507-4545-84f5-ca8388805852",
   "dct_identifier_sm": [
     "dd96ccbc-1507-4545-84f5-ca8388805852"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

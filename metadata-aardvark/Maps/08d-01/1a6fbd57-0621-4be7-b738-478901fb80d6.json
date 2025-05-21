@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1777"
   ],
@@ -30,9 +26,9 @@
     "New York--Saratoga County",
     "New York"
   ],
-  "locn_geometry": "POLYGON((-74.1601 43.398, -73.5733 43.398, -73.5733 42.7754, -74.1601 42.7754, -74.1601 43.398))",
-  "dcat_bbox": "ENVELOPE(-74.1601,-73.5733,43.398,42.7754)",
-  "dcat_centroid": "43.0867,-73.86670000000001",
+  "locn_geometry": "POLYGON((-74.160 43.398, -73.573 43.398, -73.573 42.775, -74.160 42.775, -74.160 43.398))",
+  "dcat_bbox": "ENVELOPE(-74.160,-73.573,43.398,42.775)",
+  "dcat_centroid": "43.0865,-73.8665",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +37,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30027\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30027/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30027\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30027/manifest.json\"}",
   "id": "1a6fbd57-0621-4be7-b738-478901fb80d6",
   "dct_identifier_sm": [
     "1a6fbd57-0621-4be7-b738-478901fb80d6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:38Z",
   "gbl_mdVersion_s": "Aardvark"
 }

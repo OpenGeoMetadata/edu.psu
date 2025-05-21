@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1893"
@@ -38,9 +37,9 @@
     "Pennsylvania--Scranton",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.6633 41.5448, -75.4837 41.5448, -75.4837 41.4123, -75.6633 41.4123, -75.6633 41.5448))",
-  "dcat_bbox": "ENVELOPE(-75.6633,-75.4837,41.5448,41.4123)",
-  "dcat_centroid": "41.47855,-75.5735",
+  "locn_geometry": "POLYGON((-75.663 41.545, -75.484 41.545, -75.484 41.412, -75.663 41.412, -75.663 41.545))",
+  "dcat_bbox": "ENVELOPE(-75.663,-75.484,41.545,41.412)",
+  "dcat_centroid": "41.4785,-75.5735",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/25541\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25541/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/25541\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25541/manifest.json\"}",
   "id": "aa408c80-075a-4a59-a199-f01c3af3b2b2",
   "dct_identifier_sm": [
     "aa408c80-075a-4a59-a199-f01c3af3b2b2"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

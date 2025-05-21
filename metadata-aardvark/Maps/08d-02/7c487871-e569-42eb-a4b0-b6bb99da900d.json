@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -38,9 +37,9 @@
     "Pennsylvania--Corry",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-79.6587 41.9554, -79.611 41.9554, -79.611 41.9068, -79.6587 41.9068, -79.6587 41.9554))",
-  "dcat_bbox": "ENVELOPE(-79.6587,-79.611,41.9554,41.9068)",
-  "dcat_centroid": "41.9311,-79.63485",
+  "locn_geometry": "POLYGON((-79.659 41.955, -79.611 41.955, -79.611 41.907, -79.659 41.907, -79.659 41.955))",
+  "dcat_bbox": "ENVELOPE(-79.659,-79.611,41.955,41.907)",
+  "dcat_centroid": "41.931,-79.635",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6247\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6247/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/6247\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6247/manifest.json\"}",
   "id": "7c487871-e569-42eb-a4b0-b6bb99da900d",
   "dct_identifier_sm": [
     "7c487871-e569-42eb-a4b0-b6bb99da900d"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

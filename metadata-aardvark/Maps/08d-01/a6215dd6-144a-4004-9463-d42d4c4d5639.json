@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Military maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1862"
   ],
@@ -35,9 +30,9 @@
     "Ohio--Cincinnati",
     "Ohio"
   ],
-  "locn_geometry": "POLYGON((-84.5953 39.1144, -84.4272 39.1144, -84.4272 39.0239, -84.5953 39.0239, -84.5953 39.1144))",
-  "dcat_bbox": "ENVELOPE(-84.5953,-84.4272,39.1144,39.0239)",
-  "dcat_centroid": "39.06915,-84.51124999999999",
+  "locn_geometry": "POLYGON((-84.595 39.114, -84.427 39.114, -84.427 39.024, -84.595 39.024, -84.595 39.114))",
+  "dcat_bbox": "ENVELOPE(-84.595,-84.427,39.114,39.024)",
+  "dcat_centroid": "39.069,-84.511",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30357\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30357/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30357\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30357/manifest.json\"}",
   "id": "a6215dd6-144a-4004-9463-d42d4c4d5639",
   "dct_identifier_sm": [
     "a6215dd6-144a-4004-9463-d42d4c4d5639"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

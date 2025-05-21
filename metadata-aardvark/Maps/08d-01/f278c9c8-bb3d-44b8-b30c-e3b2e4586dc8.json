@@ -17,11 +17,6 @@
     "Early maps",
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1782"
   ],
@@ -35,9 +30,9 @@
   "dct_spatial_sm": [
     "Rhode Island"
   ],
-  "locn_geometry": "POLYGON((-72.3667 44.5833, -69.6667 44.5833, -69.6667 41.2667, -72.3667 41.2667, -72.3667 44.5833))",
-  "dcat_bbox": "ENVELOPE(-72.3667,-69.6667,44.5833,41.2667)",
-  "dcat_centroid": "42.925,-71.0167",
+  "locn_geometry": "POLYGON((-72.367 44.583, -69.667 44.583, -69.667 41.267, -72.367 41.267, -72.367 44.583))",
+  "dcat_bbox": "ENVELOPE(-72.367,-69.667,44.583,41.267)",
+  "dcat_centroid": "42.925,-71.017",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29948\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29948/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/29948\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29948/manifest.json\"}",
   "id": "f278c9c8-bb3d-44b8-b30c-e3b2e4586dc8",
   "dct_identifier_sm": [
     "f278c9c8-bb3d-44b8-b30c-e3b2e4586dc8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -13,12 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint",
-    "BBoxVerified",
-    "bboxSprintJune2023"
-  ],
   "dct_temporal_sm": [
     "1865"
   ],
@@ -33,9 +27,9 @@
     "South Carolina--Charleston",
     "South Carolina"
   ],
-  "locn_geometry": "POLYGON((-79.8756 32.7533, -79.8739 32.7533, -79.8739 32.7514, -79.8756 32.7514, -79.8756 32.7533))",
-  "dcat_bbox": "ENVELOPE(-79.8756,-79.8739,32.7533,32.7514)",
-  "dcat_centroid": "32.75235,-79.87475",
+  "locn_geometry": "POLYGON((-79.88 32.751, -79.87 32.751, -79.87 32.75, -79.88 32.75, -79.88 32.751))",
+  "dcat_bbox": "ENVELOPE(-79.88,-79.87,32.751,32.75)",
+  "dcat_centroid": "32.7505,-79.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +38,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30410\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30410/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30410\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30410/manifest.json\"}",
   "id": "f2869e6c-68bc-4554-89e9-fbe774a6ab3f",
   "dct_identifier_sm": [
     "f2869e6c-68bc-4554-89e9-fbe774a6ab3f"
   ],
-  "gbl_mdModified_dt": "2023-06-23T18:47:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

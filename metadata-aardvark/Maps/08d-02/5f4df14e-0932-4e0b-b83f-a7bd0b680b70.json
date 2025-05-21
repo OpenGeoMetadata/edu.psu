@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1896"
@@ -38,9 +37,9 @@
     "Pennsylvania--Braddock",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-79.8793 40.412, -79.859 40.412, -79.859 40.3922, -79.8793 40.3922, -79.8793 40.412))",
-  "dcat_bbox": "ENVELOPE(-79.8793,-79.859,40.412,40.3922)",
-  "dcat_centroid": "40.402100000000004,-79.86914999999999",
+  "locn_geometry": "POLYGON((-79.879 40.412, -79.859 40.412, -79.859 40.392, -79.879 40.392, -79.879 40.412))",
+  "dcat_bbox": "ENVELOPE(-79.879,-79.859,40.412,40.392)",
+  "dcat_centroid": "40.402,-79.869",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/4575\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4575/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/4575\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4575/manifest.json\"}",
   "id": "5f4df14e-0932-4e0b-b83f-a7bd0b680b70",
   "dct_identifier_sm": [
     "5f4df14e-0932-4e0b-b83f-a7bd0b680b70"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

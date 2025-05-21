@@ -17,10 +17,6 @@
     "Early maps",
     "Nautical charts"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1492 and 1493"
   ],
@@ -34,9 +30,9 @@
   "dct_spatial_sm": [
     "Atlantic Ocean"
   ],
-  "locn_geometry": "POLYGON((-82.0667 39.75, -5 39.75, -5 17.9833, -82.0667 17.9833, -82.0667 39.75))",
-  "dcat_bbox": "ENVELOPE(-82.0667,-5,39.75,17.9833)",
-  "dcat_centroid": "28.86665,-43.53335",
+  "locn_geometry": "POLYGON((-82.067 39.750, -5.000 39.750, -5.000 17.983, -82.067 17.983, -82.067 39.750))",
+  "dcat_bbox": "ENVELOPE(-82.067,-5.000,39.750,17.983)",
+  "dcat_centroid": "28.866500000000002,-43.5335",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30187\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30187/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30187\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30187/manifest.json\"}",
   "id": "faee862b-6dc7-4ee4-bffc-9bbeb1da5db1",
   "dct_identifier_sm": [
     "faee862b-6dc7-4ee4-bffc-9bbeb1da5db1"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

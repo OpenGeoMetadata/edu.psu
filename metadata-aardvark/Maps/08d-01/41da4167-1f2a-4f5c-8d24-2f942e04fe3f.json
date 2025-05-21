@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1889"
   ],
@@ -29,9 +25,9 @@
   "dct_spatial_sm": [
     "New York"
   ],
-  "locn_geometry": "POLYGON((-75.9478 43.9958, -75.8544 43.9958, -75.8544 43.9489, -75.9478 43.9489, -75.9478 43.9958))",
-  "dcat_bbox": "ENVELOPE(-75.9478,-75.8544,43.9958,43.9489)",
-  "dcat_centroid": "43.972350000000006,-75.9011",
+  "locn_geometry": "POLYGON((-75.948 43.996, -75.854 43.996, -75.854 43.949, -75.948 43.949, -75.948 43.996))",
+  "dcat_bbox": "ENVELOPE(-75.948,-75.854,43.996,43.949)",
+  "dcat_centroid": "43.9725,-75.901",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -40,11 +36,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30035\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30035/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30035\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30035/manifest.json\"}",
   "id": "41da4167-1f2a-4f5c-8d24-2f942e04fe3f",
   "dct_identifier_sm": [
     "41da4167-1f2a-4f5c-8d24-2f942e04fe3f"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

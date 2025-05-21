@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1758"
   ],
@@ -30,9 +26,9 @@
     "New York--Lake George",
     "New York"
   ],
-  "locn_geometry": "POLYGON((-73.7253 43.4286, -73.6931 43.4286, -73.6931 43.4125, -73.7253 43.4125, -73.7253 43.4286))",
-  "dcat_bbox": "ENVELOPE(-73.7253,-73.6931,43.4286,43.4125)",
-  "dcat_centroid": "43.420550000000006,-73.70920000000001",
+  "locn_geometry": "POLYGON((-73.725 43.429, -73.693 43.429, -73.693 43.413, -73.725 43.413, -73.725 43.429))",
+  "dcat_bbox": "ENVELOPE(-73.725,-73.693,43.429,43.413)",
+  "dcat_centroid": "43.421,-73.709",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +37,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30036\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30036/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30036\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30036/manifest.json\"}",
   "id": "ef74dd73-c684-4553-814a-c3e11562f42d",
   "dct_identifier_sm": [
     "ef74dd73-c684-4553-814a-c3e11562f42d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

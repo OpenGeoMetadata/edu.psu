@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -38,9 +37,9 @@
     "Pennsylvania--Parker City",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-79.6903 41.1072, -79.6745 41.1072, -79.6745 41.0785, -79.6903 41.0785, -79.6903 41.1072))",
-  "dcat_bbox": "ENVELOPE(-79.6903,-79.6745,41.1072,41.0785)",
-  "dcat_centroid": "41.09285,-79.6824",
+  "locn_geometry": "POLYGON((-79.690 41.107, -79.674 41.107, -79.674 41.078, -79.690 41.078, -79.690 41.107))",
+  "dcat_bbox": "ENVELOPE(-79.690,-79.674,41.107,41.078)",
+  "dcat_centroid": "41.0925,-79.682",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24960\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24960/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/24960\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24960/manifest.json\"}",
   "id": "868c24eb-482c-4882-b303-e33974115bab",
   "dct_identifier_sm": [
     "868c24eb-482c-4882-b303-e33974115bab"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:58Z",
   "gbl_mdVersion_s": "Aardvark"
 }

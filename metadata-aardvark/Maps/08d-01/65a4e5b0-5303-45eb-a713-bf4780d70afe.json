@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Military maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1863"
   ],
@@ -34,9 +29,9 @@
   "dct_spatial_sm": [
     "Tennessee"
   ],
-  "locn_geometry": "POLYGON((-86.8318 35.2815, -85.1978 35.2815, -85.1978 34.362, -86.8318 34.362, -86.8318 35.2815))",
-  "dcat_bbox": "ENVELOPE(-86.8318,-85.1978,35.2815,34.362)",
-  "dcat_centroid": "34.82175,-86.01480000000001",
+  "locn_geometry": "POLYGON((-86.832 35.282, -85.198 35.282, -85.198 34.362, -86.832 34.362, -86.832 35.282))",
+  "dcat_bbox": "ENVELOPE(-86.832,-85.198,35.282,34.362)",
+  "dcat_centroid": "34.822,-86.01499999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30154\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30154/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30154\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30154/manifest.json\"}",
   "id": "65a4e5b0-5303-45eb-a713-bf4780d70afe",
   "dct_identifier_sm": [
     "65a4e5b0-5303-45eb-a713-bf4780d70afe"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

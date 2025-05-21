@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1928"
@@ -39,9 +38,9 @@
     "Pennsylvania--Fayette County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-76.8001 39.9098, -76.7839 39.9098, -76.7839 39.8979, -76.8001 39.8979, -76.8001 39.9098))",
-  "dcat_bbox": "ENVELOPE(-76.8001,-76.7839,39.9098,39.8979)",
-  "dcat_centroid": "39.90385,-76.792",
+  "locn_geometry": "POLYGON((-76.800 39.910, -76.784 39.910, -76.784 39.898, -76.800 39.898, -76.800 39.910))",
+  "dcat_bbox": "ENVELOPE(-76.800,-76.784,39.910,39.898)",
+  "dcat_centroid": "39.903999999999996,-76.792",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27894\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27894/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/27894\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27894/manifest.json\"}",
   "id": "aa1d0691-bca9-495d-860e-5be89fc5fecf",
   "dct_identifier_sm": [
     "aa1d0691-bca9-495d-860e-5be89fc5fecf"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

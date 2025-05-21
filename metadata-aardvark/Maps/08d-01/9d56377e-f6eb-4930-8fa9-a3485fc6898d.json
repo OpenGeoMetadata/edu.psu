@@ -19,10 +19,6 @@
   "dct_subject_sm": [
     "Railroads"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1855"
   ],
@@ -35,9 +31,9 @@
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-99 59.8667, -49.7 59.8667, -49.7 39.1167, -99 39.1167, -99 59.8667))",
-  "dcat_bbox": "ENVELOPE(-99,-49.7,59.8667,39.1167)",
-  "dcat_centroid": "49.4917,-74.35",
+  "locn_geometry": "POLYGON((-99.000 59.867, -49.700 59.867, -49.700 39.117, -99.000 39.117, -99.000 59.867))",
+  "dcat_bbox": "ENVELOPE(-99.000,-49.700,59.867,39.117)",
+  "dcat_centroid": "49.492,-74.35",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +42,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30070\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30070/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30070\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30070/manifest.json\"}",
   "id": "9d56377e-f6eb-4930-8fa9-a3485fc6898d",
   "dct_identifier_sm": [
     "9d56377e-f6eb-4930-8fa9-a3485fc6898d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

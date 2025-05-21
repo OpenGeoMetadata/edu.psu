@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1920"
@@ -38,9 +37,9 @@
     "Pennsylvania--Altoona",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-78.4328 40.5549, -78.3647 40.5549, -78.3647 40.466, -78.4328 40.466, -78.4328 40.5549))",
-  "dcat_bbox": "ENVELOPE(-78.4328,-78.3647,40.5549,40.466)",
-  "dcat_centroid": "40.510450000000006,-78.39875",
+  "locn_geometry": "POLYGON((-78.433 40.555, -78.365 40.555, -78.365 40.466, -78.433 40.466, -78.433 40.555))",
+  "dcat_bbox": "ENVELOPE(-78.433,-78.365,40.555,40.466)",
+  "dcat_centroid": "40.5105,-78.399",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/1512\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/1512/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/1512\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/1512/manifest.json\"}",
   "id": "a14b8902-4524-4cd5-ac9e-c403b5d11e1c",
   "dct_identifier_sm": [
     "a14b8902-4524-4cd5-ac9e-c403b5d11e1c"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

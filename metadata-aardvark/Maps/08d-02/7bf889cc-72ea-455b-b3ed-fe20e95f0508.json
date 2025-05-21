@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -38,9 +37,9 @@
     "Pennsylvania--Meadville",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-80.1714 41.674, -80.1233 41.674, -80.1233 41.6235, -80.1714 41.6235, -80.1714 41.674))",
-  "dcat_bbox": "ENVELOPE(-80.1714,-80.1233,41.674,41.6235)",
-  "dcat_centroid": "41.64875,-80.14735",
+  "locn_geometry": "POLYGON((-80.171 41.674, -80.123 41.674, -80.123 41.623, -80.171 41.623, -80.171 41.674))",
+  "dcat_bbox": "ENVELOPE(-80.171,-80.123,41.674,41.623)",
+  "dcat_centroid": "41.6485,-80.147",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13760\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13760/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/13760\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13760/manifest.json\"}",
   "id": "7bf889cc-72ea-455b-b3ed-fe20e95f0508",
   "dct_identifier_sm": [
     "7bf889cc-72ea-455b-b3ed-fe20e95f0508"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

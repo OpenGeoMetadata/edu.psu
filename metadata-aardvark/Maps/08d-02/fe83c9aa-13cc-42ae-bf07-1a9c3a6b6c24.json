@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1896"
@@ -39,9 +38,9 @@
     "Pennsylvania--Erie County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-79.8488 42.2258, -79.8217 42.2258, -79.8217 42.2041, -79.8488 42.2041, -79.8488 42.2258))",
-  "dcat_bbox": "ENVELOPE(-79.8488,-79.8217,42.2258,42.2041)",
-  "dcat_centroid": "42.21495,-79.83525",
+  "locn_geometry": "POLYGON((-79.849 42.226, -79.822 42.226, -79.822 42.204, -79.849 42.204, -79.849 42.226))",
+  "dcat_bbox": "ENVELOPE(-79.849,-79.822,42.226,42.204)",
+  "dcat_centroid": "42.215,-79.8355",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/19148\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/19148/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/19148\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/19148/manifest.json\"}",
   "id": "fe83c9aa-13cc-42ae-bf07-1a9c3a6b6c24",
   "dct_identifier_sm": [
     "fe83c9aa-13cc-42ae-bf07-1a9c3a6b6c24"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:53Z",
   "gbl_mdVersion_s": "Aardvark"
 }

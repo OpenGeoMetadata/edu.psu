@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -38,9 +37,9 @@
     "Pennsylvania--Mechanicsburg",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-77.0323 40.2244, -76.9787 40.2244, -76.9787 40.1968, -77.0323 40.1968, -77.0323 40.2244))",
-  "dcat_bbox": "ENVELOPE(-77.0323,-76.9787,40.2244,40.1968)",
-  "dcat_centroid": "40.2106,-77.00550000000001",
+  "locn_geometry": "POLYGON((-77.032 40.224, -76.979 40.224, -76.979 40.197, -77.032 40.197, -77.032 40.224))",
+  "dcat_bbox": "ENVELOPE(-77.032,-76.979,40.224,40.197)",
+  "dcat_centroid": "40.210499999999996,-77.0055",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/14282\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14282/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/14282\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14282/manifest.json\"}",
   "id": "8dba77f6-d70d-4c31-ae35-6dd2e1949610",
   "dct_identifier_sm": [
     "8dba77f6-d70d-4c31-ae35-6dd2e1949610"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

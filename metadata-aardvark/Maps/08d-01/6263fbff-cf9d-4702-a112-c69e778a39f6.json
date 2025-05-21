@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Atlases"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1881"
   ],
@@ -34,8 +29,8 @@
   "dct_spatial_sm": [
     "Cuba"
   ],
-  "locn_geometry": "POLYGON((-79 26, -67 26, -67 18, -79 18, -79 26))",
-  "dcat_bbox": "ENVELOPE(-79,-67,26,18)",
+  "locn_geometry": "POLYGON((-79.000 26.000, -67.000 26.000, -67.000 18.000, -79.000 18.000, -79.000 26.000))",
+  "dcat_bbox": "ENVELOPE(-79.000,-67.000,26.000,18.000)",
   "dcat_centroid": "22.0,-73.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30431\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30431/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30431\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30431/manifest.json\"}",
   "id": "6263fbff-cf9d-4702-a112-c69e778a39f6",
   "dct_identifier_sm": [
     "6263fbff-cf9d-4702-a112-c69e778a39f6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

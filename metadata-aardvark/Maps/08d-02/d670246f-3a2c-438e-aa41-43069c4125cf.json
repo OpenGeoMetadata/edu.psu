@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -39,9 +38,9 @@
     "Pennsylvania--Susquehanna County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.753 41.9792, -75.7385 41.9792, -75.7385 41.968, -75.753 41.968, -75.753 41.9792))",
-  "dcat_bbox": "ENVELOPE(-75.753,-75.7385,41.9792,41.968)",
-  "dcat_centroid": "41.973600000000005,-75.74575",
+  "locn_geometry": "POLYGON((-75.753 41.979, -75.739 41.979, -75.739 41.968, -75.753 41.968, -75.753 41.979))",
+  "dcat_bbox": "ENVELOPE(-75.753,-75.739,41.979,41.968)",
+  "dcat_centroid": "41.9735,-75.74600000000001",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/9833\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9833/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/9833\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/9833/manifest.json\"}",
   "id": "d670246f-3a2c-438e-aa41-43069c4125cf",
   "dct_identifier_sm": [
     "d670246f-3a2c-438e-aa41-43069c4125cf"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

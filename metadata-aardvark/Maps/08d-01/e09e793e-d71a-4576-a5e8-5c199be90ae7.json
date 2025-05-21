@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Pictorial maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1939"
   ],
@@ -34,8 +29,8 @@
   "dct_spatial_sm": [
     "Mexico"
   ],
-  "locn_geometry": "POLYGON((-118.35 32.7167, -86.7 32.7167, -86.7 14.5333, -118.35 14.5333, -118.35 32.7167))",
-  "dcat_bbox": "ENVELOPE(-118.35,-86.7,32.7167,14.5333)",
+  "locn_geometry": "POLYGON((-118.350 32.717, -86.700 32.717, -86.700 14.533, -118.350 14.533, -118.350 32.717))",
+  "dcat_bbox": "ENVELOPE(-118.350,-86.700,32.717,14.533)",
   "dcat_centroid": "23.625,-102.525",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30383\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30383/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30383\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30383/manifest.json\"}",
   "id": "e09e793e-d71a-4576-a5e8-5c199be90ae7",
   "dct_identifier_sm": [
     "e09e793e-d71a-4576-a5e8-5c199be90ae7"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -19,11 +19,6 @@
   "dct_subject_sm": [
     "Railroads"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1896"
   ],
@@ -35,11 +30,12 @@
     "[1896 TO 1896]"
   ],
   "dct_spatial_sm": [
-    "Democratic Republic of the Congo"
+    "Democratic Republic of the Congo",
+    "Congo"
   ],
-  "locn_geometry": "POLYGON((12.2 0.2667, 16.25 0.2667, 16.25 -6.05, 12.2 -6.05, 12.2 0.2667))",
-  "dcat_bbox": "ENVELOPE(12.2,16.25,0.2667,-6.05)",
-  "dcat_centroid": "-2.89165,14.225",
+  "locn_geometry": "POLYGON((12.200 0.267, 16.250 0.267, 16.250 -6.050, 12.200 -6.050, 12.200 0.267))",
+  "dcat_bbox": "ENVELOPE(12.200,16.250,0.267,-6.050)",
+  "dcat_centroid": "-2.8914999999999997,14.225",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -48,11 +44,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30231\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30231/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30231\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30231/manifest.json\"}",
   "id": "05580ae0-3603-468e-8bb0-14ffb825d32a",
   "dct_identifier_sm": [
     "05580ae0-3603-468e-8bb0-14ffb825d32a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

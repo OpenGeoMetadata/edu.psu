@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1912"
@@ -41,9 +40,9 @@
     "Pennsylvania--Northampton Heights",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-79.3441 41.0025, -79.3338 41.0025, -79.3338 40.9959, -79.3441 40.9959, -79.3441 41.0025))",
-  "dcat_bbox": "ENVELOPE(-79.3441,-79.3338,41.0025,40.9959)",
-  "dcat_centroid": "40.9992,-79.33895",
+  "locn_geometry": "POLYGON((-79.34 41.001, -79.33 41.001, -79.33 41.00, -79.34 41.00, -79.34 41.001))",
+  "dcat_bbox": "ENVELOPE(-79.34,-79.33,41.001,41.00)",
+  "dcat_centroid": "41.0005,-79.33500000000001",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -56,11 +55,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/4205\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4205/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/4205\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/4205/manifest.json\"}",
   "id": "c58813f7-0e4a-482d-a287-491caf21c09e",
   "dct_identifier_sm": [
     "c58813f7-0e4a-482d-a287-491caf21c09e"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:20Z",
   "gbl_mdVersion_s": "Aardvark"
 }

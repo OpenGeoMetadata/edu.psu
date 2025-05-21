@@ -27,9 +27,9 @@
     "Geological maps"
   ],
   "dct_subject_sm": [
-    "Bituminous coal--Pennsylvania--Maps",
-    "Gas wells--Pennsylvania--Maps",
-    "Oil wells--Pennsylvania--Maps"
+    "Bituminous coal",
+    "Gas wells",
+    "Oil wells"
   ],
   "dcat_keyword_sm": [
     "Wishaw",
@@ -55,14 +55,14 @@
   ],
   "dct_spatial_sm": [
     "Pennsylvania",
-    "Jefferson County",
-    "Winslow Township",
-    "Henderson Township",
-    "McCalmont Township"
+    "Pennsylvania--Jefferson County",
+    "Pennsylvania--Winslow Township",
+    "Pennsylvania--Henderson Township",
+    "Pennsylvania--McCalmont Township"
   ],
-  "locn_geometry": "POLYGON((-78.916667 41.083333, -78.833333 41.083333, -78.833333 41, -78.916667 41, -78.916667 41.083333))",
-  "dcat_bbox": "ENVELOPE(-78.916667,-78.833333,41.083333,41)",
-  "dcat_centroid": "41.041666500000005,-78.875",
+  "locn_geometry": "POLYGON((-78.917 41.083, -78.833 41.083, -78.833 41.000, -78.917 41.000, -78.917 41.083))",
+  "dcat_bbox": "ENVELOPE(-78.917,-78.833,41.083,41.000)",
+  "dcat_centroid": "41.0415,-78.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -74,12 +74,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://www.minemaps.psu.edu/aboutnew.htm\",\"http://iiif.io/api/image\":\"https://cdm17287.contentdm.oclc.org/digital/iiif/wpamaps/2837/info.json\",\"http://schema.org/url\":\"http://cdm17287.contentdm.oclc.org/cdm/ref/collection/wpamaps/id/2837\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://www.minemaps.psu.edu/aboutnew.htm\",\"http://schema.org/url\":\"http://cdm17287.contentdm.oclc.org/cdm/ref/collection/wpamaps/id/2837\",\"http://iiif.io/api/image\":\"https://cdm17287.contentdm.oclc.org/digital/iiif/wpamaps/2837/info.json\"}",
   "id": "pstems_0052767067_dubois_08_lf",
   "dct_identifier_sm": [
     "52767067",
     "/wpamaps/image/2862.jp2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

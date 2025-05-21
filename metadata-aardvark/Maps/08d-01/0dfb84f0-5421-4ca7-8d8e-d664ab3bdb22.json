@@ -16,10 +16,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1877"
   ],
@@ -32,9 +28,9 @@
   "dct_spatial_sm": [
     "Kentucky"
   ],
-  "locn_geometry": "POLYGON((-84.76 37.0717, -84.7211 37.0717, -84.7211 37.0389, -84.76 37.0389, -84.76 37.0717))",
-  "dcat_bbox": "ENVELOPE(-84.76,-84.7211,37.0717,37.0389)",
-  "dcat_centroid": "37.0553,-84.74055000000001",
+  "locn_geometry": "POLYGON((-84.760 37.072, -84.721 37.072, -84.721 37.039, -84.760 37.039, -84.760 37.072))",
+  "dcat_bbox": "ENVELOPE(-84.760,-84.721,37.072,37.039)",
+  "dcat_centroid": "37.0555,-84.7405",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,11 +39,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30167\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30167/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30167\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30167/manifest.json\"}",
   "id": "0dfb84f0-5421-4ca7-8d8e-d664ab3bdb22",
   "dct_identifier_sm": [
     "0dfb84f0-5421-4ca7-8d8e-d664ab3bdb22"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:25:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

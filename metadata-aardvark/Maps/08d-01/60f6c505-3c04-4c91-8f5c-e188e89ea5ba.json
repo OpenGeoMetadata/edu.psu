@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Nautical charts"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1852"
   ],
@@ -35,9 +30,9 @@
     "California",
     "California--Catalina Harbor"
   ],
-  "locn_geometry": "POLYGON((-118.5125 33.4361, -118.5008 33.4361, -118.5008 33.4228, -118.5125 33.4228, -118.5125 33.4361))",
-  "dcat_bbox": "ENVELOPE(-118.5125,-118.5008,33.4361,33.4228)",
-  "dcat_centroid": "33.42945,-118.50665000000001",
+  "locn_geometry": "POLYGON((-118.513 33.436, -118.501 33.436, -118.501 33.423, -118.513 33.423, -118.513 33.436))",
+  "dcat_bbox": "ENVELOPE(-118.513,-118.501,33.436,33.423)",
+  "dcat_centroid": "33.429500000000004,-118.507",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30386\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30386/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30386\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30386/manifest.json\"}",
   "id": "60f6c505-3c04-4c91-8f5c-e188e89ea5ba",
   "dct_identifier_sm": [
     "60f6c505-3c04-4c91-8f5c-e188e89ea5ba"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:24:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

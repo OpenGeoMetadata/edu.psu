@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Nautical charts"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1816"
   ],
@@ -34,9 +29,9 @@
   "dct_spatial_sm": [
     "England"
   ],
-  "locn_geometry": "POLYGON((1.2967 51.3421, 1.467 51.3421, 1.467 51.2534, 1.2967 51.2534, 1.2967 51.3421))",
-  "dcat_bbox": "ENVELOPE(1.2967,1.467,51.3421,51.2534)",
-  "dcat_centroid": "51.29775,1.38185",
+  "locn_geometry": "POLYGON((1.297 51.342, 1.467 51.342, 1.467 51.253, 1.297 51.253, 1.297 51.342))",
+  "dcat_bbox": "ENVELOPE(1.297,1.467,51.342,51.253)",
+  "dcat_centroid": "51.2975,1.3820000000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30407\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30407/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30407\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30407/manifest.json\"}",
   "id": "44c92b58-56bf-4b75-8d0c-555074482126",
   "dct_identifier_sm": [
     "44c92b58-56bf-4b75-8d0c-555074482126"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:30Z",
   "gbl_mdVersion_s": "Aardvark"
 }

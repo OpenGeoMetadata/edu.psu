@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1887"
@@ -38,9 +37,9 @@
     "Pennsylvania--Emporium",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-78.2511 41.5161, -78.2198 41.5161, -78.2198 41.5037, -78.2511 41.5037, -78.2511 41.5161))",
-  "dcat_bbox": "ENVELOPE(-78.2511,-78.2198,41.5161,41.5037)",
-  "dcat_centroid": "41.5099,-78.23545",
+  "locn_geometry": "POLYGON((-78.251 41.516, -78.220 41.516, -78.220 41.504, -78.251 41.504, -78.251 41.516))",
+  "dcat_bbox": "ENVELOPE(-78.251,-78.220,41.516,41.504)",
+  "dcat_centroid": "41.51,-78.2355",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/8327\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8327/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/8327\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8327/manifest.json\"}",
   "id": "55f3f197-361a-41a4-bcb9-87a2b931ffef",
   "dct_identifier_sm": [
     "55f3f197-361a-41a4-bcb9-87a2b931ffef"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

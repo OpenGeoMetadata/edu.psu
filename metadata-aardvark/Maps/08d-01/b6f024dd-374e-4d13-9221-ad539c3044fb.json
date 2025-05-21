@@ -10,9 +10,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps"
-  ],
   "dct_temporal_sm": [
     "1763"
   ],
@@ -25,9 +22,9 @@
   "dct_spatial_sm": [
     "Martinique"
   ],
-  "locn_geometry": "POLYGON((-61.2289 14.8786, -60.8103 14.8786, -60.8103 14.3886, -61.2289 14.3886, -61.2289 14.8786))",
-  "dcat_bbox": "ENVELOPE(-61.2289,-60.8103,14.8786,14.3886)",
-  "dcat_centroid": "14.633600000000001,-61.0196",
+  "locn_geometry": "POLYGON((-61.229 14.879, -60.810 14.879, -60.810 14.389, -61.229 14.389, -61.229 14.879))",
+  "dcat_bbox": "ENVELOPE(-61.229,-60.810,14.879,14.389)",
+  "dcat_centroid": "14.634,-61.0195",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -36,11 +33,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30411\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30411/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30411\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30411/manifest.json\"}",
   "id": "b6f024dd-374e-4d13-9221-ad539c3044fb",
   "dct_identifier_sm": [
     "b6f024dd-374e-4d13-9221-ad539c3044fb"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

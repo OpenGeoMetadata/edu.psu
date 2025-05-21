@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1887"
@@ -38,9 +37,9 @@
     "Pennsylvania--Brookville",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-79.1048 41.1778, -79.0634 41.1778, -79.0634 41.1426, -79.1048 41.1426, -79.1048 41.1778))",
-  "dcat_bbox": "ENVELOPE(-79.1048,-79.0634,41.1778,41.1426)",
-  "dcat_centroid": "41.1602,-79.0841",
+  "locn_geometry": "POLYGON((-79.105 41.178, -79.063 41.178, -79.063 41.143, -79.105 41.143, -79.105 41.178))",
+  "dcat_bbox": "ENVELOPE(-79.105,-79.063,41.178,41.143)",
+  "dcat_centroid": "41.1605,-79.084",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3771\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3771/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/3771\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3771/manifest.json\"}",
   "id": "1fe129d7-7332-4977-8a63-46679b8d191a",
   "dct_identifier_sm": [
     "1fe129d7-7332-4977-8a63-46679b8d191a"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

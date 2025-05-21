@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -38,9 +37,9 @@
     "Pennsylvania--Big Run",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-78.8916 40.9752, -78.8621 40.9752, -78.8621 40.9643, -78.8916 40.9643, -78.8916 40.9752))",
-  "dcat_bbox": "ENVELOPE(-78.8916,-78.8621,40.9752,40.9643)",
-  "dcat_centroid": "40.969750000000005,-78.87684999999999",
+  "locn_geometry": "POLYGON((-78.892 40.975, -78.862 40.975, -78.862 40.964, -78.892 40.964, -78.892 40.975))",
+  "dcat_bbox": "ENVELOPE(-78.892,-78.862,40.975,40.964)",
+  "dcat_centroid": "40.9695,-78.877",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3028\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3028/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/3028\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3028/manifest.json\"}",
   "id": "4115c605-2fdf-4ee6-acce-df96d73c96d5",
   "dct_identifier_sm": [
     "4115c605-2fdf-4ee6-acce-df96d73c96d5"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:46Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -27,9 +27,9 @@
     "Geological maps"
   ],
   "dct_subject_sm": [
-    "Bituminous coal--Pennsylvania--Maps",
-    "Gas wells--Pennsylvania--Maps",
-    "Oil wells--Pennsylvania--Maps"
+    "Bituminous coal",
+    "Gas wells",
+    "Oil wells"
   ],
   "dcat_keyword_sm": [
     "Pardoe",
@@ -59,17 +59,17 @@
   ],
   "dct_spatial_sm": [
     "Pennsylvania",
-    "Mercer County",
-    "Findley Township",
-    "Wolf Creek Township",
-    "Jackson Township",
-    "Springfield Township",
-    "Pine Township",
-    "Worth Township"
+    "Pennsylvania--Mercer County",
+    "Pennsylvania--Findley Township",
+    "Pennsylvania--Wolf Creek Township",
+    "Pennsylvania--Jackson Township",
+    "Pennsylvania--Springfield Township",
+    "Pennsylvania--Pine Township",
+    "Pennsylvania--Worth Township"
   ],
-  "locn_geometry": "POLYGON((-80.166667 41.25, -80.083333 41.25, -80.083333 41.166667, -80.166667 41.166667, -80.166667 41.25))",
-  "dcat_bbox": "ENVELOPE(-80.166667,-80.083333,41.25,41.166667)",
-  "dcat_centroid": "41.208333499999995,-80.125",
+  "locn_geometry": "POLYGON((-80.167 41.250, -80.083 41.250, -80.083 41.167, -80.167 41.167, -80.167 41.250))",
+  "dcat_bbox": "ENVELOPE(-80.167,-80.083,41.250,41.167)",
+  "dcat_centroid": "41.2085,-80.125",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -81,12 +81,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://www.minemaps.psu.edu/aboutnew.htm\",\"http://iiif.io/api/image\":\"https://cdm17287.contentdm.oclc.org/digital/iiif/wpamaps/3205/info.json\",\"http://schema.org/url\":\"http://cdm17287.contentdm.oclc.org/cdm/ref/collection/wpamaps/id/3205\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://www.minemaps.psu.edu/aboutnew.htm\",\"http://schema.org/url\":\"http://cdm17287.contentdm.oclc.org/cdm/ref/collection/wpamaps/id/3205\",\"http://iiif.io/api/image\":\"https://cdm17287.contentdm.oclc.org/digital/iiif/wpamaps/3205/info.json\"}",
   "id": "pstems_0052767067_mercer_02_brk",
   "dct_identifier_sm": [
     "52767067",
     "/wpamaps/image/3162.jp2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:15Z",
   "gbl_mdVersion_s": "Aardvark"
 }

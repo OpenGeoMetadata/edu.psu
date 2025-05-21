@@ -10,9 +10,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps"
-  ],
   "dct_temporal_sm": [
     "1884"
   ],
@@ -25,9 +22,9 @@
   "dct_spatial_sm": [
     "Egypt"
   ],
-  "locn_geometry": "POLYGON((34.25 31.75, 35.5833 31.75, 35.5833 29.4, 34.25 29.4, 34.25 31.75))",
-  "dcat_bbox": "ENVELOPE(34.25,35.5833,31.75,29.4)",
-  "dcat_centroid": "30.575,34.916650000000004",
+  "locn_geometry": "POLYGON((34.250 31.750, 35.583 31.750, 35.583 29.400, 34.250 29.400, 34.250 31.750))",
+  "dcat_bbox": "ENVELOPE(34.250,35.583,31.750,29.400)",
+  "dcat_centroid": "30.575,34.9165",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -36,11 +33,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30181\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30181/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30181\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30181/manifest.json\"}",
   "id": "52720b82-2900-4c26-8bf5-bd4b58fb91d6",
   "dct_identifier_sm": [
     "52720b82-2900-4c26-8bf5-bd4b58fb91d6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

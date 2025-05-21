@@ -13,11 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1911"
   ],
@@ -31,9 +26,9 @@
   "dct_spatial_sm": [
     "Democratic Republic of the Congo"
   ],
-  "locn_geometry": "POLYGON((21.7333 0.9833, 30.5833 0.9833, 30.5833 -13.45, 21.7333 -13.45, 21.7333 0.9833))",
-  "dcat_bbox": "ENVELOPE(21.7333,30.5833,0.9833,-13.45)",
-  "dcat_centroid": "-6.23335,26.1583",
+  "locn_geometry": "POLYGON((21.733 0.983, 30.583 0.983, 30.583 -13.450, 21.733 -13.450, 21.733 0.983))",
+  "dcat_bbox": "ENVELOPE(21.733,30.583,0.983,-13.450)",
+  "dcat_centroid": "-6.233499999999999,26.158",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,11 +37,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30287\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30287/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30287\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30287/manifest.json\"}",
   "id": "1f6801ac-5c68-480d-b2ad-ebe1eb8bca9b",
   "dct_identifier_sm": [
     "1f6801ac-5c68-480d-b2ad-ebe1eb8bca9b"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

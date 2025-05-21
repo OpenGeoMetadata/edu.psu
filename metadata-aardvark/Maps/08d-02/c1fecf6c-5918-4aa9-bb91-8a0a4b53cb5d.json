@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -38,9 +37,9 @@
     "Pennsylvania--Conneautville",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-80.3788 41.7683, -80.3521 41.7683, -80.3521 41.7502, -80.3788 41.7502, -80.3788 41.7683))",
-  "dcat_bbox": "ENVELOPE(-80.3788,-80.3521,41.7683,41.7502)",
-  "dcat_centroid": "41.75925,-80.36545",
+  "locn_geometry": "POLYGON((-80.379 41.768, -80.352 41.768, -80.352 41.750, -80.379 41.750, -80.379 41.768))",
+  "dcat_bbox": "ENVELOPE(-80.379,-80.352,41.768,41.750)",
+  "dcat_centroid": "41.759,-80.3655",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/5907\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/5907/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/5907\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/5907/manifest.json\"}",
   "id": "c1fecf6c-5918-4aa9-bb91-8a0a4b53cb5d",
   "dct_identifier_sm": [
     "c1fecf6c-5918-4aa9-bb91-8a0a4b53cb5d"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

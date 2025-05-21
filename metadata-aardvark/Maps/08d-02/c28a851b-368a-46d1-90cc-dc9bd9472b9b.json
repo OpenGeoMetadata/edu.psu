@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1942"
@@ -47,9 +46,9 @@
     "Pennsylvania--Black Horse",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.4243 40.1758, -75.2601 40.1758, -75.2601 40.0884, -75.4243 40.0884, -75.4243 40.1758))",
-  "dcat_bbox": "ENVELOPE(-75.4243,-75.2601,40.1758,40.0884)",
-  "dcat_centroid": "40.1321,-75.34219999999999",
+  "locn_geometry": "POLYGON((-75.424 40.176, -75.260 40.176, -75.260 40.088, -75.424 40.088, -75.424 40.176))",
+  "dcat_bbox": "ENVELOPE(-75.424,-75.260,40.176,40.088)",
+  "dcat_centroid": "40.132000000000005,-75.34200000000001",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -62,11 +61,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29113\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29113/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/29113\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29113/manifest.json\"}",
   "id": "c28a851b-368a-46d1-90cc-dc9bd9472b9b",
   "dct_identifier_sm": [
     "c28a851b-368a-46d1-90cc-dc9bd9472b9b"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

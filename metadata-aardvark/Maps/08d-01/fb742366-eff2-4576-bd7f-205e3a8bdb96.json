@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Military maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1864-1865"
   ],
@@ -35,9 +30,9 @@
     "Virginia--Petersburg",
     "Virginia"
   ],
-  "locn_geometry": "POLYGON((-77.6667 37.25, -77.25 37.25, -77.25 37.0167, -77.6667 37.0167, -77.6667 37.25))",
-  "dcat_bbox": "ENVELOPE(-77.6667,-77.25,37.25,37.0167)",
-  "dcat_centroid": "37.13335,-77.45835",
+  "locn_geometry": "POLYGON((-77.667 37.250, -77.250 37.250, -77.250 37.017, -77.667 37.017, -77.667 37.250))",
+  "dcat_bbox": "ENVELOPE(-77.667,-77.250,37.250,37.017)",
+  "dcat_centroid": "37.1335,-77.4585",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30132\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30132/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30132\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30132/manifest.json\"}",
   "id": "fb742366-eff2-4576-bd7f-205e3a8bdb96",
   "dct_identifier_sm": [
     "fb742366-eff2-4576-bd7f-205e3a8bdb96"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:23:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

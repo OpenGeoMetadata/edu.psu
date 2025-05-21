@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1916"
@@ -39,9 +38,9 @@
     "Pennsylvania--Cambria County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-78.803 40.7032, -78.771 40.7032, -78.771 40.6863, -78.803 40.6863, -78.803 40.7032))",
-  "dcat_bbox": "ENVELOPE(-78.803,-78.771,40.7032,40.6863)",
-  "dcat_centroid": "40.69475,-78.787",
+  "locn_geometry": "POLYGON((-78.803 40.703, -78.771 40.703, -78.771 40.686, -78.803 40.686, -78.803 40.703))",
+  "dcat_bbox": "ENVELOPE(-78.803,-78.771,40.703,40.686)",
+  "dcat_centroid": "40.694500000000005,-78.787",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/25242\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25242/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/25242\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/25242/manifest.json\"}",
   "id": "0994d4a1-b444-4624-afa3-045f0831594b",
   "dct_identifier_sm": [
     "0994d4a1-b444-4624-afa3-045f0831594b"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:51Z",
   "gbl_mdVersion_s": "Aardvark"
 }

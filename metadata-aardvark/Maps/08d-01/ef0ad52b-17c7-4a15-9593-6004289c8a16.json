@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1756"
   ],
@@ -35,9 +30,9 @@
     "France--Paris",
     "France"
   ],
-  "locn_geometry": "POLYGON((2.225 48.9019, 2.4697 48.9019, 2.4697 48.8156, 2.225 48.8156, 2.225 48.9019))",
-  "dcat_bbox": "ENVELOPE(2.225,2.4697,48.9019,48.8156)",
-  "dcat_centroid": "48.85875,2.34735",
+  "locn_geometry": "POLYGON((2.225 48.902, 2.470 48.902, 2.470 48.816, 2.225 48.816, 2.225 48.902))",
+  "dcat_bbox": "ENVELOPE(2.225,2.470,48.902,48.816)",
+  "dcat_centroid": "48.859,2.3475",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30352\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30352/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30352\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30352/manifest.json\"}",
   "id": "ef0ad52b-17c7-4a15-9593-6004289c8a16",
   "dct_identifier_sm": [
     "ef0ad52b-17c7-4a15-9593-6004289c8a16"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:52Z",
   "gbl_mdVersion_s": "Aardvark"
 }

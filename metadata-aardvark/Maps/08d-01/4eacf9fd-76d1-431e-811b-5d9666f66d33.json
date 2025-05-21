@@ -13,10 +13,6 @@
   "gbl_resourceType_sm": [
     "Geological maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020"
-  ],
   "dct_temporal_sm": [
     "1882"
   ],
@@ -30,9 +26,9 @@
   "dct_spatial_sm": [
     "Wisconsin"
   ],
-  "locn_geometry": "POLYGON((-91.1667 46.8333, -89.3333 46.8333, -89.3333 46.1833, -91.1667 46.1833, -91.1667 46.8333))",
-  "dcat_bbox": "ENVELOPE(-91.1667,-89.3333,46.8333,46.1833)",
-  "dcat_centroid": "46.508300000000006,-90.25",
+  "locn_geometry": "POLYGON((-91.167 46.833, -89.333 46.833, -89.333 46.183, -91.167 46.183, -91.167 46.833))",
+  "dcat_bbox": "ENVELOPE(-91.167,-89.333,46.833,46.183)",
+  "dcat_centroid": "46.507999999999996,-90.25",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +37,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30202\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30202/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30202\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30202/manifest.json\"}",
   "id": "4eacf9fd-76d1-431e-811b-5d9666f66d33",
   "dct_identifier_sm": [
     "4eacf9fd-76d1-431e-811b-5d9666f66d33"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:03Z",
   "gbl_mdVersion_s": "Aardvark"
 }

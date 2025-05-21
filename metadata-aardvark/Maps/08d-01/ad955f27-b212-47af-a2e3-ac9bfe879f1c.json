@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Outline maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1885"
   ],
@@ -34,9 +29,9 @@
   "dct_spatial_sm": [
     "Connecticut"
   ],
-  "locn_geometry": "POLYGON((-73.7167 42.05, -71.7833 42.05, -71.7833 40.9833, -73.7167 40.9833, -73.7167 42.05))",
-  "dcat_bbox": "ENVELOPE(-73.7167,-71.7833,42.05,40.9833)",
-  "dcat_centroid": "41.51665,-72.75",
+  "locn_geometry": "POLYGON((-73.717 42.050, -71.783 42.050, -71.783 40.983, -73.717 40.983, -73.717 42.050))",
+  "dcat_bbox": "ENVELOPE(-73.717,-71.783,42.050,40.983)",
+  "dcat_centroid": "41.51649999999999,-72.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29985\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29985/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/29985\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29985/manifest.json\"}",
   "id": "ad955f27-b212-47af-a2e3-ac9bfe879f1c",
   "dct_identifier_sm": [
     "ad955f27-b212-47af-a2e3-ac9bfe879f1c"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

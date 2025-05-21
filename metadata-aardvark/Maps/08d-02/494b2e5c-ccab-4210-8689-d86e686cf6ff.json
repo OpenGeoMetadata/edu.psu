@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -38,9 +37,9 @@
     "Pennsylvania--New Bloomfield",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-77.2005 40.4231, -77.1787 40.4231, -77.1787 40.4127, -77.2005 40.4127, -77.2005 40.4231))",
-  "dcat_bbox": "ENVELOPE(-77.2005,-77.1787,40.4231,40.4127)",
-  "dcat_centroid": "40.4179,-77.18960000000001",
+  "locn_geometry": "POLYGON((-77.201 40.423, -77.179 40.423, -77.179 40.413, -77.201 40.413, -77.201 40.423))",
+  "dcat_bbox": "ENVELOPE(-77.201,-77.179,40.423,40.413)",
+  "dcat_centroid": "40.418,-77.19",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/16137\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/16137/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/16137\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/16137/manifest.json\"}",
   "id": "494b2e5c-ccab-4210-8689-d86e686cf6ff",
   "dct_identifier_sm": [
     "494b2e5c-ccab-4210-8689-d86e686cf6ff"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

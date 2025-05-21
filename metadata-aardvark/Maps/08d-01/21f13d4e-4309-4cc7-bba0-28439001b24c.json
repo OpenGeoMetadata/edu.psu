@@ -10,9 +10,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps"
-  ],
   "dct_temporal_sm": [
     "1893"
   ],
@@ -26,9 +23,9 @@
     "Illinois--Chicago",
     "Illinois"
   ],
-  "locn_geometry": "POLYGON((-87.5867 41.7933, -87.5664 41.7933, -87.5664 41.7733, -87.5867 41.7733, -87.5867 41.7933))",
-  "dcat_bbox": "ENVELOPE(-87.5867,-87.5664,41.7933,41.7733)",
-  "dcat_centroid": "41.7833,-87.57655",
+  "locn_geometry": "POLYGON((-87.587 41.793, -87.566 41.793, -87.566 41.773, -87.587 41.773, -87.587 41.793))",
+  "dcat_bbox": "ENVELOPE(-87.587,-87.566,41.793,41.773)",
+  "dcat_centroid": "41.783,-87.57650000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -37,11 +34,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30210\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30210/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30210\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30210/manifest.json\"}",
   "id": "21f13d4e-4309-4cc7-bba0-28439001b24c",
   "dct_identifier_sm": [
     "21f13d4e-4309-4cc7-bba0-28439001b24c"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1777"
   ],
@@ -30,9 +26,9 @@
     "Pennsylvania--Tredyffrin",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.5253 40.0558, -75.4539 40.0558, -75.4539 40.0297, -75.5253 40.0297, -75.5253 40.0558))",
-  "dcat_bbox": "ENVELOPE(-75.5253,-75.4539,40.0558,40.0297)",
-  "dcat_centroid": "40.04275,-75.4896",
+  "locn_geometry": "POLYGON((-75.525 40.056, -75.454 40.056, -75.454 40.030, -75.525 40.030, -75.525 40.056))",
+  "dcat_bbox": "ENVELOPE(-75.525,-75.454,40.056,40.030)",
+  "dcat_centroid": "40.043,-75.48949999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +37,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30085\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30085/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30085\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30085/manifest.json\"}",
   "id": "24dfd05e-dada-4d5b-841d-1b8b8561c3c4",
   "dct_identifier_sm": [
     "24dfd05e-dada-4d5b-841d-1b8b8561c3c4"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:02Z",
   "gbl_mdVersion_s": "Aardvark"
 }

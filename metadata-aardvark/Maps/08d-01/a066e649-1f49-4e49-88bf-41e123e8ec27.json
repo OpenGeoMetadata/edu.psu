@@ -10,9 +10,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps"
-  ],
   "dct_temporal_sm": [
     "1722?"
   ],
@@ -25,9 +22,9 @@
   "dct_spatial_sm": [
     "Massachusetts"
   ],
-  "locn_geometry": "POLYGON((-71.1308 42.3986, -70.9536 42.3986, -70.9536 42.3125, -71.1308 42.3125, -71.1308 42.3986))",
-  "dcat_bbox": "ENVELOPE(-71.1308,-70.9536,42.3986,42.3125)",
-  "dcat_centroid": "42.35555,-71.0422",
+  "locn_geometry": "POLYGON((-71.131 42.399, -70.954 42.399, -70.954 42.312, -71.131 42.312, -71.131 42.399))",
+  "dcat_bbox": "ENVELOPE(-71.131,-70.954,42.399,42.312)",
+  "dcat_centroid": "42.3555,-71.04249999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -36,11 +33,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29979\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29979/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/29979\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29979/manifest.json\"}",
   "id": "a066e649-1f49-4e49-88bf-41e123e8ec27",
   "dct_identifier_sm": [
     "a066e649-1f49-4e49-88bf-41e123e8ec27"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

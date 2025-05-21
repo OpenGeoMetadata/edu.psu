@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1895"
   ],
@@ -35,9 +30,9 @@
     "Colorado--Teller County",
     "Colorado"
   ],
-  "locn_geometry": "POLYGON((-105.1869 38.7633, -105.1153 38.7633, -105.1153 38.7008, -105.1869 38.7008, -105.1869 38.7633))",
-  "dcat_bbox": "ENVELOPE(-105.1869,-105.1153,38.7633,38.7008)",
-  "dcat_centroid": "38.73205,-105.1511",
+  "locn_geometry": "POLYGON((-105.187 38.763, -105.115 38.763, -105.115 38.701, -105.187 38.701, -105.187 38.763))",
+  "dcat_bbox": "ENVELOPE(-105.187,-105.115,38.763,38.701)",
+  "dcat_centroid": "38.732,-105.151",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30394\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30394/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30394\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30394/manifest.json\"}",
   "id": "7d637404-4c5f-4a73-b6a7-2cde514a5580",
   "dct_identifier_sm": [
     "7d637404-4c5f-4a73-b6a7-2cde514a5580"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:26:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

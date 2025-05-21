@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Military maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1862"
   ],
@@ -35,9 +30,9 @@
     "West Virginia--Harper's Ferry",
     "West Virginia"
   ],
-  "locn_geometry": "POLYGON((-77.7995 39.4, -77.6494 39.4, -77.6494 39.2973, -77.7995 39.2973, -77.7995 39.4))",
-  "dcat_bbox": "ENVELOPE(-77.7995,-77.6494,39.4,39.2973)",
-  "dcat_centroid": "39.34865,-77.72444999999999",
+  "locn_geometry": "POLYGON((-77.799 39.400, -77.649 39.400, -77.649 39.297, -77.799 39.297, -77.799 39.400))",
+  "dcat_bbox": "ENVELOPE(-77.799,-77.649,39.400,39.297)",
+  "dcat_centroid": "39.3485,-77.724",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30116\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30116/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30116\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30116/manifest.json\"}",
   "id": "cd939c9f-68a3-49a5-864d-ebeb07e5544e",
   "dct_identifier_sm": [
     "cd939c9f-68a3-49a5-864d-ebeb07e5544e"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

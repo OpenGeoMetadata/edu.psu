@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -38,9 +37,9 @@
     "Pennsylvania--Coudersport",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-78.0448 41.7919, -77.9807 41.7919, -77.9807 41.7612, -78.0448 41.7612, -78.0448 41.7919))",
-  "dcat_bbox": "ENVELOPE(-78.0448,-77.9807,41.7919,41.7612)",
-  "dcat_centroid": "41.77655,-78.01275",
+  "locn_geometry": "POLYGON((-78.045 41.792, -77.981 41.792, -77.981 41.761, -78.045 41.761, -78.045 41.792))",
+  "dcat_bbox": "ENVELOPE(-78.045,-77.981,41.792,41.761)",
+  "dcat_centroid": "41.7765,-78.013",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6559\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6559/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/6559\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6559/manifest.json\"}",
   "id": "07efb910-e1e5-4e23-bffa-8d6b365a7548",
   "dct_identifier_sm": [
     "07efb910-e1e5-4e23-bffa-8d6b365a7548"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

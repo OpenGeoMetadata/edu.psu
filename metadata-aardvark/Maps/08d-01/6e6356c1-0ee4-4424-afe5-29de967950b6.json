@@ -16,10 +16,6 @@
   "gbl_resourceType_sm": [
     "Military maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "approximately 1876"
   ],
@@ -33,9 +29,9 @@
   "dct_spatial_sm": [
     "Montana"
   ],
-  "locn_geometry": "POLYGON((-107.4358 45.5725, -107.4289 45.5725, -107.4289 45.5675, -107.4358 45.5675, -107.4358 45.5725))",
-  "dcat_bbox": "ENVELOPE(-107.4358,-107.4289,45.5725,45.5675)",
-  "dcat_centroid": "45.57,-107.43235",
+  "locn_geometry": "POLYGON((-107.44 45.571, -107.43 45.571, -107.43 45.57, -107.44 45.57, -107.44 45.571))",
+  "dcat_bbox": "ENVELOPE(-107.44,-107.43,45.571,45.57)",
+  "dcat_centroid": "45.570499999999996,-107.435",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30391\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30391/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30391\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30391/manifest.json\"}",
   "id": "6e6356c1-0ee4-4424-afe5-29de967950b6",
   "dct_identifier_sm": [
     "6e6356c1-0ee4-4424-afe5-29de967950b6"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:29Z",
   "gbl_mdVersion_s": "Aardvark"
 }

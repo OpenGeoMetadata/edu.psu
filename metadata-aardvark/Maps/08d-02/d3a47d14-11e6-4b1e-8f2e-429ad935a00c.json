@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -38,9 +37,9 @@
     "Pennsylvania--Beaver Falls",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-80.3348 40.7901, -80.3089 40.7901, -80.3089 40.739, -80.3348 40.739, -80.3348 40.7901))",
-  "dcat_bbox": "ENVELOPE(-80.3348,-80.3089,40.7901,40.739)",
-  "dcat_centroid": "40.76455,-80.32185",
+  "locn_geometry": "POLYGON((-80.335 40.790, -80.309 40.790, -80.309 40.739, -80.335 40.739, -80.335 40.790))",
+  "dcat_bbox": "ENVELOPE(-80.335,-80.309,40.790,40.739)",
+  "dcat_centroid": "40.7645,-80.322",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3190\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3190/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/3190\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3190/manifest.json\"}",
   "id": "d3a47d14-11e6-4b1e-8f2e-429ad935a00c",
   "dct_identifier_sm": [
     "d3a47d14-11e6-4b1e-8f2e-429ad935a00c"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:06Z",
   "gbl_mdVersion_s": "Aardvark"
 }

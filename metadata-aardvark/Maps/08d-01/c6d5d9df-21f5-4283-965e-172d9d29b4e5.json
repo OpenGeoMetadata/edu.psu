@@ -16,10 +16,6 @@
   "gbl_resourceType_sm": [
     "Military maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020"
-  ],
   "dct_temporal_sm": [
     "1861-1865"
   ],
@@ -33,9 +29,9 @@
   "dct_spatial_sm": [
     "United States of America"
   ],
-  "locn_geometry": "POLYGON((-102.0833 42.0167, -74.3 42.0167, -74.3 25.3167, -102.0833 25.3167, -102.0833 42.0167))",
-  "dcat_bbox": "ENVELOPE(-102.0833,-74.3,42.0167,25.3167)",
-  "dcat_centroid": "33.6667,-88.19165",
+  "locn_geometry": "POLYGON((-102.083 42.017, -74.300 42.017, -74.300 25.317, -102.083 25.317, -102.083 42.017))",
+  "dcat_bbox": "ENVELOPE(-102.083,-74.300,42.017,25.317)",
+  "dcat_centroid": "33.667,-88.19149999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26379\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26379/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/26379\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26379/manifest.json\"}",
   "id": "c6d5d9df-21f5-4283-965e-172d9d29b4e5",
   "dct_identifier_sm": [
     "c6d5d9df-21f5-4283-965e-172d9d29b4e5"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:37Z",
   "gbl_mdVersion_s": "Aardvark"
 }

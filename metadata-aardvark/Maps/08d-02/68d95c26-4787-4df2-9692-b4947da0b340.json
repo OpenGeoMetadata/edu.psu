@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1927"
@@ -39,9 +38,9 @@
     "Pennsylvania--Luzerne County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.7907 41.0703, -75.7483 41.0703, -75.7483 41.0468, -75.7907 41.0468, -75.7907 41.0703))",
-  "dcat_bbox": "ENVELOPE(-75.7907,-75.7483,41.0703,41.0468)",
-  "dcat_centroid": "41.05855,-75.7695",
+  "locn_geometry": "POLYGON((-75.791 41.070, -75.748 41.070, -75.748 41.047, -75.791 41.047, -75.791 41.070))",
+  "dcat_bbox": "ENVELOPE(-75.791,-75.748,41.070,41.047)",
+  "dcat_centroid": "41.058499999999995,-75.7695",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/28725\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/28725/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/28725\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/28725/manifest.json\"}",
   "id": "68d95c26-4787-4df2-9692-b4947da0b340",
   "dct_identifier_sm": [
     "68d95c26-4787-4df2-9692-b4947da0b340"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1918"
@@ -39,9 +38,9 @@
     "Pennsylvania--Jefferson County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-79.1993 41.124, -79.1796 41.124, -79.1796 41.1086, -79.1993 41.1086, -79.1993 41.124))",
-  "dcat_bbox": "ENVELOPE(-79.1993,-79.1796,41.124,41.1086)",
-  "dcat_centroid": "41.1163,-79.18945",
+  "locn_geometry": "POLYGON((-79.199 41.124, -79.180 41.124, -79.180 41.109, -79.199 41.109, -79.199 41.124))",
+  "dcat_bbox": "ENVELOPE(-79.199,-79.180,41.124,41.109)",
+  "dcat_centroid": "41.1165,-79.18950000000001",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/18967\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/18967/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/18967\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/18967/manifest.json\"}",
   "id": "ec831923-4064-4f29-82ca-6e94e16197c8",
   "dct_identifier_sm": [
     "ec831923-4064-4f29-82ca-6e94e16197c8"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -10,9 +10,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps"
-  ],
   "dct_temporal_sm": [
     "1780-1789"
   ],
@@ -25,8 +22,8 @@
   "dct_spatial_sm": [
     "North America"
   ],
-  "locn_geometry": "POLYGON((-102 50, -62 50, -62 28, -102 28, -102 50))",
-  "dcat_bbox": "ENVELOPE(-102,-62,50,28)",
+  "locn_geometry": "POLYGON((-102.000 50.000, -62.000 50.000, -62.000 28.000, -102.000 28.000, -102.000 50.000))",
+  "dcat_bbox": "ENVELOPE(-102.000,-62.000,50.000,28.000)",
   "dcat_centroid": "39.0,-82.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -36,11 +33,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29944\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29944/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/29944\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29944/manifest.json\"}",
   "id": "301fe33e-75ab-479d-81f0-ad49ca97cb55",
   "dct_identifier_sm": [
     "301fe33e-75ab-479d-81f0-ad49ca97cb55"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:34Z",
   "gbl_mdVersion_s": "Aardvark"
 }

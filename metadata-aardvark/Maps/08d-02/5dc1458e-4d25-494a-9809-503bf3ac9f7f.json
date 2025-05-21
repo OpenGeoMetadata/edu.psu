@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1884"
@@ -38,9 +37,9 @@
     "Pennsylvania--Shickshinny",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-76.1575 41.1607, -76.1417 41.1607, -76.1417 41.145, -76.1575 41.145, -76.1575 41.1607))",
-  "dcat_bbox": "ENVELOPE(-76.1575,-76.1417,41.1607,41.145)",
-  "dcat_centroid": "41.15285,-76.14959999999999",
+  "locn_geometry": "POLYGON((-76.157 41.161, -76.142 41.161, -76.142 41.145, -76.157 41.145, -76.157 41.161))",
+  "dcat_bbox": "ENVELOPE(-76.157,-76.142,41.161,41.145)",
+  "dcat_centroid": "41.153000000000006,-76.14949999999999",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22529\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22529/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/22529\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22529/manifest.json\"}",
   "id": "5dc1458e-4d25-494a-9809-503bf3ac9f7f",
   "dct_identifier_sm": [
     "5dc1458e-4d25-494a-9809-503bf3ac9f7f"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

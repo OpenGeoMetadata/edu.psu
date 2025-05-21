@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1907"
@@ -39,9 +38,9 @@
     "Pennsylvania--Somerset County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-79.1669 39.9208, -79.1489 39.9208, -79.1489 39.9116, -79.1669 39.9116, -79.1669 39.9208))",
-  "dcat_bbox": "ENVELOPE(-79.1669,-79.1489,39.9208,39.9116)",
-  "dcat_centroid": "39.9162,-79.1579",
+  "locn_geometry": "POLYGON((-79.167 39.921, -79.149 39.921, -79.149 39.912, -79.167 39.912, -79.167 39.921))",
+  "dcat_bbox": "ENVELOPE(-79.167,-79.149,39.921,39.912)",
+  "dcat_centroid": "39.9165,-79.158",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22584\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22584/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/22584\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22584/manifest.json\"}",
   "id": "a3a8c39a-8f4c-4e4a-a9cc-c2dab8f5a541",
   "dct_identifier_sm": [
     "a3a8c39a-8f4c-4e4a-a9cc-c2dab8f5a541"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

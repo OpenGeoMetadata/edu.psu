@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1721"
   ],
@@ -34,9 +29,9 @@
   "dct_spatial_sm": [
     "India"
   ],
-  "locn_geometry": "POLYGON((73.4833 53.55, 152.9167 53.55, 152.9167 -9.6167, 73.4833 -9.6167, 73.4833 53.55))",
-  "dcat_bbox": "ENVELOPE(73.4833,152.9167,53.55,-9.6167)",
-  "dcat_centroid": "21.966649999999998,113.19999999999999",
+  "locn_geometry": "POLYGON((73.483 53.550, 152.917 53.550, 152.917 -9.617, 73.483 -9.617, 73.483 53.550))",
+  "dcat_bbox": "ENVELOPE(73.483,152.917,53.550,-9.617)",
+  "dcat_centroid": "21.966499999999996,113.2",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30178\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30178/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30178\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30178/manifest.json\"}",
   "id": "55e7825f-d28f-43a7-99ef-3fac9bafc73d",
   "dct_identifier_sm": [
     "55e7825f-d28f-43a7-99ef-3fac9bafc73d"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

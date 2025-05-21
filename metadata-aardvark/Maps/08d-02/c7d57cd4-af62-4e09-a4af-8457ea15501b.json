@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1910"
@@ -38,9 +37,9 @@
     "Pennsylvania--Wilkes-Barre",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.9257 41.273, -75.8264 41.273, -75.8264 41.2217, -75.9257 41.2217, -75.9257 41.273))",
-  "dcat_bbox": "ENVELOPE(-75.9257,-75.8264,41.273,41.2217)",
-  "dcat_centroid": "41.24735,-75.87605",
+  "locn_geometry": "POLYGON((-75.926 41.273, -75.826 41.273, -75.826 41.222, -75.926 41.222, -75.926 41.273))",
+  "dcat_bbox": "ENVELOPE(-75.926,-75.826,41.273,41.222)",
+  "dcat_centroid": "41.2475,-75.876",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/23296\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/23296/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/23296\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/23296/manifest.json\"}",
   "id": "c7d57cd4-af62-4e09-a4af-8457ea15501b",
   "dct_identifier_sm": [
     "c7d57cd4-af62-4e09-a4af-8457ea15501b"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:12Z",
   "gbl_mdVersion_s": "Aardvark"
 }

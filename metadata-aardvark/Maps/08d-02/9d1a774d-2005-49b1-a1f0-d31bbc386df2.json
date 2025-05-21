@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1884"
@@ -38,9 +37,9 @@
     "Pennsylvania--Montrose",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.8885 41.8412, -75.8638 41.8412, -75.8638 41.8234, -75.8885 41.8234, -75.8885 41.8412))",
-  "dcat_bbox": "ENVELOPE(-75.8885,-75.8638,41.8412,41.8234)",
-  "dcat_centroid": "41.832300000000004,-75.87615",
+  "locn_geometry": "POLYGON((-75.888 41.841, -75.864 41.841, -75.864 41.823, -75.888 41.823, -75.888 41.841))",
+  "dcat_bbox": "ENVELOPE(-75.888,-75.864,41.841,41.823)",
+  "dcat_centroid": "41.832,-75.876",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/14786\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14786/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/14786\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/14786/manifest.json\"}",
   "id": "9d1a774d-2005-49b1-a1f0-d31bbc386df2",
   "dct_identifier_sm": [
     "9d1a774d-2005-49b1-a1f0-d31bbc386df2"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:56Z",
   "gbl_mdVersion_s": "Aardvark"
 }

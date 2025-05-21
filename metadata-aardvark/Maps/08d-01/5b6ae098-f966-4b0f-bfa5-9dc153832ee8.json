@@ -17,11 +17,6 @@
     "Thematic maps",
     "Mine maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "approximately 1901"
   ],
@@ -35,8 +30,8 @@
   "dct_spatial_sm": [
     "Colorado"
   ],
-  "locn_geometry": "POLYGON((-108 40.5, -105 40.5, -105 37.5, -108 37.5, -108 40.5))",
-  "dcat_bbox": "ENVELOPE(-108,-105,40.5,37.5)",
+  "locn_geometry": "POLYGON((-108.000 40.500, -105.000 40.500, -105.000 37.500, -108.000 37.500, -108.000 40.500))",
+  "dcat_bbox": "ENVELOPE(-108.000,-105.000,40.500,37.500)",
   "dcat_centroid": "39.0,-106.5",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30395\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30395/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30395\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30395/manifest.json\"}",
   "id": "5b6ae098-f966-4b0f-bfa5-9dc153832ee8",
   "dct_identifier_sm": [
     "5b6ae098-f966-4b0f-bfa5-9dc153832ee8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:21Z",
   "gbl_mdVersion_s": "Aardvark"
 }

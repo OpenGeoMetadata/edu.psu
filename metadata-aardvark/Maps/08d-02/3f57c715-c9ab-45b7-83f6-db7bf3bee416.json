@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -38,9 +37,9 @@
     "Pennsylvania--Phoenixville",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.5472 40.1601, -75.4997 40.1601, -75.4997 40.1167, -75.5472 40.1167, -75.5472 40.1601))",
-  "dcat_bbox": "ENVELOPE(-75.5472,-75.4997,40.1601,40.1167)",
-  "dcat_centroid": "40.138400000000004,-75.52345",
+  "locn_geometry": "POLYGON((-75.547 40.160, -75.500 40.160, -75.500 40.117, -75.547 40.117, -75.547 40.160))",
+  "dcat_bbox": "ENVELOPE(-75.547,-75.500,40.160,40.117)",
+  "dcat_centroid": "40.13849999999999,-75.5235",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22136\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22136/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/22136\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22136/manifest.json\"}",
   "id": "3f57c715-c9ab-45b7-83f6-db7bf3bee416",
   "dct_identifier_sm": [
     "3f57c715-c9ab-45b7-83f6-db7bf3bee416"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1921"
@@ -38,9 +37,9 @@
     "Pennsylvania--Pittston",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.8075 41.3442, -75.7763 41.3442, -75.7763 41.3103, -75.8075 41.3103, -75.8075 41.3442))",
-  "dcat_bbox": "ENVELOPE(-75.8075,-75.7763,41.3442,41.3103)",
-  "dcat_centroid": "41.32725,-75.7919",
+  "locn_geometry": "POLYGON((-75.808 41.344, -75.776 41.344, -75.776 41.310, -75.808 41.310, -75.808 41.344))",
+  "dcat_bbox": "ENVELOPE(-75.808,-75.776,41.344,41.310)",
+  "dcat_centroid": "41.327,-75.792",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22589\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22589/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/22589\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22589/manifest.json\"}",
   "id": "cb538e91-08f3-46f2-a82b-689128a32a0d",
   "dct_identifier_sm": [
     "cb538e91-08f3-46f2-a82b-689128a32a0d"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:59Z",
   "gbl_mdVersion_s": "Aardvark"
 }

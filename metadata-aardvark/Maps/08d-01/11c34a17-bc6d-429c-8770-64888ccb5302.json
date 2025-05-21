@@ -17,11 +17,6 @@
     "Tourist maps",
     "Pictorial maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1927"
   ],
@@ -36,9 +31,9 @@
     "California--San Francisco",
     "California"
   ],
-  "locn_geometry": "POLYGON((-122.52 37.8103, -122.3725 37.8103, -122.3725 37.7364, -122.52 37.7364, -122.52 37.8103))",
-  "dcat_bbox": "ENVELOPE(-122.52,-122.3725,37.8103,37.7364)",
-  "dcat_centroid": "37.77335,-122.44624999999999",
+  "locn_geometry": "POLYGON((-122.520 37.810, -122.373 37.810, -122.373 37.736, -122.520 37.736, -122.520 37.810))",
+  "dcat_bbox": "ENVELOPE(-122.520,-122.373,37.810,37.736)",
+  "dcat_centroid": "37.772999999999996,-122.4465",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +42,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30380\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30380/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30380\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30380/manifest.json\"}",
   "id": "11c34a17-bc6d-429c-8770-64888ccb5302",
   "dct_identifier_sm": [
     "11c34a17-bc6d-429c-8770-64888ccb5302"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

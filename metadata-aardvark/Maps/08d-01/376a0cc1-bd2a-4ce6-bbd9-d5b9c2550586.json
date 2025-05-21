@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1705"
   ],
@@ -34,9 +29,9 @@
   "dct_spatial_sm": [
     "Asia"
   ],
-  "locn_geometry": "POLYGON((57.5667 53.6333, 169.7167 53.6333, 169.7167 -12.2, 57.5667 -12.2, 57.5667 53.6333))",
-  "dcat_bbox": "ENVELOPE(57.5667,169.7167,53.6333,-12.2)",
-  "dcat_centroid": "20.71665,113.6417",
+  "locn_geometry": "POLYGON((57.567 53.633, 169.717 53.633, 169.717 -12.200, 57.567 -12.200, 57.567 53.633))",
+  "dcat_bbox": "ENVELOPE(57.567,169.717,53.633,-12.200)",
+  "dcat_centroid": "20.716500000000003,113.64200000000001",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30283\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30283/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30283\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30283/manifest.json\"}",
   "id": "376a0cc1-bd2a-4ce6-bbd9-d5b9c2550586",
   "dct_identifier_sm": [
     "376a0cc1-bd2a-4ce6-bbd9-d5b9c2550586"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:22Z",
   "gbl_mdVersion_s": "Aardvark"
 }

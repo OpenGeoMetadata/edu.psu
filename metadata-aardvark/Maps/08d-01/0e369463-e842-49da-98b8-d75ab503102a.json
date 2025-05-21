@@ -17,11 +17,6 @@
     "Cadastral maps",
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1709"
   ],
@@ -36,9 +31,9 @@
     "Pennsylvania--Chester County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.86 41.4497, -75.7894 41.4497, -75.7894 41.4097, -75.86 41.4097, -75.86 41.4497))",
-  "dcat_bbox": "ENVELOPE(-75.86,-75.7894,41.4497,41.4097)",
-  "dcat_centroid": "41.4297,-75.8247",
+  "locn_geometry": "POLYGON((-75.860 41.450, -75.789 41.450, -75.789 41.410, -75.860 41.410, -75.860 41.450))",
+  "dcat_bbox": "ENVELOPE(-75.860,-75.789,41.450,41.410)",
+  "dcat_centroid": "41.43,-75.8245",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +42,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30090\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30090/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30090\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30090/manifest.json\"}",
   "id": "0e369463-e842-49da-98b8-d75ab503102a",
   "dct_identifier_sm": [
     "0e369463-e842-49da-98b8-d75ab503102a"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

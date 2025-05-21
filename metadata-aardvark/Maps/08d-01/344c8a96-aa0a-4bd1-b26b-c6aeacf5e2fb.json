@@ -13,9 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps"
-  ],
   "dct_temporal_sm": [
     "1758"
   ],
@@ -30,9 +27,9 @@
     "Canada--Nova Scotia",
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-60.0667 45.9333, -59.95 45.9333, -59.95 45.8667, -60.0667 45.8667, -60.0667 45.9333))",
-  "dcat_bbox": "ENVELOPE(-60.0667,-59.95,45.9333,45.8667)",
-  "dcat_centroid": "45.900000000000006,-60.00835",
+  "locn_geometry": "POLYGON((-60.067 45.933, -59.950 45.933, -59.950 45.867, -60.067 45.867, -60.067 45.933))",
+  "dcat_bbox": "ENVELOPE(-60.067,-59.950,45.933,45.867)",
+  "dcat_centroid": "45.9,-60.0085",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +38,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27184\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27184/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/27184\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27184/manifest.json\"}",
   "id": "344c8a96-aa0a-4bd1-b26b-c6aeacf5e2fb",
   "dct_identifier_sm": [
     "344c8a96-aa0a-4bd1-b26b-c6aeacf5e2fb"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

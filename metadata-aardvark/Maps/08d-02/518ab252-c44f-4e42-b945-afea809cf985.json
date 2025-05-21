@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1929"
@@ -40,9 +39,9 @@
     "Pennsylvania--Columbia County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-76.4778 41.0254, -76.4276 41.0254, -76.4276 40.9763, -76.4778 40.9763, -76.4778 41.0254))",
-  "dcat_bbox": "ENVELOPE(-76.4778,-76.4276,41.0254,40.9763)",
-  "dcat_centroid": "41.00085,-76.4527",
+  "locn_geometry": "POLYGON((-76.478 41.025, -76.428 41.025, -76.428 40.976, -76.478 40.976, -76.478 41.025))",
+  "dcat_bbox": "ENVELOPE(-76.478,-76.428,41.025,40.976)",
+  "dcat_centroid": "41.0005,-76.453",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -55,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26234\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26234/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/26234\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26234/manifest.json\"}",
   "id": "518ab252-c44f-4e42-b945-afea809cf985",
   "dct_identifier_sm": [
     "518ab252-c44f-4e42-b945-afea809cf985"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:14Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -38,9 +37,9 @@
     "Pennsylvania--Wyalusing",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-76.2756 41.6783, -76.2508 41.6783, -76.2508 41.6618, -76.2756 41.6618, -76.2756 41.6783))",
-  "dcat_bbox": "ENVELOPE(-76.2756,-76.2508,41.6783,41.6618)",
-  "dcat_centroid": "41.67005,-76.2632",
+  "locn_geometry": "POLYGON((-76.276 41.678, -76.251 41.678, -76.251 41.662, -76.276 41.662, -76.276 41.678))",
+  "dcat_bbox": "ENVELOPE(-76.276,-76.251,41.678,41.662)",
+  "dcat_centroid": "41.67,-76.2635",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24010\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24010/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/24010\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24010/manifest.json\"}",
   "id": "26cce709-34e0-42c4-8e2c-2d179ccc9034",
   "dct_identifier_sm": [
     "26cce709-34e0-42c4-8e2c-2d179ccc9034"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

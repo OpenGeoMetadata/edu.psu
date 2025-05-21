@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1928"
@@ -39,9 +38,9 @@
     "Pennsylvania--Westmoreland County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-79.3121 40.3417, -79.2893 40.3417, -79.2893 40.3225, -79.3121 40.3225, -79.3121 40.3417))",
-  "dcat_bbox": "ENVELOPE(-79.3121,-79.2893,40.3417,40.3225)",
-  "dcat_centroid": "40.3321,-79.3007",
+  "locn_geometry": "POLYGON((-79.312 40.342, -79.289 40.342, -79.289 40.322, -79.312 40.322, -79.312 40.342))",
+  "dcat_bbox": "ENVELOPE(-79.312,-79.289,40.342,40.322)",
+  "dcat_centroid": "40.332,-79.3005",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26704\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26704/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/26704\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26704/manifest.json\"}",
   "id": "ffe3386b-c634-44e4-9cbe-9b0482211e8e",
   "dct_identifier_sm": [
     "ffe3386b-c634-44e4-9cbe-9b0482211e8e"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:18Z",
   "gbl_mdVersion_s": "Aardvark"
 }

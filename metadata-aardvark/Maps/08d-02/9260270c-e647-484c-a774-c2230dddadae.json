@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -38,9 +37,9 @@
     "Pennsylvania--Shenandoah",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-76.2164 40.8267, -76.1808 40.8267, -76.1808 40.8027, -76.2164 40.8027, -76.2164 40.8267))",
-  "dcat_bbox": "ENVELOPE(-76.2164,-76.1808,40.8267,40.8027)",
-  "dcat_centroid": "40.8147,-76.1986",
+  "locn_geometry": "POLYGON((-76.216 40.827, -76.181 40.827, -76.181 40.803, -76.216 40.803, -76.216 40.827))",
+  "dcat_bbox": "ENVELOPE(-76.216,-76.181,40.827,40.803)",
+  "dcat_centroid": "40.815,-76.1985",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/22439\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22439/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/22439\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/22439/manifest.json\"}",
   "id": "9260270c-e647-484c-a774-c2230dddadae",
   "dct_identifier_sm": [
     "9260270c-e647-484c-a774-c2230dddadae"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

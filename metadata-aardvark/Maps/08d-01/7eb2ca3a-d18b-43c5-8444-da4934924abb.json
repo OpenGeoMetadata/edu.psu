@@ -13,10 +13,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020"
-  ],
   "dct_temporal_sm": [
     "between 1100 and 1400"
   ],
@@ -29,9 +25,9 @@
   "dct_spatial_sm": [
     "Jerusalem"
   ],
-  "locn_geometry": "POLYGON((34.2167 32.55, 35.5667 32.55, 35.5667 31.2167, 34.2167 31.2167, 34.2167 32.55))",
-  "dcat_bbox": "ENVELOPE(34.2167,35.5667,32.55,31.2167)",
-  "dcat_centroid": "31.88335,34.8917",
+  "locn_geometry": "POLYGON((34.217 32.550, 35.567 32.550, 35.567 31.217, 34.217 31.217, 34.217 32.550))",
+  "dcat_bbox": "ENVELOPE(34.217,35.567,32.550,31.217)",
+  "dcat_centroid": "31.883499999999998,34.891999999999996",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,11 +39,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30282\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30282/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30282\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30282/manifest.json\"}",
   "id": "7eb2ca3a-d18b-43c5-8444-da4934924abb",
   "dct_identifier_sm": [
     "7eb2ca3a-d18b-43c5-8444-da4934924abb"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:10Z",
   "gbl_mdVersion_s": "Aardvark"
 }

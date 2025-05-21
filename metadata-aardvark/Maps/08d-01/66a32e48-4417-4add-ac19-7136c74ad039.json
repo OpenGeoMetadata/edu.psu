@@ -14,10 +14,6 @@
     "Early maps",
     "Aerial views"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020"
-  ],
   "dct_temporal_sm": [
     "1759"
   ],
@@ -32,9 +28,9 @@
     "New York--Fort Ticonderoga",
     "New York"
   ],
-  "locn_geometry": "POLYGON((-73.7428 43.8517, -73.3486 43.8517, -73.3486 43.2492, -73.7428 43.2492, -73.7428 43.8517))",
-  "dcat_bbox": "ENVELOPE(-73.7428,-73.3486,43.8517,43.2492)",
-  "dcat_centroid": "43.55045,-73.54570000000001",
+  "locn_geometry": "POLYGON((-73.743 43.852, -73.349 43.852, -73.349 43.249, -73.743 43.249, -73.743 43.852))",
+  "dcat_bbox": "ENVELOPE(-73.743,-73.349,43.852,43.249)",
+  "dcat_centroid": "43.5505,-73.54599999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,11 +39,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30071\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30071/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30071\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30071/manifest.json\"}",
   "id": "66a32e48-4417-4add-ac19-7136c74ad039",
   "dct_identifier_sm": [
     "66a32e48-4417-4add-ac19-7136c74ad039"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:11:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

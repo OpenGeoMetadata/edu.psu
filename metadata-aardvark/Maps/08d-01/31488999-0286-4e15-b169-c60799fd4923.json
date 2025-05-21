@@ -17,11 +17,6 @@
     "Thematic maps",
     "Bathymetric charts"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1869"
   ],
@@ -35,9 +30,9 @@
   "dct_spatial_sm": [
     "Egypt"
   ],
-  "locn_geometry": "POLYGON((32.3 31.0833, 32.5833 31.0833, 32.5833 29.9167, 32.3 29.9167, 32.3 31.0833))",
-  "dcat_bbox": "ENVELOPE(32.3,32.5833,31.0833,29.9167)",
-  "dcat_centroid": "30.5,32.441649999999996",
+  "locn_geometry": "POLYGON((32.300 31.083, 32.583 31.083, 32.583 29.917, 32.300 29.917, 32.300 31.083))",
+  "dcat_bbox": "ENVELOPE(32.300,32.583,31.083,29.917)",
+  "dcat_centroid": "30.5,32.4415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30242\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30242/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30242\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30242/manifest.json\"}",
   "id": "31488999-0286-4e15-b169-c60799fd4923",
   "dct_identifier_sm": [
     "31488999-0286-4e15-b169-c60799fd4923"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:01Z",
   "gbl_mdVersion_s": "Aardvark"
 }

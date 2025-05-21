@@ -17,11 +17,6 @@
     "Pictorial maps",
     "World maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint",
-    "-180TO180"
-  ],
   "dct_temporal_sm": [
     "approximately 1939"
   ],
@@ -35,8 +30,8 @@
   "dct_spatial_sm": [
     "World"
   ],
-  "locn_geometry": "ENVELOPE(-180,180,90,-90)",
-  "dcat_bbox": "ENVELOPE(-180,180,90,-90)",
+  "locn_geometry": "POLYGON((-179.99 89.99, 179.99 89.99, 179.99 -89.99, -179.99 -89.99, -179.99 89.99))",
+  "dcat_bbox": "ENVELOPE(-179.99,179.99,89.99,-89.99)",
   "dcat_centroid": "0.0,0.0",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -46,11 +41,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26372\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26372/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/26372\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26372/manifest.json\"}",
   "id": "cbb381a9-8b50-4223-b960-c0e549f8c7fd",
   "dct_identifier_sm": [
     "cbb381a9-8b50-4223-b960-c0e549f8c7fd"
   ],
-  "gbl_mdModified_dt": "2023-06-23T22:01:00Z",
   "gbl_mdVersion_s": "Aardvark"
 }

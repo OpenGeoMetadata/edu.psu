@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1925"
@@ -45,9 +44,9 @@
     "Pennsylvania--McKean County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-78.6759 41.9834, -78.4326 41.9834, -78.4326 41.8526, -78.6759 41.8526, -78.6759 41.9834))",
-  "dcat_bbox": "ENVELOPE(-78.6759,-78.4326,41.9834,41.8526)",
-  "dcat_centroid": "41.918000000000006,-78.55425",
+  "locn_geometry": "POLYGON((-78.676 41.983, -78.433 41.983, -78.433 41.853, -78.676 41.853, -78.676 41.983))",
+  "dcat_bbox": "ENVELOPE(-78.676,-78.433,41.983,41.853)",
+  "dcat_centroid": "41.918,-78.5545",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -60,11 +59,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/26363\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26363/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/26363\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/26363/manifest.json\"}",
   "id": "0aa785c9-e47a-4c85-b37f-95abef7ccf1d",
   "dct_identifier_sm": [
     "0aa785c9-e47a-4c85-b37f-95abef7ccf1d"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:24Z",
   "gbl_mdVersion_s": "Aardvark"
 }

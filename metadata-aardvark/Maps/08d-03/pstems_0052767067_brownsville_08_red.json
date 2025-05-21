@@ -25,11 +25,15 @@
     "Geological maps"
   ],
   "dct_subject_sm": [
-    "Bituminous coal--Pennsylvania--Maps",
-    "Gas wells--Pennsylvania--Maps",
-    "Oil wells--Pennsylvania--Maps"
+    "Bituminous coal",
+    "Gas wells",
+    "Oil wells"
   ],
   "dcat_keyword_sm": [
+    "Pennsylvania Railroad",
+    "New York Central",
+    "Krepp Knob",
+    "West Penn Electric",
     "Wood Run",
     "Lucyville",
     "Newell",
@@ -53,11 +57,7 @@
     "Pennsylvnaia Railroad",
     "Brownsville Anticline",
     "Pennsylvania &amp",
-    "Lake Erie Railroad",
-    "Pennsylvania Railroad",
-    "New York Central",
-    "Krepp Knob",
-    "West Penn Electric"
+    "Lake Erie Railroad"
   ],
   "dct_temporal_sm": [
     "1934-1938"
@@ -71,18 +71,18 @@
   ],
   "dct_spatial_sm": [
     "Pennsylvania",
-    "Fayette County",
-    "Washington County",
-    "Jefferson Township",
-    "Redstone Township",
-    "Luzerne Township",
-    "Brownsville Township",
-    "Bridgeport Township",
-    "East Pike Run Township"
+    "Pennsylvania--Fayette County",
+    "Pennsylvania--Washington County",
+    "Pennsylvania--Jefferson Township",
+    "Pennsylvania--Redstone Township",
+    "Pennsylvania--Luzerne Township",
+    "Pennsylvania--Brownsville Township",
+    "Pennsylvania--Bridgeport Township",
+    "Pennsylvania--East Pike Run Township"
   ],
-  "locn_geometry": "POLYGON((-79.916667 40.083333, -79.833333 40.083333, -79.833333 40, -79.916667 40, -79.916667 40.083333))",
-  "dcat_bbox": "ENVELOPE(-79.916667,-79.833333,40.083333,40)",
-  "dcat_centroid": "40.041666500000005,-79.875",
+  "locn_geometry": "POLYGON((-79.917 40.083, -79.833 40.083, -79.833 40.000, -79.917 40.000, -79.917 40.083))",
+  "dcat_bbox": "ENVELOPE(-79.917,-79.833,40.083,40.000)",
+  "dcat_centroid": "40.0415,-79.875",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -94,12 +94,11 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://www.minemaps.psu.edu/aboutnew.htm\",\"http://iiif.io/api/image\":\"https://cdm17287.contentdm.oclc.org/digital/iiif/wpamaps/2721/info.json\",\"http://schema.org/url\":\"http://cdm17287.contentdm.oclc.org/cdm/ref/collection/wpamaps/id/2721\"}",
+  "dct_references_s": "{\"http://lccn.loc.gov/sh85035852\":\"https://www.minemaps.psu.edu/aboutnew.htm\",\"http://schema.org/url\":\"http://cdm17287.contentdm.oclc.org/cdm/ref/collection/wpamaps/id/2721\",\"http://iiif.io/api/image\":\"https://cdm17287.contentdm.oclc.org/digital/iiif/wpamaps/2721/info.json\"}",
   "id": "pstems_0052767067_brownsville_08_red",
   "dct_identifier_sm": [
     "52767067",
     "/wpamaps/image/2712.jp2"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

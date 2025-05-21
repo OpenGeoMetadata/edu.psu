@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1911"
@@ -39,9 +38,9 @@
     "Pennsylvania--Huntingdon County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-77.9469 40.3974, -77.9347 40.3974, -77.9347 40.3894, -77.9469 40.3894, -77.9469 40.3974))",
-  "dcat_bbox": "ENVELOPE(-77.9469,-77.9347,40.3974,40.3894)",
-  "dcat_centroid": "40.3934,-77.9408",
+  "locn_geometry": "POLYGON((-77.947 40.397, -77.935 40.397, -77.935 40.389, -77.947 40.389, -77.947 40.397))",
+  "dcat_bbox": "ENVELOPE(-77.947,-77.935,40.397,40.389)",
+  "dcat_centroid": "40.393,-77.941",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13532\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13532/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/13532\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13532/manifest.json\"}",
   "id": "91a44893-74ec-48e7-a83d-90c5fb5d1e07",
   "dct_identifier_sm": [
     "91a44893-74ec-48e7-a83d-90c5fb5d1e07"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:43Z",
   "gbl_mdVersion_s": "Aardvark"
 }

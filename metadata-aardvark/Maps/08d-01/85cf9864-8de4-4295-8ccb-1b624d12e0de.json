@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1900 and 1950"
   ],
@@ -34,9 +29,9 @@
   "dct_spatial_sm": [
     "France"
   ],
-  "locn_geometry": "POLYGON((-5.1333 51.0833, 9.55 51.0833, 9.55 41.3333, -5.1333 41.3333, -5.1333 51.0833))",
-  "dcat_bbox": "ENVELOPE(-5.1333,9.55,51.0833,41.3333)",
-  "dcat_centroid": "46.2083,2.2083500000000003",
+  "locn_geometry": "POLYGON((-5.133 51.083, 9.550 51.083, 9.550 41.333, -5.133 41.333, -5.133 51.083))",
+  "dcat_bbox": "ENVELOPE(-5.133,9.550,51.083,41.333)",
+  "dcat_centroid": "46.208,2.2085000000000004",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30430\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30430/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30430\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30430/manifest.json\"}",
   "id": "85cf9864-8de4-4295-8ccb-1b624d12e0de",
   "dct_identifier_sm": [
     "85cf9864-8de4-4295-8ccb-1b624d12e0de"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:40Z",
   "gbl_mdVersion_s": "Aardvark"
 }

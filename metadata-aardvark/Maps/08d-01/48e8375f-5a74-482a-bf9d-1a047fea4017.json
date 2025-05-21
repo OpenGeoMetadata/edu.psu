@@ -13,11 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1894"
   ],
@@ -31,9 +26,9 @@
   "dct_spatial_sm": [
     "California"
   ],
-  "locn_geometry": "POLYGON((-119.3833 34.3, -115.4833 34.3, -115.4833 32.5, -119.3833 32.5, -119.3833 34.3))",
-  "dcat_bbox": "ENVELOPE(-119.3833,-115.4833,34.3,32.5)",
-  "dcat_centroid": "33.4,-117.4333",
+  "locn_geometry": "POLYGON((-119.383 34.300, -115.483 34.300, -115.483 32.500, -119.383 32.500, -119.383 34.300))",
+  "dcat_bbox": "ENVELOPE(-119.383,-115.483,34.300,32.500)",
+  "dcat_centroid": "33.4,-117.43299999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -42,11 +37,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30379\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30379/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30379\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30379/manifest.json\"}",
   "id": "48e8375f-5a74-482a-bf9d-1a047fea4017",
   "dct_identifier_sm": [
     "48e8375f-5a74-482a-bf9d-1a047fea4017"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:22:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

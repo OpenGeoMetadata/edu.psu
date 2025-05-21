@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Topographic maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1914"
   ],
@@ -34,9 +29,9 @@
   "dct_spatial_sm": [
     "Liberia"
   ],
-  "locn_geometry": "POLYGON((-11.4667 8.55, -7.3667 8.55, -7.3667 4.3, -11.4667 4.3, -11.4667 8.55))",
-  "dcat_bbox": "ENVELOPE(-11.4667,-7.3667,8.55,4.3)",
-  "dcat_centroid": "6.425000000000001,-9.416699999999999",
+  "locn_geometry": "POLYGON((-11.467 8.550, -7.367 8.550, -7.367 4.300, -11.467 4.300, -11.467 8.550))",
+  "dcat_bbox": "ENVELOPE(-11.467,-7.367,8.550,4.300)",
+  "dcat_centroid": "6.425000000000001,-9.417",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30219\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30219/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30219\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30219/manifest.json\"}",
   "id": "203281c7-6816-4433-879b-414a3e881b64",
   "dct_identifier_sm": [
     "203281c7-6816-4433-879b-414a3e881b64"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:13Z",
   "gbl_mdVersion_s": "Aardvark"
 }

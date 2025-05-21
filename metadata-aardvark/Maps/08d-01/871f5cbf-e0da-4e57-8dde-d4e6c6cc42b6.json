@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-oct2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1765",
     "1767",
@@ -36,9 +31,9 @@
   "dct_spatial_sm": [
     "Oceania"
   ],
-  "locn_geometry": "POLYGON((139.5667 3.25, -73.1167 3.25, -73.1167 -59.9667, 139.5667 -59.9667, 139.5667 3.25))",
-  "dcat_bbox": "ENVELOPE(139.5667,-73.1167,3.25,-59.9667)",
-  "dcat_centroid": "-28.35835,33.225",
+  "locn_geometry": "POLYGON((139.567 3.250, -73.117 3.250, -73.117 -59.967, 139.567 -59.967, 139.567 3.250))",
+  "dcat_bbox": "ENVELOPE(139.567,-73.117,3.250,-59.967)",
+  "dcat_centroid": "-28.3585,33.225",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -47,11 +42,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30175\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30175/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30175\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30175/manifest.json\"}",
   "id": "871f5cbf-e0da-4e57-8dde-d4e6c6cc42b6",
   "dct_identifier_sm": [
     "871f5cbf-e0da-4e57-8dde-d4e6c6cc42b6"
   ],
-  "gbl_mdModified_dt": "2023-02-28T04:15:11Z",
   "gbl_mdVersion_s": "Aardvark"
 }

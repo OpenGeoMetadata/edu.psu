@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Thematic maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1927"
   ],
@@ -34,9 +29,9 @@
   "dct_spatial_sm": [
     "British Isles"
   ],
-  "locn_geometry": "POLYGON((-10.5667 59.4167, 2.3833 59.4167, 2.3833 48.6, -10.5667 48.6, -10.5667 59.4167))",
-  "dcat_bbox": "ENVELOPE(-10.5667,2.3833,59.4167,48.6)",
-  "dcat_centroid": "54.00835,-4.0917",
+  "locn_geometry": "POLYGON((-10.567 59.417, 2.383 59.417, 2.383 48.600, -10.567 48.600, -10.567 59.417))",
+  "dcat_bbox": "ENVELOPE(-10.567,2.383,59.417,48.600)",
+  "dcat_centroid": "54.0085,-4.0920000000000005",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30413\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30413/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30413\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30413/manifest.json\"}",
   "id": "b4ae4ae0-35e5-4221-9062-f157d1ba79b3",
   "dct_identifier_sm": [
     "b4ae4ae0-35e5-4221-9062-f157d1ba79b3"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:57Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -16,10 +16,6 @@
   "gbl_resourceType_sm": [
     "Military maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020"
-  ],
   "dct_temporal_sm": [
     "1745"
   ],
@@ -35,8 +31,8 @@
     "Canada--Nova Scotia",
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-59.9861 45.9303, -59.9539 45.9303, -59.9539 45.9147, -59.9861 45.9147, -59.9861 45.9303))",
-  "dcat_bbox": "ENVELOPE(-59.9861,-59.9539,45.9303,45.9147)",
+  "locn_geometry": "POLYGON((-59.986 45.930, -59.954 45.930, -59.954 45.915, -59.986 45.915, -59.986 45.930))",
+  "dcat_bbox": "ENVELOPE(-59.986,-59.954,45.930,45.915)",
   "dcat_centroid": "45.9225,-59.97",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
@@ -46,11 +42,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27167\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27167/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/27167\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27167/manifest.json\"}",
   "id": "06d84556-a3ca-488f-bbaf-fd45625457ce",
   "dct_identifier_sm": [
     "06d84556-a3ca-488f-bbaf-fd45625457ce"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:16:09Z",
   "gbl_mdVersion_s": "Aardvark"
 }

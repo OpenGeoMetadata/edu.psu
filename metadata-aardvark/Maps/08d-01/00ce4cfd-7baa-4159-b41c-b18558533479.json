@@ -16,10 +16,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1855"
   ],
@@ -32,9 +28,9 @@
   "dct_spatial_sm": [
     "Canada"
   ],
-  "locn_geometry": "POLYGON((-83.5333 47.6167, -71.95 47.6167, -71.95 40.7833, -83.5333 40.7833, -83.5333 47.6167))",
-  "dcat_bbox": "ENVELOPE(-83.5333,-71.95,47.6167,40.7833)",
-  "dcat_centroid": "44.2,-77.74164999999999",
+  "locn_geometry": "POLYGON((-83.533 47.617, -71.950 47.617, -71.950 40.783, -83.533 40.783, -83.533 47.617))",
+  "dcat_bbox": "ENVELOPE(-83.533,-71.950,47.617,40.783)",
+  "dcat_centroid": "44.2,-77.7415",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,11 +39,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/27171\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27171/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/27171\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/27171/manifest.json\"}",
   "id": "00ce4cfd-7baa-4159-b41c-b18558533479",
   "dct_identifier_sm": [
     "00ce4cfd-7baa-4159-b41c-b18558533479"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

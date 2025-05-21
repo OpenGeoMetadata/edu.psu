@@ -13,10 +13,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1861"
   ],
@@ -30,9 +26,9 @@
     "Virginia--Dranesville",
     "Virginia"
   ],
-  "locn_geometry": "POLYGON((-77.3547 39.0044, -77.3308 39.0044, -77.3308 38.9944, -77.3547 38.9944, -77.3547 39.0044))",
-  "dcat_bbox": "ENVELOPE(-77.3547,-77.3308,39.0044,38.9944)",
-  "dcat_centroid": "38.999399999999994,-77.34275",
+  "locn_geometry": "POLYGON((-77.355 39.004, -77.331 39.004, -77.331 38.994, -77.355 38.994, -77.355 39.004))",
+  "dcat_bbox": "ENVELOPE(-77.355,-77.331,39.004,38.994)",
+  "dcat_centroid": "38.998999999999995,-77.343",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -41,11 +37,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30114\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30114/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30114\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30114/manifest.json\"}",
   "id": "b80aaa0c-9dbc-4fa6-995a-8482b881da51",
   "dct_identifier_sm": [
     "b80aaa0c-9dbc-4fa6-995a-8482b881da51"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:27Z",
   "gbl_mdVersion_s": "Aardvark"
 }

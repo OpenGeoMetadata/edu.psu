@@ -19,10 +19,6 @@
   "dct_subject_sm": [
     "Railroads"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1899"
   ],
@@ -35,9 +31,9 @@
   "dct_spatial_sm": [
     "Connecticut"
   ],
-  "locn_geometry": "POLYGON((-73.7167 42.05, -71.7833 42.05, -71.7833 40.9833, -73.7167 40.9833, -73.7167 42.05))",
-  "dcat_bbox": "ENVELOPE(-73.7167,-71.7833,42.05,40.9833)",
-  "dcat_centroid": "41.51665,-72.75",
+  "locn_geometry": "POLYGON((-73.717 42.050, -71.783 42.050, -71.783 40.983, -73.717 40.983, -73.717 42.050))",
+  "dcat_bbox": "ENVELOPE(-73.717,-71.783,42.050,40.983)",
+  "dcat_centroid": "41.51649999999999,-72.75",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -46,11 +42,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30067\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30067/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30067\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30067/manifest.json\"}",
   "id": "fb1e2ee0-9e1c-43a4-9479-97703c1e9231",
   "dct_identifier_sm": [
     "fb1e2ee0-9e1c-43a4-9479-97703c1e9231"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:17:48Z",
   "gbl_mdVersion_s": "Aardvark"
 }

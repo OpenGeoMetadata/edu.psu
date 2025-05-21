@@ -16,10 +16,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1877"
   ],
@@ -33,9 +29,9 @@
     "Kentucky--Perryville",
     "Kentucky"
   ],
-  "locn_geometry": "POLYGON((-85.0125 37.6908, -84.9408 37.6908, -84.9408 37.6072, -85.0125 37.6072, -85.0125 37.6908))",
-  "dcat_bbox": "ENVELOPE(-85.0125,-84.9408,37.6908,37.6072)",
-  "dcat_centroid": "37.649,-84.97665",
+  "locn_geometry": "POLYGON((-85.013 37.691, -84.941 37.691, -84.941 37.607, -85.013 37.607, -85.013 37.691))",
+  "dcat_bbox": "ENVELOPE(-85.013,-84.941,37.691,37.607)",
+  "dcat_centroid": "37.649,-84.977",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30160\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30160/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30160\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30160/manifest.json\"}",
   "id": "3f5f5196-5497-491d-b2f8-9398ed7add19",
   "dct_identifier_sm": [
     "3f5f5196-5497-491d-b2f8-9398ed7add19"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:21:28Z",
   "gbl_mdVersion_s": "Aardvark"
 }

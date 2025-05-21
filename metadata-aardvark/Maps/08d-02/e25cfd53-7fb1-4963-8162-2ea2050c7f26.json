@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1906"
@@ -40,9 +39,9 @@
     "Pennsylvania--Avalon",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-80.0755 40.5091, -80.0447 40.5091, -80.0447 40.4826, -80.0755 40.4826, -80.0755 40.5091))",
-  "dcat_bbox": "ENVELOPE(-80.0755,-80.0447,40.5091,40.4826)",
-  "dcat_centroid": "40.49585,-80.0601",
+  "locn_geometry": "POLYGON((-80.076 40.509, -80.045 40.509, -80.045 40.483, -80.076 40.483, -80.076 40.509))",
+  "dcat_bbox": "ENVELOPE(-80.076,-80.045,40.509,40.483)",
+  "dcat_centroid": "40.495999999999995,-80.06049999999999",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -55,11 +54,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/2764\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2764/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/2764\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/2764/manifest.json\"}",
   "id": "e25cfd53-7fb1-4963-8162-2ea2050c7f26",
   "dct_identifier_sm": [
     "e25cfd53-7fb1-4963-8162-2ea2050c7f26"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:25Z",
   "gbl_mdVersion_s": "Aardvark"
 }

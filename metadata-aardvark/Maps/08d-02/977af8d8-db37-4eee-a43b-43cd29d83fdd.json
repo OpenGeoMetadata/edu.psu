@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1913"
@@ -39,9 +38,9 @@
     "Pennsylvania--Union County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-77.0623 40.93, -77.0238 40.93, -77.0238 40.9093, -77.0623 40.9093, -77.0623 40.93))",
-  "dcat_bbox": "ENVELOPE(-77.0623,-77.0238,40.93,40.9093)",
-  "dcat_centroid": "40.919650000000004,-77.04305",
+  "locn_geometry": "POLYGON((-77.062 40.930, -77.024 40.930, -77.024 40.909, -77.062 40.909, -77.062 40.930))",
+  "dcat_bbox": "ENVELOPE(-77.062,-77.024,40.930,40.909)",
+  "dcat_centroid": "40.9195,-77.043",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/15038\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15038/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/15038\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/15038/manifest.json\"}",
   "id": "977af8d8-db37-4eee-a43b-43cd29d83fdd",
   "dct_identifier_sm": [
     "977af8d8-db37-4eee-a43b-43cd29d83fdd"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:47Z",
   "gbl_mdVersion_s": "Aardvark"
 }

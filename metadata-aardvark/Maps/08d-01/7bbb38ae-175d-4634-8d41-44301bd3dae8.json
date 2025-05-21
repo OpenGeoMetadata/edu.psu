@@ -16,11 +16,6 @@
   "gbl_resourceType_sm": [
     "Topographic maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "sprint-mar2020",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "between 1895 and 1899"
   ],
@@ -34,9 +29,9 @@
   "dct_spatial_sm": [
     "Oklahoma"
   ],
-  "locn_geometry": "POLYGON((-98.2005 37.2739, -94.0037 37.2739, -94.0037 33.5504, -98.2005 33.5504, -98.2005 37.2739))",
-  "dcat_bbox": "ENVELOPE(-98.2005,-94.0037,37.2739,33.5504)",
-  "dcat_centroid": "35.41215,-96.10210000000001",
+  "locn_geometry": "POLYGON((-98.201 37.274, -94.004 37.274, -94.004 33.550, -98.201 33.550, -98.201 37.274))",
+  "dcat_bbox": "ENVELOPE(-98.201,-94.004,37.274,33.550)",
+  "dcat_centroid": "35.412,-96.10249999999999",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -45,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30368\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30368/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30368\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30368/manifest.json\"}",
   "id": "7bbb38ae-175d-4634-8d41-44301bd3dae8",
   "dct_identifier_sm": [
     "7bbb38ae-175d-4634-8d41-44301bd3dae8"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:19:54Z",
   "gbl_mdVersion_s": "Aardvark"
 }

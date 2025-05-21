@@ -16,10 +16,6 @@
   "gbl_resourceClass_sm": [
     "Maps"
   ],
-  "dcat_keyword_sm": [
-    "Penn State Rare Maps",
-    "2022-creator-sprint"
-  ],
   "dct_temporal_sm": [
     "1843"
   ],
@@ -33,9 +29,9 @@
     "England--London",
     "England"
   ],
-  "locn_geometry": "POLYGON((0.3514 51.6722, 0.1481 51.6722, 0.1481 51.3847, 0.3514 51.3847, 0.3514 51.6722))",
-  "dcat_bbox": "ENVELOPE(0.3514,0.1481,51.6722,51.3847)",
-  "dcat_centroid": "51.52845,0.24975",
+  "locn_geometry": "POLYGON((0.351 51.672, 0.148 51.672, 0.148 51.385, 0.351 51.385, 0.351 51.672))",
+  "dcat_bbox": "ENVELOPE(0.351,0.148,51.672,51.385)",
+  "dcat_centroid": "51.528499999999994,0.2495",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -44,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/30359\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30359/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/30359\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/30359/manifest.json\"}",
   "id": "f541e423-8ddd-4327-92bc-32bee699f003",
   "dct_identifier_sm": [
     "f541e423-8ddd-4327-92bc-32bee699f003"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:20:35Z",
   "gbl_mdVersion_s": "Aardvark"
 }

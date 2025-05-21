@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1913"
@@ -39,9 +38,9 @@
     "Pennsylvania--Clearfield County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-78.7854 41.1373, -78.7293 41.1373, -78.7293 41.1022, -78.7854 41.1022, -78.7854 41.1373))",
-  "dcat_bbox": "ENVELOPE(-78.7854,-78.7293,41.1373,41.1022)",
-  "dcat_centroid": "41.11975,-78.75735",
+  "locn_geometry": "POLYGON((-78.785 41.137, -78.729 41.137, -78.729 41.102, -78.785 41.102, -78.785 41.137))",
+  "dcat_bbox": "ENVELOPE(-78.785,-78.729,41.137,41.102)",
+  "dcat_centroid": "41.1195,-78.757",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/7301\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/7301/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/7301\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/7301/manifest.json\"}",
   "id": "4c86c980-b52e-4097-9597-c98246cb77f7",
   "dct_identifier_sm": [
     "4c86c980-b52e-4097-9597-c98246cb77f7"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:19Z",
   "gbl_mdVersion_s": "Aardvark"
 }

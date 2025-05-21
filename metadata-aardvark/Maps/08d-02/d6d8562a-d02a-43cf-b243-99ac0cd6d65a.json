@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1913"
@@ -38,9 +37,9 @@
     "Pennsylvania--Johnstown",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-78.9553 40.3642, -78.882 40.3642, -78.882 40.2897, -78.9553 40.2897, -78.9553 40.3642))",
-  "dcat_bbox": "ENVELOPE(-78.9553,-78.882,40.3642,40.2897)",
-  "dcat_centroid": "40.32695,-78.91865",
+  "locn_geometry": "POLYGON((-78.955 40.364, -78.882 40.364, -78.882 40.290, -78.955 40.290, -78.955 40.364))",
+  "dcat_bbox": "ENVELOPE(-78.955,-78.882,40.364,40.290)",
+  "dcat_centroid": "40.327,-78.9185",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/11481\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/11481/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/11481\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/11481/manifest.json\"}",
   "id": "d6d8562a-d02a-43cf-b243-99ac0cd6d65a",
   "dct_identifier_sm": [
     "d6d8562a-d02a-43cf-b243-99ac0cd6d65a"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:02:17Z",
   "gbl_mdVersion_s": "Aardvark"
 }

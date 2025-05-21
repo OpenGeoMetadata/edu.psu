@@ -16,9 +16,6 @@
   "gbl_resourceType_sm": [
     "Early maps"
   ],
-  "dcat_keyword_sm": [
-    "sprint-oct2020"
-  ],
   "dct_temporal_sm": [
     "approximately 1737"
   ],
@@ -32,9 +29,9 @@
   "dct_spatial_sm": [
     "New England"
   ],
-  "locn_geometry": "POLYGON((-75.95 46.3167, -64 46.3167, -64 38.4, -75.95 38.4, -75.95 46.3167))",
-  "dcat_bbox": "ENVELOPE(-75.95,-64,46.3167,38.4)",
-  "dcat_centroid": "42.35835,-69.975",
+  "locn_geometry": "POLYGON((-75.950 46.317, -64.000 46.317, -64.000 38.400, -75.950 38.400, -75.950 46.317))",
+  "dcat_bbox": "ENVELOPE(-75.950,-64.000,46.317,38.400)",
+  "dcat_centroid": "42.3585,-69.975",
   "pcdm_memberOf_sm": [
     "64bd8c4c-8e60-4956-b43d-bdc3f93db488"
   ],
@@ -43,11 +40,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/29951\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29951/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/29951\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/29951/manifest.json\"}",
   "id": "fccfe247-47c7-43c9-9cb3-6bfb76c0bd81",
   "dct_identifier_sm": [
     "fccfe247-47c7-43c9-9cb3-6bfb76c0bd81"
   ],
-  "gbl_mdModified_dt": "2023-02-03T21:18:07Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -38,9 +37,9 @@
     "Pennsylvania--Mahanoy City",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-76.1506 40.8179, -76.1261 40.8179, -76.1261 40.8077, -76.1506 40.8077, -76.1506 40.8179))",
-  "dcat_bbox": "ENVELOPE(-76.1506,-76.1261,40.8179,40.8077)",
-  "dcat_centroid": "40.812799999999996,-76.13835",
+  "locn_geometry": "POLYGON((-76.151 40.818, -76.126 40.818, -76.126 40.808, -76.151 40.808, -76.151 40.818))",
+  "dcat_bbox": "ENVELOPE(-76.151,-76.126,40.818,40.808)",
+  "dcat_centroid": "40.813,-76.1385",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/13410\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13410/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/13410\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/13410/manifest.json\"}",
   "id": "8c95cbb1-247d-4b04-a5f8-f0e217de5252",
   "dct_identifier_sm": [
     "8c95cbb1-247d-4b04-a5f8-f0e217de5252"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:55Z",
   "gbl_mdVersion_s": "Aardvark"
 }

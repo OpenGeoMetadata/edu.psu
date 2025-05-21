@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -38,9 +37,9 @@
     "Pennsylvania--Conshohocken",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.3163 40.0875, -75.29 40.0875, -75.29 40.0689, -75.3163 40.0689, -75.3163 40.0875))",
-  "dcat_bbox": "ENVELOPE(-75.3163,-75.29,40.0875,40.0689)",
-  "dcat_centroid": "40.078199999999995,-75.30315",
+  "locn_geometry": "POLYGON((-75.316 40.087, -75.290 40.087, -75.290 40.069, -75.316 40.069, -75.316 40.087))",
+  "dcat_bbox": "ENVELOPE(-75.316,-75.290,40.087,40.069)",
+  "dcat_centroid": "40.078,-75.303",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/6188\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6188/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/6188\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/6188/manifest.json\"}",
   "id": "72b3b553-8f27-4bdb-b83d-c1e545f0ce57",
   "dct_identifier_sm": [
     "72b3b553-8f27-4bdb-b83d-c1e545f0ce57"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:00:49Z",
   "gbl_mdVersion_s": "Aardvark"
 }

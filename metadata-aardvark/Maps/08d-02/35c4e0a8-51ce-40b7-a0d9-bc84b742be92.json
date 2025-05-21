@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1885"
@@ -38,9 +37,9 @@
     "Pennsylvania--Bangor",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-75.2236 40.8792, -75.1939 40.8792, -75.1939 40.8547, -75.2236 40.8547, -75.2236 40.8792))",
-  "dcat_bbox": "ENVELOPE(-75.2236,-75.1939,40.8792,40.8547)",
-  "dcat_centroid": "40.86695,-75.20875000000001",
+  "locn_geometry": "POLYGON((-75.224 40.879, -75.194 40.879, -75.194 40.855, -75.224 40.855, -75.224 40.879))",
+  "dcat_bbox": "ENVELOPE(-75.224,-75.194,40.879,40.855)",
+  "dcat_centroid": "40.867,-75.209",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/3031\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3031/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/3031\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/3031/manifest.json\"}",
   "id": "35c4e0a8-51ce-40b7-a0d9-bc84b742be92",
   "dct_identifier_sm": [
     "35c4e0a8-51ce-40b7-a0d9-bc84b742be92"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:05Z",
   "gbl_mdVersion_s": "Aardvark"
 }

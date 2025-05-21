@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1906"
@@ -39,9 +38,9 @@
     "Pennsylvania--Butler County",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-80.0719 40.7747, -80.0445 40.7747, -80.0445 40.7603, -80.0719 40.7603, -80.0719 40.7747))",
-  "dcat_bbox": "ENVELOPE(-80.0719,-80.0445,40.7747,40.7603)",
-  "dcat_centroid": "40.7675,-80.0582",
+  "locn_geometry": "POLYGON((-80.072 40.775, -80.044 40.775, -80.044 40.760, -80.072 40.760, -80.072 40.775))",
+  "dcat_bbox": "ENVELOPE(-80.072,-80.044,40.775,40.760)",
+  "dcat_centroid": "40.7675,-80.05799999999999",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -54,11 +53,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/8907\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8907/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/8907\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/8907/manifest.json\"}",
   "id": "4e7dddbb-0b9e-4850-a5df-acdeb6e5fefd",
   "dct_identifier_sm": [
     "4e7dddbb-0b9e-4850-a5df-acdeb6e5fefd"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:23Z",
   "gbl_mdVersion_s": "Aardvark"
 }

@@ -22,8 +22,7 @@
   "dcat_keyword_sm": [
     "Fire risk assessment",
     "Real property",
-    "Sanborn Fire Insurance Maps",
-    "2022-creator-sprint"
+    "Sanborn Fire Insurance Maps"
   ],
   "dct_temporal_sm": [
     "1886"
@@ -38,9 +37,9 @@
     "Pennsylvania--Westfield",
     "Pennsylvania"
   ],
-  "locn_geometry": "POLYGON((-77.554 41.9258, -77.5284 41.9258, -77.5284 41.9086, -77.554 41.9086, -77.554 41.9258))",
-  "dcat_bbox": "ENVELOPE(-77.554,-77.5284,41.9258,41.9086)",
-  "dcat_centroid": "41.9172,-77.5412",
+  "locn_geometry": "POLYGON((-77.554 41.926, -77.528 41.926, -77.528 41.909, -77.554 41.909, -77.554 41.926))",
+  "dcat_bbox": "ENVELOPE(-77.554,-77.528,41.926,41.909)",
+  "dcat_centroid": "41.917500000000004,-77.541",
   "dct_relation_sm": [
     "8888-002"
   ],
@@ -53,11 +52,10 @@
   ],
   "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"https://collection1.libraries.psu.edu/cdm/ref/collection/maps1/id/24774\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24774/manifest.json\"}",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://digital.libraries.psu.edu/digital/collection/maps1/id/24774\",\"http://iiif.io/api/presentation#manifest\":\"https://digital.libraries.psu.edu/iiif/info/maps1/24774/manifest.json\"}",
   "id": "cab6b77f-d265-4cd7-96e1-7f53872a99c2",
   "dct_identifier_sm": [
     "cab6b77f-d265-4cd7-96e1-7f53872a99c2"
   ],
-  "gbl_mdModified_dt": "2023-04-14T01:01:04Z",
   "gbl_mdVersion_s": "Aardvark"
 }
